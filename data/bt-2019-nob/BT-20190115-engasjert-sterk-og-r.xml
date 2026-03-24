@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190115-engasjert-sterk-og-r.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kaoKGX/-Engasjert_-sterk-og-raus" frk="23 18 3 162 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-15 11:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Forsker,Haukeland,Bioteknologirådet,Nekrolog,Minneord,Genetikk,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Engasjert, sterk og raus</div>
+<div type="ingress">Torunn Fiskerstrand til minne.</div>
+<div type="author"></div>
+<div type="date">2019-01-15</div>
+<div type="caption"><p>TIL MINNE: Torunn Fiskerstrand døde 1. nyttårsdag av kreft, 53 år gammel. FOTO: Privat</p></div>
+</body></document>

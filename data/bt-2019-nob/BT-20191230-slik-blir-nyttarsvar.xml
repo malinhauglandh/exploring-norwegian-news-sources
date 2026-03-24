@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191230-slik-blir-nyttarsvar.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Op2PKb/Slik-blir-nyttarsvaret" frk="25 0 0 179 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-30 19:53"/>
+
+<attribute name="author" value="Kristin Jansen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir nyttårsværet</div>
+<div type="ingress">Noen vestlendinger vil slite med rakettene.</div>
+<div type="author">Kristin Jansen</div>
+<div type="date">Publisert 30. desember 2019 19:53</div>
+<div type="caption"><p>FEST: Tirsdag er det nyttårsaften. Men finvær til rakettene får vi neppe. Foto: Gidske Stark</p></div>
+</body></document>

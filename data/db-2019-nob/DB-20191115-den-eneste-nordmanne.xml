@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191115-den-eneste-nordmanne.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/sport/den-eneste-nordmannen-som-har-bokset-mot-muhammad-ali/71811782" frk="50 0 0 320 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-15 20:54"/>
+<attribute name="author" value="Bengt Berg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Den eneste nordmannen som har bokset mot Muhammad Ali</div>
+<div type="ingress">Harald Skog er den siste mannlige bokseren som kjempet om VM-tittel i Norge. Det gikk ikke så bra.</div>
+<div type="author">Bengt Berg</div>
+<div type="date">2019-11-15</div>
+<div type="caption"><p>GAMLE KUNSTER: Harald Skog elsker fortsatt boksingen. Lørdag er han tilbake i Ekeberghallen der han kjempet om VM-tittelen. Foto: Lars Eivind Bones</p></div>
+</body></document>

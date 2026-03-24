@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190205-her-ligger-fergene-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/ddKpR1/Her-ligger-fergene-som-skulle-gatt-i-Bjornafjorden" frk="65 0 0 400 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-05 19:53"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Torghatten Nord,Tyrkia,Torghatten,Verft"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her ligger fergene som skulle gått i Bjørnafjorden</div>
+<div type="ingress">Tre er i Tyrkia, mens to er i Telemark. Den norske leverandøren kan ikke si når fergene vil bli klare, ut over at de «er rett rundt hjørnet».</div>
+<div type="author"></div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>FORSINKET: Fergene «Lysøy» (bak) og «Flatøy» ligger fortsatt i Brevik i Telemark, og kjører testturer i Oslofjorden. Dette bildet er tatt i slutten av januar. FOTO: Tomas Østberg-Jacobsen</p></div>
+</body></document>

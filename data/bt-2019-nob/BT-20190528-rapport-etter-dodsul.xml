@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190528-rapport-etter-dodsul.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/MRdQ00/Rapport-etter-dodsulykke-Hoy-asfaltkant-forte-til-at-brannbil-fikk-skrens" frk="43 0 0 307 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-28 12:22"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sogn og Fjordane,Trafikkulykker,E6"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rapport etter dødsulykke: Høy asfaltkant førte til at brannbil fikk skrens</div>
+<div type="ingress">Brannbilen var på utrykning til bråtebrann da dødsulykken skjedde.</div>
+<div type="author"></div>
+<div type="date">2019-05-28</div>
+<div type="caption"><p>DØDSULYKKE: Havarikommisjonen har nå levert rapport om årsaken til ulykken der en brannbil kjørte inn i en personbil. FOTO: ØYVIND NONDAL (arkiv)</p></div>
+</body></document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190627-slik-var-foo-fighter.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Wbaa9r/Slik-var-Foo-Fighters-konserten-pa-Koengen" frk="84 17 9 511 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-27 21:44"/>
+
+<attribute name="author" value="Kjetil K. Ullebø"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik var Foo Fighters-konserten på Koengen</div>
+<div type="ingress">Torsdag inntok Dave Grohl og hans Foo Fighters scenen på Koengen for andre gang. Les alt om konserten her!</div>
+<div type="author">Kjetil K. Ullebø</div>
+<div type="date">2019-06-27</div>
+<div type="caption"><p>22.500 FOO-FANS: Det var bare noen hundre billetter igjen da Foo Fighters inntok Bergen for andre gang torsdag kveld. Rune Sævig</p></div>
+<div type="text">
+<p>Oppdatert i går 23:44</p>
+<p>For elleve år siden inntok Dave Grohl og hans Foo Fighters plenen på Koengen for første gang. «Sjarmerer alle i senk», skrev BTs anmelder Einar «Engelen» Engelstad da. I kveld er de tilbake.</p></div></body></document>

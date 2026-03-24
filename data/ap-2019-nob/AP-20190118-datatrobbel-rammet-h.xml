@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190118-datatrobbel-rammet-h.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/wEok7n/Datatrobbel-rammet-Helse-sorost" frk="274 2 4 1864"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-18 16:18"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="sykehus,helse"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Datatrøbbel rammet Helse sørøst</div>
+<div type="ingress">Datasystemene skal fungere som normalt igjen, melder Oslo universitetssykehus etter at viktige systemer var ute av drift i hele Helse sørøst fredag.</div>
+<div type="author">NTB</div>
+<div type="date">3 timer siden</div>
+<div type="caption"><p>Oslo universitetssykehus ble rammet av dataproblemene. Foto: Torstein Bøe / NTB scanpix</p></div>
+<div type="text">
+<p>Feilen førte til at sykehusene i Helse sørøst måtte gå over til gammeldagse papirjournaler. Anlegget hadde vært nede flere timer fram til 18-tiden fredag kveld da Oslo universitetssykehus meldte at det fungerte som normalt igjen.</p>
+<p>– Sykehuspartner jobber med verifikasjonstester. Brukerne kan oppleve en bedring på tjenestene, men systemene er fortsatt ustabile. Feilretting pågår. Sykehuspartner er fortsatt i beredskap, het det i en melding fra Sykehuspartner fredag kveld.</p></div>
+<div type="title" level="3">Pen og papir</div>
+<div type="text">
+<p>Sykehuspartner, som leverer IKT-tjenester til hele helseområdet, varslet da det var klart at systemet var ute av drift, at de gikk over til rød beredskap. Rød beredskap betyr at alle ressurser er satt inn for å løse situasjonen.</p>
+<p>Da situasjonen oppsto, var uklart hvor mange sykehus i helseregionen som var rammet. Men både Oslo universitetssykehus og Sykehuset i Vestfold meldte at de gikk over til penn og papir for å føre pasientjournalene.</p></div>
+<div type="title" level="3">Grønt og gul</div>
+<div type="text">
+<p>Også administrasjonen i Helse sørøst bekreftet at flere sykehus var rammet tidlig fredag ettermiddag, og alle var gått over til manuelle rutiner.</p>
+<p>Sykehusene reagerte forskjellig på hendelsen. Mens Oslo universitetssykehus valgte grønn beredskap, gikk Sykehuset i Vestfold for gul beredskap. Sykehuspartner varslet rød beredskap.</p>
+<p>– Grønt betyr at vi setter en liten beredskapsledelse. og forsterker IKT-funksjonen. Liv og helse står ikke i fare på grunn av denne situasjonen. Vi har ikke vært i rød beredskap siden terrordagen 22. juli, forklarte informasjonsrådgiver Hedda Holth ved Oslo universitetssykehus helseforetaket til NTB.</p></div></body></document>

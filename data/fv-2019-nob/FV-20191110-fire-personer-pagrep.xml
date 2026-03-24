@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191110-fire-personer-pagrep.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/zGzyM1/Fire-personer-pagrepet-etter-voldshendelse" frk="35 0 0 260 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-10 15:04"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fire personer pågrepet etter voldshendelse</div>
+<div type="ingress">En mann er brakt til sykehus med uavklarte skader etter en voldshendelse i Kristiansand søndag ettermiddag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>De fire pågrepne er brakt til arresten ved Kristiansand politistasjon. FOTO: Elling Svela</p></div>
+</body></document>

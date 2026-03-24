@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190703-historien-om-maradon.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/50olde/Historien-om-Maradona-er-episk_-vakker-og-grusom" frk="25 0 0 159 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-03 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Historien om Maradona er episk, vakker og grusom</div>
+<div type="ingress">Fotballen kan være både pervers og magisk, og blir ikke helt den samme etter denne filmen.</div>
+<div type="author"></div>
+<div type="date">2019-07-03</div>
+<div type="caption"></div>
+</body></document>

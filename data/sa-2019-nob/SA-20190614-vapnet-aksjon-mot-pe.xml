@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190614-vapnet-aksjon-mot-pe.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/Oplwb1/Vapnet-aksjon-mot-personbil-pa-E39" frk="32 27 6 220 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-14 08:44"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="bil,e39,stavanger,politiet,trafikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Væpnet aksjon mot personbil på E39</div>
+<div type="ingress">Politiet rykket torsdag ettermiddag ut bevæpnet på jakt etter en personbil på E39.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Personbilen ble stoppet sør for Ålgård rundt 18 torsdag ettermiddag. Ronny Hjertås</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190811-stavanger-blir-blaer.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/lokalt/i/OExLA/Stavanger-blir-blaere" frk="38 0 0 246 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-11 10:31"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stavanger blir blåere</div>
+<div type="ingress">Velgerne i Stavanger har vendt høyrebølgen ryggen og stemt for forandring. Det får de ikke, de får i stedet en sterkere dose av den gamle medisinen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Fra forhandlingene om makten i Stavanger. Jarle Aasland</p></div>
+</body></document>

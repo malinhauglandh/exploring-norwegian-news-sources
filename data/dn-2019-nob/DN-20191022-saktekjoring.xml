@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191022-saktekjoring.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/saktekjoring/2-1-692734" frk="21 32 4 125 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-22 17:46"/>
+<attribute name="author" value="Leder DN"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Saktekjøring</div>
+<div type="ingress">Det nye byrådet i Oslo vil senke fartsgrensen for biler som kjører i byen til 20 og 30 km/t.</div>
+<div type="author">Leder DN</div>
+<div type="date">2019-10-22 17:46</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-da-arkitektparet-ove.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/P9qq05/da-arkitektparet-overtok-hagen-for-26-aar-siden-var-den-overgrodd-naa" frk="32 10 2 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Da arkitektparet overtok hagen for 26 år siden, var den overgrodd. Nå er det en oase.</div>
+<div type="ingress">Det beste av alt: Drømmehagen krever lite jobb, og vekstene kommer tilbake år etter år.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

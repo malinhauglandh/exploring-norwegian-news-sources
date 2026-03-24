@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191223-slik-kom-vi-i-julest.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/awdJr4/Slik-kom-vi-i-julestemning-for-Pepperkakebyen" frk="16 0 0 127 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-23 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik kom vi i julestemning før Pepperkakebyen</div>
+<div type="ingress">Strandgaten har tradisjonelt vært julegaten i Bergen sentrum.</div>
+<div type="author"></div>
+<div type="date">2019-12-23</div>
+<div type="caption"></div>
+</body></document>

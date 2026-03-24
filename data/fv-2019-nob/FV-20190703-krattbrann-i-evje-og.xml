@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190703-krattbrann-i-evje-og.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/8mxARG/Krattbrann-i-Evje-og-Hornnes-er-slukket" frk="37 0 0 254 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-03 11:31"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Krattbrann i Evje og Hornnes er slukket</div>
+<div type="ingress">Brannvesenet har nå fått slukket krattbrannen på Skarefjell nordvest for Evje.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Brannmannskapene håper å få kontroll på brannen snart. Men det blåser kraftig i området. FOTO: Kjell Rune Strømstad</p></div>
+</body></document>

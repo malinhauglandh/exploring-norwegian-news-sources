@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190321-fortsatt-produksjons.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/fortsatt-produksjonsproblemer-i-hydro/2-1-571109" frk="171 0 0 1146"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-21 14:09"/>
+<attribute name="author" value="Christian Bjerknes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fortsatt produksjonsproblemer i Hydro</div>
+<div type="ingress">Hydro kjemper videre med å få løst problemene etter cyberangrepet, men fortsatt går deler av produksjonen på halv maskin. Hydro kjemper videre med å få løst problemene etter cyberangrepet, men fortsatt går deler av produksjonen på halv maskin.</div>
+<div type="author">Christian Bjerknes</div>
+<div type="date">2019-03-21 14:09</div>
+<div type="caption">Produksjonen av valsede produkter går nå tilnærmet som normalt, mens produksjonen av ekstruderte produkter kjøres på halv maskin. Her fra Hydro-fabrikken i Holmestrand som produserer valsede produkter. (Foto: GORM K GAARE) </div>
+<div type="text">
+<p>Hydro jobber fortsatt med å gjenopprette sine it-systemer etter det lammende cyberangrepet som rammet industrigiganten natt til tirsdag.</p>
+<p>– Vi jobber med å gjenopprette systemene fra de sikkerhetskopiene vi har, sier informasjonsdirektør i Hydro, Halvor Molland, til DN.</p>
+<p>Flere Hydro-fabrikker som produserer valsede og ekstruderte produkter har midlertidig stoppet produksjonen etter cyberangrepet. I går sa Hydro at de håpet å få i gang produksjonen igjen i løpet av onsdagen.</p>
+<p>– Vi begynte å tilbakeføre noen systemer i går, og er i ferd med sette opp systemene igjen. Men dette er noe vi vil gjøre gradvis, sier Molland.</p></div></body></document>

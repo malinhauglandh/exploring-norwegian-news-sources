@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190109-tradlos-lading-av-el.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/digital/Tradlos-lading-av-elbil-er-pa-full-fart-til-Norge-12248b.html" frk="37 0 0 216 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-09 11:19"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="digital"/>
+<attribute name="class2" value="bil,teknologimagasinet,elbil,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Trådløs lading av elbil er på full fart til Norge</div>
+<div type="ingress">Er det mulig for en elbil å klare seg helt uten ladekabler?</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Lading av elbil byr på problemer, men trådløs lading kan fjerne noen av utfordringene.</p></div>
+</body></document>

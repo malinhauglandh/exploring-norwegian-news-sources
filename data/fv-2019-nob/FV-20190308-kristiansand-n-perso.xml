@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190308-kristiansand-n-perso.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/0EM9R0/Kristiansand-Slagsmal-pa-rutebilstasjonen" frk="35 0 0 271 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-08 10:00"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kristiansand: Én person knivstukket på rutebilstasjonen</div>
+<div type="ingress">Det har vært et slagsmål på rutebilstasjonen i Kristiansand fredag kveld. En person skal være stukket med kniv.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Utrykningskjøretøyer på plass på rutebilstasjonen i Kristiansand FOTO: Kjetil Reite</p></div>
+</body></document>

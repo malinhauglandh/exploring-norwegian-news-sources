@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191023-test-av-treningsform.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-treningsformer-slik-forbrenner-du-mest-pa-30-minutter/71695047" frk="54 10 4 369 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-10-23 19:57"/>
+<attribute name="author" value="Kristin Roset, Tekst Og Foto"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av treningsformer: Slik forbrenner du mest på 30 minutter</div>
+<div type="ingress">Har du bare en halvtime til rådighet? Vi har testet hvilken treningsform som forbrenner flest kalorier på en mosjonist.</div>
+<div type="author">Kristin Roset, tekst og foto</div>
+<div type="date">2019-10-23</div>
+<div type="caption"><p>FORBRENNING: Jens Ole Sætha løp, syklet og rodde i 30 minutter, mens fysioterapeuten kontrollerte pulsen underveis, og målte belastning og intensitet ved Borgs skala.</p></div>
+</body></document>

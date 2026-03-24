@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013-fergebrannen-vil-kos.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mzv8W/Fergebrannen-vil-koste-minst-20-millioner" frk="29 19 4 201 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fergebrannen vil koste minst 20 millioner</div>
+<div type="ingress">Det er store skader på MF «Ytterøyningen» etter brannen i batterirommet. Skadene kan koste over 20 millioner kroner å reparere, melder NRK.</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

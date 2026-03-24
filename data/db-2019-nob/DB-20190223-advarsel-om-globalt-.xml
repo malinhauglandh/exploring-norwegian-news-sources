@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190223-advarsel-om-globalt-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/advarsel-om-globalt-internettangrep/70800484" frk="279 2 4 1880"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-23 00:39"/>
+<attribute name="author" value="NTB I"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="internett,hacking,icann,internettangrep,nyheter,utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Advarsel om globalt internettangrep</div>
+<div type="ingress">Den internasjonale organisasjonen som administrerer internett, har hatt krisemøte og kunngjør at det pågår et betydelig angrep mot global internettstruktur.</div>
+<div type="author">NTB I</div>
+<div type="date">2019-02-23</div>
+<div type="caption"><p>ANGREP: Det pågår et betydelig angrep mot global internettstruktur, advarer den internasjonale organisasjonen som administrerer internett. Foto: THE CANADIAN PRESS/Jonathan Hayward</p></div>
+<div type="text">
+<p>ICANN (internett Corporation for Assigned Names and Numbers) har blant annet ansvar for global tildeling av domener og internettadresser. Den slo etter krisemøtet fredag fast at det eksisterer en betydelig risiko rettet mot sentrale deler av infrastrukturen til internett. Dette kan true den globale nettrafikken.</p>
+<p>– De går etter internettinfrastrukturen. Det har vært målrettede angrep tidligere, men ikke noe som dette, sier sjefsteknolog i ICANN David Conrad.</p></div>
+<div type="title" level="3">Bekymringen har økt</div>
+<div type="text">
+<p>Angrepene som er oppdaget, går så langt tilbake som 2017, men bekymringene hos sikkerhetsfolkene i ICANN har økt de siste ukene, noe som førte til krisemøtet fredag.</p>
+<p>Den ondsinnede aktiviteten er rettet mot Domain Name System eller DNS, som formidler trafikk til angitte nettdestinasjoner.</p>
+<p>ICANN-ekspertene sier angrepene potensielt kan snappe opp data på veien, sniksende trafikken i annen retning eller gjøre angriperne i stand til å etterligne nettsider, rett og slett «ta over» domener og late som det er de som driver siden.</p>
+<p>– Det finnes ikke noe verktøy å gripe dette an med, sier Conrad.</p></div>
+<div type="title" level="3">Potensielt mye skade</div>
+<div type="text">
+<p>Amerikanske myndigheter gikk i januar ut med en lignende advarsel der de sammenlignet angrepene med at noen går til postkontoret, lyver om de bor på adressen din og henter posten din, sjekker postkassen din, og så selektivt legger post i postkassen din.</p>
+<p>– Det kan forårsake mye skade for deg (og avsendere av post), alt avhengig av hva sendinger inneholder, understrekes det i advarselen.</p></div></body></document>

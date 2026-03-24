@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190520-pa-tokt-med-krigaran.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/g74yBL/Pa-tokt-med-krigarane-som-ingen-ser" frk="42 10 3 294 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-20 15:15"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="KNM Helge Ingstad,Marsteinen,Roald Amundsen,Våpen,Krig,Nordsjøen,Dykking,Utsira,KNM «Helge Ingstad»"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">På tokt med krigarane som ingen ser</div>
+<div type="ingress">Forsvaret skal snart kjøpe tidenes dyraste norske fartøy. BT var med på ubåtkrig og torpedoskyting på 150 meters djup.</div>
+<div type="author"></div>
+<div type="date">2019-05-20</div>
+<div type="caption"><p>KONSENTRASJON: Nestkommanderande Odd Martin Hals overvakar neddykkinga med KNM «Utsira». FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

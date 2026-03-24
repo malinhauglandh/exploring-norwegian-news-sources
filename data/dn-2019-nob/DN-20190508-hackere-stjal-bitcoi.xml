@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190508-hackere-stjal-bitcoi.xml"/>
+<attribute name="url" value="http://www.dn.no/utenriks/kryptovaluta/blokkjedeteknologi/binance/hackere-stjal-bitcoin-for-350-millioner/2-1-600148" frk="268 11 21 1823"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-08 14:11"/>
+<attribute name="author" value="Morten Iversen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="utenriks,kryptovaluta,blokkjedeteknologi,binance"/>
+<attribute name="class2" value="Nyheter,Utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hackere stjal bitcoin for 350 millioner</div>
+<div type="ingress">Hackere har klart å bryte seg inn i en av verdens største kryptovalutabørser og komme seg unna med over 7000 bitcoin. Den kalde «kryptovinteren» kan være over og nok et rally er underveis. Hackere har klart å bryte seg inn i en av verdens største kryptovalutabørser og komme seg unna med over 7000 bitcoin. Den kalde «kryptovinteren» kan være over og nok et rally er underveis.</div>
+<div type="author">Morten Iversen</div>
+<div type="date">2019-05-08 14:11</div>
+<div type="caption">Toppsjef for kryptovalutabørsen Binance, Changpeng Zhao, lover at kunder som ble frastjålet kryptovaluta verdt over 350 millioner kroner i bitcoin ikke vil bli skadelidende. (Foto: Akio Kon/Bloomberg) </div>
+<div type="text">
+<p>Blokkjedeteknologien, som danner grunnlaget for blant annet bitcoin, er ment å gjøre transaksjoner tryggere. Det siste av en rekke angrep mot digitale børser, hvor kryptovalutaer omsettes, viser at de digitale børsene er svært sårbare for rene hackerangrep.</p>
+<p>Tirsdag ettermiddag ble det oppdaget et stort sikkerhetsbrudd hos kryptovalutabørsen Binance. Hackere hadde stjålet brukerinformasjon, kildekode og spesielle datakoder som eieren av kryptovalutaen skal kunne bekrefte fra sin egen smarttelefon før uttak.</p></div>
+<div type="title" level="3">Skadet – ikke ødelagt</div>
+<div type="text">
+<p>Til sammen ble det overført 7074 bitcoin i en transaksjon – tilsvarende en verdi på 41,4 millioner dollar før alarmen gikk. Alle innskudd og uttak ble umiddelbart sperret, men det var for sent å tilbakeføre stjålne bitcoin til tross for at mottaksadressene er kjent.</p>
+<p>Angrepet var godt planlagt.</p>
+<p>– Hackerne hadde tålmodighet til å vente. De utførte koordinerte handlinger gjennom flere tilsynelatende uavhengige kontoer. Dette skjedde på det mest hensiktsmessige tidspunkt. Transaksjonene ble gjort på en måte som gjorde at de kunne passere våre sikkerhetskontroller, innrømmer kryptobørsens konsernsjef og grunnlegger, Changpeng Zhao, i en uttalelse.</p></div></body></document>

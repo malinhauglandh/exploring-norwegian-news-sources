@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190612---jeg-vil-aldri-mer-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GG6d04/-Jeg-vil-aldri-mer-drikke-dette-vannet" frk="45 7 2 284 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-12 20:59"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Askøy kommune,Askøy,Kleppestø,Vann og avløp,Sykdom,Epidemien på Askøy"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Jeg vil aldri mer drikke dette vannet</div>
+<div type="ingress">Så fort Mona Paulsen (49) kom litt til hektene, ringte hun for å bestille egen vanndispenser på Askøy.</div>
+<div type="author"></div>
+<div type="date">2019-06-12</div>
+<div type="caption"><p>SLITNE: Mona Paulsen og datteren Mia Paulsen ved vanndispenseren som nå står ved kjøkkenbordet. FOTO: Geir Martin Strande</p></div>
+</body></document>

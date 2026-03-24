@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190415-statistikk-er-vanske.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/0np156/Statistikk-er-vanskelig_-ogsa-for-forskere--Atle-Fretheim" frk="614 10 41 3787"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-04-15 17:15"/>
+<attribute name="author" value="Atle Fretheim"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="uviten,debatt,viten,medisin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Statistikk er vanskelig, også for forskere | Atle Fretheim</div>
+<div type="ingress">Statistiske tester er en av bærebjelkene i medisinsk forskning. Det er et problem.</div>
+<div type="author">Atle Fretheim</div>
+<div type="date">15. april 2019 19:15</div>
+<div type="caption"><p>FOTO: Shutterstock/NTB scanpix Mange forskere forstår ikke de statistiske tester som de selv benytter, og nå har det skjedd igjen, skriver Atle Fretheim.</p> <p>Atle Fretheim er fagdirektør i Folkehelseinstituttet og Uviten-spaltist i Aftenposten.</p></div>
+<div type="text">
+<p>I Uviten skriver Nina Kristiansen, Atle Fretheim, Marit Simonsen og Simen Gaure hver uke om det de mener er dårlig forskning, flau formidling, kunnskapsløse politiske forslag og ren fusk.</p>
+<p>Som skribentkollega Simen Gaure også var inne på nylig: Mange forskere forstår ikke de statistiske tester som de selv benytter. Nå er det skjedd igjen, til og med i et av de mest prestisjetunge tidsskriftene: Forskerne har misforstått en av de mest grunnleggende statistiske metodene. Det preger måten de rapporterer resultatene på.</p>
+<p>Privat</p></div>
+<div type="title" level="3"> En effekt, eller en tilfeldighet?</div>
+<div type="text">
+<p>Forskning dreier seg ofte om å finne ut om noe virker bedre enn noe annet.</p>
+<p>Tenk deg at 10 syke personer skal prøve ut et nytt legemiddel. De deles i to grupper. Den ene halvparten får medikamentet, den andre ikke. Av dem som fikk legemiddelet ble 4 av 5 friske, men i den andre gruppen var det kun 2 av 5 som ble friske. Det var altså dobbelt så mange som ble friske blant dem som fikk medisin.</p>
+<p>Skyldes forskjellen medikamentet, eller kan den like gjerne skyldes tilfeldigheter?</p></div>
+<div type="title" level="3"> 100 år gammel metode</div>
+<div type="text">
+<p>I nesten 100 år har forskere benyttet en statistisk metode for å forsøke besvare dette spørsmålet. Metoden gir svar på hvor sannsynlig det er å få tilsvarende resultat gitt at behandlingen ikke virker.</p>
+<p>Med andre ord: Om ingen av pasientene hadde fått behandlingen, hvor sannsynlig er det at man likevel ville endt opp med en så stor forskjell mellom gruppene? Regner man på det, finner man at sannsynligheten for det (p-verdien) er ganske høy, omkring 20 prosent. En så høy p-verdi forteller oss at tilfeldighetene godt kan ha spilt oss et puss – det er ganske sannsynlig at forskjellen ikke hadde noe med legemiddelet å gjøre.</p>
+<p>I eksempelet over inngikk bare 10 personer. Med så få deltagere blir sammenligningen sårbar for tilfeldige utslag. Hadde de vært ti ganger så mange, og forskjellen hadde vært den samme (40 friske mot 20 friske), kunne vi i ha sett bort fra tilfeldigheter som forklaring (p-verdien ville vært 0,005 prosent). Da ville vi sagt at forskjellen antagelig skyldes legemiddelet.</p></div>
+<div type="title" level="3"> Magisk grense på 5 prosent</div>
+<div type="text">
+<p>Av til dels uklare grunner, har 5 prosent blitt en slags magisk grense for p-verdier i medisinsk forskning: For å kunne konkludere at en behandling virker må p-verdien være under 5 prosent.</p>
+<p>Dette gir både merkelige og uheldige utslag. Ett ferskt eksempel er altså rapporteringen, av en stor studie i tidsskriftet JAMA, utført av en gruppe garvede forskere. De sammenlignet to forskjellige behandlingsmetoder alvorlig syke pasienter (blodforgiftning). Det var 212 pasienter i hver gruppe. Blant dem som fikk standardbehandling døde 92 (43 prosent), mens det var 74 (35 prosent) som døde blant dem som fikk den nye behandlingen.</p>
+<p>Dette er en betydelig forskjell, men ettersom p-verdien var så vidt over 5 prosent, konkluderte forskerne at den nye behandlingen var virkningsløs. Dersom én eller to til hadde overlevd ville p-verdien ha havnet like under 5 prosent. I så fall ville forskerne ha konkludert motsatt: Den nye behandlingen er effektiv!</p></div>
+<div type="title" level="3">Opprop fra forskerne</div>
+<div type="text">
+<p>At den mer eller mindre tilfeldig valgte 5-prosentgrensen brukes for å avgjøre om noe virker eller ei, er ganske meningsløst – og en kilde til misforståelser.</p>
+<p>Nå har mange hundre akademikere sett seg lei på dette og skrevet under et opprop om at denne praksisen bør skrinlegges, en gang for alle.</p>
+<p>Det høres ut som et godt forslag.</p></div></body></document>

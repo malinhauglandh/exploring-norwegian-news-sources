@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190414-reddet-hest-opp-fra-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/AdbLwM/Reddet-hest-opp-fra-myr" frk="39 0 0 235 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-04-14 18:59"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Reddet hest opp fra myr</div>
+<div type="ingress">Brannvesenet rykket mannsterke ut til Løbbåsen i Arendal søndag ettermiddag. Der hadde en hest satt seg fast i ei myr.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Etter en times arbeid ble hesten reddet opp fra myra. FOTO: Baard Larsen</p></div>
+</body></document>

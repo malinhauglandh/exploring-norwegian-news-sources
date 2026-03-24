@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190407-her-er-start-borsen-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/Her-er-Start-borsen-etter-arets-forste-seier-272029b.html" frk="21 0 0 153 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-04-07 15:38"/>
+<attribute name="author" value="Pål Wollebæk Jørgensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="ik start"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er Start-børsen etter årets første seier</div>
+<div type="ingress">Islending gjorde sin beste kamp i Start-drakt.</div>
+<div type="author">Pål Wollebæk Jørgensen</div>
+<div type="date">07.apr.2019 17:38</div>
+<div type="caption"><p>FOTO: FREDRIK VARFJELL / BILDBYRÅN NORWAY</p></div>
+</body></document>

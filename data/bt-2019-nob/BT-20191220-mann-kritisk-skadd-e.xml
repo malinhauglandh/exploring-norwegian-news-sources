@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191220-mann-kritisk-skadd-e.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/MR2j3J/mann-kritisk-skadd-etter-aa-ha-blitt-hentet-opp-av-sjoeen-i-oslo" frk="75 0 0 411 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-20 20:46"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann kritisk skadd etter å ha blitt hentet opp av sjøen i Oslo</div>
+<div type="ingress">En mann er kritisk skadd etter å ha blitt hentet opp av sjøen ved Tjuvholmen i Oslo. Politiet meldte først at mannen var død.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 20. desember 2019 20:46</div>
+<div type="caption"><p>Nødetatene ved Tjuvholmen i Oslo der de plukket opp en person som lå i sjøen. Vedkommende ble først erklært død, men senere ble det opplyst at han er kritisk skadd. Foto: Foto: Heiko Junge / NTB scanpix</p></div>
+</body></document>

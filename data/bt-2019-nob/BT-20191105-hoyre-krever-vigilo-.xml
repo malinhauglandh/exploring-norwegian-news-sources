@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191105-hoyre-krever-vigilo-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/VbXe84/Hoyre-krever-Vigilo-horing" frk="26 0 0 184 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-05 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Høyre krever Vigilo-høring</div>
+<div type="ingress">Vil ha all informasjon på bordet om hva som skjedde i forbindelse med sikkerhetsbruddet for skoleprogrammet og hvordan det ble fulgt opp.</div>
+<div type="author"></div>
+<div type="date">2019-11-05</div>
+<div type="caption"></div>
+</body></document>

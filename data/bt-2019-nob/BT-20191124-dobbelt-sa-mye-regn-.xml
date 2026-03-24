@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191124-dobbelt-sa-mye-regn-.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/3JK4lL/dobbelt-saa-mye-regn-i-oslo-som-i-bergen-hittil-i-november" frk="65 5 2 352 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-24 22:52"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dobbelt så mye regn i Oslo som i Bergen hittil i november</div>
+<div type="ingress">Bergen får vanligvis over tre ganger så mye regn som Oslo i november, men i år har Oslo fått dobbelt så mye regn som vestlandsbyen.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 24. november 2019 22:52</div>
+<div type="caption"><p>Det har regnet mye i Oslo denne måneden, men i Bergen kan det bli den tørreste novembermåneden på minst 36 år. Foto: Mariam Butt / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190918-stig-var-utrolig-flo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/VbkQyW/Stig-var-utrolig-flott_-omtenksom-og-raus" frk="42 24 6 248 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-18 18:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Aker Solutions,Tur,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Stig var utrolig flott, omtenksom og raus</div>
+<div type="ingress">Stig Birkeland (49) døde i en tragisk ulykke på tur med kolleger.</div>
+<div type="author"></div>
+<div type="date">2019-09-18</div>
+<div type="caption"><p>OMKOM I ULYKKE: Stig Birkeland, 49 år gammel, døde i en ulykke på tur i Flåmsdalen med kolleger 31. august. FOTO: privat</p></div>
+</body></document>

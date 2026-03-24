@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20191108-adressano-beklager-p.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/trondelag/2019/11/08/Adressa.no-beklager-push-glipp-20348334.ece" frk="96 3 2 618 %%"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-11-08 11:08"/>
+<attribute name="author" value="Camilla Kilnes"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter,trondelag"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Adressa.no beklager push-glipp</div>
+<div type="ingress">Nei, vi mente ikke å sende ut pushvarsel om fuglefjell i fare.</div>
+<div type="author">Camilla Kilnes</div>
+<div type="date">08.11.2019 11:08</div>
+<div type="caption"><p>I forbindelse med testing av pushvarsel så ble det sendt ut en pushmelding til alle appene i Polaris-konsernet.</p></div>
+<div type="text">
+<p>Like før klokka 11 fredag formiddag sendte Adresseavisen ut en pushmelding med tittelen«Kan vere spikeren i kista for fuglefjellet Runde».</p>
+<p>På grunn av en teknisk feil ble en melding fra Vestlandsnytts app sendt til alle appene i Polaris Media-konsernet.</p>
+<p>Vi beklager dette. Feilen er nå rettet.</p>
+<p>P.S. Dersom du vil lese om fuglefjellet, så finner du saken her (for abonnenter av Vestlandsnytt).</p></div></body></document>

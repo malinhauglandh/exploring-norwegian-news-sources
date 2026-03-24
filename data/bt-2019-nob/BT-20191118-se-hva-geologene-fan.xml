@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191118-se-hva-geologene-fan.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/mRxk20/Dette-funnet-tyder-pa-at-Bergen-har-hatt-likt-klima-som-Finnmark" frk="33 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-18 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se hva geologene fant under gravearbeidet på Minde</div>
+<div type="ingress">Da Bybanen begynte å grave ut den nye tunnelen til Fyllingsdalen, hev geologiprofessorene seg rundt. Nå har de fått svaret på prøvene de tok.</div>
+<div type="author"></div>
+<div type="date">2019-11-18</div>
+<div type="caption"></div>
+</body></document>

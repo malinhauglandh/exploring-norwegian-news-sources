@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190315-hoyre-har-trobbel-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/ddxboz/Hoyre-har-trobbel-i-storbyene" frk="59 11 4 351 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-15 19:21"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kommunevalg 2019,Erna Solberg"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Høyre har trøbbel i storbyene</div>
+<div type="ingress">I 2015 mistet de makten i Bergen, Oslo og Tromsø. Et halvt år før valget sliter høyresiden med å vinne storbyene tilbake.</div>
+<div type="author"></div>
+<div type="date">2019-03-15</div>
+<div type="caption"><p>TØFF KAMP: Erna Solberg får tøff motstand i storbyene. Akkurat nå er Bergen den byen de har best mulighet til å vinne tilbake, sier BTs valgekspert. FOTO: Klemetsen Fred Ivar Utsi</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190104-for-fa-bergensere-og.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/wEoPA5/For-fa-bergensere-og-for-mange-nybygg-far-skylden-for-fall-i-boligprisene" frk="45 29 8 275 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-04 06:01"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eiendom,Boliglånsrente,Boligmarkedet,Boligsalg,Eiendom Norge,Boligpriser,Befolkningsvekst,Bolig,Boligprisstatistikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">For få bergensere og mange nybygg får skylden for svak utvikling i boligprisene</div>
+<div type="ingress">Prisene for boliger i Bergen falt med 0,4 prosent i desember.</div>
+<div type="author"></div>
+<div type="date">2019-01-04</div>
+<div type="caption"><p>BOLIGÅRET 2018: Prisene i Bergen gikk ned i desember, men opp 1,9 prosent for året som helhet. FOTO: Eirik Brekke</p></div>
+</body></document>

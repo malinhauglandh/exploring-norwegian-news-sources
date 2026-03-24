@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190217-agent-fra-michelin-g.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/ddKX3j/Agenter-fra-Michelin-guiden-har-besokt-Bergen" frk="44 0 0 302 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-17 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Restaurant,Mat og drikke,Kjøkken,Restaurantanmeldelse,Michelin,Råvarer,Guide,Maaemo"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Agent fra Michelin-guiden har besøkt Bergen</div>
+<div type="ingress">BTs matanmelder mener at ett spisested i Bergen fortjener stjerne.</div>
+<div type="author"></div>
+<div type="date">2019-02-17</div>
+<div type="caption"><p>TESTET: Lysverket fikk besøk av en engelsktalende person som spiste alene i høst. Det viste seg at mannen var inspektør utsendt fra Michelin-guiden. FOTO: Paul S. Amundsen</p></div>
+</body></document>

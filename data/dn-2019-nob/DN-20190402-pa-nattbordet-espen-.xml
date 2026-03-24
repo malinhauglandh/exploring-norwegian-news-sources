@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190402-pa-nattbordet-espen-.xml"/>
+<attribute name="url" value="http://www.dn.no/pa-nattbordet/espen-sirnes/nattbordet/litteratur/pa-nattbordet-espen-sirnes/2-1-578891" frk="34 0 0 229 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-02 18:03"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="pa-nattbordet,espen-sirnes,nattbordet,litteratur"/>
+<attribute name="class2" value="Etterbørs,På nattbordet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">På nattbordet: Espen Sirnes</div>
+<div type="ingress">En enkelt bok på pensum førte Espen Sirnes til klassikere. En enkelt bok på pensum førte Espen Sirnes til klassikere.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-04-02 18:03</div>
+<div type="caption">Espen Sirnes er førsteamanuensis ved UiT. (Foto: Marius Fiskum) </div>
+<div type="text">
+</div></body></document>

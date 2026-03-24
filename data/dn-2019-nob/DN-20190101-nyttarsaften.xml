@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190101-nyttarsaften.xml"/>
+<attribute name="url" value="http://www.dn.no/nyttarsaften/2-1-509393" frk="24 20 4 199 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-01 18:53"/>
+<attribute name="author" value="Cicilie Andersen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nyttårsaften</div>
+<div type="ingress"></div>
+<div type="author">Cicilie Andersen</div>
+<div type="date">2019-01-01 18:53</div>
+<div type="caption">Velsignet nytt år! Innbyggerne i Rio feiret inngangen til 2019 under Kristus-statuen, landemerket som troner over byen. (Foto: Fernando Maia/AFP/NTB Scanpix) </div>
+<div type="text">
+<p>Forsiden</p></div></body></document>

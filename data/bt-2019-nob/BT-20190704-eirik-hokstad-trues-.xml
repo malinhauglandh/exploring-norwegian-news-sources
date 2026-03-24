@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190704-eirik-hokstad-trues-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/xPVz9n/Eirik-Hokstad-trues-med-personlig-konkurs" frk="36 0 0 252 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-04 21:49"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Sorbonne,Eirik Bysheim Hokstad,Skatteetaten,Pareto Bank,Konkurs"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Eirik Hokstad trues med personlig konkurs</div>
+<div type="ingress">I tillegg henger et krav om oppløsning over hovedselskapet Dovre Kapital.</div>
+<div type="author"></div>
+<div type="date">2019-07-04</div>
+<div type="caption"><p>GJELD: Eirik Bysheim Hokstad skylder blant annet penger til Skatteetaten og en rekke banker. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

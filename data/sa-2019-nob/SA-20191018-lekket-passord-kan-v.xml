@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191018-lekket-passord-kan-v.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/okonomi/i/GG8LMx/lekket-passord-kan-vre-arsak-til-hacking-av-dagbladet" frk="297 7 14 1931"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-18 16:47:39"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Lekket passord kan være årsak til hacking av Dagbladet</div>
+<div type="ingress">Politiet etterforsker om et lekket passord er årsaken til det mulige hackerangrepet, som førte til at Dagbladet og fire andre nettsted ble stengt torsdag.</div>
+<div type="author">NTB</div>
+<div type="date">2019-10-18 16:47:39</div>
+<div type="caption"><p>Politiet etterforsker et mulig hackerangrep mot Dagbladet og fire andre nettsider. Rune Skjold, seksjonssjef for finans- og spesialetterforskning i Oslo politidistrikt, sier politiet jobber med å sikre tekniske spor. Her avbildet ved en annen anledning. Foto: Fredrik Hagen / NTB scanpix</p></div>
+<div type="text">
+<p>– Jeg kan bekrefte at lekket passord er en av flere teorier vi i politiet jobber etter, sier seksjonssjef for finans- og spesialetterforskning i Oslo politidistrikt Rune Skjold til Adresseavisen.</p>
+<p>Flere Dagbladet-artikler publisert torsdag ettermiddag, ble endret, og det ble lagt inn grove, falske utsagn.</p>
+<p>En publisert sak fikk tittelen «Erna Solberg sier det er greit» og ingressen «Pedofili er greit så lenge man ikke får sæd på barnet».</p>
+<p>Nettsidene til Dagbladet, Se og Hør, Din Side, KK og SOL ble tatt ned torsdag klokka 17.50 som følge av hendelsen. Rundt klokka 21.15 torsdag kveld var alle nettstedene oppe igjen.</p>
+<p>Adressa avslørte i forrige uke at passordene til over 2.700 ansatte fra VG, Aftenposten, Dagbladet, NRK og Adresseavisen er lekket på nettet.</p>
+<p>Politiet har etter angrepet jobbet med å sikre tekniske spor, men vil ikke gå i detaljer på hvordan jobber videre med saken fremover.</p>
+<p>Dagbladet opplyser at de har overlevert en IP-adresse til politiet. Skjold ønsker imidlertid ikke å kommentere dette, eller om andre IP-adresser har blitt overlevert.</p>
+<p>– Vi mistenkte at systemene våre ble hacket, og leverte inn en politianmeldelse torsdag kveld. Der har vi også levert en IP-adresse, som vi har identifisert som problemet, sier sjefredaktør Alexandra Beverfjord i Dagbladet.</p>
+<p>Statssekretær Rune Alstadsæter ved Statsministerens kontor sier til Medier24 at de har vært i kontakt med Dagbladet om saken.</p></div></body></document>

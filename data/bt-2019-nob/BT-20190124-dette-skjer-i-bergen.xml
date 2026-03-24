@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190124-dette-skjer-i-bergen.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/7lagP4/Dette-skjer-i-Bergen-i-helgen" frk="48 0 0 312 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-24 20:48"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Litteratur,Grieghallen,Festival,Scenekunst,Utstilling,Kino,Bergen Filharmoniske Orkester,Mozart,Konsert,Film,Musikk,Strømmetjenester,Kunst,Teater,Bergen,Edvard Grieg"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette skjer i Bergen i helgen</div>
+<div type="ingress">Dra på filmfest, teater eller opplev Mozart på en helt ny måte. Her er ukens fem fine!</div>
+<div type="author"></div>
+<div type="date">2019-01-24</div>
+<div type="caption"><p>HELGEN: I Grieghallen kan du for eksempel se filmen «Amadeus», med livemusikk fra Bergen Filharmoniske Orkester. FOTO: ARTHAUS /Claudio Papapietro /Ørjan Deisz /Peter Wächtler</p></div>
+</body></document>

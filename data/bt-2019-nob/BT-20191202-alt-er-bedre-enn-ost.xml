@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-alt-er-bedre-enn-ost.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LAQn5Q/Alt-er-bedre-enn-ostlandsk" frk="26 6 1 148 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 06:32"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Alt er bedre enn østlandsk</div>
+<div type="ingress">Dag 2: Bergensdialekten</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 2. desember 2019 06:32</div>
+<div type="caption"><p>Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

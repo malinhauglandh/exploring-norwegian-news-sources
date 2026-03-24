@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190109-pst-tror-statlig-akt.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/vmorO4/PST-tror-statlig-aktor-kan-ha-statt-bak-cyberangrep-mot-fylkesmenn" frk="723 2 10 4526"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-09 13:53"/>
+<attribute name="author" value="Eirik Husøy"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="nasjonal sikkerhetsmyndighet,datakriminalitet,hacking,pst"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">PST tror statlig aktør kan ha stått bak cyberangrep mot fylkesmenn</div>
+<div type="ingress">Sikkerhetsmyndighetene jobber fremdeles med å kartlegge omfanget av dataangrepet.</div>
+<div type="author">Eirik Husøy</div>
+<div type="date">3 timer siden</div>
+<div type="caption"><p>FOTO: Heiko Junge / NTB scanpix Norges nasjonale cybersenter – NorCERT sitt operasjonssenter i Oslo.</p> <p>Håkon Bergsjø er seksjonsleder for Norcert. Det er den operative delen av Nasjonal sikkerhetsmyndighet (NSM) som håndterer alvorlige dataangrep mot samfunnskritisk infrastruktur og informasjon. Bildet er tatt i 2017 da de jobbet med å håndtere løsepengeviruset «WannaCry»</p></div>
+<div type="text">
+<p>I romjulen ble det klart at Politiet sikkerhetstjeneste (PST) har ansvaret for etterforskningen av flere angrep mot fylkesmenn i Norge.</p>
+<p>Av hensyn til etterforskningen kan PST fortsatt ikke si så mye. Blant annet handler det om at aktørene som står bak, har interesse av å vite hvor de ligger an i etterforskningen.</p>
+<p>– Vi kan egentlig ikke si så mye på nåværende tidspunkt. Av erfaring kan en slik etterforskning ta lang tid. I tillegg er mye informasjonen høyt gradert, sier seniorrådgiver Martin Bernsen i PST.</p>
+<p>Fylkesmann er betegnelse på den øverste lederen av den statlige administrasjonen i Norges fylker, og brukes også om det administrative apparatet rundt funksjonen.</p></div>
+<div type="title" level="3">Kan være statlig aktør</div>
+<div type="text">
+<p>– Konkrete svar vil ligge en stund frem i tid. Vi jobber nå blant annet med å få oversikt over skadeomfanget.</p>
+<p>– Hvor mange fylkesmenn ble rammet?</p>
+<p>– Akkurat sånne type spørsmål er det vi jobber med å få oversikt over. Det vi vet foreløpig, er at det er snakk om flere fylkesmenn.</p>
+<p>– Kan du si noe om hvem som står bak angrepene?</p>
+<p>– Det at PST har saken, sier en del om dét i seg selv. Vi ser på muligheten for at det kan være en statlig aktør.</p>
+<p>Bernsen vil ikke si noe om hvem de mistenker at kan stå bak.</p>
+<p>Statlige aktører vil normalt være andre land i motsetning til for eksempel organiserte kriminelle, som også er blant dem som kan gjennomføre større dataangrep for vinning.</p>
+<p>I sine trusselvurderinger de siste årene har både PST og Etteretningstjenesten vært klare på at Russland og Kina er de statlige aktørene som utgjør den største digitale risikoen for norske interesser.</p></div>
+<div type="title" level="3">NSM: Ikke sabotasje</div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) har bistått PST i etterforskningen, og har også støttet fylkesmennene og Kommunal- og moderniseringsdepartementet underveis.</p>
+<p>Håkon Bergsjø er leder for Norcert, en operativ underavdeling av NSM som jobber med alvorlige dataangrep. Han sier at de samarbeider godt med PST.</p>
+<p>– Vi holder på med analysene parallelt og koordinerer med PST, sier Bergsjø.</p>
+<p>Heiko Junge / NTB scanpix</p>
+<p>– Det som er viktig, er å kartlegge hva som har skjedd og hjelpe til med konsekvensutredning. Vi ser også på om andre sektorer kan ha blitt rammet, for å forsøke å skape et mønster i angrepene.</p>
+<p>– Hva slags type angrep er det snakk om? Sabotasje eller spionasje eller begge deler?</p>
+<p>– Vi har ikke sett noen ødeleggelse foreløpig. Det er mulig at etterforskningen vil vise noe som vi ikke har sett, men foreløpig har det ikke vært noen forsøk på å ødelegge noe, sier Bergsjø.</p></div>
+<div type="title" level="3">Nasjonalt varslingssystem</div>
+<div type="text">
+<p>Det er utplassert digitale sensorer hos fylkesmennene som en del av Nasjonalt varslingssenter for digital infrastruktur. Det gjør at NorCERT kan overvåke datatrafikk og varsle virksomheten det gjelder dersom det er mistanke om at de blir angrepet.</p>
+<p>– Det jeg kan si er at det er blitt utplassert varslingssystem hos fylkesmennene, og det fungerer godt.</p>
+<p>– Hvor mange fylkesmenn er det snakk om?</p>
+<p>– Vi begynner å få kartlagt hvor mange som er rammet, men vi kan ikke gå ut med det ennå, sier Bergsjø.</p>
+<p>Han vil ikke gå ut med hvor lenge NSM har kjent til saken.</p></div>
+<div type="title" level="3">Stille fra fylkesmennene</div>
+<div type="text">
+<p>Etter det Aftenposten forstår, har saken pågått gjennom høsten. Etterforskningen av angrepene startet i november.</p>
+<p>Aftenposten har onsdag forsøkt å komme i kontakt med samtlige fylkesmenn, men ingen har foreløpig villet si noe offisielt. De henviser til Kommunal- og moderniseringsdepartementet, som er ansvarlig departement for Fylkesmannen.</p>
+<p>Fra tidligere kjenner Aftenposten til at Fylkesmannen i Agder er blant kontorene som er rammet. Fylkesmannen i Hedmark har bekreftet overfor VG og NRK at også de er rammet av angrep.</p>
+<p>I 2019 er det totalt 16 fylkesmenn.</p>
+<p>Justis- og beredskapsdepartementet henviser også til Kommunal- og moderniseringsdepartementet, som så langt ikke har besvart Aftenpostens henvendelser.</p>
+<p>– Siden saken er under etterforskning, ønsker ikke justisministeren å kommentere den. Departementet bistår ikke PST i etterforskningen av saken, sier kommunikasjonsrådgiver Andreas Bondevik.</p></div></body></document>

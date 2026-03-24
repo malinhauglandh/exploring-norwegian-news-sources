@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190610-kan-bli-en-ny-klassi.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/kan-bli-en-ny-klassiker/71161374" frk="51 0 0 351 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-10 20:45"/>
+<attribute name="author" value="Erle Marie Sørheim"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="tegneserie,bok,anmeldelse,erle marie sørheim,martin ernstsen,litteratur,kultur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kan bli en ny klassiker</div>
+<div type="ingress">Martin Ernstsen har laget tegneserie av Hamsuns «Sult». Den bør bli hans definitive gjennombrudd.</div>
+<div type="author">Erle Marie Sørheim</div>
+<div type="date">2019-06-10</div>
+<div type="caption">SULT-TEGNESERIE: Skritt for skritt blir Knud Pedersen til en absurdistisk, rund og maskotaktig gul versjon av seg selv. Illustrasjon fra boka <p>IKONISK: Forsidebildet er også et dobbeltsidig oppslag inne i boka.</p></div>
+</body></document>

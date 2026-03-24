@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190321-selskapet-ble-rammet.xml"/>
+<attribute name="url" value="http://www.dn.no/bors/hydro/hacking/it-sikkerhet/selskapet-ble-rammet-av-lockergoga-viruset-i-januar-det-var-krevende-og-det-tok-lang-tid/2-1-569965" frk="368 3 9 2327"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-21 06:10"/>
+<attribute name="author" value="Agnete Klevstrand,Christian Bjerknes"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="bors,hydro,hacking,it-sikkerhet"/>
+<attribute name="class2" value="Nyheter,Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Selskapet ble rammet av LockerGoga-viruset i januar: – Det var krevende og det tok lang tid</div>
+<div type="ingress">Det franske konsulentselskapet Altran fikk oppleve konsekvensene av løsepengeviruset LockerGoga for to måneder siden. Det franske konsulentselskapet Altran fikk oppleve konsekvensene av løsepengeviruset LockerGoga for to måneder siden.</div>
+<div type="author">Agnete Klevstrand,Christian Bjerknes</div>
+<div type="date">2019-03-21 06:10</div>
+<div type="caption">– Når du er offer for et angrep vet du ikke hvem som angriper og hva de vil ha, sier Stephanie Bia i det franske selskapet Altran som ble rammet av løsepengevirus tidligere i år. (Foto: Xavier Popy/REA Altran) Guillaume Poupard, sjef for franske ANSSI, gjestet Sikkerhetskonferansen i Oslo onsdag. (Foto: Per Ståle Bugjerde) </div>
+<div type="text">
+<p>– Det første tegnet på angrepet var ganske åpenbart: Vi merket at deler av systemet var låst, sier Stephanie Bia.</p>
+<p>Hun er kommunikasjonssjef i den franske konsulentselskapet Altran Tehcnologies. 24. januar i år ble selskapet utsatt for et angrep fra LockerGoga, et såkalt løsepengevirus. NRK meldte tirsdag at det er det samme viruset som har rammet Hydro.</p>
+<p>Nasjonal sikkerhetsmyndighet (NSM) sa til DN onsdag at det fortsatt er for tidlig å konkludere sikkert om dette.</p>
+<p>Hackere bruker slike virus til å kreve løsepenger for å «låse opp» datasystemet.</p>
+<p>I Altran, som har 47 000 ansatte i 33 land, ble viktige deler av infrastrukturen i flere europeiske land rammet av dataangrepet. På kundelisten står selskaper som telegiganten Vodafone, den britiske nettmatvarekjeden Ocado, og det statlige britiske jernbaneselskapet National Rail.</p>
+<p>– Når du er offer for et angrep vet du ikke hvem som angriper og hva de vil ha, hva som er hensikten, sier Bia om den første oppdagelsen.</p>
+<p>Så skjedde ting i raskt tempo. Altran fikk et krav med løsepenger fra dem som sto bak angrepet. Alle systemer ble raskt stengt ned, og omfanget av angrepet ble undersøkt. Selskapet konkluderte med at ingen av kundene var blitt rammet av angrepet.</p></div>
+<div type="title" level="3">Må offentliggjøre tap</div>
+<div type="text">
+<p>Hvem som sto bak, og hvor stor sum som ble krevd, vil Altran ikke si noe om. Selskapet vil heller ikke si hvor mye angrepet kostet, og om det betalte løsepenger.</p>
+<p>Men Altran har innrømmet at angrepet vil påvirke de kommende resultatene for årets tre første måneder.</p>
+<p>Både inntektsfall og utgifter til en rekke cybersikkerhetskonsulenter og advokater vil slå ut på kvartalsresultatet som fremlegges senere denne våren.</p></div></body></document>

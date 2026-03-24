@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191215---jeg-tror-folk-har-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8m1maA/-Jeg-tror-folk-har-sett-at-det-har-skjedd-noe" frk="26 28 4 141 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-15 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Jeg tror folk har sett at det har skjedd noe</div>
+<div type="ingress">Mange tok turen til Bergen sentrum lørdag. Og 1400 gikk på kino på Fløyen.</div>
+<div type="author"></div>
+<div type="date">2019-12-15</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190226-da-politiet-pagrep-l.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/ddVJlX/Da-politiet-pagrep-lastebilsjaforen_-fant-de-to-konvolutter" frk="24 37 6 158 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-26 05:28"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Valdres,Kiwi,Narkotika,Gulating lagmannsrett,Polen,Bergen,Politiet,Hasj"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Da politiet pågrep lastebilsjåføren, fant de to konvolutter</div>
+<div type="ingress">I februar 2018 kjørte en 40 år gammel polsk mann fra Bergen i retning Valdres.</div>
+<div type="author"></div>
+<div type="date">2019-02-26</div>
+<div type="caption"></div>
+</body></document>

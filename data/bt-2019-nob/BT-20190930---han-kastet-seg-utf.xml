@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190930---han-kastet-seg-utf.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Adk8W3/-Han-kastet-seg-utfor-fra-7-etasje-Han-orket-ikke-leve-lenger" frk="37 4 1 224 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Han kastet seg utfor fra 7. etasje. Han orket ikke leve lenger.</div>
+<div type="ingress">Da den tiltalte for drapet på Sebastian Seterås ringte nødetatene, hevdet han at han hadde forsøkt å stoppe kameraten fra å begå selvmord.</div>
+<div type="author"></div>
+<div type="date">2019-09-30</div>
+<div type="caption"></div>
+</body></document>

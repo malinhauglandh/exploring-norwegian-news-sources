@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190120-sluttet-som-sagosen-.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/ballsport/Sluttet-som-Sagosen-manager-etter-NRK-krav-267722b.html" frk="47 0 0 328 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-20 19:56"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,ballsport"/>
+<attribute name="class2" value="Håndball,Sander Sagosen,Herrelandslaget håndball,NRK"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sluttet som Sagosen-manager etter NRK-krav</div>
+<div type="ingress">Om Håvard Tvedten skulle få fortsette som håndballekspert i NRK, måtte kona Guro Fostervold Tvedten gi seg som manager for Sander Sagosen.</div>
+<div type="author"></div>
+<div type="date">2019-01-20</div>
+<div type="caption"><p>Guro Fostervold Tvedten var manager for Sander Sagosen, men måtte gi seg på grunn av ektemannens engasjement hos statskanalen.</p></div>
+</body></document>

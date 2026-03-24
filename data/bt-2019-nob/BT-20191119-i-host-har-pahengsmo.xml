@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191119-i-host-har-pahengsmo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mVrq2/I-host-har-pahengsmotorer-for-millioner-blitt-stjalet-i-bergensomradet" frk="20 0 0 137 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-19 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I høst har påhengsmotorer for millioner blitt stjålet i bergensområdet</div>
+<div type="ingress">Politiet tror det er samme bande som står bak.</div>
+<div type="author"></div>
+<div type="date">2019-11-19</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190415-ville-vesten-er-ikke.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/opEgwm/Ville-Vesten-er-ikke-som-for" frk="58 0 0 330 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-15 19:15"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ville Vesten er ikke som før</div>
+<div type="ingress">Donald Trump frykter at kriminelle kommer over grensen fra Mexico. Det samme fryktet Wyatt Earp og hans menn. I dag er det marshal Bob Randall som hamler opp med de lovløse i Tombstone.</div>
+<div type="author"></div>
+<div type="date">2019-04-15</div>
+<div type="caption"><p>I dag er det marshal Bob Randall som hamler opp med de lovløse i Tombstone. FOTO: Jarle Aasland</p></div>
+</body></document>

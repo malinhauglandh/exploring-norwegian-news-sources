@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190528-bioteknologiradet-fl.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJd5o6/Bioteknologiradet-flyttes-til-Bergen" frk="44 0 0 327 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-28 12:22"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bent Høie,Universitetet i Bergen,Distriktspolitikk,Bioteknologirådet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bioteknologirådet flyttes til Bergen</div>
+<div type="ingress">UiB-professor Ole Frithjof Norheim advarte mot å flytte Bioteknologirådet fra Oslo til Bergen. Regjeringen overhører advarslene.</div>
+<div type="author"></div>
+<div type="date">2019-05-28</div>
+<div type="caption"><p>OVERHØRER PROTESTER: – Noe av det som har vært skrevet bærer preg av en viss Oslo-arroganse, sier helseminister Bent Høie. FOTO: Eirik Brekke</p></div>
+</body></document>

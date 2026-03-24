@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190301-bergensartisten-moyk.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/MgV2lr/Bergensartisten-Moyka-er-et-festfyrverkeri-pa-scenen" frk="46 0 0 328 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Konsert,Norsk musikk,Musikk,Anmeldelse,Festival,Konsertanmeldelse,Musikkanmeldelse,Bylarm"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergensartisten Moyka er et festfyrverkeri på scenen</div>
+<div type="ingress">Einar «Engelen» Engelstad anmelder fire konserter med bergensartister på årets Bylarm. Les de to første her.</div>
+<div type="author"></div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>MOYKA: Den bergensbaserte artisten fikk et noe sedat publikum til å danse på Bylarm-festivalen torsdag, skriver BTs anmelder. FOTO: Knut Egil Wang</p></div>
+</body></document>

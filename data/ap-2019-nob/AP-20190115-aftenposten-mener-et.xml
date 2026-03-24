@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190115-aftenposten-mener-et.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/leder/i/P3QO4z/Aftenposten-mener-Et-forbud-mot-kryptovaluta-loser-ingenting" frk="410 2 7 2725"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-15 05:00"/>
+<attribute name="author" value="Dagens Lederartikkel"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="meninger,leder"/>
+<attribute name="class2" value="digital valuta,internett,kryptovaluta,blokkjede,bitcoin,teknologi,monero"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Aftenposten mener: Et forbud mot kryptovaluta løser ingenting</div>
+<div type="ingress"></div>
+<div type="author">Dagens lederartikkel</div>
+<div type="date">12 timer siden</div>
+<div type="caption"><p>FOTO: Ruud, Vidar / NTB scanpix Et løsepengekrav i kryptovaluta er opprørende, slik et løsepengekrav i kontanter er det. Løsningen ligger ikke i å forby det nye, men i å modernisere politiarbeidet.</p></div>
+<div type="text">
+<p>I kjølvannet av bortføringssaken i Lørenskog, der det skal være blitt fremsatt et løsepengekrav i kryptovalutaen monero, har det oppstått en debatt om hvorvidt kryptovaluta bør forbys.</p>
+<p>Professor Walter Pohl ved Norges Handelshøyskole mener at en må skille mellom sporbar og ikke sporbar kryptovaluta – og forby det siste.</p>
+<p>3rd-party-bio</p>
+<p>Det finnes mange argumenter mot kryptovalutaer. Interpol har slått fast at de legger til rette for økonomisk kriminalitet, og kryptovaluta er utvilsomt blitt omfavnet av kriminelle miljøer. Blant andre Nordea har forbudt sine ansatte å kjøpe kryptovaluta av frykt for at de skal vikles inn i uetiske eller kriminelle handlinger uten å ønske det selv.</p>
+<p>Forsvinningssaken i Lørenskog opprører mange, og det er naturlig at diskusjonen om et forbud kommer nå. Men et forbud vil dessverre neppe løse noe.</p>
+<p>Skulle en kryptovalutatjeneste som monero bli forbudt i Norge, vil den fortsatt være tilgjengelig for alle som har tilgang til internett. Dersom den brukes til svært alvorlig kriminalitet, vil den kriminelle dessuten neppe være mest bekymret for hvorvidt betalingsløsningen er lovlig eller ikke. Det betyr at et forbud først og fremst vil rette seg mot alle som ikke har til hensikt å bruke kryptovalutatjenester til kriminalitet.</p>
+<p>Den mest kjente kryptovalutaen, bitcoin, er likhet med mange andre kryptovalutaer nokså transparent, og kan brukes som et effektivt verktøy i etterforskningen av kriminalsaker. Blokkjeden – som er offentlig – avslører avsender og mottaker. Monero, derimot, er lagd for å anonymisere brukerne ved å blande valutaen med ordinær kryptovaluta, ved såkalt «mixins». Men alle systemer har svakheter. Før eller siden skal pengene inn eller ut, og blir sporbar i ordinær kryptovaluta eller i banksystemet. Forskere har allerede identifisert flere svakheter ved anonymiseringen som gjør det mulig å spore transaksjoner.</p>
+<p>Kryptovalutaer som monero gjør det med andre ord krevende å etterforske økonomisk kriminalitet, men ikke umulig.</p>
+<p>Blokkjedeteknologi er et nytt og krevende felt, og det har vært vanskelig for politiet å holde tritt med den hektiske utviklingen innen datakriminalitet. Derfor har Kripos nå etablert NC3, det nye, nasjonale senteret for bekjempelse av cyberkriminalitet. Så langt er rundt 80 personer involvert, i løpet av året rundt 200 politifolk, teknologer, kryptologer, dataingeniører og analytikere.</p>
+<p>Det er en mer fruktbar vei å gå enn å innføre meningsløse forbud.</p></div></body></document>

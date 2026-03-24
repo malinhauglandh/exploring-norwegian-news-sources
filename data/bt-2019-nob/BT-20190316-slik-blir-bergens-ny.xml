@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190316-slik-blir-bergens-ny.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/a25PQa/Slik-blir-Bergens-nye-bydel" frk="26 38 7 180 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-16 22:27"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Utbygging,Eiendom,Arkitektur,Webview,Boligsalg,Obos,Byutvikling,Boligpolitikk,Byplanlegging"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir Bergens nye bydel</div>
+<div type="ingress">Om ti år vil en ny bydel med 520 leiligheter, 4000 kontorplasser, butikker, serveringssteder og barnehage stå klar i Kronstadparken.</div>
+<div type="author"></div>
+<div type="date">2019-03-16</div>
+<div type="caption"></div>
+</body></document>

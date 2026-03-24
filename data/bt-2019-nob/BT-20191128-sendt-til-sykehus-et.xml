@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191128-sendt-til-sykehus-et.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Jow7E4/Sendt-til-sykehus-etter-bilvelt-i-Lindas" frk="20 0 0 124 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-28 07:53"/>
+
+<attribute name="author" value="Rune Stølås"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sendt til sykehus etter bilvelt i Lindås</div>
+<div type="ingress">En bil har veltet og ligger på taket i Lindås, melder politiet.</div>
+<div type="author">Rune Stølås</div>
+<div type="date">Publisert 28. november 2019 07:53</div>
+<div type="caption"></div>
+</body></document>

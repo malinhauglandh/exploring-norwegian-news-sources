@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190131-mord-som-kunst.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/kanvn6/Mord-som-kunst" frk="55 0 0 386 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-31 19:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Film,Netflix,Los Angeles,Kunst,Filmanmeldelse,Jake Gyllenhaal"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mord som kunst</div>
+<div type="ingress">Netflix-filmen «Velvet Buzzsaw» ser bra ut, men blir aldri veldig skremmende.</div>
+<div type="author"></div>
+<div type="date">2019-01-31</div>
+<div type="caption"><p>SÅ SELVHØYTIDELIGE: Rene Russo og Jake Gyllenhaal spiller hovedrollene i «Velvet Buzzsaw». «Filmen er ikke spesielt skummel til skrekk å være, men underveis er den både artig, visuelt stilig, og ikke minst underholdende», mener Hanne M. Nord. FOTO: Claudette Barius/Netflix</p></div>
+</body></document>

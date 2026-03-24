@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191015-herbarium-tar-form.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/jdMX2b/Herbarium-tar-form" frk="57 15 6 396 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-15 12:00"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="butikker,stavanger,stavanger sentrum,øgreid"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Herbarium tar form</div>
+<div type="ingress">I slutten av måneden markeres den offisielle åpningen av Stavangers nye kjøpesenter.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kjøpesenteret Herbarium nærmer seg ferdigstillelse. 31. oktober er det åpningsfest og da skal samtlige butikker i første etasje være åpnet. Hele bygget, inkludert kontorarealene i tredje til sjuende etasje og parken på taket, er ventet ferdig i januar 2020. Fredrik Refvem</p></div>
+</body></document>

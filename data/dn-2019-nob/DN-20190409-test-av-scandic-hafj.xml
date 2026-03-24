@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190409-test-av-scandic-hafj.xml"/>
+<attribute name="url" value="http://www.dn.no/hotelltesten/test-av-scandic-hafjell-var-forberedt-pa-ko-til-frokost/2-1-580508" frk="58 0 0 365 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-09 06:45"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="hotelltesten"/>
+<attribute name="class2" value="Privat,Hotelltesten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av Scandic Hafjell: Vær forberedt på kø til frokost</div>
+<div type="ingress">Vær forberedt på lang kø foran buffeten om du velger Scandic Hafjell i høysesongen. Vær forberedt på lang kø foran buffeten om du velger Scandic Hafjell i høysesongen.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-04-09 06:45</div>
+<div type="caption">Scandic Hafjell trekker spesielt mange gjester i høysesongen frem mot påske. Vær forberedt på kø til frokost. (Foto: DN) </div>
+<div type="text">
+</div></body></document>

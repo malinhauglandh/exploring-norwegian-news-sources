@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191130-ungdommer-tok-seg-in.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/VbroLd/Ungdommer-tok-seg-inn-i-idrettshall" frk="43 0 0 318 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-30 12:56"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyheter,nyhetsdognet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ungdommer tok seg inn i idrettshall</div>
+<div type="ingress">Politiet ble fredag kveld tilkalt til Badmintonsenteret i Kristiansand etter at en mengde ungdommer skal ha tatt seg inn uten lov.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Da Fædrelandsvennen kom til Badmintonsenteret hadde politiet returnert, mens vaktselskapet saumfarte hallen. FOTO: Vegard Damsgaard</p></div>
+</body></document>

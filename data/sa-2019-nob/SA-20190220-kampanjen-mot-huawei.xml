@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190220-kampanjen-mot-huawei.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/article/sa-Mgyx2r.html" frk="885 4 31 6299"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-20 07:18:30"/>
+<attribute name="author" value="Harald Schumann"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="article"/>
+<attribute name="class2" value="donald trump,edward snowden,etterretning,gjestekommentar,handelskrig,huawei,it-sikkerhet,kina,microsoft,samfunnssikkerhet,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kampanjen mot Huawei avslører Europas svakhet</div>
+<div type="ingress">GJESTEKOMMENTAR: En gammel fiende-klisjé hjemsøker Europas maktkorridorer: Den gule fare. Men regjeringene kan gjøre vondt verre hvis de stenger Huawei ute.</div>
+<div type="author">Harald Schumann</div>
+<div type="date">2019-02-20 07:18:30</div>
+<div type="caption"><p>Frykt for spionasje gjør at skepsisen mot det kinesiske programvareselskapet Huawei vokser i Europa. Men hva med USAs spionasje mot oss gjennom myndighetskrav til amerikanske IT-selskaper, som Microsoft? Dado Ruvic, Reuters/NTB scanpix</p></div>
+<div type="text">
+<p>Kina vil bruke Huaweis teknologi til å infiltrere europeiske kommunikasjonssystemer, ifølge pressebriefinger den siste tiden. EU-kommisjonen, samt Tyskland, Storbritannia, Polen – og Norge – vurderer å utelukke den kinesiske leverandøren fra 5G-revolusjonen i Europa.</p>
+<p>«Jeg tror vi bør bekymre oss for Huawei og andre kinesiske selskaper», sa EU-kommissær Andrus Ansip før jul. «Dette handler om lovpålagte bakdører», mumlet han.</p>
+<p>Dette er ganske paradoksalt.</p></div>
+<div type="title" level="3">Fordi Donald Trump sier det</div>
+<div type="text">
+<p>Europas telekom-industri har kjøpt teknologi fra Huawei i stor skala i mange år, og ingen har sett noe problem med dette. Hvorfor mener alle ansvarlige plutselig at selskapet utgjør en sikkerhetsrisiko?</p>
+<p>Svaret er like enkelt som det er forbløffende: Washington. Huawei blir plutselig betraktet som farlig fordi president Donald Trump sier det. I over ett år har USAs sikkerhetsstrateger drevet en kampanje for å fjerne Huawei fra markedene i industrialiserte land, ifølge The New York Times.</p>
+<p>Australia, Canada og New Zealand har alt bøyd seg for presset og blokkert den kinesiske leverandøren.</p>
+<p>Trumps ambassadør i Berlin, Richard Grenell, har forklart at «sikkerheten til telekomnettet er truet når leverandører blir kontrollert eller påvirket av utenlandske myndigheter». Det betyr «risiko for uautorisert tilgang og ondsinnet cyberaktivitet».</p>
+<p>Som på kommando sa det tyske utenriksdepartementet at det var «noen passasjer (i kinesiske lover) som bekymrer oss». Slike lover forplikter kinesiske selskaper til å samarbeide med kinesisk etterretning.</p>
+<p>Det er mye ironi her.</p></div>
+<div type="title" level="3">USA snoker i stor stil</div>
+<div type="text">
+<p>Dette er nettopp problemet europeiske land har hatt med USA og IT-bransjen. FISA (Foreign Intelligence Surveillance Act) påbyr amerikanske selskaper å overlevere data til sikkerhetstjenestene på regjeringens anmodning.</p>
+<p>Dette påtvungne samarbeidet overvåkes bare av en hemmelig spesialdomstol. De berørte selskapene er også bundet til hemmelighold og risikerer straff.</p>
+<p>I motsetning til Huawei-saken, er liknende anklager mot Microsoft, Google, Apple og andre ikke bare teori. Etter avsløringene fra den tidligere NSA-agenten Edward Snowden er det dokumentert at USAs myndigheter, særlig National Security Agency, bruker sin rett til tilgang. Microsoft, som har nærmest hele det offentlige Europa som programvarekunder, er spesielt ivrige etter å oppfylle avtalen, noe Investigate Europe tidligere har vist. Et notat fra 8. mars 2013 beskriver i detalj hvordan Microsoft ga USAs myndigheter ubegrenset tilgang til selskapets skytjenester.</p>
+<p>Med Office 365-programmet, som også brukes av stadig flere offentlige etater, sikrer Microsoft at alle dokumentene som programmet lager, automatisk havner i selskapets skyservere.</p>
+<p>Samtidig viste Snowden-dokumentene at NSA og dets britiske partnere brukte cybervåpenet «Regin» og en sikkerhetsfeil i Windows-programmet for å avlytte EU-kommisjonen og Europaparlamentet.</p>
+<p>I 2017 ble det klart at NSA hadde brukt et spionverktøy basert på feil i Microsoft-programvare i over 10 år, og at selskapet bare fikset disse da etterretningstjenestens programvare falt i hendene på kriminelle.</p>
+<p>De nyeste versjonene av Microsoft-programmene (Windows 10 og Office 365) har forverret problemet: Programmene samler og lagrer personopplysningene til Office-brukere i stor skala uten å informere dem om det, ifølge en rapport bestilt av Nederlands justisdepartement. Med dette bryter Microsoft europeiske personvernregler i stor stil, sa de nederlandske forskerne.</p>
+<p>Det er faktisk «ikke lenger forenlig med lovverket» at statlige myndigheter bruker Microsoft-produkter, mener tyske Jan Philipp Albrecht, tidligere grønn folkevalgt i Europaparlamentet, nå delstatsminister i Schleswig-Holstein. Albrecht regnes som far til EUs personvernforordning.</p>
+<p>Men ingen av de påviste overtrampene fra USAs etterretningstjenester og teknologiselskaper har så langt fått praktiske følger. Europeere har gjort seg selv til en forsvarsløs, amerikansk programvarekoloni.</p>
+<p>På denne bakgrunnen virker tiltakene mot Huawei latterlige.</p></div>
+<div type="title" level="3">Det handler om handelskrig</div>
+<div type="text">
+<p>Kina er åpenbart en overvåkingsstat som brutalt undertrykker kritikere, og som forfølger sine interesser over hele verden. Det er god grunn til mistanke.</p>
+<p>Men så lenge Europas regjeringer samtidig lar sine statsapparat, alle borgernes private data og næringslivets industrihemmeligheter bli spionert på av USAs etterretningstjenester, vil forbudet mot Huawei som EU-kommisjonen og noen regjeringer krever, gjøre mer skade enn gagn. EU vil bare bli en alliert i Donald Trumps handelskrig mot Kina, som kan gjøre stor økonomisk skade i Europa. Sikkerheten for europeiske IT-systemer vil ikke bli noe særlig bedre, men avhengigheten av USA vil øke.</p>
+<p>Det er mer fornuftig endelig å utvikle en langsiktig strategi for å fri Europa fra grepet til alle fremmede makter, i hvert fall på informasjonsteknologien som trengs for kritisk infrastruktur.</p>
+<p>Dette er gjort i flykonstruksjon og satellittnavigasjon – med Airbus og Galileo. Det mangler ikke dyktige ingeniører som kan beskytte europeiske IT-systemer fra «ondsinnede cyberangrep», som USAs ambassadør Grenell hyklersk advarer mot.</p>
+<p>Det mangler bare politisk vilje til å handle.</p>
+<p>Harald Schumann er en tysk forfatter og journalist, med bakgrunn som blant annet redaktør i regionavisen Die Tageszeitung i Berlin og som journalist, leder av politisk avdeling og næringslivsredaktør i Der Spiegel. Siden 2004 er han redaktør i Berliner Tagesspiegel. Han har vunnet en rekke journalistpriser, og bøker er oversatt til over 20 språk. Schumann er også, sammen med blant andre tidligere aftenbladjournalist Ingeborg Eliassen, med i det internasjonale journalistfellesskapet Investigate Europe. Red.mrk.</p>
+<p>Artikler fra Ingeborg Eliassen i Investigate Europe om 5G-nettet:</p>
+<p>Vi vil ha din mening! Send debattinnlegg til debatt@aftenbladet.no Maks 3500 tegn, inkl. mellomrom</p></div></body></document>

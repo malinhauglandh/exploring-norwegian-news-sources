@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191212-rodt-mener-oppussing.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/jdn1K9/Rodt-mener-oppussingen-av-radhuset-bryter-loven" frk="35 0 0 243 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-12 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rødt mener oppussingen av rådhuset bryter loven</div>
+<div type="ingress">Selskapet som skal rive rådhuset innvendig leier inn én tredjedel av staben. – Det er innenfor lovverket, sier byrådet, som likevel vurderer å stramme inn kommunens regelverk.</div>
+<div type="author"></div>
+<div type="date">2019-12-12</div>
+<div type="caption"></div>
+</body></document>

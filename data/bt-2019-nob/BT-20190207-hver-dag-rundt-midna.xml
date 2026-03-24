@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190207-hver-dag-rundt-midna.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/6nOMXz/Hver-dag-rundt-midnatt-skjedde-det-noe-mystisk-med-datamaskinene-fra-Huawei-Det-tok-fem-ar-for-noen-oppdaget-hva-som-foregikk" frk="77 15 8 514 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-07 12:39"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Etterretning,Teknologi,Huawei,Kunstig intelligens,Spioner,Kina,Data"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hver dag rundt midnatt skjedde det noe mystisk med datamaskinene fra Huawei. Det tok fem år før noen oppdaget hva som foregikk.</div>
+<div type="ingress">Da Huawei installerte datasystemer i hovedkvarteret til Den afrikanske Union, skjedde noe merkelig med datamaskinene. Først fem år senere kom sannheten frem.</div>
+<div type="author"></div>
+<div type="date">2019-02-07</div>
+<div type="caption"><p>SENDTE TIL KINA: Hovedkvarteret til Den afrikanske union i Addis Abeba. Hver natt mellom 24.00 og 02.00 ble dataene til de afrikanske politikerne sendt til Shanghai via Huaweis datasystemer. FOTO: NTB scanpix</p></div>
+</body></document>

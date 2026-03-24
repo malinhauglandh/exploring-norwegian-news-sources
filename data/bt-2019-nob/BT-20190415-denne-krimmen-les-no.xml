@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190415-denne-krimmen-les-no.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/1n62dK/Denne-krimmen-les-nordmenn-mest-i-paska" frk="23 0 0 162 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-15 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne krimmen les nordmenn mest i påska</div>
+<div type="ingress">Krimsjangeren står framleis sterkt hos både biblioteka og bokhandlarane no som påska gjer sitt inntog.</div>
+<div type="author"></div>
+<div type="date">2019-04-15</div>
+<div type="caption"></div>
+</body></document>

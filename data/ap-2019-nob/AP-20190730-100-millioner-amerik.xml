@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190730-100-millioner-amerik.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/okonomi/i/1nyeqQ/100-millioner-amerikanere-rammet-av-datatyveri" frk="262 10 17 1629"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-07-30 08:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">100 millioner amerikanere rammet av datatyveri</div>
+<div type="ingress">En kvinne er pågrepet i USA, mistenkt for å ha skaffet seg tilgang til mer enn 100 millioner kredittkortsøknader hos den amerikanske banken Capital One.</div>
+<div type="author">NTB</div>
+<div type="date">30. juli 2019 10:46</div>
+<div type="caption"><p>En mann utenfor Capital Ones kontorer i San Francisco. Banken er rammet av et stort datainnbrudd, og en 33 år gammel kvinne er pågrepet i saken. Foto: Jeff Chiu / AP / NTB scanpix</p></div>
+<div type="text">
+<p>Datatyveriet er et av de største som har rammet et selskap i finansnæringen.</p>
+<p>FBI aksjonerte mandag og pågrep dataingeniøren Paige Thompson (33). Ifølge politiet har hun skrytt av tyveriet på nettstedet GitHub.</p>
+<p>– Innbruddet skjedde via en brannmur som var satt opp feil, noe som gjorde det mulig å få tilgang til dataene, heter det i en uttalelse fra statsadvokaten i delstaten Washington.</p>
+<p>– 17. juli varslet en GitHub-bruker som så meldingen, Capital One om muligheten for at de hadde vært utsatt for datainnbrudd, står det videre.</p>
+<p>Capital One er basert i Virginia, og spesialiserer seg på kredittkort. Da de fikk bekreftet at det hadde vært et datainnbrudd i deres systemer, kontaktet banken FBI.</p>
+<p>– Ifølge Capital One omfatter dataene et stort antall kredittkortsøknader, sannsynligvis mange titalls millioner, heter det i anmeldelsen.</p>
+<p>Capital One skriver i en pressemelding at 100 millioner kunder i USA og seks millioner i Canada er berørt av saken. Ifølge banken er ikke kontonumre eller innloggingsinformasjon stjålet, og 99 prosent av personnumrene skal heller ikke ha kommet på avveie.</p>
+<p>Thompson omtalte tyveriet i en rekke poster på GitHub og i sosiale medier. Politiet skal ha funnet stjålne data lagret hjemme hos henne.</p></div></body></document>

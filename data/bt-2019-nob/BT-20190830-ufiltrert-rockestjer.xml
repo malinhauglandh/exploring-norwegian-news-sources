@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190830-ufiltrert-rockestjer.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/g7BAyL/Ufiltrert-rockestjerne" frk="13 0 0 93 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ufiltrert rockestjerne</div>
+<div type="ingress">Av Nick Cave og fulle folk får man høre sannheten.</div>
+<div type="author"></div>
+<div type="date">2019-08-30</div>
+<div type="caption"></div>
+</body></document>

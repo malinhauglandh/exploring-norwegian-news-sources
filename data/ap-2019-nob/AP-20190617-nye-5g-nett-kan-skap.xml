@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190617-nye-5g-nett-kan-skap.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/zGV5n9/Nye-5G-nett-kan-skape-problemer-for-varvarslingen--Simen-Gaure" frk="636 14 57 4002"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-06-17 16:30"/>
+<attribute name="author" value="Simen Gaure"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="uviten,viten,mobiltelefoni,5g"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nye 5G-nett kan skape problemer for værvarslingen | Simen Gaure</div>
+<div type="ingress">Fremtidens mobiltelefoner deler frekvens med vannmolekyler. Det kan gi meteorologene problemer.</div>
+<div type="author">Simen Gaure</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: Michael Probst / TT NYHETSBYRÅN Meteorologene er redde for at de ikke kan skille vanndamp i atmosfæren fra 5G-trafikk, fordi de deler frekvens.</p> <p>Simen Gaure er forsker ved Frischsenteret og Uviten-spaltist i Aftenposten.</p></div>
+<div type="text">
+<p>I Uviten skriver Nina Kristiansen, Atle Fretheim, Marit Simonsen og Simen Gaure hver uke om det de mener er dårlig forskning, flau formidling, kunnskapsløse politiske forslag og ren fusk.</p>
+<p>Verden går fremover, og noe av det som går mest fremover er elektroniske dingser. Spesielt skjer det stadig noe med mobiltelefoner. Nå er det ny mobilteknologi på trappene, 5G. Det blir som alltid bedre, fortere, mer og over alt.</p>
+<p>En måte det blir stadig bedre på, er at man bruker høyere frekvens for radiokommunikasjonen.</p>
+<p>De første mobilnettene, OLT fra 1966 brukte en frekvens på 170 MHz. Så kom NMT-450 i 1981 som brukte 450 MHz, og NMT-900 i 1986. Nå bruker man et par tusen MHz. Høyere frekvens gjør blant annet at dataoverføringshastigheten kan økes. De nyeste 5G-nettene som etter hvert kanskje kommer, kan bruke frekvenser over 20 GHz (20000 MHz).</p>
+<p>Morten Uglum</p></div>
+<div type="title" level="3">Måler vanndamp</div>
+<div type="text">
+<p>Det vil nok gjøre vei i vellinga, men det er et mulig problem med det. Meteorologer måler en hel rekke ting for å varsle været, blant annet fuktighet, regn, skyer og temperatur. En vanlig måte å måle slikt på er å lytte til svake signaler som forskjellige molekyler sender ut.</p>
+<p>For eksempel måles vanndamp i atmosfæren ved å lytte til 23,8 GHz-signalet som disse sender ut. Et av frekvensbåndene som 5G kan bruke, ligger rett ved siden av, mellom 24,25 og 24,45 GHz.</p>
+<p>Dessverre er det slik med radiosendere at de også kan forstyrre nærliggende frekvenser, og det er nettopp det meteorologene er bekymret for.</p>
+<p>Les om 5G-debatt her:</p>
+<p>Nina Kristiansen: Neste år rulles 5G ut i Norge. Nei, det er ikke farlig</p>
+<p>Ingeborg Eliassen: Neste år rulles 5G ut i Norge. Ingen vet om det er farlig.</p>
+<p>Nina Kristiansen: Kan vi stole på forskningen når forskere er uenige om 5G?</p></div>
+<div type="title" level="3"> Anbefaler støygrense</div>
+<div type="text">
+<p>I en artikkel i Nature i slutten av april skriver Alexandra Witze om meteorologenes bekymringer. De er redde for at de ikke kan skille vanndamp i atmosfæren fra 5G-trafikk. Av denne grunn har verdens meteorologiorganisasjon (WMO) anbefalt en støygrense for 5G-basestasjoner. Europakommisjonen har satt en mindre restriktiv støygrense, og det amerikanske Federal Communications Commission (FCC) en svært mye mindre restriktiv grense.</p>
+<p>Både NASA og NOAA, to amerikanske organisasjoner involvert i atmosfæremålinger, og US Navy, er bekymret, og har utredet hvor stor negativ virkning disse 5G-båndene kan ha på atmosfæremålinger. En annen bekymring er selve mobiltelefonene. Selv om de sender på lavere effekt enn basestasjonene, er de også enklere og billigere og kan fort forstyrre frekvensbåndene ved siden av.</p>
+<p>Spesielt i urbane strøk med høy befolkningstetthet frykter meteorologene at målingene deres vil bli forstyrret.</p></div>
+<div type="title" level="3">Dårligere værvarslinger</div>
+<div type="text">
+<p>Så kan man spørre seg hvorfor meteorologene ikke kan skifte til andre frekvensbånd, men det går bare i begrenset grad. Molekylene i atmosfæren er som de er, og sender på de bølgelengdene de gjør, uten at det lar seg endre.</p>
+<p>Til tross for disse advarslene har amerikanske FCC auksjonert bort de problematiske frekvensbåndene til 5G-bruk, med støyrestriksjoner som WMO mener er for lave.</p>
+<p>Problemet er ikke begrenset til amerikanske byer. Selv om man får gode målinger andre steder i verden med bedre støybegrensning, vil værvarslingen bli dårligere. Været i Europa er for eksempel avhengig av hvordan forholdene over USA var noen dager i forveien. Hvis kvaliteten på værdata der blir dårligere, vil det påvirke værvarslene andre steder i verden.</p>
+<p>Det tar nok enda noen år før 24 GHz telefoner blir allemannseie, men hvis de gjør at værvarslingen blir dårligere, får vi i det minste håpe de blir vanntette.</p></div></body></document>

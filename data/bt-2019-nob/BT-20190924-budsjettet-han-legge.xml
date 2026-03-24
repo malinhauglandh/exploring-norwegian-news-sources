@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190924-budsjettet-han-legge.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BRdny0/Budsjettet-han-legger-frem-onsdag_-vil-matte-skrives-pa-nytt-for-jul" frk="35 0 0 213 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-24 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Budsjettet han legger frem onsdag, vil måtte skrives på nytt før jul</div>
+<div type="ingress">Finansbyråd Håkon Pettersen (KrF) legger onsdag frem et budsjett som ikke er i nærheten av å ha flertall i det nye bystyret.</div>
+<div type="author"></div>
+<div type="date">2019-09-24</div>
+<div type="caption"></div>
+</body></document>

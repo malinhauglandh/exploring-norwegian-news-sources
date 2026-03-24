@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190707-firma-anmeldt-for-ul.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LAalM9/Firma-anmeldt-for-ulovlig-transport-av-turister--Dette-er-et-okende-problem" frk="47 0 0 304 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-07 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Statens vegvesen,Pirattaxi,Turisme,Trafikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Firma anmeldt for ulovlig transport av turister. – Dette er et økende problem.</div>
+<div type="ingress">Det koker av turister på Vestlandet. Nå advarer Statens vegvesen mot pirattransport.</div>
+<div type="author"></div>
+<div type="date">2019-07-07</div>
+<div type="caption"><p>LANGTUR: Gudvangen er et populært turistmål. Det yret av reisende da BT var på besøk tidligere i uken. FOTO: Hedvig Idås</p></div>
+</body></document>

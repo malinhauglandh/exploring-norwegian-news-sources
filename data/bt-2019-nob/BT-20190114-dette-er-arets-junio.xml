@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190114-dette-er-arets-junio.xml"/>
+<attribute name="url" value="http://junior.bt.no/nyheter/i/ngoMGQ/Dette-er-arets-juniorreportere" frk="45 70 20 283 ## %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-14 16:18"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Kjappe nyheter"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er årets juniorreportere</div>
+<div type="ingress">Bli kjent med Jonas (11), Irene (12), Victoria (11) og Aksel (10).</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">14.jan.2019 16:18</div>
+<div type="caption"><p>2019-TEAMET: Fra v. Jonas (11), Irene (12), Victoria (11) og Aksel (10).</p> <p>Hva gjør juniorreporterne flau? Og hva driver de med på fritiden? Bli kjent med gjengen her!</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190205-ny-studie-snus-oker-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/ny-studie-snus-oker-ikke-risiko-for-hjertesykdom-og-slag/70733467" frk="56 0 0 348 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-05 20:55"/>
+<attribute name="author" value="Jenny Mina Rødahl"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="slag,pluss,nyheter,hjertesykdom,helse,tobakk,snus"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny studie: Snus øker ikke risiko for hjertesykdom og slag</div>
+<div type="ingress">Men snus er fortsatt ikke risikofritt, mener eksperter.</div>
+<div type="author">Jenny Mina Rødahl</div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>FORSKJELL: Det er stor forskjell på svensk snus som vi bruker i Norge, og annen røykfri tobakk. Den svenske snusen øker nemlig ikke risikoen for hjertesykdom og slag, viser ny studie. Foto: Erlend Aas / NTB scanpix</p></div>
+</body></document>

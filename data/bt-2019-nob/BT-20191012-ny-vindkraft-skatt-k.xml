@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191012-ny-vindkraft-skatt-k.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/1n8R3G/Vil-lokke-kommuner-med-vindkraft-skatt" frk="32 12 3 234 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-12 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny vindkraft-skatt kan gi kommunene kjempeinntekter. Likevel sier flere ordførere nei.</div>
+<div type="ingress">Hvis Modalen og Masfjorden sier ja til vindkraftverk, kan begge kommunene få inn over 100 millioner årlig med nye skatteregler.</div>
+<div type="author"></div>
+<div type="date">2019-10-12</div>
+<div type="caption"></div>
+</body></document>

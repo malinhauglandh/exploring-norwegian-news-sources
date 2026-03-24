@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190410-allert-bokenes-til-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zGOBrw/Allert-Bokenes-til-minne" frk="47 10 3 292 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-10 10:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Rusomsorg,Kultur,Bergen,Nekrolog,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Allert Bøkenes til minne</div>
+<div type="ingress">Vår vakre, varme, vittige venn Allert Bøkenes har forlatt oss.</div>
+<div type="author"></div>
+<div type="date">2019-04-10</div>
+<div type="caption"><p>SAVNET: Allert Bøkenes døde 2. april, 69 år gammel. – Blant mennesker der mange hadde humoristisk sans, var Allert i en klasse for seg, skriver venner om ham i minneordet. FOTO: privat</p></div>
+</body></document>

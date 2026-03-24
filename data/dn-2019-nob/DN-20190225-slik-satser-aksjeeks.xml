@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190225-slik-satser-aksjeeks.xml"/>
+<attribute name="url" value="http://www.dn.no/bors/slik-satser-aksjeekspertene-denne-uken/2-1-550804" frk="151 1 2 1054"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-25 08:20"/>
+<attribute name="author" value="Nora Rydne"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="bors"/>
+<attribute name="class2" value="Nyheter,Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik satser aksjeekspertene denne uken</div>
+<div type="ingress">Alfred Berg går inn i Bank Norwegian. Flere av meglerne gjør endringer i porteføljene sine. Alfred Berg går inn i Bank Norwegian. Flere av meglerne gjør endringer i porteføljene sine.</div>
+<div type="author">Nora Rydne</div>
+<div type="date">2019-02-25 08:20</div>
+<div type="caption">Portfolio Manager Petter Tusvik i Alfred Berg Kapitalforvaltning (Foto: Aleksander Nordahl) </div>
+<div type="text">
+<p>Slik ser porteføljene ut denne uken:</p></div>
+<div type="title" level="3">Alfred Berg</div>
+<div type="text">
+<p>Ut: DNB</p>
+<p>Inn: Bank Norwegian (Norwegian Finans Holding)</p>
+<p>Portefølje: Axactor, Lerøy Seafood, Equinor, Subsea 7, Elkem, BWO, Bank Norwegian (Norwegian Finans Holding) og Yara</p></div>
+<div type="title" level="3">Arctic Fund Management</div>
+<div type="text">
+<p>Inn: Elkem</p>
+<p>Ut: NRC Group, Equinor og Panoro</p>
+<p>Portefølje: Aker, Aker BP, Bonheur, BWO, Elkem, Mowi, Atea og DNB</p></div>
+<div type="title" level="3">DNB Markets</div>
+<div type="text">
+<p>Ingen endringer</p>
+<p>Portefølje: Evry, Yara, Storebrand, Equinor, SR-Bank, Aker BP, Europris, Entra, Grieg Seafood og Kongsberggruppen.</p></div>
+<div type="title" level="3">Sparebank 1 Markets</div>
+<div type="text">
+<p>Inn: Hydro, Lerøy Seafood Group og Seadrill</p>
+<p>Ut: Kid og Yara</p>
+<p>Portefølje: Bank Norwegian (Norwegian Finans Holding), Orkla, Magseis Fairfield, Crayon, Komplett Bank, Hydro, Lerøy Seafood Group og Seadrill</p></div></body></document>

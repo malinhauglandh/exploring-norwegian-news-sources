@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190425-mann-varetektsfengsl.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/kJvOqa/Mann-varetektsfengslet-for-drapsforsok-i-Odda" frk="27 11 2 173 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-25 08:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann varetektsfengslet for drapsforsøk i Odda</div>
+<div type="ingress">En mann i 30-årene er siktet for drapsforsøk på en annen mann i Odda. Han er varetektsfengslet i fire uker.</div>
+<div type="author"></div>
+<div type="date">2019-04-25</div>
+<div type="caption"></div>
+</body></document>

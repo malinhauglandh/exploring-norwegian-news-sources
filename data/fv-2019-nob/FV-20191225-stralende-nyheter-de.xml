@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191225-stralende-nyheter-de.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/Wb2aqr/Stralende-nyheter-Det-blir-sol_-sol_-sol" frk="48 0 0 269 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-25 11:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Strålende nyheter: Det blir sol, sol, sol!</div>
+<div type="ingress">Nå er det om å gjøre å komme seg ut: Romjula på Sørlandet blir badet i sol.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Første og andre juledag blir det sol, opphold og fint turvær her i Kristiansand og på resten av Sørlandet. FOTO: Tormod Flem Vegge</p></div>
+</body></document>

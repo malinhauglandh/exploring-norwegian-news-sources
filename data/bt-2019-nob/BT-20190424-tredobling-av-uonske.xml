@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190424-tredobling-av-uonske.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dO7awJ/Tredobling-av-uonskede-hendelser" frk="42 0 0 320 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-24 16:02"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Helse Bergen,Fødsel,Tilsynsrapport,Sykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tredobling av uønskede hendelser</div>
+<div type="ingress">Klinikkdirektøren avviser likevel at pasientsikkerheten er i fare.</div>
+<div type="author"></div>
+<div type="date">2019-04-24</div>
+<div type="caption"><p>KK-STRID: Tillitsvalgte og klinikkdirektøren er uenig i om kutt truer pasientsikkerheten. – Det er fortsatt trygt å føde på KK, sier klinikkdirektør Susanne Albrecthsen. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

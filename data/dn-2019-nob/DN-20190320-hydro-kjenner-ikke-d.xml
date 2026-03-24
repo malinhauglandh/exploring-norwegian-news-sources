@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190320-hydro-kjenner-ikke-d.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/hydro/erik-brynildsbakken/norsk-hydro/hydro-holder-pressekonferanse-om-dataangrepet/2-1-569046" frk="427 0 1 2796"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-20 06:10"/>
+<attribute name="author" value="Christian Bjerknes,Emilie Solberg,Stian Øvrebø Johannessen"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="marked,hydro,erik-brynildsbakken,norsk-hydro"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro kjenner ikke det fulle omfanget av dataangrepet og vet ikke når det blir løst</div>
+<div type="ingress">Hydro forsøker fremdeles å få systemene opp igjen etter dataangrepet natt til tirsdag. Hydro forsøker fremdeles å få systemene opp igjen etter dataangrepet natt til tirsdag.</div>
+<div type="author">Christian Bjerknes,Emilie Solberg,Stian Øvrebø Johannessen</div>
+<div type="date">2019-03-20 06:10</div>
+<div type="caption">Hydro holder pressekonferanse om cyberangrepet mot selskapet. Fra venstre: Inger Sethov, kommunikasjonsdirektør Hydro, Eivind Kallevik, finansdirektør Hydro og Bente Hoff, Nasjonal sikkerhetsmyndighet. (Foto: Aleksander Nordahl) </div>
+<div type="text">
+<p>– La meg være tydelig – dette er en alvorlig hendelse for Hydro. Vårt globale nettverk er nede, noe som påvirker produksjonen vår, sa finansdirektør Eivind Kallevik i Hydro tirsdag ettermiddag.</p>
+<p>Midnatt tirsdag norsk tid ble Hydro rammet av et løsepengevirus. Angrepet lammet Hydros globale nettverk og førte til både nettsidekrasj og produksjonsstans i enkelte anlegg.</p>
+<p>Ifølge NRK fører et slikt angrep til at alt innhold på datamaskinen gjøres utilgjengelig – med krav om betaling før innholdet «låses opp».</p>
+<p>NRK er også kjent med at Nasjonalt Cybersikkerhetssenter (NorCERT) samtidig har varslet samarbeidspartner om at hackerne kombinerte løsepengeangrepet med et angrep mot Hydros bruker- og påloggingssystemer.</p>
+<p>– Hvordan dette har kommet inn i systemet er noe av det som er under etterforskning og undersøkes akkurat nå, så det er det for tidlig å kommentere, sier Hydros finansdirektør Eivind Kallevik til DN.</p>
+<p>Han opplyser at samarbeider med interne krefter, Nasjonal sikkerhetsmyndighet og deres internasjonale partnere rundt Cyber Risk for å finne både årsak og løsninger på utfordringen. PST, Kripos og E-tjenesten er også koblet inn. Det samme er Europol, bekrefter Kripos i en melding.</p>
+<p>- Arbeidet er i en startfase, men av erfaring er skadepotensialet ved slike angrep stort, sier seksjonsleder ved Kripos Håvard Aalmo. Hacking og dataangrep er kriminalitet som den nyetablerte avdelingen på Kripos, NC3, jobber med.</p>
+<p>Selskapet jobber først og fremst for å få opp systemene sine gjennom back-up-data.</p>
+<p>På spørsmål om hvor mye løsepengekravet er på, svarer Kallevik:</p>
+<p>– Det har ikke blitt fremmet noe krav og det er ikke noe vi bruker noe tid på å spekulere i, hverken hva eller hvem eller hvor mye, sier han.</p>
+<p>Angrepet har ikke ført til noen sikkerhetsrelaterte hendelser i Hydro.</p></div>
+<div type="title" level="3">Lapper</div>
+<div type="text">
+<p>Da Hydro kalte inn til pressekonferanse tirsdag ettermiddag hadde det gått drøyt syv timer siden selskapet så seg tvunget til å varsle markedet om at konsernets IT-systemer var lammet etter et alvorlig cyberangrep.</p>
+<p>Utenfor Hydros kontorer flere steder i Norge var det satt opp lapper som ba de ansatte om å ikke skru på sine arbeids-PC-er, eller koble andre enheter til Hydro-nettverket. Ifølge NRK krever hackere løsepenger for å avslutte angrepet og låse opp maskiner og systemer som er rammet.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191204-ferske-boligpriser-k.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/forbruker/i/rA4yAK/Ferske-boligpriser-Kjopers-marked-i-Stavanger-regionen" frk="32 0 0 248 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-04 10:19"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ferske boligpriser: Kjøpers marked i Stavanger-regionen</div>
+<div type="ingress">Boligprisene synker mest i stavangerområdet, sammenlignet med landsgjennomsnittet. Det selges flere boliger, men til lavere pris og det tar lang tid å selge.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Fredrik Refvem</p></div>
+</body></document>

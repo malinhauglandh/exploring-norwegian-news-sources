@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191126-fotgjenger-pakjort-p.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/oslo/fotgjenger-pakjort-pa-bryn-i-oslo-1.1624193" frk="53 11 4 346 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-11-26 20:48"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="oslo"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fotgjenger påkjørt på Bryn i Oslo</div>
+<div type="ingress">En fotgjenger er alvorlig skadd etter å ha blitt påkjørt av en taxi i Oslo.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Illustrasjonsfoto: NTB scanpix</p></div>
+<div type="text">
+<p>Fotgjengeren skal ikke være kritisk skadd, skriver politiet på Twitter.</p>
+<p>Politiet jobber nå videre for å finne årsaken til ulykken.</p>
+<p>Ulykken skjedde ved Bryn senter i 17.15-tiden tirsdag.</p></div></body></document>

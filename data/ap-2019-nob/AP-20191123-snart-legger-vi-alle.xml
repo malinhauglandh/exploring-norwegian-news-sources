@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191123-snart-legger-vi-alle.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/JowodR/Snart-legger-vi-alle-spor--med-ansiktet" frk="189 0 0 1188"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-11-23 18:13"/>
+<attribute name="author" value="Per Kristian Bjørkeng"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="aftenposten lørdag,ansiktsgjenkjenning,biometri,faceid,teknologi,utvikling,maskinlæring"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Snart legger vi alle spor – med ansiktet</div>
+<div type="ingress">Fra neste år vil vi alle bli elektronisk sporbare hver gang vi passerer et kamera. Spørsmålet er: Hva våger vi å bruke den kraftfulle digitale ansiktsgjenkjenningen til?</div>
+<div type="author">Per Kristian Bjørkeng</div>
+<div type="date">23.nov.2019 19:13</div>
+<div type="caption"><p>Alle våre nye passbildene er spesialtilpasset for å gjøre dem lettere å forstå for en maskin. Men Kenneth Eriksen kjenner ingen uro når han er ute for å fornye passet.</p></div>
+<div type="text">
+<p>Du trodde kanskje du allerede hadde latt deg registrere biometrisk av myndighetene da du registrerte fingeravtrykkene dine sist du fikk pass? Det stemmer. Men den informasjonen ble i sin tid vurdert som så sensitiv at registeret ikke lagret avtrykkene sentralt. Informasjonen ligger bare lokalt i chipen i selve passet ditt. Dermed er det ikke mulig å søke etter hvem som helst som har etterlatt et fingeravtrykk.</p>
+<p>Men nå blir det andre boller. De siste årene har ansiktsgjenkjenning gjort syvmilssteg. Ved hjelp av kunstig intelligens og maskinlæring har maskinene blitt så treffsikre at de med høy grad av sikkerhet kan plukke riktig ansikt blant millioner av alternativer. Kinesiske myndigheter bruker teknologien til å overvåke minoriteter. Mot slutten av neste år kommer den altså hit.</p></div></body></document>

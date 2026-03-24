@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191001---det-er-ikke-min-jo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Xgnl2r/-Det-er-ikke-min-jobb-a-fa-min-mor-anklaget-for-noe" frk="32 0 0 179 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-01 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Det er ikke min jobb å få min mor anklaget for noe</div>
+<div type="ingress">Kameraten har innrømmet å ha utsatt Sebastian Seterås for grov vold før han kastet ham fra syvende etasje.</div>
+<div type="author"></div>
+<div type="date">2019-10-01</div>
+<div type="caption"></div>
+</body></document>

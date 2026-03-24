@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190319-kan-kunstig-intellig.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/a25LnA/Kan-kunstig-intelligens-gi-oss-varvarsler-langt-frem-i-tid-Neste-test-sommervarselet" frk="1366 4 40 8108"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-19 06:00"/>
+<attribute name="author" value="Erik Kolstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="vær,viten,ekstremvær,forskning og vitenskap,teknologi,innovasjon,sommer"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kan kunstig intelligens gi oss værvarsler langt frem i tid? Neste test: sommervarselet.</div>
+<div type="ingress">Et nytt forskningsprosjekt har som mål at vi på sikt kan forutse både kalde vintre og varme, tørre somre. Det kan samfunnet tjene på.</div>
+<div type="author">Erik Kolstad</div>
+<div type="date">19. mars 2019 07:00</div>
+<div type="caption"><p>FOTO: Tor Erik Schrøder/ NTB scanpix Væråret 2018 var ekstremt. Målet med et nytt forskningsprosjekt er at man ved hjelp av maskinlære kan forutse både kalde vintre og varme, tørre somre. Her fra skogbrann i Setesdalen juli 2018.</p> <p>Erik Kolstad, forsker ved NORCE og Bjerknessenteret.</p> <p>Julivarselet i fjor viste at det kom til å bli 2,4 grader varmere enn gjennomsnittet de siste 30 år i Oslo. Det ble enda varmere. Forskere jobber med å forbedre modellene med kunstig intelligens. Her fra Sørenga i Oslo i hetebølgen i fjor.</p></div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere og fagfolk fra hele landet bidrar med artikler.</p>
+<p>Tørken i fjor sommer kom overraskende på mange. Vi var vant til flom, styrtregn, skred og snøfattige vintre. Nå fikk vi plutselig et nytt værfenomen å forholde oss til, noe vi trodde var forbeholdt områder lengre sør.</p>
+<p>Kunne vi ha forutsett den varmeste og tørreste sommeren siden 1947? Dette er et sentralt spørsmål for oss som driver med sesongvarsling, altså varsling av været lengre frem i tid enn Yr og Storm gjør i dag (opptil ti dager).</p></div>
+<div type="title" level="3"> Feil som vokser med tiden</div>
+<div type="text">
+<p>Et værvarsel for mer enn en uke frem i tid er som oftest usikkert. Hvis du skal planlegge en uteaktivitet, sjekker du sikkert som meg langtidsvarselet ti dager på forhånd, men du bør være forberedt på at det blir bom. Årsaken er sommerfugleffekten: en feil som i utgangspunktet er liten, men som vokser med tiden.</p>
+<p>Tenk deg at du står på en bro og kaster en gren i en elv. Ved å vurdere steinene i elven og hvordan vannet strømmer rundt disse, kan du sikkert gjette bra på hvordan grenen kommer til å bevege seg de første par meterne.</p>
+<p>Men snart dulter grenen borti en stein du ikke hadde tenkt på, eller så henger den seg fast i en større gren litt lengre nede i elven. Varselet ditt var bra i starten, men etter hvert blir det verdiløst.</p>
+<p>Disse grafene viser hvor ekstrem Oslo-sommeren var</p></div>
+<div type="title" level="3"> Lenge regnet som umulig</div>
+<div type="text">
+<p>De samme utfordringene gjelder når vi varsler været. Da bruker vi modeller: dataprogrammer som beregner hvor mye det kommer til å regne, hvilken temperatur det blir, og så videre. Dagens modeller er nøyaktige, men de er avhengig av best mulig informasjon om hvordan været er akkurat nå.</p>
+<p>Hvis det er en liten feil i starttilstanden som mates inn i modellen, vil denne vokse seg stadig større med tiden. Etter noen dager kan det hypotetiske været i modellen ha beveget seg i en helt annen retning enn det faktiske været utenfor vinduet ditt. «Garbage in – garbage out», kalles dette.</p>
+<p>Sommerfugleffekten har gjort at sesongvarsling lenge var regnet som umulig, men de siste årene har vi som jobber med dette begynt å tenke nytt. Hva om vi omfavner modellenes feil i stedet for å frykte dem?</p></div>
+<div type="title" level="3">Fakta: Horisontkonferansen: Forskning som redder verden</div>
+<div type="text">
+<p>Møt Erik Kolstad og andre forskere og representanter fra næringsliv og det offentlige Norge på Horisontkonferansen 20. mars på Det Norske Teatret. Arrangementet er fullt, men streames på horisontkonferansen.no</p>
+<p>Konferansen er et samarbeid mellom Forskningsrådet og Aftenposten. Årets tema er «Forskning som redder verden».</p>
+<p>FNs klimarapport viser at vi er i ferd med å nå klodens tålegrense. Vi har kunnskap. Vi har teknologi. Vi har ressurser. Hvordan omsetter vi det i praksis til beste for naturen, samfunnet og næringslivet?</p>
+<p>Les mer på horisontkonferansen.no</p></div>
+<div type="title" level="3"> 50 forskjellige varsler</div>
+<div type="text">
+<p>Vi lager nå typisk 50 varsler der vi varierer bitte litt på starttilstanden i hvert av dem. Disse er temmelig like den første uken, men på grunn av sommerfugleffekten får vi 50 forskjellige varsler for perioden fra en uke til noen måneder frem i tid.</p>
+<p>Og så kommer cluet. Dersom en overvekt av de 50 varslene gir et varmt og tørt vær, er det et tegn på at været mest sannsynlig vil utvikle seg til en værsituasjon som er varm og tørr. Modellene har kanskje plukket opp en tendens som det var vanskelig for et menneske (meteorologen) å finne.</p>
+<p>Erik Johansen/ NTB scanpix</p></div>
+<div type="title" level="3"> Traff godt i vest og i sør</div>
+<div type="text">
+<p>I midten av juni i fjor publiserte vi i forskningsprosjektet Seasonal Forecasting Engine et varsel for juli, basert på fire modeller. I snitt indikerte disse at det kom til å bli 2,4 grader varmere enn gjennomsnittet de siste 30 år i Oslo, 1,7 i Bergen, og 0,3 i Tromsø. Videre ga modellene signaler om tørrere vær enn normalt i Sør-Norge og litt våtere enn normalt i nord.</p>
+<p>Nå ble det enda varmere enn varslet på Østlandet og i Nord-Norge, men varslene for Vest- og Sørlandet traff godt.</p>
+<p>Julivarselet vårt var et eksempel på at sesongvarsling kan være mulig. Den kalde senvinteren i mars og april 2018 var også godt varslet, men den uvanlig våte høsten på Vestlandet samme år gikk for det meste under modellenes radar.</p>
+<p>Vi har ennå et stykke vei å gå før vi tør å stole ordentlig på modellene. Så hva kan vi gjøre for å forbedre dem?</p>
+<p>Ekstremnedbør rammer oftere og kraftigere. Derfor regner det mer ekstremt</p></div>
+<div type="title" level="3"> Menneskets begrensninger</div>
+<div type="text">
+<p>En av de mest lovende strategiene er å bruke kunstig intelligens, i form av det som kalles «maskinlæring». Ved å studere modellene og sammenligne dem med værmålinger, kan jeg som meteorolog etter hvert lære meg hvilke feil de vanligvis gjør. Utfordringen er at jeg som menneske kun har begrenset tid og kapasitet til å kunne jobbe med dette. I tillegg har jeg ofte ikke fantasi nok til å studere sammenhenger som jeg ikke allerede har stor tro på.</p>
+<p>Datamaskinene har ingen av disse lytene. De kan jobbe dag og natt, de regner mye raskere enn meg og kan prosessere ufattelig mye større datamengder. Det betyr at de kan undersøke nær sagt uendelig mange mulige sammenhenger. Kanskje vi kan kalle dette maskinversjonen av fantasi?</p></div>
+<div type="title" level="3"> Slik «tenker» modellene</div>
+<div type="text">
+<p>Hvis vi bare kan klare å programmere maskinene slik at de kan finne ut hva som fungerer – og ikke minst hva som går galt – i modellene våre, så tror jeg at vi kan utnytte det som finnes av varsler på en bedre måte enn i dag.</p>
+<p>For å ta et enkelt eksempel, så kan vi vekte varslene fra en modell som har riktige nedbørsmengder på Vestlandet høyere enn varslene fra en modell med store systematiske feil. Det blir sannsynligvis et bedre varsel enn når vi vekter alle modellene likt (som vi gjør i dag). Dette er et eksempel som vi mennesker kan forstå, men modellene «tenker» ikke slik.</p>
+<p>De vil forhåpentlig kunne kombinere varslene fra modellene på enda mer intrikat og optimalt vis – sannsynligvis på en måte vi mennesker aldri ville ha vært i stand til.</p></div>
+<div type="title" level="3">Parallell til sjakk</div>
+<div type="text">
+<p>Er dette ønsketenkning? Et eksempel til inspirasjon er Googles sjakkprogram basert på maskinlæring. I utgangspunktet kunne «AlphaZero» kun reglene, altså at en løper bare kan gå på skrå, hvordan en bonde kan slå en annen brikke, og ikke minst, at du vinner når motstanderen er sjakk matt. Så lot utviklerne programmet spille mot seg selv mange ganger, og hver gang lærte det noe. Vant jeg der, ja? Det må jeg merke meg. Så der tapte jeg, altså? Da må jeg unngå å gjøre den feilen igjen.</p>
+<p>Nå knuser «AlphaZero» den beste tradisjonelle sjakkcomputeren, «Stockfish» (som sikkert ville ha slått Magnus Carlsen minst ni av ti ganger). Hvorfor skal ikke vi da klare å lage sesongvarsler som kan brukes av bønder, forsikringsselskap, finansinstitusjoner, marinen, vegvesenet, energiprodusenter og fiskere – kort sagt, alle?</p>
+<p>I samarbeid med selskaper og det offentlige lanserer vi nå et initiativ vi kaller Climate Futures. Motivasjonen er å spare samfunnet for unødvendige kostnader og samtidig stimulere til en bærekraftig næringsutvikling. Ved å publisere våre varsler, vil både vi og andre lære mer om potensialet for innovasjon innen værvarsling.</p>
+<p>Første korsvei: Hvordan blir årets sommer?</p>
+<p>Hør Erik Kolstad og andre forskere og representanter fra næringsliv og det offentlige Norge på Horisontkonferansen 20. mars, som arrangeres av Forskningsrådet og Aftenposten. Temaet er «Forskning som redder verden». Arrangementet er fullt, men streames på horisontkonferansen.no</p></div></body></document>

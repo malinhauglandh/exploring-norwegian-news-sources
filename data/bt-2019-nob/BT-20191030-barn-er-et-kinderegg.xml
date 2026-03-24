@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-barn-er-et-kinderegg.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/vQXma5/barn-er-et-kinderegg-av-en-film-veldig-morsom-dypt-alvorlig-og-uhy" frk="30 0 0 199 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:47"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Barn» er et kinderegg av en film. Veldig morsom, dypt alvorlig og uhyre aktuell.</div>
+<div type="ingress">Dag Johan Haugerud befester sin stilling som en av landets mest særegne og relevante filmskapere.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

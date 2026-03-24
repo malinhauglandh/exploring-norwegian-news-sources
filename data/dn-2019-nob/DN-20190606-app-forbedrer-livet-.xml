@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190606-app-forbedrer-livet-.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/e-helse/digitalisering/helse/app-forbedrer-livet-for-hardt-rammede-pasienter/2-1-615489" frk="698 2 11 4267"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-06-06 07:12"/>
+<attribute name="author" value="Jacqueline Floch,Carmen Ribes-Koninckx"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,e-helse,digitalisering,helse"/>
+<attribute name="class2" value="Meninger,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">App forbedrer livet for hardt rammede pasienter</div>
+<div type="ingress">En nyutviklet app med innebygd «enzymkalkulator» minsker magesmerter og fordøyelsesproblemer betydelig hos pasienter med lunge- og magesykdommen cystisk fibrose. En nyutviklet app med innebygd «enzymkalkulator» minsker magesmerter og fordøyelsesproblemer betydelig hos pasienter med lunge- og magesykdommen cystisk fibrose.</div>
+<div type="author">Jacqueline Floch,Carmen Ribes-Koninckx</div>
+<div type="date">2019-06-06 07:12</div>
+<div type="caption">Appen MyCyFAPP hjelper pasienter ned cystisk fibrose. (Foto: Skjermdump: MyCyFAPP) </div>
+<div type="text">
+<p>Digitalisering omtales ofte som en vei til kostnadskutt. Men digitale grep kan også forbedre menneskers helse og livskvalitet, og selv en «liten» app kan spille en stor rolle.</p>
+<p>I EU-regi har vi og andre fagfolk nå samarbeidet om å lage en app med et slik formål – for pasienter med cystisk fibrose. Resultatene er svært lovende, og erfaringer fra arbeidet vårt vil trolig komme også andre pasientgrupper til gode.</p>
+<p>Cystisk fibrose er en sjelden og arvelig multiorgansykdom. Den er utløst av en genetisk feil som forstyrrer transporten av salt og væske mellom celler i kroppen. Lungene påvirkes, men det er mindre kjent at også bukspyttkjertelen rammes – og dermed også fordøyelsen.</p>
+<p>De fleste pasienter med denne sykdommen må derfor ta fordøyelsesenzymer i tablettform for at de skal få tatt opp nok næringsstoffer, og for at de skal unngå mageforstyrrelser og feilernæring. Men hvordan vite hva hver enkelt pasient trenger?</p>
+<p>Hittil har anbefalt dosering av enzymene vært basert på tommelfingerregler, som har variert fra land til land. Appen vår bøter på dette ved at en algoritme beregner anbefalt enzymdosering for hver enkelt bruker. Det hele ut fra opplysninger om hva pasientens måltid består av.</p>
+<p>Over 150 barn og ungdommer med cystisk fibrose har nå testet appen i seks måneder, sammen med sine pårørende. Ikke noe lite tall, i og med at sykdommen er sjelden. Til tross for en kort utprøvingsperiode, er utfallet løfterikt og langt bedre enn vi forventet.</p>
+<p>Et gjennomgående funn er nemlig at magesmerter og fordøyelsesbesvær ble betydelig redusert hos testpersonene etter at de tok i bruk appen.</p>
+<p>I tillegg til å regne ut enzymdoser gir appen pasient og pårørende sykdomstilpassede råd om ernæring. Hos deltagere i den kliniske utprøvingen ser dette ut til å ha endret kostholdsvaner på gunstig vis.</p>
+<p>Fem år gamle Joaquim er en av dem som har nytt godt av dette. I intervjuer med oss opplyser moren at gutten fikk diagnosen da han var to år. De tre neste årene klarte ikke foreldrene å stabilisere mage- og tarmhelsen hans. Så begynte de å bruke appen: «Etterpå har han økt kroppsvekten mye mer enn før. ... Sist sommer tok han igjen sin søster i vekt og høyde. Og magesmerter har han ikke hatt på lenge», forteller moren.</p>
+<p>Både algoritmen og resten av appen er resultater av det europeiske prosjektet MyCyFAPP (2015-2018), som også sto for den påfølgende kliniske utprøvingen. Her har medisinere, ernæringsspesialister, sykepleiere og dataforskere fra syv land samarbeidet. Sammen fikk vi se betydningen av brukermedvirkning.</p>
+<p>Mye handler i dag om stordata og kunstig intelligens. Det er vel og bra. Men det vi har vært med på å vise, er at digital støtte – her altså i form av en app – også kan fungere som en opplæringsmotor når det trengs at pasienter blir kunnskapsrike og selvhjulpne.</p>
+<p>«Motoren» behøver ikke gå hele tiden, og bør heller ikke det. For skulle pasientene hver dag vært nødt til å taste inn data om måltider og eventuelle symptomer, kunne de blitt så lei av maset at de slurvet med hva de skrev inn. Desto mer gledelig er det at pasientene i stedet ser ut til å lære raskt av appen – og huske dens anbefalinger, både om enzym- og næringsinntak.</p>
+<p>I prosjektet har vi lært mye om hva som skal få en app av denne typen til å virke nettopp slik.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>Det er nemlig ikke slik at man bare gi en app til pasienten og si: «Vær så god, bruk den. Denne er bra for deg».</p>
+<p>Pasienter og pårørende viser seg å ha ulike ferdigheter. Vi så derfor at oppfølging under tidlig bruk av appen er viktig. Samtidig lærte vi mye om hvordan helsepersonell kan bli veivisere på området.</p>
+<p>Nå jobbes det med kommersialisering av løsningen. Forhåpentlig kan funnene og erfaringene våre hjelpe oss til å lage lignende digitale støttetjenester også for andre pasientgrupper.</p></div></body></document>

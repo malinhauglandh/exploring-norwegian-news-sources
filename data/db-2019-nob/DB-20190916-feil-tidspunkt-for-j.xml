@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190916-feil-tidspunkt-for-j.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/feil-tidspunkt-for-jobbytte-gir-stor-pensjonssmell/71589739" frk="56 52 16 307 ## %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-16 19:57"/>
+<attribute name="author" value="Merete Landsend"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Feil tidspunkt for jobbytte gir stor pensjonssmell</div>
+<div type="ingress">Er du offentlig ansatt og vurderer å bytte sektor, bør du enten gjøre det i år eller vente.</div>
+<div type="author">Merete Landsend</div>
+<div type="date">2019-09-16</div>
+<div type="caption"><p>Et eksempel: Hvis du tjener 700 000 kroner i året og er født i 1963, kan du tape 200 000 kroner i pensjon hvis du bytter jobb på feil tidspunkt.</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190314---vi-lever-i-en-tid-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/l1pepG/-Vi-lever-i-en-tid-hvor-toskeskapen-rar" frk="40 0 0 250 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-14 15:29"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Språk,Språkrådet,Tog,Norge,NSB,Hordaland,Bergen,Teater,Arna"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Vi lever i en tid hvor toskeskapen rår</div>
+<div type="ingress">Et femtitalls bergensere markerte NSBs navneskifte med «sutrepils» onsdag.</div>
+<div type="author"></div>
+<div type="date">2019-03-14</div>
+<div type="caption"><p>«TØFFE TOGET»: Fra scenen på Logen Bar ble det mimret over hva toget har betydd for landet. FOTO: Paul S. Amundsen</p></div>
+</body></document>

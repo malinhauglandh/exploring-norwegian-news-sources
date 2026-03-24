@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190628-stor-karing-de-25-be.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/stor-karing-de-25-beste-artistene-fra-trondelag/71220317" frk="52 11 4 342 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-28 19:57"/>
+<attribute name="author" value="Mathilde Lea, Liselotte Hauer Kind (design)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="dagbladet kårer,pluss,musikk,motorpsycho,mathilde lea,kultur,knutsen og ludvigsen,dumdum boys,top1,trøndelag"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor kåring: De 25 beste artistene fra Trøndelag</div>
+<div type="ingress">I løpet av de neste ukene skal Dagbladet kåre de beste bandene og artistene fra hvert fylke i Norge. Vi starter kåringen med Trøndelag.</div>
+<div type="author">Mathilde Lea, Liselotte Hauer Kind (design)</div>
+<div type="date">2019-06-28</div>
+<div type="caption"><p>DAGBLADET KÅRER: Dagbladet kårer de beste artistene/bandene fra Trøndelag de siste 40 åra. Illustrasjon: Liselotte Hauer Kind / Dagbladet</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191009-her-far-du-den-norsk.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Op06w3/Her-far-du-den-norske-varianten-av-Game-of-Thrones" frk="31 0 0 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-09 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her får du den norske varianten av «Game of Thrones»</div>
+<div type="ingress">Denne spennende boken byr på en egenrådig konge, hans skjønne elskerinne og hennes mektige mor. De to siste fra Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-10-09</div>
+<div type="caption"></div>
+</body></document>

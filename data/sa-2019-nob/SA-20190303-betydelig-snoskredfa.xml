@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190303-betydelig-snoskredfa.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/4d5qvE/Betydelig-snoskredfare-i-dag" frk="59 0 0 360 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-03 10:13"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="vær,snø,skred"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Betydelig snøskredfare i dag</div>
+<div type="ingress">Det er betydelig fare for flak- og løssnøskred i Heiane på grunn av vindøkning søndag. Folk bes om å unngå leområder der det samler seg fersk fokksnø. Typisk bak rygger, i søkk og renner.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Mildværet i slutten av februar, mye nedbør og kraftig vind, gir skredfare i Sirdal i dag, søndag. Arkivfoto: Fredrik Refvem</p></div>
+</body></document>

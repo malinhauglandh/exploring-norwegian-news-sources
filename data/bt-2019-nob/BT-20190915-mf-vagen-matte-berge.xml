@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190915-mf-vagen-matte-berge.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/jdX06e/MF-Vagen-matte-berges-i-bolgene-i-Byfjorden" frk="24 0 0 144 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-15 17:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vær,Vågen,Motor,Båt"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">MF «Vågen» måtte berges i bølgene i Byfjorden</div>
+<div type="ingress">På årets siste tur stoppet motoren på MF «Vågen». Det kunne ha gått helt galt.</div>
+<div type="author"></div>
+<div type="date">2019-09-15</div>
+<div type="caption"></div>
+</body></document>

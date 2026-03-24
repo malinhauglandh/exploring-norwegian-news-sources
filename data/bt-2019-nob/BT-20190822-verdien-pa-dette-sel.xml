@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190822-verdien-pa-dette-sel.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/0nX3JG/Verdien-pa-dette-selskapet-er-mer-enn-halvert-siden-i-fjor-sommer" frk="21 0 0 149 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-22 08:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Oslo Børs,Aksjehandel,DOF,Hordaland,Økonomi"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Verdien på dette selskapet er mer enn halvert siden i fjor sommer</div>
+<div type="ingress">Likevel har aksjeformuen til hordalendingene aldri vært større.</div>
+<div type="author"></div>
+<div type="date">2019-08-22</div>
+<div type="caption"></div>
+</body></document>

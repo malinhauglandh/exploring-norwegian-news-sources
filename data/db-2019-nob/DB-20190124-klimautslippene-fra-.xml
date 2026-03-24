@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190124-klimautslippene-fra-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/klimautslippene-fra-elbiler-i-norge-er-ikke-dobbelt-sa-hoye-som-fra-fossilbiler/70694279" frk="57 0 0 362 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-24 10:30"/>
+<attribute name="author" value="Madeleine Hatlo"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="faktisk.no,faktisk helt feil,faktisk,elbil,innenriks,norge,nyheter,utslipp"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Klimautslippene fra elbiler i Norge er ikke dobbelt så høye som fra «fossilbiler»</div>
+<div type="ingress">Det er ingenting som tyder på at dette stemmer.</div>
+<div type="author">Madeleine Hatlo</div>
+<div type="date">2019-01-24</div>
+<div type="caption"><p>FEIL: Det er ingenting som tyder på at klimautslippene fra elbiler i Norge er dobbelt så høye som fra «fossilbiler», slik ingeniør Henning Flingtorp hevdet i et leserinnlegg i Dagens Næringsliv. Foto: NTB Scanpix</p></div>
+</body></document>

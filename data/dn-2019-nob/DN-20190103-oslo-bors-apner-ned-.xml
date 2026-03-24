@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190103-oslo-bors-apner-ned-.xml"/>
+<attribute name="url" value="http://www.dn.no/bors/oslo-bors-apner-ned-etter-at-apple-har-skapt-rabalder-i-markedene/2-1-510544" frk="88 5 3 575 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-03 08:14"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="bors"/>
+<attribute name="class2" value="Nyheter,Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Oslo Børs åpner ned etter at Apple har skapt rabalder i markedene</div>
+<div type="ingress">Apples resultatvarsel og kraftige fall i etterhandelen på Wall Street har preget finansmarkedene i natt. Torsdag faller Oslo Børs fra start. Apples resultatvarsel og kraftige fall i etterhandelen på Wall Street har preget finansmarkedene i natt. Torsdag faller Oslo Børs fra start.</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-01-03 08:14</div>
+<div type="caption">Oslo Børs. (Foto: Nicklas Knudsen) </div>
+<div type="text">
+<p>Etter få minutters handel er Oslo Børs ned 0,45 prosent torsdag morgen.</p>
+<p>Børsen får ingen drahjelp av oljeprisen som igjen faller torsdag etter et kraftig løft onsdag kveld.</p></div></body></document>

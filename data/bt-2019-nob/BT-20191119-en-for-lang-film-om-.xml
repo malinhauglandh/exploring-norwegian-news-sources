@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191119-en-for-lang-film-om-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/6jexo0/En-for-lang-film-om-et-uvanlig-langt-gangster-liv" frk="22 0 0 149 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En (for?) lang film om et uvanlig langt gangster-liv</div>
+<div type="ingress">Robert De Niro spiller seg gjennom en mannsalder i Scorseses «The Irishman».</div>
+<div type="author"></div>
+<div type="date">2019-11-19</div>
+<div type="caption"></div>
+</body></document>

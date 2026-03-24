@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190119-ansett-servitorer.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/OnKjr3/Ansett-servitorer" frk="55 5 2 359 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-19 14:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="restaurantanmeldelse,spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ansett servitører!</div>
+<div type="ingress">Maten er god på Brasserie X i Julie Eges gate, men service er fraværende i den kveldstomme hotellrestauranten som egentlig er en frokostsal.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Frokostsalen på Hotel Residence serverer middag fra klokka 18 på ukedager, men er først og fremst et tilbud til hotellets gjester og folk som behøver et arrangement. Jarle Aasland</p></div>
+</body></document>

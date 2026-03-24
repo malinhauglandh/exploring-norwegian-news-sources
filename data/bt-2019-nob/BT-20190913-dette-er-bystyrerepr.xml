@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190913-dette-er-bystyrerepr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qLXWJE/Dette-er-bystyrerepresentantene-til-FNB" frk="56 0 0 342 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-13 18:59"/>
+
+<attribute name="author" value="Hilde Olsen Aalvik"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Trym Aafløy,Webview,Folkeaksjonen Nei til mer Bompenger (FNB),Valg 2019"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er bystyrerepresentantene til FNB</div>
+<div type="ingress">På toppen av listen troner Trym Aafløy. Men hvem er egentlig de andre representantene som nå skal inn i bystyret for FNB?</div>
+<div type="author">Hilde Olsen Aalvik</div>
+<div type="date">13. sep. 2019 18:59</div>
+<div type="caption"><p>BYSTYREREPRESENTANTER: Stian Harborg Skare, Trym Aafløy, Cesilie Tveit og Rolf Erik Scott er blant dem som nå er klare til å gå inn i bystyret. FOTO: Rune Sævig</p></div>
+</body></document>

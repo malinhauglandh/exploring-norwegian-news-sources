@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191028-test-av-arets-nye-fe.xml"/>
+<attribute name="url" value="https://www.bt.no/sprek/i/awew4a/Test-av-arets-nye-ferdigretter--Denne-ville-jeg-aldri-spist-til-middag" frk="38 9 2 217 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-28 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sprek"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Test av årets nye ferdigretter: – Denne ville jeg aldri spist til middag</div>
+<div type="ingress">Hva får du i deg av næring ved å gå for en enklere løsning? To eksperter har sett på næringsinnholdet i 17 nye ferdigretter.</div>
+<div type="author"></div>
+<div type="date">2019-10-28</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190902-google-gir-apple-kal.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/mobil/personvern/sikkerhet/google-gir-apple-kalddusj-rett-for-arets-viktigste-dato/2-1-664065" frk="679 3 16 4422"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-02 05:02"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,mobil,personvern,sikkerhet"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Google gir Apple kalddusj – rett før årets viktigste dato</div>
+<div type="ingress">Apple markedsfører seg som «det eneste tech-selskapet du kan stole på». Nå rystes selskapet av en sikkerhetsskandale rett før årets Iphone-lansering. Apple markedsfører seg som «det eneste tech-selskapet du kan stole på». Nå rystes selskapet av en sikkerhetsskandale rett før årets Iphone-lansering.</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-09-02 05:02</div>
+<div type="caption">Googles sikkerhetsforskere har gitt Apple en kalddusj kort tid før neste Iphone-lansering. På bildet presenterer programvare-sjef Craig Federighi i Apple selskapets personvernstrategi under World Wide Developers Conference i juni i år. (Foto: NTB Scanpix/Justin Sullivan/Getty Images/AFP) </div>
+<div type="text">
+<p>Nylig publiserte Google en rapport fra sine sikkerhetsforskere som avdekker en rekke sikkerhetshull i Apples iOS-system, kjernen for all programvare på Iphone og Ipad.</p>
+<p>Kort fortalt er det snakk om at hackere i minst to år har utnyttet 14 sikkerhetshull i iOS ved å koble dem i fem kjeder som gir hackerne full tilgang til den infiserte telefonen. Alle bilder, kontaktinformasjon, notater, brukerens posisjon, epost og passord lagret i Apples nøkkelring-tjeneste blir tilgjengelig. Hackingen penetrerer telefonene så dypt at selv krypterte meldinger kan snappes opp av hackerne.</p>
+<p>– Dette er skremmende. Vi er vant til at angrep mot Iphone er rettede angrep utført av fremmede stater. Tanken på at noen har infisert alle Iphone-telefoner som har besøkt visse nettsider gir meg frysninger, sier sikkerhetsforsker Thomas Reed i sikkerhetsselskapet Malwarebytes til Wired.</p>
+<p>Hackerne som har utnyttet disse svakhetene har ikke gått etter enkeltindivider. De har infisert en rekke nettsteder slik at alle som besøkte disse nettstedene fra en Iphone eller Ipad blir infisert. Nettstedene er ikke offentliggjort.</p>
+<p>I verste fall kan svært mange av de 1,4 milliarder solgte Iphone og Ipad være infisert.</p></div>
+<div type="title" level="3">Minner om nasjonal overvåkning</div>
+<div type="text">
+<p>I sikkerhetsmiljøet har man hittil snakket om at dyp hacking av én Iphone vil koste kjøperen en til to millioner dollar å gjennomføre, og derfor har det vært lite utbredt. Denne avsløringen snur denne oppfatningen på hodet. Det koster det samme, men man kan overvåke tusenvis, kanskje millioner, av telefoner</p>
+<p>Ifølge eksperter ved Electronic Frontier Foundation finnes det mange stater som mer enn gjerne vil bruke en slik metode for å overvåke hele befolkningsgrupper – eller hele befolkningen. Inntrykket er at teknikken er designet for nasjonal bruk.</p>
+<p>– Etter å ha vært i drift i to år uten å ha blitt avslørt er det lite sannsynlig at dette har krysset landegrenser, sier Jake Williams, en tidligere NSA hacker og gründer i sikkerhetsselskapet Rendition Infosec til Wired.</p>
+<p>Google varslet Apple om disse sikkerhetshullene i februar, og de er nå tettet på alle oppdaterte Iphone- og Ipad-enheter.</p>
+<p>I slutten av juli avslørte The Guardian i tillegg kjent at flere underleverandører av Apple fikk tilgang til svært sensitive opplysninger om Iphone brukere gjennom opptak gjort av telefonens Siri-funksjon, som ledd i produktforbedringsarbeidet med tjenesten.</p></div>
+<div type="title" level="3">Ripe i lakken</div>
+<div type="text">
+<p>Det siste året har Apple tydelig kommunisert at de ønsker å bli oppfattet som den tryggeste smarttelefon-tilbyderen i verden. De har også tidligere posisjonert seg som personvernforkjempere, blant annet ved å stå imot krav fra FBI om å bidra til å låse opp telefoner tilhørende terrorister.</p>
+<p>Ved sine produktlanseringer det siste året har Apple for hvert nye produkt og tjeneste understreket at de er helt trygge og at personvernet er ivaretatt.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>Den siste tidens avsløringer viser at Apple kanskje ikke er så mye tryggere enn konkurrentene likevel, og for Apple er timingen svært dårlig.</p>
+<p>Den 10. september skal selskapet avsløre sin neste Iphone-modell og tradisjonelt er salget i fjerde kvartal deres overlegent høyeste gjennom året. Iphone har tradisjonelt stått for over halvparten av Apples inntekter, men de siste par årene har salget sunket. Ved forrige kvartalsrapport estimerte Wall Street Journal at salget var falt med 12 prosent sammenlignet med året før. I juni 2018 ble Apple også forbigått av Huawei som verdens nest største mobilprodusent etter Samsung. Ved utgangen av juni i år var Apple bare 0,4 prosentpoeng unna å miste tredjeplassen også.</p>
+<p>Apple er derfor helt avhengige av et godt salg i fjerde kvartal i år. Og da må lanseringen av det som antas å bli Iphone 11 gjenreise brukernes tillit til selskapet.</p></div></body></document>

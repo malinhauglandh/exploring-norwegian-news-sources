@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190408-pasienter-slipper-a-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/wPrBxM/Pasienter-slipper-a-dra-til-Oslo" frk="55 0 0 406 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-04-08 11:29"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Pasienter slipper å dra til Oslo</div>
+<div type="ingress">Denne traileren ankommer sykehuset i Kristiansand hver mandag for å gjøre såkalte PET-undersøkelser. Bildene avslører en rekke krefttyper og enkelte andre sykdommer.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Overlege Katrin Weigel ved nukleærmedisinsk seksjon forklarer litt om den nye, mobile PET-enheten som hver mandag står parkert ved Sørlandet sykehus i Kristiansand. FOTO: Kjartan Bjelland</p></div>
+</body></document>

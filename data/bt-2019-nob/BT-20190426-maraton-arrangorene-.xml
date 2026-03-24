@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190426-maraton-arrangorene-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/na97W5/Maraton-arrangorene-advarer-mot-bilkjoring-i-sentrum-lordag" frk="45 0 0 303 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-26 18:35"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kollektivtransport,Bergen City Marathon,Bilfritt sentrum,Viking"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Maraton-arrangørene advarer mot bilkjøring i sentrum lørdag</div>
+<div type="ingress">– Ikke kjør bil i sentrum lørdag! Det er den klare anbefalingen fra arrangørene av Bergen City Marathon.</div>
+<div type="author"></div>
+<div type="date">2019-04-26</div>
+<div type="caption"><p>IKKE KJØR! Bryggen vil være stengt for biltrafikk det meste av lørdagen. Her fra fjorårets arrangement. FOTO: Bård Bøe</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190327-melder-15-grader-og-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/xPm6oB/Melder-15-grader-og-sol" frk="40 9 2 207 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-27 13:52"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Melder 15 grader og sol</div>
+<div type="ingress">Synes du det er deilig vær i dag? Da kan du glede deg til de neste!</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Sol og varme er over oss. Bare å nyte det deilige vårværet de neste dagene! FOTO: Jacob Buchard</p></div>
+</body></document>

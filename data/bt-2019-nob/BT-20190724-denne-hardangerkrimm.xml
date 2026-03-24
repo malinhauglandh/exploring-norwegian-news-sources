@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-denne-hardangerkrimm.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/0n3572/Denne-hardangerkrimmen-blir-for-heseblesende" frk="20 0 0 167 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 20:34"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne hardangerkrimmen blir for heseblesende</div>
+<div type="ingress">Norseman Xtreme Triathlon i Eidfjord er det originale utgangspunktet for en noe overlesset fortelling.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

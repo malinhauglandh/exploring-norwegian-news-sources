@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191009-innlegg-datakrim---s.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/teknologi/virus/jostein-jensen/innlegg-datakrim-store-penger-og-lange-verdikjeder/2-1-685691" frk="738 8 41 4992"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-09 17:51"/>
+<attribute name="author" value="Jostein Jensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,teknologi,virus,jostein-jensen"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Innlegg: Datakrim – store penger og lange verdikjeder</div>
+<div type="ingress">Datakriminalitet og informasjonssikkerhet oppfattes av altfor mange som et it-teknisk problem. Samtidig vet vi at den kriminelle aktiviteten på nett er en stor lukrativ industri, som medfører uheldige konsekvenser for virksomheter og privatpersoner på daglig basis. Datakriminalitet og informasjonssikkerhet oppfattes av altfor mange som et it-teknisk problem. Samtidig vet vi at den kriminelle aktiviteten på nett er en stor lukrativ industri, som medfører uheldige konsekvenser for virksomheter og privatpersoner på daglig basis.</div>
+<div type="author">Jostein Jensen</div>
+<div type="date">2019-10-09 17:51</div>
+<div type="caption">Den kriminelle aktiviteten på nett er en stor lukrativ industri, som medfører uheldige konsekvenser for virksomheter og privatpersoner på daglig basis, skriver artikkelforfatteren. (Foto: Istock/Getty Images) </div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) rapporterer kraftig oppgang i datakriminalitet gjennom bruk av løsepengevirus i år. I Mørketallsundersøkelsen for 2016 står det om en bedrift som har hatt utbedringskostnader i millionklassen etter løsepengevirus, og en annen virksomhet som stengte ned nettverket som følge av dataangrep slik at 1200 medarbeidere ikke fikk jobbet.</p>
+<p>I det etterfølgende bruker jeg faser i digitale utpressingsangrep som eksempler for å illustrere at det finnes verdikjeder hvor kriminelle aktører tjener penger på salg av tjenester, og at vi derfor ikke kan forvente at utfordringene med datakriminalitet vil reduseres i overskuelig fremtid.</p>
+<p>Fase 1: Utvikling og salg av løsepengevirus. Personer med god it-kompetanse utvikler virus med formål å ødelegge filer på datamaskiner og nettverk, som det så kreves løsepenger for. Alle slags datavirus er salgsvare, og kan selges til høystbydende med ondsinnede motiver. De som lager et virus, er ikke nødvendigvis de som tar dem bruk.</p>
+<p>Fase 2: Etablering og salg av kanaler for å spre virus. De to vanligste kanalene for spredning av virus er epost og hackede nettsteder. De kriminelle tar i bruk din og min datamaskin for å spre virus i så store mengder som vi ser under store viruskampanjer sendt via epost. Først planter de skadevare på våre pc-er uten vår viten og vilje. Maskinene blir da en del av nettverk med mange andre virusinfiserte pc-er (såkalte botnets), som de kriminelle kontrollerer. Botnet-ene kan brukes til å sende ut epost. Tilgang til slike nettverk kan kjøpes som en tjeneste. På tilsvarende er det andre som tjener penger på å finne sårbarheter på nettsider, hvorpå de mot betaling bistår i å utnytte disse sårbarhetene til å spre skadevare.</p>
+<p>Fase 3: Spredning av virus og slag av kontaktinformasjon. I tilfellene der epost tas i bruk som spredningskanal for løsepengevirus, sendes infiserte vedlegg ut til enkeltpersoner. Lister med gyldige e-postadresser selges av aktører som bruker sin tid på å lage personprofiler om deg og meg. Enkelte lister inneholder tilfeldige personers kontaktopplysninger, mens andre kan inneholde informasjon som tillater målretting av e-postkampanjene.</p>
+<p>Fase 4: Infeksjon og pengeutpressing. Når et offer har klikket på et skadelig vedlegg i en epost, eller besøkt en nettside som sprer løsepengevirus, starter en krypteringsjobb på offerets datamaskinen. Løsepengeviruset skanner etter nettverk og filområder og krypterer/ødelegger alle filer det kommer over. Når krypteringsjobben er ferdig får offeret opp informasjon om å betale for å frigjøre filene. Hvis man ikke betaler er filene tapt for alltid. Løsepengene som betales gir direkte inntjening for gjerningspersonene.</p>
+<p>Forskere fra VeriSign har funnet at en snittpris for et botnet er 580 kroner for 24 timers leie, eller 80 kroner per time. Datatilsynet har skrevet en rapport om kommersiell bruk av personopplysninger, og viser til at dine og mine personopplysninger selges på nett for cirka 0,004 kroner per personprofil. Høy kvalitet på profilen kan øke verdien med inntil to kroner. Til tross for at enkeltbeløpene for kjøp av disse tjenestene er små, blir totalomsetningen for de kriminelle stor.</p>
+<p>Pengeutpressing ved hjelp av løsepengevirus er svært lønnsomt. BusinessInsider.com skrev i juni om en russisk leder for et løsepengevirusteam som tjente 64.000 kroner i måneden på utpressingsaktivitet, mot en gjennomsnittlig russisk månedslønn på cirka 4300 kroner. I 2014 fant FBI en kriminell liga i en stor kryptovirussak der de anslo at gjerningspersonene hadde tjent mer enn 27 millioner dollar (233 millioner kroner) på løsepenger i løpet av en tomåneders periode.</p>
+<p>Tilsvarende scenarioer og verdikjeder som vist over kan vi sette opp for flere digitale trusler, slik som svindel via banktrojanere, digital industrispionasje, kredittkortsvindler og id-tyveri. Det er viktig at alle får øynene opp for de kriminelle handlingene som skjer, hver dag, slik at både politiske nivå, virksomhetsledere og privatpersoner erkjenner risikoen i det digitale rom, og tar nødvendige grep for å sikre samfunnet, virksomheten og private interesser. Digitale sikkerhetsutfordringer løses ikke av it-mennesker alene.</p></div></body></document>

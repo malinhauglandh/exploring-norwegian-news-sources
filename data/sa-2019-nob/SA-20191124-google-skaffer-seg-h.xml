@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191124-google-skaffer-seg-h.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/utenriks/i/jdxqwL/Google-Skaffer-seg-helsedata-fra-50-millioner-mennesker" frk="59 9 4 436 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-24 10:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="alphabet,data,fitbit,forsikring,forskning,google,sykehus,teknologi,the guardian,the wall street journal,treningsarmbånd,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Google: Skaffer seg helsedata fra 50 millioner mennesker</div>
+<div type="ingress">USA: Myndighetene vil undersøke om Google har brutt loven. Ifølge en varsler får techgigantens ansatte muligheter til å pløye seg gjennom helsedata fra 50 millioner amerikanere. Google avviser anklagen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ifølge en varsler skal Google-ansatte ha tilgang på andres helsedata. Millioner av menneskers data ligger på selskapets servere. Dado Ruvic, Reuters/Scanpix</p></div>
+</body></document>

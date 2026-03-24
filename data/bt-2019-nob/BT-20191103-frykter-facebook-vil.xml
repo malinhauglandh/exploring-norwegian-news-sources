@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191103-frykter-facebook-vil.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/K3XGEE/Facebook-vil-innfore-kryptering-i-alle-samtaler" frk="47 0 0 297 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-03 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Frykter Facebook vil gjøre det enklere for pedofile å operere på internett</div>
+<div type="ingress">Flere lands myndigheter er redd for at kryptering vil gjøre det enklere for pedofile å operere på internett, men Facebook er likevel i gang med å innføre kryptering av alle samtaler på sine plattformer.</div>
+<div type="author"></div>
+<div type="date">2019-11-03</div>
+<div type="caption"></div>
+</body></document>

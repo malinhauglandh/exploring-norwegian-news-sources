@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190918-ser-ingen-annen-utve.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K31j0G/Ser-ingen-annen-utvei-enn-a-legge-ned-Norges-eldste-skiheis" frk="47 13 4 293 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-18 18:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,Dugnad"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ser ingen annen utvei enn å legge ned Norges eldste skiheis</div>
+<div type="ingress">Oppheimsheisen på Voss blir nedlagt. Den har vært drevet siden 1962.</div>
+<div type="author"></div>
+<div type="date">2019-09-18</div>
+<div type="caption"><p>LEGGER NED: Nye krav til styringssystemer og sikkerhet gjør at det blir for kostbart å holde Oppheimsheisen AS i drift. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

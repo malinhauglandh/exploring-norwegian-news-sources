@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190202-gentest-avslorer-myt.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/gentest-avslorer-myteomspunnet-nazi-topp/70716048" frk="54 0 0 346 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-02 20:55"/>
+<attribute name="author" value="Asbjørn Svarstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nazi-tyskland,andre verdenskrig,adolf hitler,utenriks,rudolf hess,nazismen,pluss,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Gentest avslører myteomspunnet nazi-topp</div>
+<div type="ingress">Det var faktisk Hitlers stedfortreder som satt på tiltalebenken i Nürnberg – og ikke en dobbeltgjenger som utga seg for å være Rudolf Hess.</div>
+<div type="author">Asbjørn Svarstad</div>
+<div type="date">2019-02-02</div>
+<div type="caption"><p>NÛRNBERG: Rudolf Hess sitter til høyre for Hermann Göring. Under deler av saken, hevdet Hess at han led av hukommelsestap. Foto: AP / NTB scanpix</p></div>
+</body></document>

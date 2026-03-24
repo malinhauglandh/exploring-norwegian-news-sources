@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191216-byfjorden-er-bergens.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/QoW7QA/Byfjorden-er-Bergens-vindu-mot-verden" frk="28 11 2 167 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-16 06:16"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Byfjorden er Bergens vindu mot verden</div>
+<div type="ingress">Dag 16: Byfjorden</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 16. desember 2019 06:16</div>
+<div type="caption"><p>JULEKALENDER: Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191022-politiet-rykket-ut-t.xml"/>
+<attribute name="url" value="http://www.nordlys.no/politi/promille/trafikk/politiet-rykket-ut-til-utforkjoring-sa-oppdaget-de-olboksen-i-grofta/s/5-34-1214416" frk="30 0 0 187 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-10-22 13:01"/>
+<attribute name="author" value="Stian Saur"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet rykket ut til utforkjøring. Så oppdaget de ølboksen i grøfta...</div>
+<div type="ingress">Politiet ble oppringt av en person som sa at bilen sto i grøfta og at sjåføren virket beruset.</div>
+<div type="author">Av Stian Saur</div>
+<div type="date">22. oktober 2019, kl. 13:01</div>
+<div type="caption"></div>
+</body></document>

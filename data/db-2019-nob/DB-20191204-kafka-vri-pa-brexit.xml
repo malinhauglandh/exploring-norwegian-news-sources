@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191204-kafka-vri-pa-brexit.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/kafka-vri-pa-brexit/71865346" frk="56 23 8 338 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-12-04 10:44"/>
+<attribute name="author" value="Inger Bentzrud"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kafka-vri på Brexit</div>
+<div type="ingress">Ian McEwan har snudd Kafkas berømte fortelling fra 1915 på hodet, for å si noe om tilstanden i Storbritannia i 2019.</div>
+<div type="author">Inger Bentzrud</div>
+<div type="date">2019-12-04</div>
+<div type="caption"><p>PRODUKTIV: Ian McEwan kaster seg inn i den aktuelle debatten med sin nye kortroman, bare måneder etter at han lanserte sin forrige bok av året, «Maskiner som meg». Foto: NTB SCANPIX</p></div>
+</body></document>

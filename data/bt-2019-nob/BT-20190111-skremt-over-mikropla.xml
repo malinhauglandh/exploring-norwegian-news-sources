@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190111-skremt-over-mikropla.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/G17xK4/Skremt-over-mikroplastfunn-i-Byfjorden" frk="44 0 0 315 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-11 11:24"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Plastavfall"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skremt over mikroplastfunn i Byfjorden</div>
+<div type="ingress">Det er oppsiktsvekkende mye mikroplast på bunnen av Byfjorden, ifølge forsker Marte Haave.</div>
+<div type="author"></div>
+<div type="date">2019-01-11</div>
+<div type="caption"><p>MILJØPROBLEM: Plastforsker Marte Haave har undersøkt hvor mye mikroplast som finnes på bunnen av Byfjorden. – Nivåene er skremmende høye, sier Haave. FOTO: Tor Høvik</p></div>
+</body></document>

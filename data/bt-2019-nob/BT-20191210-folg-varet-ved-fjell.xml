@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191210-folg-varet-ved-fjell.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/WbywQL/Folg-varet-ved-fjellovergangene" frk="21 0 0 156 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg været ved fjellovergangene</div>
+<div type="ingress">Her kan du finne direktebilder fra flere av de sentrale fjellovergangene, samt andre veistrekk i fylket.</div>
+<div type="author"></div>
+<div type="date">2019-12-10</div>
+<div type="caption"></div>
+</body></document>

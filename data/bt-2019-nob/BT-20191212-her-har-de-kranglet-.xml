@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191212-her-har-de-kranglet-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/8mL38Q/Etter-mange-ars-kamp-far-boligeierne-pa-Montana-selge-til-markedspris" frk="35 8 2 226 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-12 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her har de kranglet i årevis om å få selge 62 boliger til markedspris. Nå har de vunnet frem.</div>
+<div type="ingress">Høyesterett har avslått Bergen kommunes anke. Dermed står dommen fra lagmannsretten, som ga boligeierne medhold.</div>
+<div type="author"></div>
+<div type="date">2019-12-12</div>
+<div type="caption"></div>
+</body></document>

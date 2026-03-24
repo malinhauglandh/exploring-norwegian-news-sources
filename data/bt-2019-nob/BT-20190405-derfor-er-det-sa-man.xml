@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190405-derfor-er-det-sa-man.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/RRjebd/Derfor-er-det-sa-mange-bysykler-pa-veiene" frk="59 0 0 334 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-05 11:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Vær,Sykling,Bysykkel,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Derfor er det så mange bysykler på veiene</div>
+<div type="ingress">Du har sikkert sett dem. Torsdag denne uken var det nesten ti ganger så mange som tok seg en tur på en bysykkel som på en normal torsdag.</div>
+<div type="author"></div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>UTFORSKER BERGEN: David Piscoya og Øystein Bru Schjelderup bruker bysyklene til å se så mye som mulig av Bergen. FOTO: Alice Bratshaug</p></div>
+</body></document>

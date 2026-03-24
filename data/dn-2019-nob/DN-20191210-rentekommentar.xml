@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191210-rentekommentar.xml"/>
+<attribute name="url" value="http://www.dn.no/borskommentar/rentekommentar/2-1-721630" frk="58 30 11 364 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-12-10 18:57"/>
+<attribute name="author" value="Nicolay Steensen / TDN Direkt"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="borskommentar"/>
+<attribute name="class2" value="Børs,Børskommentar"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rentekommentar</div>
+<div type="ingress">Norske kroner svekket seg med rundt 0,6 prosent mot euro etter at Norges Bank la frem rapporten Regionalt nettverk 4/2019 tirsdag. Rapporten bekrefter at norsk økonomi kommer til å møte en avmatning i 2020, både i form av at veksten blir litt lavere, sysselsettingsveksten dempes og en produksjon som ser ut til å ha nådd toppen.</div>
+<div type="author">Nicolay Steensen / TDN Direkt</div>
+<div type="date">2019-12-10 18:57</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

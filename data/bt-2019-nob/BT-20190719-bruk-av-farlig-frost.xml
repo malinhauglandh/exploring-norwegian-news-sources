@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190719-bruk-av-farlig-frost.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/XgE967/Bruk-av-farlig-frostsikring-skal-granskes-etter-tunnelbrann" frk="37 0 0 260 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-19 10:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Tog,Kollektivtransport,Brann,Bane NOR,Statens jernbanetilsyn,Tilsynsrapport,Bergen brannvesen,Bergen,Trafikk,Trengereid,Tunnel"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bruk av farlig frostsikring skal granskes etter tunnelbrann</div>
+<div type="ingress">Jernbanetilsynet frykter det er brukt mer brannfarlig skum i Ulrikstunnelen enn de har visst om.</div>
+<div type="author"></div>
+<div type="date">2019-07-19</div>
+<div type="caption"><p>INNSTILT: Alle tog fra Bergen ble innstilt etter brannen torsdag. FOTO: Nima Taheri</p></div>
+</body></document>

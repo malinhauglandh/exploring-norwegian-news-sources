@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191115-2000-nye-bankkunder-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/rAOqPw/2000-nye-bankkunder-innkalt" frk="37 35 8 228 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-15 12:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">2000 nye bankkunder innkalt</div>
+<div type="ingress">Om lag 2000 Nordea-kunder på Sørlandet er nå innkalt for å legitimere seg.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Tusenvis av bankkunder må i sin bank for å legitimere seg med pass etter krav fra myndighetene. FOTO: NTB</p></div>
+</body></document>

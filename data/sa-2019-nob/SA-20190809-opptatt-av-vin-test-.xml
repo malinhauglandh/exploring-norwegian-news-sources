@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190809-opptatt-av-vin-test-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/VboEKl/Opptatt-av-vin-Test-ut-kunnskapene-dine-ved-a-sammenligne-disse-vinene" frk="36 0 0 241 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-09 09:13"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Opptatt av vin? Test ut kunnskapene dine ved å sammenligne disse vinene</div>
+<div type="ingress">De sier studenter som ikke øver i ferien opplever reell tilbakegang. Her er noen behagelige hjemmelekser som holder vin-nivået ditt oppe.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Agnete Brun</p></div>
+</body></document>

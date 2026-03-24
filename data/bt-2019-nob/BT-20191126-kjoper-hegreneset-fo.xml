@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191126-kjoper-hegreneset-fo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Op1oRV/Kjoper-Hegreneset-for-a-bygge-800-boliger-i-Sandviken" frk="17 25 3 116 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-26 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kjøper Hegreneset for å bygge 800 boliger i Sandviken</div>
+<div type="ingress">Kornsiloen på Hegreneset skal få nytt liv.</div>
+<div type="author"></div>
+<div type="date">2019-11-26</div>
+<div type="caption"></div>
+</body></document>

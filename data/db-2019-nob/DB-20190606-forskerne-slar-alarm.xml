@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190606-forskerne-slar-alarm.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/forskerne-slar-alarm-frykter-for-folks-helse/71150262" frk="51 0 0 337 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-06 19:53"/>
+<attribute name="author" value="Maria Caroline Skrede"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="klimaendringer,helserisiko,utenriks,eu-rapport,nyheter,pluss,klima"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forskerne slår alarm: Frykter for folks helse</div>
+<div type="ingress">En ny rapport slår fast at klimaendringene utgjør en alarmerende trussel for helsa i Europa og en økning i ekstremvær.</div>
+<div type="author">Maria Caroline Skrede</div>
+<div type="date">2019-06-06</div>
+<div type="caption"><p>KAN SKJE HYPPIGERE: Skogbrann, lik denne som oppstod ved Arendal, kan skje hyppigere som følge av klimaendringene. Foto: Thomas Rasmus Skaug / Dagbladet</p></div>
+</body></document>

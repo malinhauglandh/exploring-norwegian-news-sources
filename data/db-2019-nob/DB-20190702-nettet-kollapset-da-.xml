@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190702-nettet-kollapset-da-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/nettet-kollapset-da-selskapet-snublet/71362976" frk="624 13 53 4040"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-02 20:44"/>
+<attribute name="author" value="Jesper Nordahl Finsveen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="dns,cloudflare,it,utenriks,nyheter,teknologi,internett"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nettet kollapset da selskapet snublet</div>
+<div type="ingress">I forrige uke fikk de «hjerteinfarkt». I dag ble nettgiganten Cloudflare på nytt rammet av trøbbel. Det påvirker nesten hele verden.</div>
+<div type="author">Jesper Nordahl Finsveen</div>
+<div type="date">2019-07-02</div>
+<div type="caption"><p>SLIK RAMMET KOLLAPSEN: Dette varmekartet viser hvor utslagene fra Cloudflares nedetid var størst. Problemene påvirket nettsider som brukes over hele verden. Foto: Skjermdump Downdetector</p> <p>NETTSVINDEL: Så lett er det å gå i limfella etter det du tror er et google-søk. Video: Ingebjørg Iversen / Dagbladet TV</p> <p>VIRALT: Denne videoen gikk viralt på slutten av 90-tallet, men sannheten bak raseriutbruddet er en litt annen enn man først trodde.</p></div>
+<div type="text">
+<p>For andre gang på kort tid har den amerikanske nettgiganten Cloudflare opplevd store tekniske problemer.</p>
+<p>I forrige uke ble selskapet rammet av et «lite hjerteinfarkt», en karakteristikk de selv brukte. I dag opplevde selskapet, med base i California, på nytt problemer.</p>
+<p>Og når Cloudflare har problemer, er sjansen stor for at også du opplever problemer.</p></div>
+<div type="title" level="3">Millioner rammet</div>
+<div type="text">
+<p>I dag rammet Cloudflare-problemene hele nettverket deres, som har 16 millioner kunder. Det vil si at flere millioner nettsider kan ha blitt rammet av problemene.</p>
+<p>I praksis betød feilen hos Cloudflare at man ikke kom seg inn på nettsidene man ville besøke.</p>
+<p>DownDetector is unable to tell if cloudflare is down because cloudflare is down. &#128579; pic.twitter.com/pBSgv9QISc</p>
+<p>— Tarjei Husøy (@t_husoy) July 2, 2019</p>
+<p>Ironisk nok var en av nettsidene som ble rammet av Cloudflare-feilene downdetector.com, et nettsted som overvåker hvorvidt andre populære nettsider er nede eller ei.</p>
+<p>Alt fra chattetjenesten Discord, datingnettstedet OKCupid og kryptovaluta-nettstedet CoinDesk ble rammet av feilen, skriver BBC.</p></div>
+<div type="title" level="3">Full Bitcoin-forvirring</div>
+<div type="text">
+<p>Som følge hersket det en liten stund forvirring omkring prisen på kryptovalutaen Bitcoin.</p>
+<p>ALERT: Due to a cloudflare outage, we're getting bad data from our providers, which is showing incorrect crypto prices. Calm down everyone, Bitcoin is not $26.</p>
+<p>— CoinDesk (@coindesk) July 2, 2019</p>
+<p>Mange sperret nok opp øynene da de leste at prisen på verdens mest populære kryptovaluta var skarve 26 amerikanske dollar.</p>
+<p>I realiteten var prisen over 10 000 dollar, ifølge BBC.</p>
+<p>«Slapp av alle sammen, (prisen på) Bitcoin er ikke 26 dollar», skrev CoinDesk på Twitter.</p>
+<p>De som så sitt snitt til å kjøpe billig Bitcoin ble muligens skuffet. De som allerede var i besittelse av Bitcoin var nok lettet for at verdien ikke hadde falt med rundt 10 000 dollar - rundt 85 600 kroner.</p>
+<p>Agree. Unacceptable.</p>
+<p>— Matthew Prince &#127781; (@eastdakota) July 2, 2019</p></div>
+<div type="title" level="3">«Uakseptabelt»</div>
+<div type="text">
+<p>Cloudflare selv melder i kveld norsk tid at de mener å ha funnet årsaken til problemene, og at feilen er rettet.</p>
+<p>Det skal ha vært feil i ny programvare som ble innført, som forårsaket problemene hos Cloudflare, som i tur påvirket hele verden.</p>
+<p>Det var en annen feil som rammet selskapet i forrige uke, men konsekvensene var uansett det samme: internettet, slik vi kjenner det, ble lammet.</p>
+<p>Det var det også flere som poengterte overfor Cloudflares grunnleger og administrerende direktør, Matthew Prince, på Twitter i dag.</p>
+<p>«Hva gjør dere for å fikse dette? Det er superirriterende», skrev en bruker til Prince.</p>
+<p>Grunnleggeren svarte kontant.</p>
+<p>«Enig. Uakseptabelt.»</p></div>
+<div type="title" level="3">Dette gjør Cloudflare</div>
+<div type="text">
+<p>Nettgiganten Cloudflare tilbyr tjenester til millioner av nettsteder. De tilbyr blant annet beskyttelse mot såkalte DDoS-angrep.</p>
+<p>I praksis fungerer selskapet som et bindeledd mellom sine kunders nettsteder og den som besøker nettstedet. På denne måten tar de av for trafikk, og sørger for at nettsida er rask og tilgjengelig verden over.</p>
+<p>I tillegg tilbyr de DNS-tjener.</p>
+<p>Det er enkelt forklart en tjeneste som oversetter hjemmesidenavn til IP-adresser.</p>
+<p>En nettside har en IP-adresse i tallformat, bestående av alt fra fire til tolv sifre. Dette er uhensiktsmessig for forbrukere.</p>
+<p>Da trenger man en tjeneste som oversette de ti sifrene til for eksempel www.dagbladet.no, Derfor ber PC-en du bruker om IP-adressen hos DNS-tjeneren.</p>
+<p>Hvis den er nede, kommer du dermed ikke inn.</p></div></body></document>

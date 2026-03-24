@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190628-foo-fader-sa-fett.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/qLVeQm/Foo-fader-sa-fett" frk="10 0 0 71 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-28 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Foo fader så fett!</div>
+<div type="ingress">Foo Fighters for fulle sylindre.</div>
+<div type="author"></div>
+<div type="date">2019-06-28</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190826-oleka-har-kvelda.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/pLbX5W/Oleka-har-kvelda" frk="33 0 0 253 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-26 07:12"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,Sunnmøre,Lokalpolitikk,Bergens Tidende,Sogndal,Hordaland,Norsk Journalistlag,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Olekå har kvelda</div>
+<div type="ingress">Journalist Olav Kjelsvik døyde laurdag.</div>
+<div type="author"></div>
+<div type="date">2019-08-26</div>
+<div type="caption"><p>OLAV KJELSVIK: Skråblikket og underfundige, treffsikre karakteristikkar kom best til syne i petit-spaltene med signaturen – olekå, skriv Arne Hofseth i minneordet. FOTO: privat</p></div>
+</body></document>

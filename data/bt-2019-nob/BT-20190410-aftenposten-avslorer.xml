@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190410-aftenposten-avslorer.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/e87VPQ/Aftenposten-avslorer-Ap-politiker-leverte-fiktive-reiseregninger-til-Stortinget" frk="47 0 0 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-10 17:27"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Aftenposten avslører: Ap-politiker leverte fiktive reiseregninger til Stortinget</div>
+<div type="ingress">Arbeiderpartiets Hege Haukeland Liadal har krevd tusenvis av kroner fra Stortinget for en rekke reiser som aldri har funnet sted. Hun har også fått penger for å ha vært på familiens hytte og på private reiser i utlandet.</div>
+<div type="author"></div>
+<div type="date">2019-04-10</div>
+<div type="caption"></div>
+</body></document>

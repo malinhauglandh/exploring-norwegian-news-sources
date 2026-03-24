@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190628-stromkabel-fra-flekk.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/K3alW7/Stromkabel-fra-Flekkefjord-til-Tyskland-ferdig" frk="45 18 6 330 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-06-28 09:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Strømkabel fra Flekkefjord til Tyskland ferdig</div>
+<div type="ingress">Onsdag ble de siste meterne av den 516 kilometer lange strømkabelen installert på sjøbunnen mellom Flekkefjord og den tyske byen Büsum i Schleswig-Holstein.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Den 516 kilometer lange strømkabelen mellom Norge og Tyskland ble ferdig før tiden. FOTO: Woldcam/Statnett</p></div>
+</body></document>

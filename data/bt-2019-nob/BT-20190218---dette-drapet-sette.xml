@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190218---dette-drapet-sette.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/ddK6oB/-Dette-drapet-setter-en-stokk-i-oss-alle" frk="48 0 0 317 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-18 14:01"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Ungdomskriminalitet,Drap,Kriminalpolitikk,Circle K,Ungdom,Gjengkriminalitet,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Dette drapet setter en støkk i oss alle</div>
+<div type="ingress">Byrådsleder Harald Schjelderup sier at drapet inngår i en trend med økende ungdomskriminalitet i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-02-18</div>
+<div type="caption"><p>TRYGG BY: Byrådsleder Harald Schjelderup understreker at Bergen er en trygg by, men at enkelte områder bør vies ekstra oppmerksomhet. FOTO: Rune Sævig</p></div>
+</body></document>

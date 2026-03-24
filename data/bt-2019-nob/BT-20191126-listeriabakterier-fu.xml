@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191126-listeriabakterier-fu.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/rA4rm8/Listeriabakterier-funnet-i-rakfisk--produkt-trekkes-fra-markedet" frk="51 2 1 372 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-26 11:05"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Listeriabakterier funnet i rakfisk – produkt trekkes fra markedet</div>
+<div type="ingress">Rakefiskprodusenten Haadum Fisk trekker tilbake produktet «Hel rakfisk i spann – 4 kg» etter funn av listeriabakterier, melder Mattilsynet.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 26. november 2019 11:05</div>
+<div type="caption"><p>Spann med rakfisk fra produsenten Haadem Fisk i Valdres er trukket tilbake fra markedet etter funn av listeriabakterier. Mattilsynet / NTB scanpix</p></div>
+</body></document>

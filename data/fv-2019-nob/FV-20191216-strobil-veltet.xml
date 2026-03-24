@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191216-strobil-veltet.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/70M5o9/Strobil-veltet" frk="41 10 3 273 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-16 15:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyheter,nyhetsdognet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Strøbil veltet</div>
+<div type="ingress">Mandag formiddag ble de meldt at om en trafikkulykke på fylkesvei 455 i Marnardal. En strøbil kjørte av veien og veltet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En strøbil veltet i Marnardal mandag formiddag. Sjåføren kom fra utforkjøringen uten skader. FOTO: Jarle R. Martinsen</p></div>
+</body></document>

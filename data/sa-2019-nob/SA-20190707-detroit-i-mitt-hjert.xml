@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190707-detroit-i-mitt-hjert.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/1nx90B/Detroit-i-mitt-hjerte" frk="37 0 0 238 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-07 12:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="70-tallet,byutvikling,bilindustri,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Detroit i mitt hjerte</div>
+<div type="ingress">Wow, hva har skjedd!? Her er det jo folkeliv, vakre bygninger, et vel av restauranter og butikker, byggekraner og bygningsarbeidere over alt – og helt normale folk som spaserer eller sykler rundt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

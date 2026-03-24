@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191231-nordmenn-flyr-inn-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/Ad9qK5/Nordmenn-flyr-inn-i-2020-pa-forste-klasse" frk="36 36 8 217 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-31 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nordmenn flyr inn i 2020 på første klasse</div>
+<div type="ingress">Flyene på Gardermoen står i kø, og champagnekorkene smeller i taket. Klesskapet er stappfullt. Hver av oss forbruker nå 50 prosent mer enn for 20 år siden.</div>
+<div type="author"></div>
+<div type="date">2019-12-31</div>
+<div type="caption"></div>
+</body></document>

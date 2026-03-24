@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191017-skole-app-ga-ut-hemm.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/8mzo8Q/Skole-app-ga-ut-hemmelige-opplysninger-igjen--na-pa-Ostlandet" frk="374 3 8 2170" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-17 04:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skole-app ga ut hemmelige opplysninger igjen – nå på Østlandet</div>
+<div type="ingress">En alenemor i en stor kommune på Østlandet vurderer ifølge NRK å flytte etter at barnefaren via appen Vigilo nylig fikk vite hvilken skole barnet går på.</div>
+<div type="author"></div>
+<div type="date">2019-10-17</div>
+<div type="caption"></div>
+<div type="text">
+<p>Oppdatert i dag 06:19</p>
+<p>NTB</p>
+<p>Pål Andreas Mæland</p>
+<p>BT skrev forrige uke om sikkerhetssvikten i skoleappen Vigilo, som gjorde at foreldre uten foreldreansvar automatisk ble lagt til i appen.</p>
+<p>I alt gjelder dette 2576 barn. Tre av dem bor på hemmelig adresse. Ti har familieforhold som gjør at en av foreldrene ikke skal ha noen form for informasjon om barna. Det kan for eksempel handle om besøksforbud eller barnevernstiltak.</p>
+<p>Onsdag fortalte BT historien om en familie som lever i frykt for ekssamboer og far etter kommunens tabbe med appen.</p>
+<p>Les også</p></div>
+<div type="title" level="3"> – Vi er ikke trygge her lenger. Vi var det, men nå er alt ødelagt. </div>
+<div type="title" level="3">Fikk besøksforbud</div>
+<div type="text">
+<p>Nå melder NRK om nytt avvik, denne gangen på Østlandet. For mer enn ti år siden ble barnefaren det gjelder dømt til besøksforbud, og mor og barn har bodd på hemmelig adresse siden da. Nå er det imidlertid gått over ti år siden hendelsen, så adressen er ikke sperret og besøksforbudet gjelder ikke, men moren har foreldreansvaret.</p>
+<p>Etter barneloven kan barnefaren søke om å få opplysninger om barnet, men om det er til skade for barnet, kan man nekte å gi faren opplysninger. Den vurderingen ble ikke tatt da Vigilo-appen sendte mannen en autogenerert epost med informasjon om innlogging, samt navnet på skolen der barnet hans er elev. Moren ble ikke varslet om at faren var lagt til i appen, hun så det selv i oktober. Nå er hun redd.</p>
+<p>– Jeg kommer til å leve i frykt til vi har flyttet, sier hun til NRK.</p></div>
+<div type="title" level="3">«Obs på utfordringer»</div>
+<div type="text">
+<p>– Vi beklager at vi har bidratt til at dette har blitt en vanskelig situasjon, sier utdanningsdirektøren i kommunen.</p>
+<p>Vigilo sier at selskapet snakker med kommunen om personvernforhold på lik linje med andre kommuner i kundekretsen, og at på generelt grunnlag må kommuner må «være obs på utfordringer knyttet til import av data fra Folkeregisteret».</p>
+<p>En firedel av skolene i landet og en tredel av barnehagene er kunder hos Vigilo, ifølge NRK. Flere blir kunder i løpet av høsten.</p></div></body></document>

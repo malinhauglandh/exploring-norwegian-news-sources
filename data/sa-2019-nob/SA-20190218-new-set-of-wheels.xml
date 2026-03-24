@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190218-new-set-of-wheels.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/L0rrRP/New-set-of-wheels" frk="27 14 2 140 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-18 12:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="70-tallet,60-tallet,magasinet,ketil solvik-olsen,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">New set of wheels</div>
+<div type="ingress">Ketil Solvik Olsen har hatt en amerikansk familie i mer enn 30 år. Og en Buick i bare en dag eller to.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

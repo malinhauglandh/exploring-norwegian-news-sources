@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190224-disse-kjopesentrene-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/kan5n9/Disse-kjopesentrene-har-storst-lonnsomhet" frk="45 0 0 283 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-24 10:12"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Åsane Storsenter,Varehandel,Danske Bank,Kino,Vestkanten,Åsane,Oasen,Forbruker,Delingsøkonomi,Netthandel,Galleriet,Transport,Bergen,Økonomi,Bergen Storsenter,Handel,Sartor Storsenter"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Disse kjøpesentrene har størst vekst</div>
+<div type="ingress">I Bergen sentrum er det mindre lønnsomt å drive kjøpesenter enn i resten av landet. Drar du ut av byen er historien en annen.</div>
+<div type="author"></div>
+<div type="date">2019-02-24</div>
+<div type="caption"><p>BABYSHOPPING: Ingvild Revne handler klær til babyen sin på Åsane Storsenter. FOTO: Bjørn Erik Larsen</p></div>
+</body></document>

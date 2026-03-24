@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190527-brann-pepet-av-banen.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/dOMKQX/Brann-pepet-av-banen-etter-a-ha-blitt-ydmyket-av-Rosenborg" frk="26 0 0 159 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-27 14:01"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Eliteserien,SK Brann,Rosenobrg BK"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brann pepet av banen etter å ha blitt ydmyket av Rosenborg</div>
+<div type="ingress">Brann kom fra tre strake seirer i serien. Det endte med ydmykelse mot Rosenborg.</div>
+<div type="author"></div>
+<div type="date">2019-05-27</div>
+<div type="caption"></div>
+</body></document>

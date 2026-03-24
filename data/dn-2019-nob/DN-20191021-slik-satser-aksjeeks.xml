@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191021-slik-satser-aksjeeks.xml"/>
+<attribute name="url" value="http://www.dn.no/bors/slik-satser-aksjeekspertene-denne-uken/2-1-691667" frk="114 4 4 807"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-21 06:56"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="bors"/>
+<attribute name="class2" value="Nyheter,Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik satser aksjeekspertene denne uken</div>
+<div type="ingress">Slik ser aksjeanbefalingene til deltagerne i DNs porteføljekonkurranse ut denne uken:</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-10-21 06:56</div>
+<div type="caption">Oslo Børs. (Foto: Gorm K. Gaare) </div>
+<div type="text">
+<p>Slik ser aksjeanbefalingene til deltagerne i DNs porteføljekonkurranse ut denne uken:</p>
+<p>Alfred Berg Kapitalforvaltning: DNB, Protector, Axactor, Tomra, Lerøy Seafood Group, Subsea 7, Hexagon, Nel og Yara</p>
+<p>Ut: Equinor</p>
+<p>Arctic Fund Management: SR-Bank, Crayon, BW LPG, Atea, Salmar, Lerøy Seafood og Entra</p>
+<p>Ut: Gjensidige og BW Offshore</p>
+<p>DNB Markets: Frontline, Yara, Equinor, Evry, Sparebank 1 SR-Bank, Europris, Entra, Telenor og Lerøy Seafood</p>
+<p>Ut: Scatec Solar og Orkla</p>
+<p>Inn: Lerøy Seafood</p>
+<p>Sparebank 1 Markets: Norway Royal Salmon, Lerøy Seafood, Grieg Seafood, Fjord1, Bonheur, Yara, Crayon, Komplett Bank og Telenor</p>
+<p>Inn: Komplett Bank</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190205-boligprisene-steg-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/WLpek2/Boligprisene-steg-mest-i-Bergen-i-januar" frk="56 0 0 336 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-05 17:48"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eiendom,Boligmarkedet,Elisabeth Holvik,Eiendomsmeglere,Eiendom Norge,Boligpriser,Økonomi,DNB Eiendom,Bolig,Boligprisstatistikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boligprisene steg mest i Bergen i januar</div>
+<div type="ingress">Megler mener markedet er i ferd med å bli mer «selgers marked» enn tidligere.</div>
+<div type="author"></div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>PÅ VISNING: Richard Olsen var blant flere som var på visning mandag kveld. Han er opptatt av kort vei til kollektiv transport og at leiligheten er nyoppusset når han flytter inn. FOTO: Eirik Brekke</p></div>
+</body></document>

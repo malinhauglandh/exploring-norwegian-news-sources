@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190724-knallbra-pa-klepp.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/opwE07/Knallbra-pa-Klepp" frk="41 0 0 253 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-24 10:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="restaurant,utelivsbransjen,restaurantanmeldelse,mye lest,sysla"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Knallbra på Klepp</div>
+<div type="ingress">Jøers’ Kjøkken er en perle av et spisested. Her stemmer det aller meste for dem som vil ha en hyggestund med mat og vin.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Aftenbladets anmelder er svært begeistret for Jøers’ Kjøkken på Klepp stasjon. Jon Ingemundsen</p></div>
+</body></document>

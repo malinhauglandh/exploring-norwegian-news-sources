@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-eldar-nakken-starter.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/704j64/eldar-nakken-starter-opp-nytt-tv-og-filmselskap-i-bergen" frk="34 15 3 189 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Eldar Nakken starter opp nytt TV- og filmselskap i Bergen</div>
+<div type="ingress">Målet er at det nye film- og TV-selskapet skal bli et av de store i Norge. Nakken håper på opp til 100 årsverk.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

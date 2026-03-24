@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191119-for-var-dette-en-bil.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GGXoqB/For-var-dette-en-bilvei-Na-kan-Frigg-5-springe-fritt-rundt" frk="21 7 1 130 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-19 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Før var dette en bilvei. Nå kan Frigg (5) springe fritt rundt.</div>
+<div type="ingress">Se bildene fra den nyoppussede gaten på Høyden.</div>
+<div type="author"></div>
+<div type="date">2019-11-19</div>
+<div type="caption"></div>
+</body></document>

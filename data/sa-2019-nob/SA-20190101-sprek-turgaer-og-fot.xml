@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190101-sprek-turgaer-og-fot.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/A2no6q/Sprek-turgaer-og-fotballspiller" frk="54 11 4 358 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-01 13:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="sprek,vaulen,stavanger turistforening"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sprek turgåer og fotballspiller</div>
+<div type="ingress">I løpet av det siste halvannet året har seks år gamle Samuel Maurstad gått 52 hverdagsturer i regi av Stavanger Turistforening. Aftenbladet fikk være med på den siste turen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vel blåst. Seks år gamle Samuel Maurstad har brukt halvannet år på de 52 hverdagsturer til Stavanger Turistforening. Pål Christensen</p></div>
+</body></document>

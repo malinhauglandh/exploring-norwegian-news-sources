@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190425-skal-vinne-valget-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qLydLz/Her-er-det-nye-byradet" frk="17 0 0 111 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-25 15:07"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kommunevalg 2019,Webview,Byrådet (Bergen),Roger Valhammer,Bergen,Politikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skal vinne valget med helt nytt byråd</div>
+<div type="ingress">Torsdag ble halvparten av byrådet i Bergen byttet ut.</div>
+<div type="author"></div>
+<div type="date">2019-04-25</div>
+<div type="caption"></div>
+</body></document>

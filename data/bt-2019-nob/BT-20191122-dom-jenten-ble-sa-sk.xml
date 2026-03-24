@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191122-dom-jenten-ble-sa-sk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JKJ2d/Dom-Jenten-ble-sa-skadet-etter-voldtekt-at-hun-ble-ufor-som-16-aring" frk="24 13 2 148 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-22 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dom: Jenten ble så skadet etter voldtekt at hun ble ufør som 16-åring</div>
+<div type="ingress">– Det er en svært stygg sak, sier jentens bistandsadvokat.</div>
+<div type="author"></div>
+<div type="date">2019-11-22</div>
+<div type="caption"></div>
+</body></document>

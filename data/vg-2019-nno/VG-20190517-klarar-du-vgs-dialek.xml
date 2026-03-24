@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190517-klarar-du-vgs-dialek.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/4qWXL9/klarar-du-vgs-dialektquiz" frk="54 0 0 333"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-05-17 08:05"/>
+<attribute name="author" value="Espen Moe Breivik"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nno"/>
+</header>
+<body>
+<div type="title" level="1">Klarar du VGs dialektquiz?</div>
+<div type="ingress">I Norge finnast det nesten like mange dialektar som det finnast stadar. I høve nasjonaldagen vil VG heidre dei norske dialektane. Kor mange klarar du å gjette?</div>
+<div type="author">Espen Moe Breivik</div>
+<div type="date">Oppdatert nå nettopp</div>
+<div type="caption"><p>DIALEKTRIKT: Norge er full av dialektar frå nord til sør, frå aust til vest. Høyr dialektene i quizen lengre ned i artikkelen.</p></div>
+</body></document>

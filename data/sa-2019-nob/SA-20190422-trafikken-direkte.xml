@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190422-trafikken-direkte.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/qLyQAE/Trafikken-direkte" frk="53 12 4 317 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-22 11:50:24"/>
+<attribute name="author" value="Stavanger Aftenblad"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="trafikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Trafikken direkte</div>
+<div type="ingress">I dag er det mange som skal hjem etter langhelg. Her får du siste nytt fra trafikken.</div>
+<div type="author">Stavanger Aftenblad</div>
+<div type="date">2019-04-22 11:50:24</div>
+<div type="caption"><p>Her er køen på Ålgård slik den var rundt klokken 15.30. Leserbilde</p></div>
+<div type="text">
+<p>Har du bilder eller informasjon om trafikkflyten der du er? Send oss en melding ved å trykke på Send melding-knappen nedenfor.</p></div></body></document>

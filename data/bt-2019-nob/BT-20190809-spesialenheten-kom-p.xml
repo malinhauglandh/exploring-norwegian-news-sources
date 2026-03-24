@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190809-spesialenheten-kom-p.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/2Gyg4r/Spesialenheten-kom-pa-banen-etter-dodsraset" frk="22 0 0 174 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-09 15:16"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sogn og Fjordane,Vær,Leteaksjoner,Ras,Jølster,Ulykker,Skred,Sommerskredene"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Spesialenheten kom på banen etter dødsraset</div>
+<div type="ingress">Spesialenheten for politisaker vurderte politiets innsats etter raset i Jølster.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">9. aug. 2019 15:16</div>
+<div type="caption"><p>FOTO: Ørjan Deisz</p> <p>Ørjan Deisz</p></div>
+</body></document>

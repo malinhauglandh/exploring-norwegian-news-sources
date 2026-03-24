@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190612-leilighetshotell-i-s.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/qL3ozo/Leilighetshotell-i-Stavanger-solgt-for-60-millioner" frk="48 18 6 332 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-12 14:28"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="storhaug,stavanger,eiendom,økonomi,næringsliv,stavanger sentrum,hotell"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Leilighetshotell i Stavanger solgt for 60 millioner</div>
+<div type="ingress">Utleiekongene Tom Haugvaldstad og Arild Johannesen har solgt Stavanger Housing Hotel AS i Stiftelsesgata 17 for rundt 60 millioner kroner. Kjøper er Eli Hodne gjennom selskapet Blå AS.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Stavanger Housing Hotel AS er solgt til Eli Hodne. Kjell-Ivar Gilje Grøndal</p></div>
+</body></document>

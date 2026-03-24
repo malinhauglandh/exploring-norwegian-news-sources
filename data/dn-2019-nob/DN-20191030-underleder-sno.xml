@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191030-underleder-sno.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/underleder-sno/2-1-697642" frk="21 0 0 147 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-30 18:53"/>
+<attribute name="author" value="Leder DN"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Underleder: Snø</div>
+<div type="ingress">NRK melder at meteorologene varsler snø på Østlandet i helgen og derfor anbefaler folk å skifte til vinterdekk.</div>
+<div type="author">Leder DN</div>
+<div type="date">2019-10-30 18:53</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

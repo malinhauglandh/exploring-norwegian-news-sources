@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191019-varobservasjoner-gje.xml"/>
+<attribute name="url" value="http://www.fvn.no/magasin/i/K31KpG/Varobservasjoner-gjennom-hundre-ar" frk="59 0 0 384 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-10-19 23:04"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="magasin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Værobservasjoner gjennom hundre år</div>
+<div type="ingress">I hundre år har en person med etternavnet Ljosland målt nedbøren i bygda og hver dag sendt informasjonen videre til Meteorologisk institutt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Han gjør en viktig jobb som værobservatør, Bjørn Ljosland. I hundre år har værstasjonen vært i drift på Ljosland. Målingene har gitt viktig data om været over tid. FOTO: Jarle R. Martinsen</p></div>
+</body></document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190703-space-norway-samarbe.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/1nxpbX/Space-Norway-samarbeider-med-SpaceX-om-satellittoppskyting-i-Arktis" frk="273 9 17 1848" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-03 18:40"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="SpaceX,Teknologi,Romfart,Elon Musk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Space Norway samarbeider med SpaceX om satellittoppskyting i Arktis</div>
+<div type="ingress">Space Norway skal etablere satellittbasert bredbånd i Arktis, og inngår nå et samarbeid med det Elon Musk-eide SpaceX om oppskyting av to satellitter.</div>
+<div type="author">NTB</div>
+<div type="date">3. juli 2019 18:40</div>
+<div type="caption"><p>Det Elon Musk-eide selskapet SpaceX skal skyte opp to satellitter fra norske Stace Norway. Satellittene skal gi bredbåndsdekning i Arktis. Foto: AP/Jae C. Hong/NTB scanpix</p></div>
+<div type="text">
+<p>Det statseide Space Norway skal sende opp to satellitter i 2022, og det er SpaceX som skal foreta oppskytingen, skriver E24.</p>
+<p>I en pressemelding fra Space Norway heter det at dette er det største og mest omfattende satellittprosjektet som er gjennomført i Norge.</p>
+<p>– Dette er en milepæl for alle som oppholder seg i Arktis og har liten eller ingen tilgang på bredbånd i dag, sier Jostein Rønneberg, administrerende direktør i Space Norway.</p></div>
+<div type="title" level="3">Levetid på 15 år</div>
+<div type="text">
+<p>Selskapet har tidligere inngått avtaler med satellittoperatøren Inmarsat og Forsvarsdepartementet for å tilby kontinuerlig bredbånd i Arktis.</p>
+<p>Det er amerikanske Orbital Sciences som skal bygge begge satellittene, og SpaceXs rakett Falcon 9 vil stå for oppskytingensent i 2022.</p>
+<p>Prosjektet baserer seg på en løsning med to satellitter, som vil gi dekning 24 timer i døgnet i området nord for Polarsirkelen. Satellittene har en forventet levetid på 15 år.</p></div>
+<div type="title" level="3">Statsaksjeselskap</div>
+<div type="text">
+<p>Space Norway er et statsaksjeselskap som forvaltes av Nærings- og fiskeridepartementet og har som formål å bidra til nærings- og infrastrukturutvikling relatert til norsk romvirksomhet.</p>
+<p>– Det er dårlig og ustabil bredbåndsdekning i nordområdene. Nå etablerer regjeringen bredbåndskommunikasjon i Arktis. Norskeide satellitter skal sørge for at de som driver aktivitet i nordområdene får raskt og stabilt internett, har næringsminister Torbjørn Røe Isaksen (H) tidligere uttalt i forbindelse med satellittplanene.</p></div></body></document>

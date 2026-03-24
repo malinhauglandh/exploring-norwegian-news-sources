@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191120-bystyret-ga-edel-et-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/vQdWOj/Bystyret-ga-Edel-et-halmstra" frk="22 0 0 131 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-20 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bystyret ga Edel et halmstrå</div>
+<div type="ingress">Utsatte saken om huset på Hylkje. – Det var det vi håpet på, sier Edel Waldersnes.</div>
+<div type="author"></div>
+<div type="date">2019-11-20</div>
+<div type="caption"></div>
+</body></document>

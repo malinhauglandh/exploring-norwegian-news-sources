@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190208-forsinkelser-etter-s.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/forsinkelser-etter-store-flyproblemer-1.1275033" frk="285 1 2 1785"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-02-08 20:45"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forsinkelser etter store flyproblemer</div>
+<div type="ingress">De tekniske problemene som førte til full stans i flytrafikken i morgentimene fredag, er løst, melder Avinor. Det blir imidlertid enkelte følgeforsinkelser.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det var full stans i flytrafikken ved Gardermoen fredag morgen. Illustrasjonsfoto.</p></div>
+<div type="text">
+<p>Datanettverket som gir Avinors systemer informasjon om flygninger som skal trafikkere i norsk luftrom, var nede i morgentimene. Rett før halv sju fredag kom meldingen om at problemene var løst.</p>
+<p>– Trafikken går etter hvert som normalt, men det vil bli noen følgeforsinkelser utover dagen, skriver Avinor.</p></div>
+<div type="title" level="3">Feilen lå i England</div>
+<div type="text">
+<p>Ifølge Avinors oversikt var det ingen innstilte avganger fra Oslo lufthavn som følge av de tekniske problemene, men flere avganger fikk nye tider.</p>
+<p>Feilen lå ifølge Avinor i England. Den medførte svært begrenset kapasitet i flytrafikken.</p>
+<p>– Vi vet at noen fly ble innstilt som følge av situasjonen som oppsto i morgentimene. Men trafikken vil normaliseres i løpet av et par timer. Det er ingenting som per nå tyder på at hacking er årsak til databruddet, sier kommunikasjonssjef Gurli Høeg Ulverud i Avinor.</p></div>
+<div type="title" level="3">Ikke rammet andre</div>
+<div type="text">
+<p>Feilen skal ha oppstått natt til fredag, og Avinor begynte å varsle klokken 04, melder . Det var Avinors ansatte sammen med IT-leverandørene deres som jobbet med å finne feilen.</p>
+<p>Ifølge Ulverud skal ikke feilen ha rammet noen andre land.</p>
+<p>– Vi har spurt om dette gjelder andre land, men beskjeden er at det bare er Norge som er rammet. Dette systemet leverer informasjon om alle flygninger i norsk luftrom, som flygeledere og kontrollsentre er avhengig av, sa hun.</p>
+<p>Lufthavndirektør ved Trondheim lufthavn Værnes, Marit Helene Stigen, sier til NRK at de har begynt å få av gårde fly, og at de aller fleste flyene vil gå, med små forsinkelser.</p></div></body></document>

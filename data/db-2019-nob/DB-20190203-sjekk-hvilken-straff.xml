@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190203-sjekk-hvilken-straff.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/sjekk-hvilken-straff-promillekjorerne-risikerer/70218136" frk="798 5 27 5223"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-03 08:57"/>
+<attribute name="author" value="Sindre Granly Meldalen, Ola Strømman (utvikling), Michael Söderqvist-Waag (design), Morgan Bro (design)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,ulikhet_for_loven"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sjekk hvilken straff promillekjørerne risikerer</div>
+<div type="ingress">Straffen kan varierer fra bot til over 30 dager ubetinget fengsel.</div>
+<div type="author">Sindre Granly Meldalen, Ola Strømman (utvikling), Michael Söderqvist-Waag (design), Morgan Bro (design)</div>
+<div type="date">2019-02-03</div>
+<div type="caption"><p>ULOVLIG: Promillekjøring er ulovlig. Straffene varierer etter promillen og andre spesifikke forhold i den enkelte sak. Foto: Gorm Kallestad / NTB scanpix</p> <p>ADVOKAT: Anne Kroken. Foto: Alf Ove Hansen / NTB Scanpix</p> <p>TINGRETTSDOMMER: Ina Strømstad. Foto: Benjamin A. Ward / Dagbladet</p> <p>MENNESKERETTIGHETSVOKTER: Adele Matheson Mestad. Foto: Nina Hansen / Dagbladet</p></div>
+<div type="text">
+<p>Dagbladet publiserer i dag en unik oversikt over hvilke straffer som faktisk gis i norske tingretter for promillekjøring. Oversikten er basert på en analyse av 1118 promilledommer fra norske tingretter i 2017, og kan brukes av politiadvokater, dommere, advokater og alle interesserte, som er interessert i å se hva som er de vanligste utfallene i ulike saker.</p>
+<p>Basert på det samme materialet publiserer vi samtidig et lite program, som du kan se her, eller nederst i denne saken, som gir alle interesserte muligheten til å se hva et sannsynlig utfall vil være i ulike saker, basert på 11 spørsmål med tilhørende svar.</p>
+<p>Lurer du på hva slags straff en som kjører i fylla og ender med å krasje kan forvente seg? Når det kan være aktuelt med samfunnsstraff? Eller når en promillekjører kan vente seg ubetinget soning? Du kan fylle ut skjemaet, og få et sannsynlig utfall, basert på analysen av de 1118 saken og de underliggende rettsreglene.</p></div>
+<div type="title" level="3">- Forhold dommeren må vite om</div>
+<div type="text">
+<p>Flere tingrettsdommere og advokater har tatt «testen». Anne Kroken, partner i i advokatfirmaet Torstrup, mener den kan være nyttig.</p>
+<p>- Blant annet fordi det er nødvendig å være klar over at man til tross for det skjematiske utgangspunktet i Vegtrafikkloven også skal tas hensyn til individuelle og personlige forhold ved straffutmålingen. Denne oversikten viser også det, sier Kroken, som er nestleder i styret i forsvarergruppen i Advokatforeningen.</p>
+<p>- Dagbladets oversikt kan være til hjelp og en påminnelse til de som må møte i retten om at dette er forhold dommeren må få vite om. I de fleste av disse sakene møter man uten forsvarer. Påtalemyndigheten har ikke alltid nødvendig kjennskap til de personlige forhold og da er det særdeles viktig at man selv sørger for å dokumentere slike opplysninger i retten, og tilbyr eventuell vitneførsel og dokumentasjon. Retten vektlegger selvsagt i større grad opplysninger som er bekreftet og dokumentert, og her må den som møter i retten ofte selv sørge for dette, sier Kroken.</p>
+<p>Advokatfirmaet hennes har, i samarbeid med John Christian Elden, tidligere laget flere oversikter over potensiell straffutmåling i ulike saker som er publisert på Straffekalkulator.no.</p></div>
+<div type="title" level="3">- En god pekepinn</div>
+<div type="text">
+<p>Knut Kolloen, tingrettsdommer i Nedre Telemark tingrett og medlem i dommernes mediegruppe, mener Dagbladets oversikt dekker relevante momenter ved straffutmålingen i vanlige promillesaker.</p>
+<p>- Det skal alltid gjøres en individuell vurdering, slik at det aldri vil bli en helt standardisert og skjematisk straffutmåling. Spørsmålene og svarene som er satt opp vil likevel gi en god pekepinn på hvor i terrenget en befinner seg, sier Kolloen.</p>
+<p>Ina Strømstad, tingrettsdommer i Oslo tingrett og også hun medlem av dommernes mediegruppe, mener Dagbladets oversikt over straffen som utmåles gir en nyttig oppsummering av rettspraksis på området. Hun mener også at «testen» kan være nyttig for publikum.</p>
+<p>- Samtidig ser jeg faren for at en slik test gjør det enklere å tilpasse forklaringen til de formildende momentene. Vi er ikke helt ukjent med «tilpassede forklaringer», men jeg har jo ikke noe konkret belegg for å si at en slik test vil bidra til flere, sier Strømstad.</p></div>
+<div type="title" level="3">- Viktig</div>
+<div type="text">
+<p>Adele Matheson Mestad, fungerende direktør i Norges nasjonale institusjon for menneskerettigheter, mener undersøkelsen og tilgjengeliggjøringen av materialet er viktig.</p>
+<p>- I et rettsikkerhetsperspektiv er slike analyser veldig viktige, fordi det setter søkelys på grunnleggende likebehandlingsspørsmål i norske domstoler. Økt kunnskap og økt bevissthet er nøkkelen til det meste som er bra her i verden, også på dette området, sier Matheson Mestad.</p>
+<p>Dagbladet hentet inn de 1118 dommene først og fremst for å undersøke om det var forskjeller i straffutmålingen mellom kvinner og menn. Hovedkonklusjonen var at menn fikk noe strengere straff enn kvinner. Vi fant også eksempler på at tilsynelatende like saker ble løst ulikt, blant annet i saker med lang saksbehandlingstid, hvor vi også avdekket et menneskerettighetsbrudd. I tillegg fant vi eksempler på saker hvor tiltalte så ut til å ha hatt utbytte av en aktiv forsvarer.</p>
+<p>Nedenfor kan du selv ta «testen»:</p>
+<p>SJEKK SELV: DENNE STRAFFEN RISIKERER DE SOM KJØRER MED PROMILLE</p>
+<p>Fyll inn dette skjemaet og se hva som vanligvis blir straffen for promillekjøring. (Basert på analyse av 1118 dommer).</p>
+<p>1/10 Promillenivå</p>
+<p>Svar en</p>
+<p>Svar to</p>
+<p>Svar tre</p>
+<p>Svar fire</p>
+<p>Konklusjon:</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem tempore rerum dolorum quasi cupiditate delectus molestiae debitis distinctio perferendis nostrum porro, deserunt labore nemo, qui id et? Asperiores ex maxime inventore facere. Porro voluptatem non praesentium nulla repudiandae delectus eos eligendi, exercitationem voluptate nisi! Quaerat?</p></div></body></document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191014-hackere-har-lekket-p.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/hackere-har-lekket-passordene-til-362-norske-politifolk/71708815" frk="226 12 20 1567"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-10-14 19:16"/>
+<attribute name="author" value="NTB I"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hackere har lekket passordene til 362 norske politifolk</div>
+<div type="ingress">Politimestre, lensmenn og sjefer i politidirektoratet og hundrevis av politifolk over hele landet er blant dem som har fått sine hemmelige passord lekket.</div>
+<div type="author">NTB I</div>
+<div type="date">2019-10-14</div>
+<div type="caption"><p>PASSORD: Hackere har lagt ut de hemmelige passordene til 362 politifolk og flere hundre tusen nordmenn. Foto: Heiko Junge / NTB scanpix</p></div>
+<div type="text">
+<p>Det skriver Adresseavisen som de siste månedene har hatt tilgang til mer enn 1,4 milliarder epostadresser og passordene som er knyttet til dem.</p>
+<p>Opplysningene stammer fra en rekke omfattende datalekkasjer fra flere ulike nettsteder som har vært utsatt for datainnbrudd, hvor hackere har stjålet opplysninger.</p>
+<p>Politiets egne systemer er ikke hacket. Epostadressene og passordene har havnet på avveie etter at politifolk har registrert seg med jobbdetaljene på ulike nettsteder, deriblant Dropbox og LinkedIn.</p>
+<p>Blant de lekkede passordene fra politifolk er «sommer», «poli10», «tjorven» og «lillepus».</p>
+<p>Ifølge Adresseavisen er passordene til over 600 000 nordmenn omfattet av hackingen. Dette gjelder blant annet passordene til norske statsråder, generaler, politimestre, ambassadører og bedriftsledere. I tillegg er hundretusener vanlige nordmenn er berørt, samt brukere over hele verden.</p>
+<p>Politidirektoratet opplyser at de vet at «epostadresser knyttet til politiet finnes i slike databaser», men ønsker ikke å svare om omfanget Adresseavisen melder om, er kjent internt.</p>
+<p>Også 2702 mediefolk fra VG, Aftenposten, Dagbladet, NRK og Adresseavisen er blant dem som har fått sine passord lekket ut på nettet.</p></div></body></document>

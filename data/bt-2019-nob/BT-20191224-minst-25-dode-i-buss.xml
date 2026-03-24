@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191224-minst-25-dode-i-buss.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/K32bbo/Minst-25-dode-i-bussulykke-i-Indonesia" frk="38 41 9 218 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-24 07:01"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Minst 25 døde i bussulykke i Indonesia</div>
+<div type="ingress">Bussen kjørte av veien og havnet i bunnen av en 150 meter dyp kløft, opplyser politiet. Minst 25 mennesker er så langt meldt omkommet i ulykken og 14 er skadd.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 24. desember 2019 07:01</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190522-bjorn-var-en-bauta-p.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/pLKvAX/Bjorn-var-en-bauta-pa-Nordnes" frk="42 14 4 274 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-22 22:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Håndball,Arbeiderpartiet (Ap),Bergen,Nordnes,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bjørn var en bauta på Nordnes</div>
+<div type="ingress">Bjørn Tefre døde 12. mai, 67 år gammel.</div>
+<div type="author"></div>
+<div type="date">2019-05-22</div>
+<div type="caption"><p>LEDERSKIKKELSE: Bjørn var en naturlig lederskikkelse i de fleste sammenhenger, og fikk tillit fordi han var vennlig, positiv, pålitelig og tydelig, skriver Ola B. Siverts i minneordet.</p></div>
+</body></document>

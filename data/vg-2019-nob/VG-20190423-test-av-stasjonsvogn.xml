@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190423-test-av-stasjonsvogn.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/bil-baat-og-motor/i/bKVn85/test-av-stasjonsvogner-bilene-som-er-smartere-enn-suv" frk="37 0 0 236 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-23 12:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,bil-baat-og-motor"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av stasjonsvogner: Bilene som er smartere enn SUV</div>
+<div type="ingress">VG har plukket ut og testet tre smarte og store stasjonsvogn-nyheter, med tanke på deg som ikke har millionbudsjett til en ny bil eller elbil i familiestørrelse.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

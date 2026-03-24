@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191112-klassisk-under-trekr.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/kanjXa/klassisk-under-trekronene" frk="26 0 0 188 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-12 13:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Klassisk under trekronene</div>
+<div type="ingress">Kronen gård troner under tunge trekroner ved veien til Vatne. Dette er et klassisk, tilbaketrukket sted fjernt fra byens ståk.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Pål Christensen</p></div>
+</body></document>

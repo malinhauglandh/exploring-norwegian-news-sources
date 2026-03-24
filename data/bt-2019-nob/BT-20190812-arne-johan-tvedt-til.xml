@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190812-arne-johan-tvedt-til.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/QoELd8/Arne-Johan-Tvedt-til-minne" frk="50 0 0 299 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-12 17:56"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Idrett,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Arne Johan Tvedt til minne</div>
+<div type="ingress">Minneord: Arne Johan Tvedt vil aldri bli glemt.</div>
+<div type="author"></div>
+<div type="date">2019-08-12</div>
+<div type="caption"><p>HJELPSOM: – Arne var et flott menneske på alle måter. Han var positiv og hjelpsom, og sa aldri nei når det var snakk å gjøre en jobb for maratonmiljøet eller oss andre, skriver idrettsvenner i minneordet.</p></div>
+</body></document>

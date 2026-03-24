@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190301-jarbanen-er-nest-bes.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/innenriks/i/wEoPAd/Jarbanen-er-nest-best-pa-punktlighet" frk="51 10 4 367 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-01 09:25"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value="jernbane,go-ahead,intercity"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Jærbanen er nest best på punktlighet</div>
+<div type="ingress">Mens NSB sliter med punktligheten i resten av landet, ligger Jærbanen godt innenfor kravene om punktlighet. Sørlandsbanen sliter, derimot.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Mens punktligheten for norsk jernbane som helhet i 2018 var dårligere enn på mange år, er Jærbanen blant togstrekningene som ligger over punktlighetsmålet. Pål Christensen</p></div>
+</body></document>

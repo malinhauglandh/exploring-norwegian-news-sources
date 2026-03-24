@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191225-grimstad---dette-er-.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/rAyVye/grimstad-dette-er-bare-trist" frk="32 0 0 214 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-25 22:21"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Grimstad: – Dette er bare trist</div>
+<div type="ingress">Tidligere soussjef for kongehuset Carl-Erik Grimstad sier tankene hans går til Ari Behns barn og familie.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 25. desember 2019 22:21</div>
+<div type="caption"><p>Carl-Erik Grimstad. Foto: Foto: Vidar Ruud / NTB scanpix</p></div>
+</body></document>

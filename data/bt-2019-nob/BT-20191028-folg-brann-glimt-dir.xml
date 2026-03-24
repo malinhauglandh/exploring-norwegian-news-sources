@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191028-folg-brann-glimt-dir.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/qLxLLL/Folg-Brann-Glimt-direkte-med-Doddo" frk="16 18 2 109 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-28 08:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg Brann-Glimt direkte med Doddo</div>
+<div type="ingress">Få med deg kampen fra klokken 19.</div>
+<div type="author"></div>
+<div type="date">2019-10-28</div>
+<div type="caption"><p>FOTO: Marit Hommedal</p></div>
+</body></document>

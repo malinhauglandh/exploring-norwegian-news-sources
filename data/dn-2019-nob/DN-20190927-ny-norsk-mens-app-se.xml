@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190927-ny-norsk-mens-app-se.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/benedicte-raae/flo/ny-norsk-mens-app-setter-personvernet-forst-med-krypterte-data/2-1-676513" frk="304 1 2 1911"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-27 12:18"/>
+<attribute name="author" value="Emma Clare Gabrielsen,Osman Kibar"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,benedicte-raae,flo"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny, norsk mens-app setter personvernet først med krypterte data</div>
+<div type="ingress">Benedicte Raae jobber med å utvikle en mens-app hvor personvernhensynene er viktigst. – Hvis vennene mine skal bruke den, har jeg jo ikke lyst på tilgang til deres data, sier hun. Benedicte Raae jobber med å utvikle en mens-app hvor personvernhensynene er viktigst. – Hvis vennene mine skal bruke den, har jeg jo ikke lyst på tilgang til deres data, sier hun.</div>
+<div type="author">Emma Clare Gabrielsen,Osman Kibar</div>
+<div type="date">2019-09-27 12:18</div>
+<div type="caption">– Dette er et sideprosjekt, men jeg skal ikke gå i minus, sier Benedicte Raae, som har utviklet en norsk «privacy first»-mens-app. (Foto: Mikaela Berg) </div>
+<div type="text">
+<p>– Nå må jeg bare begynne, tenkte jeg.</p>
+<p>Det sier Benedicte Raae (36), selvstendig konsulent, frilans webutvikler og sivilingeniør i datateknikk, som har utviklet en norsk «privacy first»-mens-app. Da den hviterussiske mens-appen Flo i februar ble tatt for å dele brukerdata med Facebook Analytics, sier hun, slo det henne at hun som webapp-utvikler burde vite dette: Hvordan sikrer man dataene til kundene sine?</p>
+<p>Alkoholvaner, psyke og onani</p>
+<p>Mens-apper deler hemmelighetene dine med Facebokk.</p>
+<p>Les dokumentaren her (DN+)</p></div>
+<div type="title" level="3">Deler ikke med tredjeparter</div>
+<div type="text">
+<p>Lørdag i forrige uke publiserte DN en større dokumentar om hva som skjer med informasjonen som deles med syklussapper. En ny kartlegging gjort av personvernorganisasjonen Privacy International viser at deler høyst intim data videre til Facebook – uten at brukerne er klar over det.</p>
+<p>– Hvis jeg skal lage mensenapp og vennene mine skal bruke den, har jeg jo ikke lyst på tilgang til deres data. Det blir jo for kleint.</p>
+<p>Svaret ble appen «POW!», med slagordet «Ta kontroll over menssyklusen din». Appen gir brukerne fullstendig kontroll over informasjonen man deler, ifølge nettsiden, og deler aldri data med tredjepartsaktører.</p>
+<p>– Den eneste måten å beskytte meg som utvikler fra dine data, er å kryptere. Det innebærer at dataene aldri forlater din mobil på en lesbar måte.</p></div></body></document>

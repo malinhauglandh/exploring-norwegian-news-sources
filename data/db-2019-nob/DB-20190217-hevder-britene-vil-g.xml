@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190217-hevder-britene-vil-g.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/hevder-britene-vil-gi-gront-lys-til-huawei/70779356" frk="527 3 11 3505"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-17 20:43"/>
+<attribute name="author" value="Jesper Nordahl Finsveen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="huawei,5g-nett,5g,utenriks,storbritannia,nyheter,norge,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hevder britene vil gi grønt lys til Huawei</div>
+<div type="ingress">Myndighetsrapport skal konkludere med at risikoen for spionasje er «håndterbar», ifølge avis.</div>
+<div type="author">Jesper Nordahl Finsveen</div>
+<div type="date">2019-02-17</div>
+<div type="caption"><p>GRØNT LYS: Britiske myndigheter skal ha konkludert med at risikoen med å bruke utstyr fra den kinesiske telegiganten Huawei i 5G-nettet er håndterbar. Foto: Reuters / NTB Scanpix</p></div>
+<div type="text">
+<p>Den britiske regjeringen skal ha konkludert med at det er greit å bruke 5G-utstyr i utbyggingen av sitt kommende 5G-nett.</p>
+<p>Det melder Financial Times (FT), som siterer to anonyme myndighetskilder med innsyn i en rapport som skal offentliggjøres på et seinere tidspunkt.</p>
+<p>I rapporten fra Storbritannias nasjonale cybersikkerhetssenter (NCSC), skal det hete at risikoen Huawei-utstyr potensielt kan utgjøre, er «håndterbar».</p></div>
+<div type="title" level="3">Prøveballong</div>
+<div type="text">
+<p>Britenes konklusjon går dermed mot USAs avgjørelse om å totalt utestenge den kinesiske telegiganten fra å levere utstyr til sitt nye 5G-nett. Australia og New Zealand har gjort det samme. USA har også gått ut og bedt andre vestlige allierte om å gjøre det samme.</p>
+<p>Storbritannia har over lengre tid vurdert hvorvidt de skulle følge i USAs fotspor. Det skal de altså ikke se behovet for å gjøre, ifølge FT.</p>
+<p>Også Norge er i tenkeboksen, og debatten har gått høyt om hvorvidt norske myndigheter også bør utestenge Huawei fra utbyggingen.</p>
+<p>Britenes avgjørelse vil trolig veie tungt for andre europeiske land som er i samme posisjon, deriblant Tyskland, skriver FT videre. Det er ikke unaturlig å tro at Storbritannias konklusjon også vil ha innvirkning på Norges avgjørelse.</p></div>
+<div type="title" level="3">PST advarer</div>
+<div type="text">
+<p>Ved flere anledninger har Politiets sikkerhetstjeneste (PST) gått ut og advart mot å bruke den kinesiske telegiganten som leverandør til det kommende 5G-nettet.</p>
+<p>Det gjorde PST seinest mandag i forrige uke. Etter framleggelsen av sin årlige trusselvurdering, gikk PST-sjef Benedicte Bjørnland ut og ba norske myndigheter om å tenke seg.</p>
+<p>De tette båndene kinesiske myndigheter har til kinesiske selskaper, samt Kinas etterretningslov fra 2017 som krever at kinesiske personer og selskaper bistår etterretningstjenestene ved behov, er årsakene til den bekymringen.</p>
+<p>Kinas ambassade kalte PST-rapporten «latterlig».</p>
+<p>«Kina respekterer alltid Norges suverenitet og nasjonale sikkerhet, og har aldri blandet seg i Norges interne forhold», skrev ambassaden i en uttalelse til NRK.</p>
+<p>Også den norske justisministeren Tor Mikkel Wara (Frp) har gått ut og uttrykt skepsis mot å la Huawei bidra i utbyggingen.</p></div>
+<div type="title" level="3">Dette frykter de</div>
+<div type="text">
+<p>Frykten til vestlige myndigheter er at Kinas høyt kompetente etterretningsvesen kan bruke utstyret levert av Huawei som en forlenget og tilslørt arm inn i Vestens maktkorridorer.</p>
+<p>Potensielt kan fremmede makters etterretningsvesen gjøre mye med infrastruktur lik den Norge må ha for å få et 5G-nett, ifølge Kristian Gjøsteen, kryptolog og professor ved institutt for matematiske fag ved NTNU.</p>
+<p>Professoren fortalte til Dagbladet i forrige uke at at produsentene av teknologien man bruker for å bygge infrastrukturen nødvendig til et 5G-nett, i teorien kan manipulere komponentene på mange ulike vis.</p>
+<p>Gjøsteen listet opp to tenkelige scenarioer:</p>
+<p>At produsenten av infrastrukturen bygger inn en «av»-knapp, som i teorien kan gi den eller de som har kontroll over bryteren mulighet til å skru av telenettet på et øyeblikk.</p>
+<p>At produsenten av infrastrukturen bygger inn en «bakdør» inn til avlyttingsmulighetene som allerede finnes i komponentene.</p>
+<p>Disse tilgangene kan også andre skaffe seg, men det er lettere for produsentene, fortalte professoren.</p></div></body></document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190320-hydro---ingen-losepe.xml"/>
+<attribute name="url" value="http://www.dn.no/industri/hydro/it-sikkerhet/hydro-ingen-losepenger-er-betalt/2-1-569974" frk="659 0 1 4012"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-20 15:22"/>
+<attribute name="author" value="Jacob Trumpy"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="industri,hydro,it-sikkerhet"/>
+<attribute name="class2" value="Nyheter,Industri"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro: – Ingen løsepenger er betalt</div>
+<div type="ingress">– Stor usikkerhet og flere systemer er fortsatt utilgjengelige, sier Hydros finansdirektør Eivind Kallevik onsdag. – Stor usikkerhet og flere systemer er fortsatt utilgjengelige, sier Hydros finansdirektør Eivind Kallevik onsdag.</div>
+<div type="author">Jacob Trumpy</div>
+<div type="date">2019-03-20 15:22</div>
+<div type="caption">Hydros finansdirektør Eivind Kallevik på vei inn til møte med pressen på hovedkontoret i Oslo onsdag ettermiddag. (Foto: Per Ståle Bugjerde) Konsernsjef i Hydro Svein Richard Brandtzæg sammen med påtroppende sjef Hilde Merete Aasheim. (Foto: Tommy Ellingsen) Mer... </div>
+<div type="text">
+<p>Hydro meldte tirsdag morgen at it-systemer i hele konsernet var lammet på grunn av et alvorlig og omfattende cyberangrep.</p>
+<p>Hackere slapp løs et løsepengevirus i den norske industrigigantens systemer. Angrepet lammet Hydros globale nettverk og førte til både nettsidekrasj og produksjonsstans i enkelte anlegg.</p>
+<p>Onsdag er fortsatt ikke klart hvem som står bak angrepet, som er meldt til politiet og etterforskningen igangsatt.</p>
+<p>– Tirsdag var en ekstremt hektisk og krevende dag i hele organisasjonen vår, sier Hydros finansdirektør Eivind Kallevik på en pressekonferanse onsdag ettermiddag.</p>
+<p>– Det kritiske har vært å finne årsaken til at angrepet kunne skje. For våre ansatte har angrepet ført til stor usikkerhet og flere systemer er fortsatt utilgjengelige.</p></div>
+<div type="title" level="3">Har ikke betalt løsepenger</div>
+<div type="text">
+<p>Det er kjent at det hackerangrepet er sendt via et system knyttet til tidligere krav om løsepenger.</p>
+<p>Så langt har ikke selskapet betalt noe.</p>
+<p>– Vi har ikke mottatt krav om et spesifikt beløp. Vårt mål er nå å gjøre hva vi kan for å komme tilbake til normal operasjon så snart som mulig, sier han til DN.</p>
+<p>– Ingen løsepenger er betalt, legger han til.</p>
+<p>– Vet dere mer om hvor angrepet stammer fra eller hvem som står bak?</p>
+<p>– Saken blir nå etterforsket av Kripos, så vi kan ikke gå inn på flere detaljer om det, sier Kallevik til DN.</p></div>
+<div type="title" level="3">Usikkert hva angrepet gjør med kostnadene</div>
+<div type="text">
+<p>Store deler av virksomheten – blant annet produksjon av bauksitt og råvarer av aluminium – går som normalt. I produksjonen av ferdige varer er noe av produksjonen begrenset eller midlertidig stanset.</p>
+<p>– Vårt hovedmål er å sikre stabile og sikre operasjoner og hindre at går utover kostnadsnivået i konsernet, sier Kallevik.</p>
+<p>Han kan ikke svare på hvilke ekstrakostnader angrepet påfører Hydro eller om det mister kundeleveranser på grunn av det.</p>
+<p>– Kan det ramme inntektene om problemene fortsetter i noen dager?</p>
+<p>– Vi jobber mot at dette ikke skal ha konsekvenser for kundene av betydning, og hvis vi får gjenåpnet, vil dette være viktig for oss. Foreløpig har det ikke ført til reduserte inntekter. Det har ført til noe ekstrakostnader i form av noe mer manuelt arbeid, sier Kallevik.</p>
+<p>Visma-sjef Øyvind Moan sier til DN onsdag at Hydro ikke burde være sårbart nok til å slippe slike trusler gjennom.</p>
+<p>Om utspillet fra Visma-sjefen, sier Kallevik:</p>
+<p>– Det får stå for deres egen regning, og jeg vil ikke kommentere videre på det.</p>
+<p>Kallevik sier det i løpet av natten har lykkes å finne «signaturen» – kilden – til viruset og det har isolert noe av problemet. Hydro har ikke forsøkt å kontakte hackerne:</p>
+<p>– Det var vi ikke gjort, sier Kallevik til TV 2.</p></div>
+<div type="title" level="3">Løsepenger via kryptovaluta</div>
+<div type="text">
+<p>NRK meldte tirsdag at det var løsepengeviruset LockerGoga som har rammet Hydro. Dette fungerer ved at alle filer og systemer låses og krypteres. Det kreves så løsepenger i kryptovaluta for å få filene låst opp igjen.</p>
+<p>Teknisk direktør i Nasjonal sikkerhetsmyndighet (NSM), Hans Robert Bjørnaas, kunne onsdag morgen ikke bekrefte at det er LockerGoga som har rammet Hydro.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>– Dette er en av flere ulike teorier som det jobbes videre med. Det er for tidlig å si noe sikkert om hvordan angrepet ble gjennomført, sier Bjørnaas til DN.</p>
+<p>– Vet dere hvor angrepet kom fra?</p>
+<p>– Vi har noen teorier, men det er altfor tidlig å gå ut med disse, sier Bjørnaas.</p>
+<p>NSM bistår Hydro i deres arbeid, og har et team som jobber sammen med aluminiumsgiganten. I tillegg er PST, Europol, Kripos og E-tjenesten koblet inn.</p></div></body></document>

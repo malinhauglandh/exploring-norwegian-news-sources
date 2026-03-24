@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190208---mann-fra-hordaland.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zLpkz4/-Mann-fra-Hordaland-drept-i-Sverige" frk="61 5 2 369 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-08 11:37"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Drap,Sverige,Hordaland,Etterforskning,Stockholm,Kripos"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Mann fra Hordaland drept i Sverige</div>
+<div type="ingress">Mannen i 50-årene, født og oppvokst i en kommune sør for Bergen, ble funnet død i en leilighet i januar.</div>
+<div type="author"></div>
+<div type="date">2019-02-08</div>
+<div type="caption"><p>FUNNET HER: I denne lavblokken i Stockholms län ble hordalandsmannen funnet død. Han har i tiår vært offisielt registrert med adresse i Sverige, men kommer fra en kommune i Hordaland. FOTO: Google Streetview</p></div>
+</body></document>

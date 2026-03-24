@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190123-vil-ha-gratis-museum.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/kaobvk/Vil-ha-gratis-museum-for-unge" frk="46 65 18 273 ## %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-23 13:29"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="museum,kultur,stavanger,kunst,utstilling,stavanger kunstmuseum,museum stavanger (must)"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vil ha gratis museum for unge</div>
+<div type="ingress">Selv om 2017 var litt bedre, var 2018 var likevel et godt år for Museum Stavanger med over 200.000 besøkende. I år lokker de med gratis inngang for studenter.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Besøkstallet for Museum Stavanger falt litt i 2018. Rune Vandvik</p></div>
+</body></document>

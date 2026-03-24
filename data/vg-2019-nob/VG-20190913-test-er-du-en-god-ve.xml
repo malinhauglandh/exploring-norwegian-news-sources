@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190913-test-er-du-en-god-ve.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/livsstil/i/LALnxq/test-er-du-en-god-venn" frk="29 0 0 154 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-09-13 07:35"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,livsstil"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test: Er du en god venn?</div>
+<div type="ingress">Er du en lojal, trofast og ekte venn som alltid stiller opp? Ta testen og sjekk hvor god venn du egentlig er.</div>
+<div type="author"></div>
+<div type="date">Nå nettopp</div>
+<div type="caption"></div>
+</body></document>

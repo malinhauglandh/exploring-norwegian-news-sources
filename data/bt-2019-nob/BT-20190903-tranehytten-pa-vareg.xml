@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190903-tranehytten-pa-vareg.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5ol23/Tranehytten-pa-Vareggen-er-70-ar" frk="45 22 6 265 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-03 09:52"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Marsteinen,Bergen kommune,Fjell,Krig,Friluftsliv,Bergen,Natur,Dugnad,Åsane"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tranehytten på Vareggen er 70 år</div>
+<div type="ingress">Kuling, med storm i kastene, stoppet ikke 30 tranegutter og gjester fra å gå de to timene til fjells for å feire hytten sin.</div>
+<div type="author"></div>
+<div type="date">2019-09-03</div>
+<div type="caption"><p>TRANEHYTTEN 70 ÅR: Slik ser Tranehytten på Vareggen ut i dag. FOTO: Sportsklubben Trane</p></div>
+</body></document>

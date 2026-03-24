@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190312-barn-pakjort-i-oslo.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/oslo/barn-pakjort-i-oslo-1.1292347" frk="54 0 0 390 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-03-12 20:47"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="oslo"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Barn påkjørt i Oslo</div>
+<div type="ingress">Et barn ble påkjørt av en bil på Linderud i Oslo tirsdag formiddag. Barnet er trolig alvorlig skadd, opplyser Oslo-politiet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Illustrasjonsfoto.</p></div>
+<div type="text">
+<p>Ulykken skjedde ved en bussholdeplass ved Linderud senter.</p>
+<p>– Skadeomfanget er trolig mer alvorlig enn antatt. Barnet fraktes til sykehus med ambulanse for videre undersøkelser, opplyser Oslo politidistrikt.</p></div></body></document>

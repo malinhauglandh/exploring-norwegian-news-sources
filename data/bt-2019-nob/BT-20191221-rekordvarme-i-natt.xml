@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191221-rekordvarme-i-natt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Ad9pX5/Rekordvarme-i-natt" frk="40 12 3 246 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-21 10:46"/>
+
+<attribute name="author" value="Einar Aarre"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rekordvarme i natt</div>
+<div type="ingress">I natt ble det målt 14,2 varmegrader på målestasjonen Florida i Bergen.</div>
+<div type="author">Einar Aarre</div>
+<div type="date">Publisert 21. desember 2019 10:46</div>
+<div type="caption"><p>SOMMERTEMPERATIR: I natt var det varmere i Bergen enn i begynnelsen av juli i år, da dette bildet ble tatt. Foto: Jannica Luoto (arkiv)</p></div>
+</body></document>

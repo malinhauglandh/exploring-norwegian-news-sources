@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190603-tv-2-knuste-viasat-4.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/4qrBm6/TV-2-knuste-Viasat-4-i-TV-kampen" frk="42 18 5 276 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-06-03 12:50"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">TV 2 knuste Viasat 4 i TV-kampen</div>
+<div type="ingress">TV 2 samlet nesten 80 prosent av de norske fjernsynsseerne under lørdagens mesterligafinale mellom Liverpool og Tottenham.</div>
+<div type="author">NTB</div>
+<div type="date">03.jun.2019 12:50</div>
+<div type="caption"><p>Nesten en million nordmenn så lørdagens mesterligafinale på TV. FOTO: Felipe Dana / AP / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191123-usa-ber-norge-hente-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/y307Qg/USA-ber-Norge-hente-hjem-IS-krigere" frk="67 0 0 398 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-23 22:07"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">USA ber Norge hente hjem IS-krigere</div>
+<div type="ingress">USA mener konsekvensene kan bli alvorlige dersom IS-krigere tar seg til Norge på egen hånd. Nå ber de regjeringen om å hente hjem krigerne fra Syria.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 23. november 2019 22:07</div>
+<div type="caption"><p>President Donald Trump har tidligere truet europeiske land med at fremmedkrigerne vil bli sluppet på grensa deres om de ikke henter dem hjem fra Syria selv. Foto: Evan Vucci / AP / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190308-derfor-tjener-menn-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/brif/i/zLdAr1/Derfor-tjener-menn-fortsatt-mer-enn-kvinner" frk="36 14 4 268 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-08 14:59"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,brif"/>
+<attribute name="class2" value="Kjønn,Lønn,Familie,Arbeidsliv,Likestilling,Kjønnsroller"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Derfor tjener menn fortsatt mer enn kvinner</div>
+<div type="ingress">Kvinner organiserer møter mens menn holder presentasjoner for sjefen.</div>
+<div type="author"></div>
+<div type="date">2019-03-08</div>
+<div type="caption"><p>LØNNSGAPET: I 2019 tjener menn fortsatt mest, både når man sammenlikner bransjer, men også innad på arbeidsplassen. FOTO: Shutterstock</p></div>
+</body></document>

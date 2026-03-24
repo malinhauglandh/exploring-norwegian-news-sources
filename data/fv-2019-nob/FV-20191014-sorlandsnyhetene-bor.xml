@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191014-sorlandsnyhetene-bor.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/y3yXGA/Sorlandsnyhetene-borte-fra-Facebook" frk="40 0 0 274 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-10-14 14:07"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sørlandsnyhetene borte fra Facebook</div>
+<div type="ingress">Mandag formiddag er Sørlandsnyhetene gjort utilgjengelig på Facebook. Steinar J. Olsen sier at det kan bli aktuelt å be om en rettslig kjennelse for å få Facebook til å utlevere informasjon om det omstridte nettstedet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

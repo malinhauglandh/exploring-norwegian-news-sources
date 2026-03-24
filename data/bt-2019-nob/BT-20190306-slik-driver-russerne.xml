@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190306-slik-driver-russerne.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/J1Vb27/Slik-driver-russerne-skjult-elektronisk-krig-mot-Norge-Men-de-foretrekker-a-krige-i-kontortiden" frk="68 2 1 465 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-06 13:45"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Russland,Webview,Luftfart,E-tjenesten,Forsvaret,Trident Juncture"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik driver russerne skjult elektronisk krig mot Norge. Men de foretrekker å krige i kontortiden.</div>
+<div type="ingress">Kl. 9 om morgenen siktet russerne mot Norge med sitt nye våpen. Noen sekunder senere falt GPS-signalene ut i Finnmark.</div>
+<div type="author"></div>
+<div type="date">2019-03-06</div>
+<div type="caption"><p>KOLA: Russiske militære setter opp et våpensystem for elektronisk krigføring på Kola. Bildet er fra et TV-innslag i russiske medier laget av det russiske forsvaret på nettstedet Vojennovo Obrozrenija. FOTO: Vojennovo Obrozrenija</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-forste-tilfelle-av-e.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/VboR5W/Forste-tilfelle-av-ebola-i-storbyen-Goma" frk="54 2 1 353 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 05:39"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Første tilfelle av ebola i storbyen Goma</div>
+<div type="ingress">Kongolesiske helsemyndigheter bekrefter det første tilfellet av ebola i storbyen Goma som har 2 millioner innbyggere.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"><p>Helsearbeidere fra Verdens helseorganisasjon WHO ved et hus der to personer er smittet av ebola i Mabalako i det østlige Kongo. Foto: Al-hadji Kudra Maliro / AP / NTB scanpix</p></div>
+</body></document>

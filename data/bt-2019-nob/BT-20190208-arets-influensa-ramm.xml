@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190208-arets-influensa-ramm.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/7l815w/-Arets-influensa-rammer-smabarna-hardest" frk="37 0 0 261 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-08 09:16"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Folkehelseinstituttet,Influensa"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Årets influensa rammer småbarna hardest</div>
+<div type="ingress">Dobbelt så mange småbarn som eldre på sykehus med influensa.</div>
+<div type="author"></div>
+<div type="date">2019-02-08</div>
+<div type="caption"><p>BARN BLIR SYKE: I år er sesongen preget av svineinfluensa og den smitter typisk småbarn lettere enn eldre. FOTO: SCANPIX (illustrasjonsfoto)</p></div>
+</body></document>

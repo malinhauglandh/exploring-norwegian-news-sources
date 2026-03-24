@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190401-nest-sotra-tapte-ses.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/kJ0Xyk/Nest-Sotra-tapte-sesongpremieren-Se-scoringene-fra-kampen" frk="14 0 0 126 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-01 12:04"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Raufoss Fotball,Nest-Sotra"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nest-Sotra tapte sesongpremieren: Se scoringene fra kampen</div>
+<div type="ingress">Se alle høydepunktene fra Nest-Sotra - Raufoss!</div>
+<div type="author"></div>
+<div type="date">2019-04-01</div>
+<div type="caption"></div>
+</body></document>

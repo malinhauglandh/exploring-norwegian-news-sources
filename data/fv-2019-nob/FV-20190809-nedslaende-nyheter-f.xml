@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190809-nedslaende-nyheter-f.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/g7Ronq/Nedslaende-nyheter-for-Manchester-City-Stjerne-ute-i-lang-tid" frk="43 8 2 241 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-09 18:04"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nedslående nyheter for Manchester City: Stjerne ute i lang tid</div>
+<div type="ingress">Leroy Sané (23) er trolig ute i et halvt år.</div>
+<div type="author">NTB</div>
+<div type="date">09.aug.2019 18:04</div>
+<div type="caption"><p>Leroy Sané er ute i mange måneder etter å ha skadet kneet sist helg. FOTO: Kirsty Wigglesworth / AP / NTB scanpix</p></div>
+</body></document>

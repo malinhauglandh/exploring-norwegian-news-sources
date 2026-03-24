@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191029-fnb-sjefen-er-ikkje-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/kJxRoX/FNB-sjefen-er-ikkje-sikker-pa-kvar-arsmotet-skal-vere" frk="31 0 0 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-29 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">FNB-sjefen er ikkje sikker på kvar årsmøtet skal vere</div>
+<div type="ingress">– Nå håpar eg ting har roa seg, seier FNB-grunnleggar Frode Myrhol. Han har frykta bråk og strid på onsdagens årsmøte.</div>
+<div type="author"></div>
+<div type="date">2019-10-29</div>
+<div type="caption"></div>
+</body></document>

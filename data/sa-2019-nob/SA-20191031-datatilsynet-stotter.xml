@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191031-datatilsynet-stotter.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/kJx3AX/Datatilsynet-stotter-Stavanger-kommune-i-app-saken" frk="51 0 0 365 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-31 10:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="datatilsynet,gdpr,personvern,stavanger kommune"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Datatilsynet støtter Stavanger kommune i app-saken</div>
+<div type="ingress">Datatilsynet mener det kan være fornuftig av Stavanger kommune å stoppe bruken av apper i skoler og barnehager inntil videre på grunn av usikkerhet rundt personvernet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Personvernforordningen har et spesielt fokus på barn og unge som en særlig sårbar gruppe, ifølge Datatilsynet. Jon Ingemundsen</p></div>
+</body></document>

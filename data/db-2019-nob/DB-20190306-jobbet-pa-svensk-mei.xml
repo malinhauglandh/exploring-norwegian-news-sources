@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190306-jobbet-pa-svensk-mei.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/jobbet-pa-svensk-meieri-og-sendte-penger-til-is/70843380" frk="54 18 6 320 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-06 20:49"/>
+<attribute name="author" value="Nina Sørlie Nilssen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,sverige,pluss,islamske_stat,utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Jobbet på svensk meieri og sendte penger til IS</div>
+<div type="ingress">Ahmad Qadan er den første i Sverige som er tiltalt for å ha oppfordret andre til å sende penger til en terrororganisasjon.</div>
+<div type="author">Nina Sørlie Nilssen</div>
+<div type="date">2019-03-06</div>
+<div type="caption"><p>TERRORDØMT: 36 år gamle Ahmad Qadan ble i 2017 tiltalt for terrorfinansiering. Her fra en tur til Aleppo i Syria. Foto: Expressen</p></div>
+</body></document>

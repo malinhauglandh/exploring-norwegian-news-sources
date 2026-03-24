@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190407-dette-far-meteorolog.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/magasinet/dette-far-meteorolog-bente-wahl-49-klump-i-magen-av/70952360" frk="52 6 2 315 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-07 19:50"/>
+<attribute name="author" value="Eirik Alver Og Lars Eivind Bones (foto)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="magasinet"/>
+<attribute name="class2" value="værsyke,påskeværet,på tomannshånd,pluss,nrk,meteorologi,meteorologer,magasinet,eirik alver,bente wahl,vær"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette får meteorolog Bente Wahl (49) klump i magen av</div>
+<div type="ingress">Værmeldingen har en sentral plass i nordmenns hverdag.</div>
+<div type="author">Eirik Alver og Lars Eivind Bones (foto)</div>
+<div type="date">2019-04-07</div>
+<div type="caption"><p>STORMFULL JOBB: Bente Wahl og hennes kolleger ved Meteorologisk institutt er flinke til å melde riktig vær. Men også de beste kan bomme. Det har Wahl erfart. Og det er ingen god følelse.</p></div>
+</body></document>

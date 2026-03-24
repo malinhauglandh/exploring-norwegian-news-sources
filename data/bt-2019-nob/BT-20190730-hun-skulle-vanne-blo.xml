@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190730-hun-skulle-vanne-blo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/RREl4W/Hun-skulle-vanne-blomster-og-ta-inn-posten-Men-fristelsen-til-a-ta-ting-ble-for-stor" frk="23 0 0 139 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-30 13:40"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Tyveri og innbrudd,Hardanger"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hun skulle vanne blomster og ta inn posten. Men fristelsen til å ta ting ble for stor.</div>
+<div type="ingress">Nå må kvinnen betale erstatning.</div>
+<div type="author"></div>
+<div type="date">2019-07-30</div>
+<div type="caption"></div>
+</body></document>

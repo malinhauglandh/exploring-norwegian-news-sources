@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190708-stor-karing-de-beste.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/stor-karing-de-beste-25-artistene-fra-nordland/71379582" frk="54 11 4 336 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-08 19:51"/>
+<attribute name="author" value="Mathilde Lea, Liselotte Hauer Kind (design)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor kåring: De beste 25 artistene fra Nordland</div>
+<div type="ingress">I løpet av de neste ukene skal Dagbladet kåre de beste bandene og artistene fra hvert fylke i Norge. I dag tar vi for oss Nordland.</div>
+<div type="author">Mathilde Lea, Liselotte Hauer Kind (design)</div>
+<div type="date">2019-07-08</div>
+<div type="caption"><p>DAGBLADET KÅRER: Dagbladet kårer de beste artistene/bandene fra Nordland de siste 40 åra. Illustrasjon: Liselotte Hauer Kind / Dagbladet</p></div>
+</body></document>

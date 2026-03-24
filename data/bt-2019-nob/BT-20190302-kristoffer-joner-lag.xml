@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190302-kristoffer-joner-lag.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/yvqOPE/Kristoffer-Joner-lager-kortfilm-med-unge-talenter-fra-Bergen" frk="48 0 0 331 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-02 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Film,Ungdom,Røst,Hordaland,Bergen,Kristoffer Joner"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kristoffer Joner lager kortfilm med unge talenter fra Bergen</div>
+<div type="ingress">I november i fjor reiste Gine Therese Grønner og Kristoffer Joner rundt for å finne unge filmtalenter. Nå spiller de kortfilmen inn i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-03-02</div>
+<div type="caption"><p>INNSPILLING: Gjennom filmprosjektet Røst får ungdom lage film med profesjonelle filmskapere. FOTO: Tor Høvik</p></div>
+</body></document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190321-facebook-lagret-mill.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/utenriks/i/6jnQOr/facebook-lagret-millioner-av-passord-ukryptert" frk="211 10 15 1487"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-03-21 16:35"/>
+<attribute name="author" value="Halvor Bjørntvedt"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Facebook lagret millioner av passord ukryptert</div>
+<div type="ingress">Selskapet innrømmer å ha lagret passord ukryptert, og sender ut varsel til millioner av Facebook- og Instagrambrukere.</div>
+<div type="author">Halvor Bjørntvedt</div>
+<div type="date">21.03.19 17:35 Oppdatert: 21.03.19 17:49</div>
+<div type="caption"><p>TABBE: Ifølge sikkerhetsnettstedet KrebsOnSecurity lå flere hundre millioner Facebook-passord fritt tilgjengelig for flere tusen ansatte, noen over flere år. Foto: JOSH EDELSON / AFP</p></div>
+<div type="text">
+<p>Facebook skriver dette selv på sin egen nyhetsportal, etter at avsløringen først ble publisert på nettstedet KrebsOnSecurity. Sistnevnte skriver at det er snakk om mellom 200 og 600 millioner passord tilgjengelig i ren tekst, og siterer en anonym ansatt i selskapet.</p>
+<p>Passordene var lagret ukryptert på en intern server, og var ifølge KrebsOnSecurity søkbare for rundt 20 000 ansatte i selskapet. Tabben skal ha blitt oppdaget av Facebook i januar, men ble altså ikke offentliggjort før torsdag. Ifølge KrebsOnSecurity skal noen passord ha vært tilgjengelige ukryptert helt siden 2012.</p>
+<p>Facebook understreker at deres egen gransking ikke har gitt noen indikasjoner på at passordene var tilgjengelig for andre enn de ansatte, eller at informasjonen skal ha blitt misbrukt. Selskapet bekrefter ikke hvor mange passord som totalt har vært tilgjengelige, men melder at «flere hundre millioner» vil få varsler fremover.</p>
+<p>– Vi estimerer å sende varsel til flere hundre millioner Facebook Lite-brukere, flere titalls millioner Facebook-brukere og titusener Instagram-brukere, skriver sikkerhetssjef Pedro Canahuati på nettsiden.</p></div></body></document>

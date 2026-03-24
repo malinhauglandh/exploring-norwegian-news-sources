@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190517-stor-test-av-arets-i.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/forbruker/i/WLQMMQ/Stor-test-av-arets-is-nyheter-Denne-er-farlig-god" frk="40 16 4 244 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-17 13:55"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value="mat og drikke,tester,hennig-olsen is,iskrem,matbransjen,17. mai,sommer"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor test av årets is-nyheter: «Denne er farlig god!»</div>
+<div type="ingress">Vi har testet årets nyheter og kastet terningen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>NAM NAM: Mens vi venter på 17. mai og varme sommerdager, har vi testet oss gjennom 20 av årets is-nyheter. Stenersen, Tor</p></div>
+</body></document>

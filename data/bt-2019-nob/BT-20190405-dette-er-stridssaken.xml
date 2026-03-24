@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190405-dette-er-stridssaken.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/XgM7Jo/Dette-er-stridssakene-Jonas-Gahr-Store-vil-stoppe" frk="53 0 0 357 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-05 07:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Abort,AUF,Sikkerhetspolitikk,Oljepolitikk,Lofoten,Jonas Gahr Støre,Ingvild Kjerkol,Atomvåpen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er stridssakene Jonas Gahr Støre vil stoppe</div>
+<div type="ingress">Jonas Gahr Støre la hele sin politiske tyngde og prestisje i å stoppe fire forslag på partiets landsmøte fredag ettermiddag.</div>
+<div type="author"></div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>STOPPER: Partileder Jonas Gahr Støre kastet fredag ettermiddag all sin politiske tyngde og prestisje inn i kampen om fire stridssaker på landsmøtet. FOTO: SCANPIX</p></div>
+</body></document>

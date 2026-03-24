@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190727-manelanding-pa-orden.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/pLl9eR/Manelanding_-pa-ordentlig" frk="30 0 0 199 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-27 13:38"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="apollo,nasa,florida,ketil solvik-olsen,romfart,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Månelanding, på ordentlig</div>
+<div type="ingress">For en som har vært på astronautcamp på Kennedy Space Center i Florida, var markeringen av månelandingen en stor begivenhet. Men jeg kom aldri til månen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

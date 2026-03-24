@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190118-digitale-pasientjour.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/digitale-pasientjournaler-fungerer-igjen-i-helse-sorost-1.1263946" frk="262 2 4 1790"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-01-18 20:45"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Digitale pasientjournaler fungerer igjen i Helse sørøst</div>
+<div type="ingress">Pasientjournalsystemet skal nå fungere som normalt, melder Oslo universitetssykehus etter at viktige datasystemer falt ned i hele Helse sørøst tidligere fredag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Oslo universitetssykehus er rammet av pasientjournalsystemet som er falt sammen. Foto: Torstein Bøe / NTB scanpix</p></div>
+<div type="text">
+<p>Sykehuset legger til at de opprettholder grønn beredskap inntil videre.</p>
+<p>Sykehusene i Helse sørøst måtte fredag formiddag gå over til gammeldagse papirjournaler på grunn av at det elektroniske pasientjournalsystemet Dips knelte. Anlegget hadde vært nede flere timer fram til 18-tiden fredag kveld da Oslo universitetssykehus meldte at det fungerte som normalt igjen.</p></div>
+<div type="title" level="3">Pen og papir</div>
+<div type="text">
+<p>Sykehuspartner, som leverer IKT-tjenester til hele helseområdet, varslet da det var klart at systemet var ute av drift, at de gikk over til rød beredskap. Rød beredskap betyr at alle ressurser er satt inn for å løse situasjonen.</p>
+<p>Da situasjonen oppsto, var uklart hvor mange sykehus i helseregionen som var rammet. Men både Oslo universitetssykehus og Sykehuset i Vestfold meldte at de gikk over til pen og papir for å føre pasientjournalene.</p></div>
+<div type="title" level="3">Grønt og gul</div>
+<div type="text">
+<p>Også administrasjonen i Helse sørøst bekreftet at flere sykehus var rammet tidlig fredag ettermiddag, og alle var gått over til manuelle rutiner.</p>
+<p>Sykehusene reagerte forskjellig på hendelsen. Mens Oslo universitetssykehus valgte grønn beredskap, gikk Sykehuset i Vestfold for gul beredskap. Sykehuspartner varslet rød beredskap.</p>
+<p>– Grønt betyr at vi setter en liten beredskapsledelse. og forsterker IKT-funksjonen. Liv og helse står ikke i fare på grunn av denne situasjonen. Vi har ikke vært i rød beredskap siden terrordagen 22. juli, forklarer informasjonsrådgiver Hedda Holt ved helseforetaket til NTB.</p></div></body></document>

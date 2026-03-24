@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190812-norske-studenter-lag.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/jdg1B9/Norske-studenter-lager-spill-til-den-neste-store-teknologien-Kvantedatamaskinen" frk="142 0 0 918"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-12 09:24"/>
+<attribute name="author" value="Caroline Enge"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="programvare,ibm,sintef,forskning og vitenskap,teknologi,fysikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske studenter lager spill til «den neste store teknologien»: Kvantedatamaskinen</div>
+<div type="ingress">Vemund Falch og Christian Johnsens sommerjobb er å lage et pokerspill som kan brukes på en kvantedatamaskin. I verden foregår et kappløp for å forstå hva annet maskinene kan brukes til.</div>
+<div type="author">Caroline Enge</div>
+<div type="date">12.aug.2019 11:24</div>
+<div type="caption"><p>FOTO: Signe Dons En plakat på kontorveggen på Sintef i Oslo er det nærmeste de to fysikkstudentene kommer maskinen som befinner seg i Yorktown i USA. Fra venstre: masterstudent Vemund Falch, prosjektleder Franz Fuchs og masterstudent Christian Johnsen.</p></div>
+<div type="text">
+<p>– Å, jeg vinner, sier Christian Johnsen idet han tar opp datamaskinen. På skjermen utgjør noen enkle ruter pokerspillet han og Vemund Falch har laget denne sommeren.</p>
+<p>Men i motsetning til vanlig Texas Hold’em handler ikke dette spillet om å vinne penger i turneringer på nett. Det handler om å være først ute med å forstå hvordan datamaskiner bygget på kvantemekanikk fungerer.</p></div></body></document>

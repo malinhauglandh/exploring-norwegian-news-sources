@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190303-her-er-ukens-lesetip.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/XwVemm/Her-er-ukens-lesetips-fra-vare-anmeldere" frk="33 0 0 227 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-03 09:00"/>
+<attribute name="author" value="Kulturredaksjonen"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="litteratur,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er ukens lesetips fra våre anmeldere</div>
+<div type="ingress">Vi guider deg inn i bokjungelen</div>
+<div type="author">Kulturredaksjonen</div>
+<div type="date">03.mar.2019 10:00</div>
+<div type="caption"><p>FOTO: DIVERSE</p></div>
+<div type="text">
+<p>Hver søndag anmelder Aftenpostens bokanmeldere både romaner, poesi og sakprosa.</p>
+<p>Her er noen ferske tips og anbefalinger:</p></div></body></document>

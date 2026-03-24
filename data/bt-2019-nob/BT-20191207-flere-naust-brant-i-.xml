@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191207-flere-naust-brant-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JKaaM/Flere-naust-brant-i-Arna" frk="42 0 0 253 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-07 06:49"/>
+
+<attribute name="author" value="Ådne Lunde"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Flere naust brant i Arna</div>
+<div type="ingress">Fire naust ble totalskadet da det brant i en naustrekke med åtte nøst.</div>
+<div type="author">Ådne Lunde</div>
+<div type="date">Publisert 7. desember 2019 06:49</div>
+<div type="caption"><p>SLUKKET: Brannen i naustene er nå slukket. Foto: Leif Skaar</p> <p>STORE SKADER: Fire av åtte naustene i rekken er totalskadet. Foto: Leif Skaar</p></div>
+</body></document>

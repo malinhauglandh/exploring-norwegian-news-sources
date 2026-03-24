@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190830-dette-var-ratt-og-pr.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/rAbjl0/Dette-var-ratt-og-primitivt_-og-fryktelig-vatt" frk="19 0 0 147 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette var rått og primitivt, og fryktelig vått</div>
+<div type="ingress">Legendariske «Carmina Burana» blir sjelden fremført under så vanskelige forhold.</div>
+<div type="author"></div>
+<div type="date">2019-08-30</div>
+<div type="caption"></div>
+</body></document>

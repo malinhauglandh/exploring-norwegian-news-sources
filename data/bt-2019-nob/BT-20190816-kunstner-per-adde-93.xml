@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190816-kunstner-per-adde-93.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/1nX75X/Kunstner-Per-Adde-93-trodde-han-hadde-hatt-sin-siste-utstilling-Sa-fikk-han-en-telefon-fra-Bergen" frk="27 23 4 173 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-16 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kunstner Per Adde (93) trodde han hadde hatt sin siste utstilling. Så fikk han en telefon fra Bergen.</div>
+<div type="ingress">Nå har 93-åringen sin første soloutstilling i byen.</div>
+<div type="author"></div>
+<div type="date">2019-08-16</div>
+<div type="caption"></div>
+</body></document>

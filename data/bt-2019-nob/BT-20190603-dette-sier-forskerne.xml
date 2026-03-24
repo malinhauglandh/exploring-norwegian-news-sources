@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190603-dette-sier-forskerne.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3bnj4/Dette-sier-forskerne-om-junivaret" frk="524 1 6 3088" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-03 18:02"/>
+
+<attribute name="author" value="Julianne Bråten Mossing"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="NORCE,Norge,Varsling,Sommerferie,Vær,Landbruk,Viten,Flom,Forskning og vitenskap,Teknologi,Kunstig intelligens,Bergen,Sommer"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette sier forskerne om juniværet</div>
+<div type="ingress">I fjor traff de blink med varsel om tørr juli. Dette sier klimaforskerne om starten på årets sommer.</div>
+<div type="author">Julianne Bråten Mossing</div>
+<div type="date">3. juni 2019 18:02</div>
+<div type="caption"><p>NORMALT: – Varselet vi har sendt ut for juni er veldig kjedelig. Været ser ut til å bli akkurat som normalt for hele Norge, sier Erik Kolstad, klimaforsker og meteorolog. FOTO: Rune Sævig</p> <p>SESONGVARSLINGER: Modellene som blir brukt i værvarslingene er blitt så gode at forskere kan sende ut sesongvarslinger. Forskerne forsøker blant annet å finne ut hvilke klimamodeller som varsler best til hvilke tider av året. Eirik Brekke</p> <p>TØRR SOMMER: I fjor var det en tørr sommer. Det er for tidlig å si hvordan årets julivær blir. Bjørn Erik Larsen</p> <p>VÅT OG TØRR: Juni er både en våt og tørr måned, ifølge Kolstad. Eirik Brekke</p></div>
+<div type="text">
+<p>– Årets juni er verken kaldere enn varmere enn normalt, sier Erik Kolstad, klimaforsker og meteorolog i NORCE.</p>
+<p>NORCE leder et prosjekt med «Seasonal Forecasting Engine» (SFE), et sesongvarsel som har om mål å kunne varsle om været avviker fra normalen. Varselet kommer én gang i måneden.</p>
+<p>– I fjor så vi indikasjoner på at det ville bli en veldig tørr juli. For juni er det ingen slike sterke indikasjoner i datene våre, sier Kolstad.</p></div>
+<div type="title" level="3">Kunstig intelligens </div>
+<div type="text">
+<p>Varselet er basert på fem europeiske klimamodeller, altså fem måter å varsle været på. SFE regner ut et varsel basert på disse.</p>
+<p>– Vi ser hvor treffsikre disse målingene har vært 25 år bakover i tid. Så forsøker vi å kombinere disse modellene til ett varsel, sier han.</p>
+<p>Dette blir gjort ved hjelp av kunstig intelligens og avanserte statistiske metoder.</p></div>
+<div type="title" level="3">Både kald og varm</div>
+<div type="text">
+<p>Vestlandet har startet sommeren med rekordkulde.</p>
+<p>Kolstad understreker at varselet for juni ikke betyr at vi ikke får kaldere eller varmere perioder. Varslingen regner ut en gjennomsnittstemperatur for måneden.</p>
+<p>– Varselet vårt kan virke misvisende. Starten av juni har vært kald. Nå ser det ut som vi går inn i periode med litt varmere temperaturer, med én til to grader varmere enn normalt, sier han.</p>
+<p>Men til sammen blir nok juni en værmåned som er normal, ifølge Kolstad.</p>
+<p>Varselet gir altså ikke et mål på temperaturer dag for dag, men et helhetlig bilde av perioden man går inn i.</p></div>
+<div type="title" level="3">Nyttig for næringer</div>
+<div type="text">
+<p>Datamengdene kommer fra satellitter, modeller og observasjoner. Varslingen er så langt bare en del av et forskningsprosjekt, der målet er produsere pålitelige varslinger.</p>
+<p>Målingene skal også kunne si om det blir spesielt mye eller lite nedbør.</p>
+<p>Sesongvarslinger er spesielt nyttig for næringer som landbruket, vannkraftindustrien og forsikringsbransjen.</p>
+<p>– I 2018 hadde vi for eksempel varsel om en kald vinter. Dette kan være nyttig for forsikringsselskaper, for å få kunnskap om risikoen for skader som har direkte med frost å gjøre. Det samme gjelder om det stor risiko for flom. De vil kunne tape mye penger på dårlig vær, og må justere prisene som følge av dette, sier Kolstad.</p>
+<p>Kolstad sier at det er for tidlig å varsle været for juli, men at dette kommer i midten av denne måneden.</p>
+<p>– Men det er ekstremt liten sannsynlighet for at vi får en like tørr sommer i år som i fjor, sier han.</p></div></body></document>

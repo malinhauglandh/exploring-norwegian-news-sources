@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190624-sprak-kaos.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/OpyJ3q/Sprak-kaos" frk="31 4 1 211 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-24 13:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="hodepine-quiz,hodepine-quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Språk-kaos</div>
+<div type="ingress">HODEPINE 1: Velkommen til ny runde med nøtter og andre oppgaver som utfordrer tanken, logikken og evnen til å tenke kreativt. Dere får en ny oppgave mandag-fredag gjennom sommeren.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

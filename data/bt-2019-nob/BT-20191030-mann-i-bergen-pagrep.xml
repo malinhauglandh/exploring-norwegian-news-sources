@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-mann-i-bergen-pagrep.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/opPjVV/mann-i-bergen-paagrepet-onsdag-for-seksuell-handling-med-barn-i-skoleal" frk="17 0 0 124 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:49"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann i Bergen pågrepet onsdag for seksuell handling med barn i skolealder</div>
+<div type="ingress">Varetektsfengslet i fire uker.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

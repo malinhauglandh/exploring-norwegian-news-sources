@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191206-andre-byer-har-kinos.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/g71Wk0/Andre-byer-har-kinosaler-Sal-1_-sal-2_-sal-3-Noe-sa-kjedelig" frk="35 26 5 186 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-06 07:06"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Andre byer har kinosaler. Sal 1, sal 2, sal 3. Noe så kjedelig.</div>
+<div type="ingress">Dag 6: KP1</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 6. desember 2019 07:06</div>
+<div type="caption"><p>JULEKALENDER: Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

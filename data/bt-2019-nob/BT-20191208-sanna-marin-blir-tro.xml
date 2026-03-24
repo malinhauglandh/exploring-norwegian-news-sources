@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191208-sanna-marin-blir-tro.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/8mLyzx/Sanna-Marin-blir-trolig-Finlands-nye-statsminister" frk="47 5 2 345 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-08 19:59"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sanna Marin blir trolig Finlands nye statsminister</div>
+<div type="ingress">Det finske sosialdemokratiske partiet SDP har utpekt 34 år gamle Sanna Marin som sin statsministerkandidat. Dermed er hun i praksis landets nye statsminister.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 8. desember 2019 19:59</div>
+<div type="caption"><p>NY JOBB: Transportminister Sanna Marin overtar trolig som statsminister i Finland. Foto: Vesa Moilanen, NTB scanpix</p></div>
+</body></document>

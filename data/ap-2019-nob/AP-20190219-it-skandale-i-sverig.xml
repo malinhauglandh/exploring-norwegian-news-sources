@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190219-it-skandale-i-sverig.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/rLxvJl/IT-skandale-i-Sverige-2_7-millioner-samtaler-til-helsetelefon-har-ligget-apent-pa-nettet" frk="370 12 32 2501"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-19 14:56"/>
+<attribute name="author" value="Morten Schwencke"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="internett,sverige"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">IT-skandale i Sverige: 2,7 millioner samtaler til helsetelefon har ligget åpent på nettet</div>
+<div type="ingress">Opptak av sensitive samtaler med 1177 Vårdguiden har ligget fritt tilgjengelig på en server, avslører Computer Sweden.</div>
+<div type="author">Morten Schwencke</div>
+<div type="date">2 timer siden</div>
+<div type="caption"><p>FOTO: Illustrasjon: Roald, Berit / NTB scanpix Hos rådgivningstjenesten 1177 Vårdguiden kan den svenske befolkningen få informasjon om offentlige helse- og omsorgstjenester. Samtalene blir tatt opp og har ligget fritt tilgjengelig på nett.</p></div>
+<div type="text">
+<p>2,7 millioner samtaleopptak fra rådgivningstjenesten 1177 Vårdguiden har ligget helt ubeskyttet på internett, skriver Computer Sweden.</p>
+<p>1177 Vårguiden er en rådgivningstjeneste der befolkningen kan få informasjon om statens helse og omsorgstjenester. Den døgnåpne tjenesten eies av Sveriges kommuner og Landsting. De 2,7 millioner samtaleopptakene er tatt imot av omsorgsentreprenøren Medicall, fra og med 2003.</p>
+<p>«Samtalene inneholder sensitive opplysninger om sykdommer og plager som de helsehjelptrengende ber om å få rådgivning om», skriver nettstedet.</p></div>
+<div type="title" level="3">Legger på røret</div>
+<div type="text">
+<p>Når den svenske nettsiden konfronterer lederen i Medicall med at filene ligger ubeskyttet på nettet, avviser han journalistens fremleggelse av faktum:</p>
+<p>– Vi har sjekket opp dette med IT-avdelingen vår, og det du sier er helt umulig, sier administrerende direktør David Nyblom til nettsiden.</p>
+<p>Til tross for at journalisten har filene foran seg, nekter Nyblom og legger til slutt på røret. Senere har han omtalt saken som «beklagelig», til SVT Nyheter.</p>
+<p>Medicall har ifølge nettstedet sitt hovedkontor i Hua Hin Thailand og er en underleverandør av Medhelp, som tar imot samtaler fra Stockhol, Södermanland og Värmland.</p>
+<p>Som en konsekvens av publiseringen til Computer Sweden er serveren med samtalene nå stengt.</p></div>
+<div type="title" level="3">Lastet ned mange </div>
+<div type="text">
+<p>Saken reiser nå spørsmål om hvem som kan ha fått tak i det sensitive materialet fra 1177 Vårdguiden. SVT Nyheter har i dag funnet ut at totalt 55 samtaler er blitt lastet ned, fra totalt syv unike datamaskiner.</p>
+<p>Medicalls underleverandør Voice Integrate, har ansvaret for serveren. Selskapet opplyser til SVT at disse datamaskinene har IP-adresser som de kjenner fra før.</p>
+<p>– Det finnes ingen nedlastede samtaler før dette inntraff, sier Tommy Ekström til SVT, som er administrerende direktør i Voice Interigate Nordic AB.</p>
+<p>Etter Computer Swedens avsløring har imidlertid samtaler blitt lastet ned av fire ulike IP-adresser, opplyser kanalen. De involverte partene er nå i gang med å granske systemet og ta kontakt med eierne av IP-adressene.</p></div></body></document>

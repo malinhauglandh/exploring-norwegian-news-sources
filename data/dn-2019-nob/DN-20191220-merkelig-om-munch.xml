@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191220-merkelig-om-munch.xml"/>
+<attribute name="url" value="http://www.dn.no/kunst/merkelig-om-munch/2-1-728958" frk="20 0 0 155 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-12-20 18:42"/>
+<attribute name="author" value="Stian Øvrebø Johannessen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kunst"/>
+<attribute name="class2" value="Etterbørs,Kunst"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Merkelig om Munch</div>
+<div type="ingress">Dagens Næringsliv er Norges viktigste leverandør av nyheter, historier og meninger om næringsliv, økonomi og samfunn.</div>
+<div type="author">Stian Øvrebø Johannessen</div>
+<div type="date">2019-12-20 18:42</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

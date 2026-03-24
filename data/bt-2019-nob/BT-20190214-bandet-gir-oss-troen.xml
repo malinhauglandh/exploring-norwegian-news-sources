@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190214-bandet-gir-oss-troen.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/gPM2Ka/Bandet-gir-oss-troen-pa-den-folsomme-gitarmusikken" frk="36 7 2 263 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-14 11:04"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Musikk,Musikkanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bandet gir oss troen på den følsomme gitarmusikken</div>
+<div type="ingress">Bergensbandet Chain Wallet elsker det alternative 80-tallet. Men de høres samtidig moderne ut.</div>
+<div type="author"></div>
+<div type="date">2019-02-14</div>
+<div type="caption"><p>SMARTE OG FØLSOMME: Chain Wallet dyrker den smarte og følsomme gitarmusikken. FOTO: Øyvind Halsøy</p></div>
+</body></document>

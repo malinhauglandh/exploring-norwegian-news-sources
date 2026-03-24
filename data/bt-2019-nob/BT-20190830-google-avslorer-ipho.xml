@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190830-google-avslorer-ipho.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/Qoqk74/Google-avslorer-Iphone-bakdor-som-sto-apen-i-over-to-ar" frk="240 5 9 1661" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-30 11:59"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Google avslører Iphone-bakdør som sto åpen i over to år</div>
+<div type="ingress">Apples konkurrent Google avslører nå detaljer rundt et sikkerhetshull som åpnet en bakdør på Iphone-telefoner i over to år. Hullet ble tettet i februar.</div>
+<div type="author">NTB</div>
+<div type="date">30. aug. 2019 11:59</div>
+<div type="caption"><p>Illustrasjonsfoto: Gorm Kallestad / NTB scanpix</p></div>
+<div type="text">
+<p>I minst to år benyttet hackere seg av ulike nettsteder for å installere ondsinnet programvare som fikk tilgang til Iphone-brukernes innhold.</p>
+<p>– Bare det å besøke et hacket nettsted var nok til at enheten ble angrepet. Hvis angrepet var vellykket, ble det installert ondsinnet programvare, heter det i et blogginnlegg fra Googles sikkerhetsenhet Project Zero torsdag.</p>
+<p>Project Zeros sikkerhetsekspert Ian Beer beskriver sikkerhetshullet i detalj. Han navngir ingen av nettstedene som hackerne brukte for å spre programvaren, men opplyser at de infiserte nettstedene hadde tusener av besøkende hver uke.</p>
+<p>Telefoner som hadde fått den ondsinnede programvaren installert, sendte fra seg opplysninger om brukernes geografiske plassering i sanntid til en «kommando- og kontrollserver» hvert minutt. Hackerne fikk også tilgang til Iphone-brukeres kontakter, bilder og krypterte meldingstjenester som Telegram, WhatsApp og iMessage. Også Google Hangouts og Gmail på Iphone-mobilene var berørt.</p>
+<p>Flesteparten av de tolv sårbarhetene som Googles eksperter har funnet, var i iPhones standardnettleser Safari, opplyser Beer. Han legger til at sårbarhetene fantes i nesten hver versjon av operativsystemene, fra IOS 10 til IOS 12.</p>
+<p>Google informerte Apple 1. februar. Apple tettet sikkerhetsbristen med en oppdatering for IOS 12.1.4 seks dager seinere.</p>
+<p>Apple ønsker overfor BBC ikke å kommentere saken.</p></div></body></document>

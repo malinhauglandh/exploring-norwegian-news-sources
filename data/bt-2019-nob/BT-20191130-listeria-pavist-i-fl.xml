@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191130-listeria-pavist-i-fl.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/1n0X5B/Listeria-pavist-i-flymat-hos-Norwegian" frk="47 0 0 299 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-30 16:36"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Listeria påvist i flymat hos Norwegian</div>
+<div type="ingress">Det er påvist listeriabakterier i måltider som ble servert på tre av Norwegians flyginger i juli. Flere av passasjerene ble syke.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 30. november 2019 16:36</div>
+<div type="caption"><p>Det ble funnet listeriabakterier i flymat servert om bord i Norwegian i sommer. Foto: Vidar Ruud / NTB scanpix</p></div>
+</body></document>

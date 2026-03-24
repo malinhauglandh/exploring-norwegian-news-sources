@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190814-innlegg-sla-pa-autom.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/teknologi/datasikkerhet/microsoft/innlegg-sla-pa-automatiske-oppdateringer-unnga-datainnbrudd/2-1-654083" frk="220 3 6 1576"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-08-14 17:52"/>
+<attribute name="author" value="Roar Thon"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,teknologi,datasikkerhet,microsoft"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Innlegg: Slå på automatiske oppdateringer - unngå datainnbrudd</div>
+<div type="ingress">Datasystemer og maskiner uten oppdatert maskin- og programvare er en av hovedårsakene til at hackere, kjeltringer og andre kommer seg rett inn i datasystemer og plattformer. Datasystemer og maskiner uten oppdatert maskin- og programvare er en av hovedårsakene til at hackere, kjeltringer og andre kommer seg rett inn i datasystemer og plattformer.</div>
+<div type="author">Roar Thon</div>
+<div type="date">2019-08-14 17:52</div>
+<div type="caption">Å oppdatere maskin- og programvare, samt installere sikkerhetsoppdateringer så raskt som mulig, er viktig for å forhindre dataangrep, skriver artikkelforfatteren. (Foto: Istock/Getty Images) Roar Thon, fagdirektør Sikkerhetskultur i Nasjonal sikkerhetsmyndighet. (Foto: Nasjonal sikkerhetsmyndighet) Mer... </div>
+<div type="text">
+<p>Likevel finnes det de som er sterkt kritiske til automatisering av oppdateringsrutiner.</p>
+<p>Å oppdatere så raskt som mulig har vært et mantra for sikkerhetsbransjen i mange år. For Nasjonal sikkerhetsmyndighet er rådet om å oppdatere maskin- og programvare, samt å installere sikkerhetsoppdateringer så raskt som mulig – de to første av i alt fire grunnleggende råd for å forhindre dataangrep.</p>
+<p>Ny sårbarhet oppdages kontinuerlig, og tidsvinduet fra de oppdages til de utnyttes, blir stadig mindre. Ofte går det bare timer fra en sikkerhetsoppdatering slippes fra en leverandør, til det første angrepet oppdages hos oss i NSM.</p>
+<p>En undersøkelse publisert av sikkerhetsselskapet Tripwire i juni 2019 viser at 34 prosent av europeiske selskaper har vært utsatt for et vellykket dataangrep som skyldes manglende oppdatert maskin- eller programvare.</p></div></body></document>

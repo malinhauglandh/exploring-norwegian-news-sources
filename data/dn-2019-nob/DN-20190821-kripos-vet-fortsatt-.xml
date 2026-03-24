@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190821-kripos-vet-fortsatt-.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/hydro/kripos/knut-jostein-satnan/kripos-vet-fortsatt-ikke-hvem-som-star-bak-hydro-angrepet/2-1-656927" frk="258 7 12 1651"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-08-21 07:11"/>
+<attribute name="author" value="Christian Bjerknes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked,hydro,kripos,knut-jostein-satnan"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kripos vet fortsatt ikke hvem som står bak Hydro-angrepet</div>
+<div type="ingress">Kripos har etterforsket det omfattende cyberangrepet på Hydro i fem måneder, men kan fortsatt ikke si noe om hvem som står bak eller hva motivet var. Kripos har etterforsket det omfattende cyberangrepet på Hydro i fem måneder, men kan fortsatt ikke si noe om hvem som står bak eller hva motivet var.</div>
+<div type="author">Christian Bjerknes</div>
+<div type="date">2019-08-21 07:11</div>
+<div type="caption">– Samarbeidet med Hydro er et eksempel til etterfølgelse for norske bedrifter som måtte rammes av et stort dataangrep, sier politiadvokat i Kripos, Knut Jostein Sætnan. Her under en pressekonferanse om dataangrepet mot Hydro i mars. (Foto: Trygve Indrelid/NTB Scanpix) </div>
+<div type="text">
+<p>Natt til tirsdag 19. mars ble aluminiumsgiganten Hydro slått ut av et kraftig cyberangrep. Løsepengeviruset LockerGoga fanget og krypterte alle selskapets data, og krevde penger utbetalt i kryptovaluta for å låse dem opp.</p>
+<p>Angrepet førte til store produksjonsproblemer og de fleste av selskapets fabrikker måtte gå over til mer manuelle prosesser.</p>
+<p>Da Hydro la frem sine resultater for andre kvartal i juli anslo selskapet at cyberangrepet påførte selskapet ekstrakostnader på mellom 500 og 600 millioner kroner i årets to første kvartal.</p>
+<p>Kripos har gjennom Nasjonalt cyberkrimsenter (NC3) etterforsket det omfattende cyberangrepet på Hydro siden 20. mars.</p>
+<p>– Status er at vi har samlet inn store mengder informasjon og vi er i ferd med å analyserer denne. Vi kan foreløpig ikke si noe om hvor angrepet oppsto eller hvem som står bak, sier politiadvokat i Kripos, Knut Jostein Sætnan, til DN.</p></div>
+<div type="title" level="3">Samarbeider med Europol</div>
+<div type="text">
+<p>Han forteller at NC3 arbeider bredt på flere fronter med etterforskningen av dataangrepet.</p></div></body></document>

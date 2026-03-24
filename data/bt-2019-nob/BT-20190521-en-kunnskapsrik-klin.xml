@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190521-en-kunnskapsrik-klin.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70B4lo/En-kunnskapsrik-kliniker-med-empati-for-sine-pasienter" frk="31 43 9 207 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-21 09:01"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Haukeland universitetssykehus,Medisin,Bergen,Sykehus,Nekrolog,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En kunnskapsrik kliniker med empati for sine pasienter</div>
+<div type="ingress">Nevrolog Helge Riisøen er død, 67 år gammel.</div>
+<div type="author"></div>
+<div type="date">2019-05-21</div>
+<div type="caption"><p>OVERLEGE OG FORFATTER: Helge Gjessing Uchermann Riisøen døde 7. mai 2019, 67 år gammel.</p></div>
+</body></document>

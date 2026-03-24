@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190219-meteorologen-melder-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/vmRvEV/Meteorologen-melder-mildt-men-gratt-var-de-kommende-dagene" frk="42 7 2 272 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-19 14:48"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="vær,meteorologisk institutt,stavanger,snø,norge"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Meteorologen melder mildt men grått vær de kommende dagene</div>
+<div type="ingress">Det kan bli temperaturer opp mot 12 grader i helga, men nedbør og skyer kommer vi ikke foruten, ifølge meteorologen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Nedbør, skyer og mild temperatur vil prege de kommende dagene. Jarle Aasland</p></div>
+</body></document>

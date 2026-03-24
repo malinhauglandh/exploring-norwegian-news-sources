@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190611-student-sa-han-var-e.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WbJPjr/Student-sa-han-var-elev-i-klasse-7a" frk="13 13 1 75 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-11 11:35"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Overgrep,Seksualforbrytelser,Whatsapp,Nettovergriperne"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Student sa han var elev i klasse 7a</div>
+<div type="ingress">Nå er han fengslet.</div>
+<div type="author"></div>
+<div type="date">2019-06-11</div>
+<div type="caption"></div>
+</body></document>

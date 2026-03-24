@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190219-nedgang-i-trafikken-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/0ERM1o/Nedgang-i-trafikken-i-Kristiansand-i-fjor" frk="42 0 0 299 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-02-19 15:04"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nedgang i trafikken i Kristiansand i fjor</div>
+<div type="ingress">Ferske tall viser at personbiltrafikken i Kristiansand-regionen sank i fjor.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>I bomstasjonen på Setesdalsveien ved Gartnerløkka var det såkalt nullvekst i trafikken i fjor. Trafikken gikk altså verken opp eller ned. FOTO: Kjartan Bjelland</p></div>
+</body></document>

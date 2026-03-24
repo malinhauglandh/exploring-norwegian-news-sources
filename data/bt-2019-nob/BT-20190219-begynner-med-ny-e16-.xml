@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190219-begynner-med-ny-e16-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kanqzX/Begynner-med-ny-E16-i-enden-der-det-er-farrest-ras" frk="58 16 6 369 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-19 18:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,E16,Byutvikling,Dale,Skredlandet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Begynner med ny E16 i enden der det er færrest ras</div>
+<div type="ingress">Samferdselsministeren kjørte rasveien E16, men kan ikke love at de mest rasutsatte strekningene blir erstattet på en god stund.</div>
+<div type="author"></div>
+<div type="date">2019-02-19</div>
+<div type="caption"><p>KJØRTE RASVEIEN: Samferdselsminister Jon Georg Dale (Frp) satt på med yrkessjåfør Rune Øvretveit på sin ferd på E16 mellom Vaksdal og Voss. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

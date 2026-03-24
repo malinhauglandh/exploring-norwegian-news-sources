@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190315-facebook-tar-grep-fo.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/facebook-tar-grep-for-a-bekjempe-hevnporno/70877915" frk="329 0 0 2046"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-15 21:45"/>
+<attribute name="author" value="Madeleine Hatlo"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="facebook,nyheter,hevnporno,utenriks,kunstig intelligens"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Facebook tar grep for å bekjempe «hevnporno»</div>
+<div type="ingress">Skal bruke kunstig intelligens for å hindre spredning.</div>
+<div type="author">Madeleine Hatlo</div>
+<div type="date">2019-03-15</div>
+<div type="caption"><p>HEVNPORNO: Facebook sliter med å kontrollere innholdet på egne plattformer, men annonserer nå økt innsats mot spredning av nakenbilder uten samtykke. Foto: NTB Scanpix</p></div>
+<div type="text">
+<p>Facebook annonserte fredag at de skal ta i bruk kunstig intelligens for å hindre spredning av intime bilder delt uten samtykke på sine plattformer.</p>
+<p>Fram til nå har brukerne vært nødt til å rapportere slikt innhold selv. Det nye verktøyet vil nå kunne oppdage lettkledd innhold, i tillegg til nakenhet, uten at det er rapportert inn.</p>
+<p>Innholdet vil så bli flagget og sendt til en moderator for manuell gjennomgang. Dersom det bryter med retningslinjene, vil de opprette et digitalt fingeravtrykk av bildet og stoppe det fra å bli delt videre.</p>
+<p>- Ved hjelp av maskinlæring og kunstig intelligens kan vi nå proaktivt finne lettkledde bilder eller videoer som er delt uten samtykke på Facebook eller Instagram. Det betyr at vi kan finne dette innholdet før noen rapporterer det. Dette er viktig av to grunner: ofrene er ofte redde for straff, og unngår derfor å rapportere innhold av seg selv, eller så vet de rett og slett ikke om at det har blitt delt, skriver sikkerhetssjef, Antigone Davis, i et blogginnlegg.</p>
+<p>Hvor effektivt det nye systemet vil være, er vanskelig å bedømme. Selskapet har i lang tid presentert kunstig intelligens som en løsning på en rekke problemer, til tross for at det er kjente problemer med teknologien.</p>
+<p>Automatiske systemer kan fjerne uønsket innhold som har blitt flagget, men mye av innholdet krever også en forståelse av kontekst for å ta en vurdering.</p>
+<p>Det kommer ikke spesielt tydelig fram i annonseringen akkurat hvordan verktøyet deres fungerer i jakten på dette innholdet. Ifølge Associated Press ser ikke verktøyet kun på bildene i seg selv, men også på tilhørende tekst. Dersom teksten inneholder nedsettende bemerkninger, betyr dette sannsynligvis at «noen har delt bildet for å henge ut eller hevne seg på noen», skriver de.</p></div></body></document>

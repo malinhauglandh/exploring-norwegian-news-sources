@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-drapssiktet-stoppet-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wPJWBA/Drapssiktet-stoppet-politietterforskning-av-Helse-Bergen" frk="26 0 0 209 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Drapssiktet stoppet politietterforskning av Helse Bergen</div>
+<div type="ingress">Politiet måtte henlegge anmeldelse av Helse Bergen etter dobbeltdrapet i Fjell i sommer. Siktede ga ikke fritak fra taushetsplikten.</div>
+<div type="author"></div>
+<div type="date">2019-12-13</div>
+<div type="caption"></div>
+</body></document>

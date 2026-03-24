@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190412-pass-pa-at-autopass-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/LA4JpP/Pass-pa-at-Autopass-brikken-fungerer" frk="34 0 0 225 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-12 08:11"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="fjord 1,mortavika,påske,ferje,arsvågen"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Pass på at Autopass-brikken fungerer</div>
+<div type="ingress">Pass på at Autopass-brikken din fungere, slik at du slipper å tilbringe påskeferien i kø.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dette er en type Autopass-brikke som kan skape problemer i bommen i Mortavika.</p></div>
+</body></document>

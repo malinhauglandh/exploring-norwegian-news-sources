@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190320-legger-ned-overnatti.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zLdXz5/Legger-ned-overnattingstilbud-for-rusavhengige" frk="33 0 0 243 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-20 19:34"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Rusomsorg,Byrådet (Bergen),Rus,Politikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Legger ned overnattingstilbud for rusavhengige</div>
+<div type="ingress">Byråden vil avlaste Strax-huset. Ansatte mener det er en dårlig idé.</div>
+<div type="author"></div>
+<div type="date">2019-03-20</div>
+<div type="caption"><p>AVVIKLES: Strax-huset har seks slike sengeplasser på natthjemmet som nå skal legges ned. FOTO: Eirik Brekke</p></div>
+</body></document>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190721-nesten-hele-bulgaria.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/6jyPp8/Nesten-hele-Bulgarias-voksne-befolkning-ble-hacket" frk="680 2 12 4433"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-07-21 20:54"/>
+<attribute name="author" value="Line Tiller"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="økonomisk kriminalitet,hacking,datasikkerhet,bulgaria,etterforskning"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nesten hele Bulgarias voksne befolkning ble hacket</div>
+<div type="ingress">Personlig informasjon fra «praktisk talt hele den voksne bulgarske befolkningen» er kommet på avveie. Fem millioner er berørt. En 20-årig «tryllekunstner» er siktet.</div>
+<div type="author">Line Tiller</div>
+<div type="date">19 timer siden</div>
+<div type="caption"><p>FOTO: Dimitar Kyosemarliev/ Reuters / NTB scanpix Skattemyndighetenes kontorer i Sofia, Bulgaria denne uken.</p> <p>– Hackerens suksess handler ikke om at vedkommende gjorde det så avansert, men om dårlige sikkerhetssystemer hos skattemyndighetene, sier direktøren for datasikkerhetsfirmaet LogSentinel, Bozhidar Bozhanov.</p> <p>Bulgarias statsminister Boyko Borissov.</p></div>
+<div type="text">
+<p>Det var skattemyndighetene i Bulgaria som i slutten av juni ble utsatt for den mest storstilte hackingen landet noensinne har opplevd.</p>
+<p>Stjålet informasjon har inkludert personnummer, inntektstall, lån og private opplysninger fra helsevesenet i landet, skriver Reuters.</p>
+<p>Landets finansminister, Vladislav Goranov, fortalte at den lekkede informasjonen hverken var hemmeligstemplet eller til fare for den økonomiske balansen i landet.</p>
+<p>Han ga en unnskyldning til alle i Bulgaria som hadde blitt berørt av hackingen.</p>
+<p>Og det var mange.</p></div>
+<div type="title" level="3"> – Innbyggere og bedrifter </div>
+<div type="text">
+<p>– Det er trygt å si at personlig informasjon fra praktisk talt hele den voksne bulgarske befolkningen er kommet på avveie, sier en forsker på datasikkerhet ved det bulgarske vitenskapsakademiet, Vesselin Bontchev.</p>
+<p>En person, som sa han var en russisk hacker, mailet journalister i Bulgaria mandag forrige uke. Han skrev ifølge en e-post, som Reuters har sett, at mer enn 5 millioner bulgarske og utenlandske innbyggere, så vel som bedrifter, hadde blitt berørt.</p>
+<p>Totalt bor det syv millioner mennesker i landet.</p>
+<p>Dimitar Kyosemarliev, Reuters / NTB scanpix</p></div>
+<div type="title" level="3">Arrestert og siktet</div>
+<div type="text">
+<p>Dagen etter ble en 20 år gammel bulgarsk medarbeider i datasikkerhet arrestert og siktet for hackingen. Politiet fortsetter etterforskningen og utelukker ikke at andre har vært involvert.</p>
+<p>Mannen som er siktet, risikerer åtte år i fengsel om han blir funnet skyldig.</p></div>
+<div type="title" level="3">Tryllekunstner eller flaks?</div>
+<div type="text">
+<p>Landets statsminister Boyko Borissov beskrev ifølge Reuters mannen som en «tryllekunstner», og at landet burde ansette lignende «unike hjerner» for å jobbe for landet, heller enn mot det.</p>
+<p>Eksperter har på sin side sagt at teknikkene var svært enkle og heller pekte mot manglende kunnskap enn «enorme evner».</p>
+<p>– Hackerens suksess handler ikke om at vedkommende gjorde det så avansert, men om dårlige sikkerhetssystemer hos skattemyndighetene, sier direktøren for datasikkerhetsfirmaet LogSentinel, Bozhidar Bozhanov.</p>
+<p>Geoffroy van der Hasselt, Ap/NTB scanpix</p></div>
+<div type="title" level="3"> – Uskyldig </div>
+<div type="text">
+<p>Skattemyndighetene i Bulgaria kan vente seg en bot på opp mot 20 millioner euro (192 millioner kroner) etter den omfattende hackingen.</p>
+<p>Den 20 år gamle bulgarske mannen bedyrer sin uskyld.</p>
+<p>– De har ingen bevis, sier advokaten Georgi Stefanov til Reuters.</p>
+<p>Offisielle tjenestemenn i Bulgaria mener hackerne lurte seg inn i skattemyndighetenes database ved å utnytte en svakhet i systemet når man sender inn selvangivelsen fra utlandet.</p></div>
+<div type="title" level="3"> – Kan skje i Norge</div>
+<div type="text">
+<p>– Kan dette også skje i Norge?</p>
+<p>– Det er klart det kan det, sier sikkerhetsrådgiver Ludwig Sandell i Datasikkerhetsfirmaet Dignatio AS.</p>
+<p>– Om noe kan bygges digitalt, så kan det også hackes. Men uten at jeg kjenner systemene i Bulgaria, så har det nok vært noen svakheter der som vi heldigvis er påpasselige med i Norge, sier han til Aftenposten.</p>
+<p>– Hvordan ville det i så fall skjedd?</p>
+<p>– Sikkerhetsbrudd skjer på to måter. Enten er programvaren satt opp feil slik at hackeren kommer seg inn bakdøren, eller det har vært en menneskelig svakhet ved at noen som har tilgang til systemene, har klikket på en link eller lastet ned en programvare, sier Sandell.</p></div>
+<div type="title" level="3">Kidnapping og utpressing</div>
+<div type="text">
+<p>– I Norge bruker vi Altinn og tofaktor autentifisering. Det er mye sikrere, sier Sandell og legger til at norske myndigheter jevnlig oppdaterer systemene sine og at «man skal jobbe ganske hard» for å bryte seg gjennom muren deres.</p>
+<p>– Hva vil en hacker med informasjon om lønn, lån og skatt?</p>
+<p>– Den dataen kan være svært interessant for noen. Den kan brukes til utpressing for en som holder på å gå konkurs, eller for å få oversikt over rike mennesker. Man kan planlegge kidnappingsforsøk eller kanskje man vil svekke tilliten til landets myndigheter. Eller selge informasjonen din til kommersielle aktører, sier Sandell.</p>
+<p>– Eller de vil rett og slett bevise ovenfor myndighetene at man er smartere enn dem, avslutter han.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191022-hoyre-topp-mener-seg.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/opPrnV/Hoyre-topp-mener-seg-utsatt-for-politisk-mord" frk="27 0 0 207 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-22 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Høyre-topp mener seg utsatt for «politisk mord»</div>
+<div type="ingress">Robert Monsens (H) farvel til politikken inneholder beskrivelser av «barnehagepolitikere» og et Bergens Tidende som driver med «fake news».</div>
+<div type="author"></div>
+<div type="date">2019-10-22</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190520-dns-sjefen-gar-av-me.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/0nWgVJ/Teatersjefen-tar-farvel-med-en-hyllest-til-bergenserne" frk="43 0 0 253 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-20 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">DNS-sjefen går av med et smell: - Jeg håper taket vil løfte seg.</div>
+<div type="ingress">DNS-sjef Agnete Haaland går av med et smell når hun før jul setter opp et splitter nytt stykke om Bergens musikalske historie. Razika og Miss Tati er noen av stjernene.</div>
+<div type="author"></div>
+<div type="date">2019-05-20</div>
+<div type="caption"></div>
+</body></document>

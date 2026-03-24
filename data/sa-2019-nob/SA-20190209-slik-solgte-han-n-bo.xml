@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190209-slik-solgte-han-n-bo.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/bolig/-Slik-solgte-han-n-bolig-om-dagen-12701b.html" frk="55 48 16 329 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-09 16:06"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value="eiendom,eiendomsmeglere,abito,bolig"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik solgte han én bolig om dagen</div>
+<div type="ingress">En gjennomsnittlig eiendomsmegler selger 50 – 70 boliger i året. Andre Sandvik hos Eiendomsmegler 1 i Kristiansand har solgt 204.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Andre Sandvik har solgt 204 boliger i løpet av 2018, og det er nesten én bolig om dagen om man trekker fra helger og feriedager. Eiendomsmegler 1</p></div>
+</body></document>

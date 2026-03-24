@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191231-studentene-fryktet-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/LABd1p/Studentene-fryktet-mange-gruet-seg-til-nyttarsaften-Sa-la-de-ut-en-annonse" frk="24 12 2 163 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-31 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Studentene fryktet mange gruet seg til nyttårsaften. Så la de ut en annonse.</div>
+<div type="ingress">Omtrent 20 personer har takket ja til festinvitasjonen på Finn.no.</div>
+<div type="author"></div>
+<div type="date">2019-12-31</div>
+<div type="caption"></div>
+</body></document>

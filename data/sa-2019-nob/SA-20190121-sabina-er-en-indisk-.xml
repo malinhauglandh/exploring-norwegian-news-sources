@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190121-sabina-er-en-indisk-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/P3Q4wz/Sabina-er-en-indisk-italiener-fra-Tananger" frk="58 12 4 332 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-21 12:30"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="italia,shell,tananger,india,adopsjon,napoli"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sabina er en indisk italiener fra Tananger</div>
+<div type="ingress">Hun vokste opp i Norge. Faren var fra Italia. Hun ser ut som en inder. Hvor kommer hun egentlig fra?</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det finnes ikke spor av italiensk blod i årene til Sabina, likevel kjenner hun seg sterkt knyttet til farens hjemland. Hun kom til Norge fra India i 1984. Jarle Aasland</p></div>
+</body></document>

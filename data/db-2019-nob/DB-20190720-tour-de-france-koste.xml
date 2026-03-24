@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190720-tour-de-france-koste.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/sport/tour-de-france-kostet-dem-livet/71409149" frk="53 13 4 305 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-20 19:40"/>
+<attribute name="author" value="Mathias Hagen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tour de France kostet dem livet</div>
+<div type="ingress">Fire sykkelryttere har på tragisk vis mistet livet under det som skal være årets sykkelfest.</div>
+<div type="author">Mathias Hagen</div>
+<div type="date">2019-07-20</div>
+<div type="caption"><p>DØDE: Fabio Casartelli er en av fire som har mistet livet under Tour de France. Han omkom etter krasj i 1995. Foto: John Pierce / Photosport / REX / NTB Scanpix</p></div>
+</body></document>

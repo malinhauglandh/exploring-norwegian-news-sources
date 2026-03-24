@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190204-slik-satser-aksjeeks.xml"/>
+<attribute name="url" value="http://www.dn.no/bors/dns-portefoljekonkurranse/slik-satser-aksjeekspertene-denne-uken/2-1-534630" frk="158 4 5 1044"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-04 08:07"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="bors,dns-portefoljekonkurranse"/>
+<attribute name="class2" value="Nyheter,Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik satser aksjeekspertene denne uken</div>
+<div type="ingress">Forrige uke tok Sparebank 1 Markets flyselskapet Norwegian inn i porteføljen i tro om at selskapet ble solgt. Norwegian valgte en annen løsning. Nå ryker aksjen ut etter en smertefull uke. Forrige uke tok Sparebank 1 Markets flyselskapet Norwegian inn i porteføljen i tro om at selskapet ble solgt. Norwegian valgte en annen løsning. Nå ryker aksjen ut etter en smertefull uke.</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-02-04 08:07</div>
+<div type="caption">Analysesjef Lars-Daniel Westby i Sparebank1 Markets. (Foto: Gunnar Lier) </div>
+<div type="text">
+<p>Slik ser porteføljene ut denne uken:</p></div>
+<div type="title" level="3">Alfred Berg</div>
+<div type="text">
+<p>Ut: Grieg Seafood</p>
+<p>Inn: DNB</p>
+<p>Portefølje: NRC Group, Axactor, Lerøy Seafood, Equinor, Subsea 7, Elkem, BWO, DNB og Nel</p></div>
+<div type="title" level="3">Arctic Fund Management</div>
+<div type="text">
+<p>Ut: Ingen</p>
+<p>Inn: Equinor og Panoro Energy</p>
+<p>Portefølje: Bonheur, BWO, Mowi, NRC Group, Atea, DNB, Equinor og Panoro Energy</p></div>
+<div type="title" level="3">DNB Markets</div>
+<div type="text">
+<p>Ut: Ingen</p>
+<p>Inn: Ingen</p>
+<p>Portefølje: Evry, Yara, Storebrand, Equinor, SR-Bank, Aker BP, Europris og Entra</p></div>
+<div type="title" level="3">Sparebank 1 Markets</div>
+<div type="text">
+<p>Ut: Norwegian</p>
+<p>Inn:</p>
+<p>Portefølje: Yara, Bank Norwegian (Norwegian Finans Holding) og Storebrand.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191114-sonn-36-tiltalt-for-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Xg3mEr/Sonn-36-tiltalt-for-drap-og-drapsforsok-i-Nattlandsveien" frk="26 25 4 160 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-14 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sønn (36) tiltalt for drap og drapsforsøk i Nattlandsveien</div>
+<div type="ingress">En 36-åring er tiltalt for drap på moren og drapsforsøk på faren i Bergen i mars.</div>
+<div type="author"></div>
+<div type="date">2019-11-14</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-faren-var-ruset-pa-n.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/9v0yXr/faren-var-ruset-paa-narkotika-og-kjoerte-i-129-km-t-med-soennen-i-bilen" frk="22 38 5 129 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:48"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Faren var ruset på narkotika og kjørte i 129 km/t med sønnen i bilen</div>
+<div type="ingress">Nå venter fengsel for mannen i 40-årene.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

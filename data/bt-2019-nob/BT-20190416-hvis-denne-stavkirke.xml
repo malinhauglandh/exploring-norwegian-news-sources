@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190416-hvis-denne-stavkirke.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/RR51g2/Hvis-denne-stavkirken-brenner_-tar-det-35-minutter-for-brannbilen-kommer" frk="56 15 6 388 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-16 18:44"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Brann,Arkitektur,Riksantikvaren,Notre-Dame"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hvis denne stavkirken brenner, tar det 35 minutter før brannbilen kommer</div>
+<div type="ingress">Ni av ti norske kirker har ikke automatisk brannslukkingsanlegg, og mange ligger langt fra nærmeste brannstasjon. – Urovekkende, mener arbeidsgiverorganisasjon.</div>
+<div type="author"></div>
+<div type="date">2019-04-16</div>
+<div type="caption"><p>Borgund Stavkirke i Lærdal. Kirken ble bygget rundt år 1180 og er en av Norges best bevarte stavkirker. FOTO: Meek, Tore / NTB scanpix</p></div>
+</body></document>

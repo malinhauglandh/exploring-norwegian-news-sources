@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190303-yr-appen-viste-272-g.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/yr-appen-viste--272-grader/70831768" frk="154 10 11 1011"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-03 11:22"/>
+<attribute name="author" value="Helene H. Rossholt, Marthe Ihle"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="yr,innenriks,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Yr-appen viste -272 grader</div>
+<div type="ingress">På søndag sa Yr at det skulle bli kaldere enn bikkjekaldt. Men dette blir det absolutt ikke noe av, bekrefter Meterologisk institutt.</div>
+<div type="author">Helene H. Rossholt, Marthe Ihle</div>
+<div type="date">2019-03-03</div>
+<div type="caption"><p>TEKNISK FEIL: Meterologisk forteller at de har fått mange tilbakemeldinger på den pussige væroppdateringen. Foto: Privat</p></div>
+<div type="text">
+<p>Satt du ved frokostbordet i ro og mak og gikk inn på yr-appen satte du kanskje kaffen i vrangstrupen. Værmeldinga viste nemlig at temperaturen skulle falle til hele -273 grader på søndag.</p>
+<p>Ingen grunn til bekymring! Meteorologisk institutt bekrefter at det absolutt ikke blir noe av. Odd Ivar Olsen, meteorologikonsulent ved Meteorologisk institutt, sier at det dreier seg om en teknisk feil.</p>
+<p>- Det var en feil i langtidsprognosen som kommer fra England. Den skal konverteres fra kelvin til celsius. 273.15 kelvin tilsvarer null grader, opplyser han overfor Dagbladet.</p>
+<p>Han forteller at de har fått mange tilbakemeldinger om denne pussige væroppdateringen.</p>
+<p>- Men alle skjønner nok at det er en feil, sier Olsen.</p></div></body></document>

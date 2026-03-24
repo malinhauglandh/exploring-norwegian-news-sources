@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191213-dagens-quiz-lordag-1.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/LAB03V/dagens-quiz-loerdag-14-desember-2019" frk="36 67 16 236 ## %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-13 19:00"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz: Lørdag 14. desember 2019</div>
+<div type="ingress">Hva heter kabelbanen som går fra Bergen sentrum?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">13.des.2019 20:00</div>
+<div type="caption"><p>FOTO: Marianne Løvland / NTB scanpix</p></div>
+<div type="text">
+<p>1. Hvem var statsminister i Danmark i perioden 2011-2015?</p>
+<p>2. Hva heter myntenheten i Ungarn?</p></div></body></document>

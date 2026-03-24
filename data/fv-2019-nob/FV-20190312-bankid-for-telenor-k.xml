@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190312-bankid-for-telenor-k.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/norgeogverden/i/gPgJJk/BankID-pa-mobil-virker-ikke-for-Telenors-kunder" frk="95 7 4 569 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-12 15:02"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,norgeogverden"/>
+<attribute name="class2" value="nyheter,norgeogverden"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">BankID for Telenor-kunder oppe igjen</div>
+<div type="ingress">BankID var ute av drift for Telenors mobilkunder i mer enn fire timer tirsdag.</div>
+<div type="author">NTB</div>
+<div type="date">12.mar.2019 15:02</div>
+<div type="caption"><p>Illustrasjonsfoto: Gorm Kallestad / NTB scanpix</p></div>
+<div type="text">
+<p>Feilen ble rettet ved 14-tiden.</p>
+<p>Telenors informasjonssjef Magnus Line sier til NTB at problemene skyldtes en feil med SMS-tjenesten.</p>
+<p>– Nå ved 14-tiden fant vi feilen, og den er nå løst. SMS og Bank ID på mobil fungerer som vanlig for kundene. En teknisk feil med vår SMS-plattform var årsaken til problemene, og vi skal nå se nærmere på dette for å unngå at det skjer igjen, sier Line.</p></div></body></document>

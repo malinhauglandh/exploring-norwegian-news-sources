@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190514-hvem-kan-redde-emma.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/opwWaa/Hvem-kan-redde-Emma" frk="33 0 0 215 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-14 07:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="psykiatri,webview,politiet,trondheim"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hvem kan redde Emma?</div>
+<div type="ingress">Alle vet det. Politiet. Brannvesenet. Ambulansene. Psykiatrien: I kveld kommer en nødtelefon fra en forskrekket person som har kommet over ei ung jente på ei bru i Trondheim.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

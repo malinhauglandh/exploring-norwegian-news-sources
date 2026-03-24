@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191212-ikke-se-denne-filmen.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/lAm8j7/Ikke-se-denne-filmen-hvis-du-skal-over-fjellet-med-det-forste" frk="56 0 0 315 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-12 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ikke se denne filmen hvis du skal over fjellet med det første</div>
+<div type="ingress">Alt som kan gå galt har en tendens til å gå galt på absolutt verst tenkelige tidspunkt. Tviler du, er det bare å se Pål Øies film. Den er en effektiv oppvisning i fenomenet. Som sådan er den også en relativt vellykket katastrofefilm.</div>
+<div type="author"></div>
+<div type="date">2019-12-12</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191119-her-vil-kommunen-ha-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dOa6lJ/Her-vil-kommunen-ha-bybanestopp" frk="20 14 2 140 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-19 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her vil kommunen ha bybanestopp</div>
+<div type="ingress">Foreslår å flytte planlagt bybanestopp nærmere Bryggen. Men det kan ikke brukes 17. mai.</div>
+<div type="author"></div>
+<div type="date">2019-11-19</div>
+<div type="caption"></div>
+</body></document>

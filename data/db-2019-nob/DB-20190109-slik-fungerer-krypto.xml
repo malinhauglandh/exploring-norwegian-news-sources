@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190109-slik-fungerer-krypto.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/data/slik-fungerer-kryptovaluta/70638636" frk="687 5 22 4072"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-09 09:46"/>
+<attribute name="author" value="Pål Joakim Pollen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="data"/>
+<attribute name="class2" value="løsepenger,bitcoin,monero,kryptovaluta,data,utpressing,blockchain"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik fungerer kryptovaluta</div>
+<div type="ingress">Penger bytter hånd på nettet, men transaksjonene kan være anonyme.</div>
+<div type="author">Pål Joakim Pollen</div>
+<div type="date">2019-01-09</div>
+<div type="caption"><p>ANONYME PENGER: Det finnes over 2.000 ulike kryptovalutaer som kan brukes for å utveksle verdier med andre over nettet.</p> <p>ÅPEN BOK: Alle kan se hvilke transaksjoner som blir utført med bitcoin, selv om avsenderadresse og mottakeradresse bare er en lang remse med tall og bokstaver. Skjermbilde: Pål Joakim Pollen</p></div>
+<div type="text">
+<p>I dagspressen er overskriftene mange om at kona til en av Norges rikeste menn har vært savnet i ti uker, og at kidnapperne skal ha krevd løsepenger i form av kryptovalutaen Monero.</p>
+<p>Men hva er egentlig en kryptovaluta, og hvorfor Monero?</p></div>
+<div type="title" level="3">Digitale penger</div>
+<div type="text">
+<p>Det finnes svært mange ulike kryptovalutaer. Den mest kjente blant folk flest er definitivt Bitcoin, som har eksistert siden 2009, og som særlig var i vinden mot slutten av 2017, der Bitcoin-kursen fløy til himmels.</p>
+<p>Men besøker du en nettside som Coinmarketcap, som holder oversikt over kursen på de ulike valutaene, teller oversikten per i dag over 2.000 ulike valutaer.</p>
+<p>Nevnte Monero er i skrivende stund den 13. mest «populære» dersom man ser på den totale verdien av hele valutaen.</p>
+<p>Den er basert på åpen kildekode, og har vært på markedet siden april 2014. Valutakoden er XMR.</p></div>
+<div type="title" level="3">Anonyme transaksjoner</div>
+<div type="text">
+<p>Det som er typisk for en kryptovaluta er at avsender og mottaker i alle transaksjoner er anonyme, og at alle transaksjonene i systemet blir bokført i en hovedbok som alle har tilgang til.</p>
+<p>Her brukes såkalt «Blockchain»-teknologi (blokkjede), der hovedboken består av «blokker» som ikke kan endres på etter at de er lagt til i hovedboken, og der hver blokk i kjeden er knyttet til den forrige via kryptografi.</p>
+<p>Hver av disse blokkene skrives inn i hovedboken ved at datamaskiner over hele verden løser kompliserte regnestykker (såkalt mining), og siden en transaksjon må få tommel opp fra et flertall av disse, unngår man at noen kan jukse med systemet og føre inn transaksjoner som ikke burde ha vært der.</p>
+<p>De som låner bort maskinkraft slik mining får typisk betalt i den samme kryptovalutaen for å bistå med dette arbeidet.</p>
+<p>Har du fem minutter til overs, får du det ovenstående forklart mer visuelt i denne videoen:</p></div>
+<div type="title" level="3">Hva med Monero?</div>
+<div type="text">
+<p>De siste årene har vi sett at Bitcoin har vært en populær valuta også for løsepenger. Blant annet har det vært brukt mye i forbindelse med «ransomware» på PC-er, der uvedkommende først lurer offeret til å laste ned ei fil, som deretter krypterer viktige filer (bilder, dokumenter etc) på brukerens harddisk.</p>
+<p>Så spretter et vindu opp der man blir avkrevd betaling via Bitcoin om man ønsker å låse opp filene igjen, og der det i utgangspunktet ikke finnes andre remedier enn å betale med mindre man er så heldig å ha blitt rammet av en variant som allerede er knekket.</p>
+<p>I høst så vi også hvordan utpressere hevdet å ha filmet nordmenn med webkameraet mens de så på porno, og der man måtte betale med Bitcoin for å slippe at videoen ble spredt til alle i kontaktlisten (det er for øvrig bare en slu bløff).</p>
+<p>Men selv om Bitcoin-transaksjonene i utgangspunktet er anonyme, der avsender og mottaker bare er representert med en lang streng med tall og bokstaver, er man nødt til å utveksle disse med den man handler med.</p>
+<p>Dermed blir systemet litt semi-anonymt – dersom jeg skal betale deg i bitcoin, må du sende meg din bitcoin-adresse. Da kan jeg slå opp adressen i hovedboken og se alle dine tidligere (og fremtidige) transaksjoner og hvor mye bitcoin du har tilgjengelig.</p>
+<p>Det var for eksempel slik vi kunne se at flere hadde betalt i den nevnte porno-saken.</p>
+<p>Og det er kanskje her den største forskjellen ligger mellom Monero og Bitcoin, for med Monero er transaksjonene helt anonyme når de skrives inn i blokkjeden, der man ikke har mulighet til å slå opp en adresse for å se hvor mye valuta vedkommende besitter eller hvordan valutaen brukes videre.</p>
+<p>Det er også andre ting som skiller Monero fra Bitcoin, men det er nok nettopp denne anonymiteten og manglende mulighet for å spore pengene som er det sentrale argumentet for velge Monero som valuta for løsepenger.</p></div></body></document>

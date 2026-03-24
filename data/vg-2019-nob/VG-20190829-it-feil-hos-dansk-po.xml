@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190829-it-feil-hos-dansk-po.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/mRpdAO/it-feil-hos-dansk-politi-kan-ha-forplantet-seg-til-norge" frk="232 5 9 1573"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-08-29 07:39"/>
+<attribute name="author" value="Ntb"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">IT-feil hos dansk politi kan ha forplantet seg til Norge</div>
+<div type="ingress">Riksadvokaten pålegger norsk politi og påtalemyndighet å identifisere alle verserende norske straffesaker hvor det er innhentet informasjon fra Danmark.</div>
+<div type="author">NTB</div>
+<div type="date">Nå nettopp</div>
+<div type="caption"><p>Riksadvokaten pålegger norsk politi og påtalemyndighet å identifisere alle verserende norske straffesaker hvor det er innhentet informasjon fra Danmark. Årsaken til pålegget er at det er avdekket en systemfeil i Danmark som gjelder bruk av teledata i straffesaker. Foto: NTB scanpix</p></div>
+<div type="text">
+<p>Årsaken til pålegget er at det er avdekket en systemfeil i Danmark som gjelder bruk av teledata i straffesaker. Så langt foreligger det ikke opplysninger som skulle tilsi at det kan være en tilsvarende feil ved systemene som benyttes av norsk politi, skriver Riksadvokaten.</p>
+<p>Datasystemet der feilen er funnet, brukes av dansk politi for å tilpasse rådata fra teletjenesteleverandører til opplysninger som brukes i straffesaker. Det er blant annet blitt påvist feil ved konvertering av geografiske koordinater med tanke på å fastslå posisjonen til mobiltelefoner.</p>
+<p>Den danske riksadvokaten har derfor besluttet å midlertidig stanse bruk av trafikk- og lokasjonsdata i blant annet pågående hovedforhandlinger. Det danske Rigspolitiet skal videre gjennomgå alle straffesaker i perioden 2012 til 8. mars 2019 hvor slike opplysninger er innhentet.</p>
+<p>Riksadvokaten har også anmodet Kripos om å undersøke om det kan være en tilsvarende feil ved systemene som benyttes av norsk politi, selv om det så langt ikke foreligger opplysninger som skulle tilsi at det er tilfelle.</p></div></body></document>

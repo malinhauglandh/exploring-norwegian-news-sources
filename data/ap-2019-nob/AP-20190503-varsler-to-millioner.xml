@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190503-varsler-to-millioner.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/i/9vBkO9/Varsler-to-millioner-i-bot-til-Oslo-kommune-etter-Aftenpostens-avsloring-om-sikkerhetshull-i-skole-app" frk="924 3 21 5746"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-03 11:44"/>
+<attribute name="author" value="Stine Barstad"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="osloby"/>
+<attribute name="class2" value="datatilsynet,personvern,utdanningsetaten,oslo kommune,datasikkerhet,gdpr"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Varsler to millioner i bot til Oslo kommune etter Aftenpostens avsløring om sikkerhetshull i skole-app</div>
+<div type="ingress">Datatilsynet mener sikkerhetshullene Aftenposten avslørte i Oslo-skolens nye app er svært alvorlige.</div>
+<div type="author">Stine Barstad</div>
+<div type="date">3. mai 2019 13:44</div>
+<div type="caption"><p>FOTO: Olav Olsen Ved skolestart i fjor høst fikk svært mange foreldre ved Oslos skoler beskjed om å ta appen Skolemelding i bruk til kommunikasjon med skolen. Nå har Datatilsynet konkludert med at Oslo kommune ikke hadde sikret appen godt nok.</p> <p>Datatilsynets direktør Bjørn Erik Thon sier at saken er alvorlig blant annet fordi barn har vært utsatt.</p></div>
+<div type="text">
+<p>Datatilsynet gir Utdanningsetaten i Oslo kommune sterk kritikk og varsler to millioner kroner i overtredelsesgebyr etter at Aftenposten i fjor høst avslørte det tilsynet betegner som «alvorlige» sikkerhetshull i den nye skoleappen.</p>
+<p>– Vi anser selvsagt dette som svært alvorlig, noe som gjenspeiles i at dette er det høyeste gebyret vi har varslet etter at de nye personvernreglene trådte i kraft, sier direktør i Datatilsynet, Bjørn Erik Thon.</p>
+<p>De nye reglene trådte i kraft fra juli i fjor.</p>
+<p>– Vi har lagt vekt på at det er en stor mengde informasjon som kunne ha kommet på avveie. Derfor er det snakk om et så høyt gebyr, presiserer Thon.</p>
+<p>Tilsynet fikk i oktober beskjed fra kommunen om at sikkerhetshullet er tettet.</p>
+<p>– Vi forutsetter at sikkerhetshullene er tettet, at det er gjennomført god sikkerhetstesting, og at det gjøres regelmessig, legger Thon til.</p>
+<p>Appen Skolemelding ble tatt i bruk ved skolestart i fjor høst, og skulle gi foreldre til mer enn 63.000 barn og unge i hovedstaden en ny måte å kommunisere med skolen på. På sikt skal den erstatte både e-post og SMS.</p>
+<p>Det var bare ett problem: Aftenposten fant etter et tips store sikkerhetsmangler ved den nye appen.</p>
+<p>Alle som logget inn, og andre med kjennskap til hullet, kunne i teorien skaffe seg tilgang til kommunikasjonen om elevene.</p>
+<p>Mariam Butt, NTB scanpix</p></div>
+<div type="title" level="3">63.000 elever rammet</div>
+<div type="text">
+<p>Sårbarheten som er avdekket innebærer en potensiell tilgang til personopplysninger om Osloskolens mer enn 63.000 elever.</p>
+<p>– Barn er definert som en sårbar gruppe i personvernregelverket da de ikke kan ivareta sine egne rettigheter og friheter selv. Det krever et særskilt vern av deres opplysninger. At barn har vært utsatt, har vi lagt vekt på som en skjerpende omstendighet, sier Thon.</p>
+<p>Gjennom appen sendes det ut uskyldig gruppeinformasjon om lekser og hva barna i klassen har gjort. Men det kan også være fortrolig kommunikasjon mellom lærere og foreldre om sykdom, fravær, mobbing og konflikter i hjemmet, bare ment for den enkelte foresatte.</p>
+<p>Men sikkerhetshullet gjorde at alle som kunne logge inn, og som har litt kunnskap om nettverk og IT, i teorien kunne få tilgang til alle meldinger som sendes om alle barn. Også kommunikasjon gjennom appen internt mellom lærere, andre ansatte og skoleledelsen var tilgjengelig med samme metode.</p></div>
+<div type="title" level="3"> – Kunne unngås</div>
+<div type="text">
+<p>Selskapet som har utviklet appen tettet sikkerhetshullet etter at Aftenposten konfronterte Utdanningsetaten (UDE) med funnene. Samtidig sendte UDE en avviksmelding til Datatilsynet. Nå har Datatilsynet reagert med å varsle Oslo kommune ved UDE en bot på to millioner kroner.</p>
+<p>Tilsynet legger blant annet vekt på at mangelfull sikkerhetstesting før lansering førte til at appen ble lansert med sårbarheter som er godt kjent i sikkerhetsmiljøer verden over.</p>
+<p>– Det finnes en liste som også ligger ute på våre nettsider med oversikt over de vanligste sikkerhetsfeilene i blant annet apper. Sikkerhetshullet i denne appen står på denne listen. Derfor mener vi at dette kunne unngås. Her har kommunen vært uaktsom, sier Thon.</p>
+<p>Han mener at dette kunne unngås hvis kommunen hadde testet appen før den ble gjort tilgjengelig.</p>
+<p>Kommunen har fått en frist til 1. juni for å komme med sitt syn på varselet.</p></div>
+<div type="title" level="3">Ble tettet igjen umiddelbart</div>
+<div type="text">
+<p>Kommunikasjonsdirektør Trine Lie Larsen i UDE skriver i en e-post til Aftenposten at IT-systemene i skolen skal være sikre, og det er ekstra viktig når det er snakk om informasjon om barn.</p>
+<p>– Vi så derfor svært alvorlig på det, da vi ble gjort oppmerksom på denne sikkerhetssvakheten 6. september 2018, og sikkerhetshullet ble tettet umiddelbart. Det er ikke noe som tyder på at noen andre har forsøkt å komme inn i systemet enn personen som gjorde Aftenposten oppmerksom på saken. Alle brukerne fikk informasjon om svakheten.</p>
+<p>– Ble systemet testet? Og hvorfor ble ikke dette oppdaget?</p>
+<p>– Leverandøren hadde sikkerhetstestet systemet, men leverandøren rakk ikke å varsle etaten om svakheten før Aftenposten henvendte seg til oss. Etter hendelsen satte vi i gang enda flere omfattende sikkerhetstester, både fra leverandøren og kommunens side, og leverandøren og vi gjør nye risikovurderinger og tester før hver nye endring i systemet, sier hun.</p>
+<p>Etaten har foreløpig ikke tatt stilling til gebyret og vil gi sitt svar til tilsynet innen fristen.</p></div>
+<div type="title" level="3">Enda bedre løsning før skolestart</div>
+<div type="text">
+<p>Tilsynet reagerer også på at appen ikke inneholder noen opplysninger om at foreldre ikke skal sende sensitive personopplysninger om barna, som helseopplysninger, via appen.</p>
+<p>– Gjelder dette fremdeles?</p>
+<p>– Ja, det mener vi. Skal man kommunisere sensitive personopplysninger, så må også løsningen ligge til rette for det med tilsvarende god informasjonssikkerhet ende-til-ende. Det er derfor å anbefale at man legger til rette for at så lite som mulig kommuniseres i slike løsninger, for å begrense risikoen for at avvik skal skje, svarer Thon.</p>
+<p>Larsen sier at de opplyser om dette når appen blir lastet ned.</p>
+<p>– Dette står også under «mer opplysninger» i appen og på skolenes nettsider. Og så jobber vi med å lansere en ny teknisk løsning der det ikke vil være mulig å sende meldinger via appen når man varsler om fravær. Denne løsningen kommer senest ved skolestart, sier Larsen.</p></div></body></document>

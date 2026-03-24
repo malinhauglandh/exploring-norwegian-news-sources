@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-overvakingsvideo-sta.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Wbx8AQ/Overvakingsvideo-star-sentralt-Bergensmann-tiltalt-for-voldtekt-av-kvinne-pa-cruiseskip" frk="20 0 0 154 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 17:02"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Overgrep,Frankrike,Bergen,Cruiseskip,Voldtekt"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Overvåkingsvideo står sentralt: Bergensmann tiltalt for voldtekt av kvinne på cruiseskip</div>
+<div type="ingress">Tiltale tatt ut i tre år gammel overgrepssak.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

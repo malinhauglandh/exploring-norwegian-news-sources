@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191215-dette-er-en-gjest-fr.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/Xg28yb/Dette-er-en-gjest-fra-et-annet-solsystem-Han-heter-Borisov-og-har-en-160000-kilometer-lang-hale" frk="109 21 14 651"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-15 20:14"/>
+<attribute name="author" value="Per Anders Johansen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="verdensrommet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette er en gjest fra et annet solsystem. Han heter Borisov og har en 160.000 kilometer lang hale.</div>
+<div type="ingress">For første gang noensinne har et teleskop på jorden oppdaget en komet fra et helt annet solsystem – en interstellar reisende gjest.</div>
+<div type="author">Per Anders Johansen</div>
+<div type="date">15.des.2019 21:14</div>
+<div type="caption"><p>FOTO: Hubble/ Nasa Dette bildet av kometen Borisov fra et annet solsystem er tatt av Hubble-teleskopet til NASA. Til venstre sees lyset av en annen galakse. Halen består av støv og gasser.</p></div>
+<div type="text">
+<p>Kometens lysende hale av gass og støv er 160.000 kilometer lang, 14 ganger mer enn jordens diameter.</p>
+<p>Den nyoppdagede kometen Borisov er den første kometen som er oppdaget i vårt solsystem fra et helt annet sted.</p></div></body></document>

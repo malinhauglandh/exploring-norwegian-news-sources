@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191015-mannen-har-sittet-ov.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mzzoE/Mannen-har-sittet-over-et-ar-i-varetekt-etter-Safa-ranet-i-Odda-Na-er-han-frifunnet" frk="33 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-15 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mannen har sittet over et år i varetekt etter Safa-ranet i Odda. Nå er han frifunnet.</div>
+<div type="ingress">Ifølge dommen er det mest sannsynlig at mannen ikke sto bak ranet. Nå varsler forsvareren erstatningskrav.</div>
+<div type="author"></div>
+<div type="date">2019-10-15</div>
+<div type="caption"></div>
+</body></document>

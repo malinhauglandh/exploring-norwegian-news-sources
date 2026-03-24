@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190205-derfor-har-pst-huawe.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/derfor-har-pst-huawei-frykt/70733947" frk="774 6 32 5017"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-05 16:09"/>
+<attribute name="author" value="Jesper Nordahl Finsveen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="innenriks,huawei,5g-nett,kina,nyheter,norge,usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Derfor har PST Huawei-frykt</div>
+<div type="ingress">Hva er det egentlig den kinesiske telegiganten kan gjøre, og hvorfor er det så farlig?</div>
+<div type="author">Jesper Nordahl Finsveen</div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>VIL LEVERE: Huawei vil levere utstyr og infrastruktur til det kommende norske 5G-nettet. Norske myndigheter er skeptisk. Men hva er det de frykter? Foto: NTB Scanpix</p> <p>KRYPTOLOG: Kristian Gjøsteen. Foto: NTNU</p></div>
+<div type="text">
+<p>I USA og Australia ble den kinesiske telegiganten Huawei svartelistet allerede i august i fjor. Nå vurderer blant andre Norge, Storbritannia, Frankrike, Tyskland og Japan å gjøre det samme.</p>
+<p>Vestlige land kvier seg for å la det kinesiske selskapet bidra i utbyggingen av 5G-nettene deres. Seinest mandag denne uka gikk PST på nytt ut og advarte mot å la Huawei delta i byggingen av det nye telenettet.</p>
+<p>Det de frykter, er at Kinas høyt kompetente etterretningsvesen kan bruke utstyret levert av det private teknologiselskapet som en forlenget og tilslørt arm inn i Vestens maktkorridorer.</p>
+<p>Men hva er det egentlig fremmede staters etterretningstjenester kan gjøre med infrastruktur lik den Norge må ha for å få et 5G-nett, og hvorfor er det så farlig?</p></div>
+<div type="title" level="3">To scenarioer</div>
+<div type="text">
+<p>Svaret på det har mange fasetter, mener Kristian Gjøsteen, kryptolog og professor ved institutt for matematiske fag ved NTNU. Professoren forteller at produsentene av teknologien man bruker for å bygge infrastrukturen nødvendig til et 5G-nett, i teorien kan manipulere komponentene på mange ulike vis.</p>
+<p>Gjøsteen lister opp to tenkelige scenarioer:</p>
+<p>At produsenten av infrastrukturen bygger inn en «av»-knapp, som i teorien kan gi den eller de som har kontroll over bryteren mulighet til å skru av telenettet på et øyeblikk.</p>
+<p>At produsenten av infrastrukturen bygger inn en «bakdør» inn til avlyttingsmulighetene som allerede finnes i komponentene.</p>
+<p>Disse tilgangene kan også andre skaffe seg, men det er lettere for produsentene, forteller professoren.</p>
+<p>Den «greske Watergate»-skandalen er et eksempel på hvordan andre enn produsenten benyttet en såkalt «bakdør» til avlyttingsmulighetene et telenett har.</p></div>
+<div type="title" level="3">Avlyttet regjeringen</div>
+<div type="text">
+<p>I en periode fra august 2004 til mars 2005 ble flere enn hundre greske telefonnumre fra leverandøren Vodafone avlyttet.</p>
+<p>Numrene tilhørte blant andre den tidligere greske statsministeren Kostas Karamanlis, medlemmer av hans familie, andre greske regjeringsmedlemmer og toppbyråkrater.</p>
+<p>Hellas har aldri formelt gitt USA skylda, men en rekke greske medier har ikke nølt med å peke på amerikanerne.</p>
+<p>De ansvarlige fikk tilgangen ved å installere programvare i Vodafones telefonsentraler, som svenske Ericsson hadde levert.</p>
+<p>At noe var galt ble oppdaget 24. januar 2005, da en rekke tekstmeldinger fra Vodafones kundetjeneste ikke ble sendt ut.</p>
+<p>Teleselskapet ba Ericsson undersøke saken, og i mars samme år oppdaget de 6500 linjer med kode som ikke skulle være der. Kode som fanget opp og avlyttet den greske regjeringen.</p></div>
+<div type="title" level="3">Vanskelig å oppdage</div>
+<div type="text">
+<p>Gjøsteen mener det i utgangspunktet vil være en smal sak for en produsent av telekommunikasjonsutstyr å selv bygge inn enten «av»-knapper eller «bakdører» inn i sine egne systemer.</p>
+<p>- Dette kan være krevende å oppdage hvis det blir tatt i bruk. At muligheten finnes, er enda vanskeligere å oppdage. Mulighetene behøver heller ikke å være der når utstyret leveres, for all programvaren oppdateres kontinuerlig, sier kryptologen.</p>
+<p>I likhet med PC-ene og telefonene våre, trenger også infrastrukturen i telenettet å oppdateres. Å gjennomføre undersøkelser som er så nøyaktige at de kan oppdage eventuelle svakheter, er «naivt å tro» at man får til hver gang det kommer en oppdatering, mener professoren.</p>
+<p>- Man kan lure inn nesten alt gjennom oppdateringer, men det kan også bygges rett inn i maskinvaren. I akademia finnes det en hel masse hypotetiske konstruksjoner for hvordan man kan komme seg inn i slike systemer, sier han.</p></div>
+<div type="title" level="3">«Ville ideer»</div>
+<div type="text">
+<p>Det var nettopp «ville ideer fra akademia» amerikanske etterretningstjenester hadde benyttet seg av i en årrekke, viste varsleren Edward Snowden i 2013, forteller professoren.</p>
+<p>- Det er ingen grunn til å tro at kineserne er noe snillere enn amerikanerne, sier han.</p>
+<p>Men Norge, som medlem av NATO, har ikke noe sikkerhetspolitisk samarbeid med Kina. Det har vi imidlertid med USA.</p>
+<p>- Norge prøver fremdeles å unngå at amerikanerne hører på alt vi sier, men samtidig gjør det ikke så mye skade. Det er mer problematisk når kineserne gjør det, fordi vi ikke er allierte. Det er enorm forskjell, mener Gjøsteen.</p></div>
+<div type="title" level="3">Tre leverandører</div>
+<div type="text">
+<p>Samtidig som vestlige myndigheter åpenlyst diskuterer hvorvidt de bør tillate Huawei-deltakelse i utbyggingen av telenett, er det også et faktum at det per nå bare er tre selskaper som kan levere teknologien som kreves.</p>
+<p>Det er svenske Ericsson, finske Nokia og kinesiske Huawei.</p>
+<p>Det kinesiske selskapet har levert nettverksutstyr til både Telia og Telenor, mens Ice bruker Nokia i sin utbygging av 4G-nettet, skriver E24.</p>
+<p>E24 kunne også melde at Samferdselsdepartementet varslet både Telenor, Telia og ICE i desember i fjor om å nøye vurdere investeringer, spesielt til anskaffelse av 5G-utstyr.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191216-slik-blir-varet-pa-j.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/GG2Q2B/Slik-blir-varet-pa-julaften" frk="28 0 0 164 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-16 11:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="meteorologisk institutt,vær"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir været på julaften</div>
+<div type="ingress">Ingenting tyder på at vi får en hvit jul i lavlandet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Gatene vil nok forbli grå i Stavanger også i årets julehøytid.</p></div>
+</body></document>

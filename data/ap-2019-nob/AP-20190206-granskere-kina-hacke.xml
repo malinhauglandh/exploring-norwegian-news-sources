@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190206-granskere-kina-hacke.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/wEl5OA/Granskere-Kina-hacket-norsk-selskap" frk="620 7 29 4086"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-06 11:25"/>
+<attribute name="author" value="Kjetil Hanssen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="etterretning,datasikkerhet,visma"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Granskere: Kina hacket norsk selskap</div>
+<div type="ingress">Det norske storselskapet Visma er blitt forsøkt hacket. Internasjonale granskere utpeker Kina som synderen.</div>
+<div type="author">Kjetil Hanssen</div>
+<div type="date">6 timer siden</div>
+<div type="caption"><p>FOTO: Kjetil Hanssen Espen Johansen er sikkerhetssjef i Visma.</p> <p>Visma har sitt hovedkontor på Skøyen i Oslo.</p></div>
+<div type="text">
+<p>– Vi ble utsatt for et angrep som var så profesjonelt og dyktig utført at vi satte ut granskningen av det til internasjonale eksperter, forteller sikkerhetssjef Espen Johansen i Visma til Aftenposten.</p></div>
+<div type="title" level="3">Stone Panda</div>
+<div type="text">
+<p>Konsulentselskapene Recorded Future og Rapid7 har nå konkludert med at hackerkollektivet kjent som APT10, Stone Panda eller Red Apollo står bak. Denne gruppen knyttes til kinesisk etterretning.</p>
+<p>– Vi har et system for å fange opp slike angrep, fikk en tidlig advarsel og kunne dermed stoppe angrepet før de fikk stjålet noen opplysninger, sier Johansen.</p></div>
+<div type="title" level="3">Fikk fatt i passord</div>
+<div type="text">
+<p>Hackerne hadde fått tak i noen passord i Visma. Disse brukte de til å komme seg inn i selskapets Citrix-system. Der forsøkte de å hente ut ytterligere passord som de kunne bruke for å komme inn i systemene til Vismas kunder.</p>
+<p>Selskapet leverer programvare for blant annet regnskaper og betaling til hundretusener av selskaper Norge og utenlands.</p></div>
+<div type="title" level="3"> – Ville infiltrere kunder</div>
+<div type="text">
+<p>Recorded Futures Priscilla Moriuchi, en tidligere amerikansk etterretningsoffiser, sier til nyhetsbyrået Reuters at hackernes opptreden inne i Vismas nettverk tyder på at målet var å infiltrere kundene.</p>
+<p>– Fordi selskapet fanget det opp tidlig, kunne de forhindre slike sekundære angrep, sier hun.</p>
+<p>Kinas utenriksdepartement har ikke besvart Reuters henvendelser om saken.</p>
+<p>Kinesiske myndigheter har tidligere avvist at de står bak datasnoking i andre land.</p></div>
+<div type="title" level="3">To andre mål</div>
+<div type="text">
+<p>I tillegg til norske Visma ble to andre selskaper utsatt for angrep i samme kampanje, ifølge granskernes rapport:</p>
+<p>Et internasjonalt klesselskap.</p>
+<p>Et amerikansk advokatfirma med klienter innen blant annet farmasøytisk industri, teknologi, elektronikk, biomedisin og bilindustrien.</p>
+<p>Angrepene mot selskapene fant ifølge granskningsrapporten sted i tidsrommet november 2017 og september 2018.</p></div>
+<div type="title" level="3">Vil øke bevisstheten</div>
+<div type="text">
+<p>Vanligvis er store selskaper tilbakeholdne med å gå ut med informasjon om brudd på sikkerheten. Visma har likevel ønsket å gjøre det denne gangen for å øke bevisstheten om truslene de og andre er utsatt for.</p>
+<p>– Hva tenker dere om at Kina, en nasjonalstat, skal stå bak?</p>
+<p>– Det har vi ingen mening om. For oss er alle ondsinnede inntrengere like ille. Jeg kaller dem bare rakkere, og dette er enda en rakker. Vi satte ut granskningen fordi aktøren var så profesjonell at vi trengte å finne ut mer, sier Johansen.</p>
+<p>Visma (Creative Commons)</p></div>
+<div type="title" level="3">Har 200 i selskapets forsvar</div>
+<div type="text">
+<p>Visma har over 8000 ansatte, en årsomsetning på over 8 milliarder kroner og ca. 200 er involvert i forsvaret mot cyberangrep.</p>
+<p>– Vi bruker betydelige ressurser på å opprettholde et troverdig forsvar mot hybride trusler, påpeker Johansen.</p>
+<p>Interne analyser antyder at 0,2 prosent av all trafikk mot selskapets tjenester er ondsinnet.</p></div>
+<div type="title" level="3">PST: Billig og effektivt</div>
+<div type="text">
+<p>Politiets sikkerhetstjeneste presenterte denne uken sin trusselvurdering for 2019. Der heter det: «Statlig styrte datanettverksoperasjoner representerer en vedvarende trussel mot norske verdier. Slike operasjoner er billige, effektive og i konstant utvikling, og angriperne finner stadig nye sårbarheter de kan utnytte.»</p>
+<p>Spionjegerne i PST mener russerne er den største utfordringen for Norge, men nevner også Kina spesielt: «Samtidig vil også tjenester fra andre land, som for eksempel Kina, utføre etterretningsoperasjoner mot mål og virksomheter her i landet. Om de lykkes med operasjonene, kan de påføre Norge og norske interesser stor skade.»</p></div>
+<div type="title" level="3">Pågående Kina-debatt</div>
+<div type="text">
+<p>Opplysningene om angrepet mot Visma og andre selskaper kommer samtidig som det i Norge og en rekke andre land pågår heftig debatt om det kinesiske teleselskapet Huawei kan tillates å delta i utbyggingen av neste generasjons telenett, 5G.</p>
+<p>Kinas ambassade i Oslo har overfor NRK avvist at landet driver nettspionasje og stemplet uroen for Huawei, blant annet målbåret av PST, som «latterlig».</p></div></body></document>

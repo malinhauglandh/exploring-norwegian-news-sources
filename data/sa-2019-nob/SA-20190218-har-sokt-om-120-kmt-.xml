@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190218-har-sokt-om-120-kmt-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/Eo132l/Har-sokt-om-120-kmt-pa-ny-E-39" frk="64 41 15 360 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-18 12:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="e39,nyhetsdøgnet,kristiansand"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Har søkt om 120 km/t på ny E 39</div>
+<div type="ingress">Nye veier jobber for en fartsgrense på 120 km/t på E39 mellom Stavanger og Kristiansand. Trafikkforsker mener at slike hastigheter øker risikoen for ulykker</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Når nye E39 står ferdig, ønsker Nye veier at man kan kjøre i 120 km/t på den nye veien. Bildet viser hvordan veien skal gå ved Lohnelier i Søgne. Sweco</p></div>
+</body></document>

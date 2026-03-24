@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010-datasenter-i-samnang.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dOzL0A/Datasenter-i-Samnanger-blir-like-stort-som-Ikea" frk="33 0 0 225 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Datasenter i Samnanger blir like stort som Ikea</div>
+<div type="ingress">– Datalagerbransjen vil komme som en kule til Vestlandet, mener gründer Per Espen Edvardsen. I Børdalen er planene for et gigantisk datalager snart godkjent.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

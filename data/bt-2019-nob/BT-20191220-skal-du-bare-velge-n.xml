@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191220-skal-du-bare-velge-n.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/Op2Enq/Skal-du-bare-velge-n-vin-til-bade-jul-og-nyttar_-velg-denne" frk="33 0 0 179 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-20 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skal du bare velge én vin til både jul og nyttår, velg denne</div>
+<div type="ingress">Her er smakene som redder julen, også for dem som er ute i aller siste liten.</div>
+<div type="author"></div>
+<div type="date">2019-12-20</div>
+<div type="caption"><p>FOTO: Katinka Hustad</p></div>
+</body></document>

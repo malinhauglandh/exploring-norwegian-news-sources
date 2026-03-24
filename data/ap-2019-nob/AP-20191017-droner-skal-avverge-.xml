@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191017-droner-skal-avverge-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/8mz1ox/Droner-skal-avverge-ulykker-med-norske-broer" frk="760 11 60 5004"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-10-17 12:30"/>
+<attribute name="author" value="Yonas Zewdu Ayele"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="viten,statens vegvesen,digitalisering,ai,forskning og vitenskap,teknologi,droner,samferdsel"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Droner skal avverge ulykker med norske broer</div>
+<div type="ingress">Svært få broer i Oslo og Oslofjord-området blir rutinemessig inspisert. Kunstig intelligens kan avdekke skader.</div>
+<div type="author">Yonas Zewdu Ayele</div>
+<div type="date">4 timer siden</div>
+<div type="caption"><p>FOTO: Yonas Zewdu Ayele Her inspiserer artikkelforfatter Grimsøy bro med droner 1. juni 2019.</p> <p>Førsteamanuensis Yonas Zewdu Ayele ved Høgskolen i Østfold.</p> <p>Dette bildet viser hvor betongelementet løsnet på gangbroen i Schweigaards gate i Oslo nylig.</p> <p>Her er sprekker på Grimsøy bro som ble oppdaget med dronebasert inspeksjon.</p></div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere og fagfolk fra hele landet bidrar med artikler.</p>
+<p>Ifølge Vegdirektoratet har vi ca. 17.500 broer i Norge. I 2017 avslørte VG at Vegvesenet bryter regler om inspeksjon ved 1 av 2 bruer. Vegvesenet bekreftet dette og forklarte det med begrenset intern kapasitet, manglende ressurser og for lite penger.</p>
+<p>I Oslofjordregionen er prosentandelen av broer som mangler rutinemessig inspeksjon på 80 prosent, og bare i Oslo er prosentandelen omtrent 100 prosent, ifølge Brutus, et broforvaltningssystem utviklet av Statens vegvesen.</p>
+<p>Med andre ord, nesten ingen broer blir inspisert på en måte som de burde, ifølge statistikken fra 2017.</p>
+<p>Det som skjedde med gangbroen i Schweigaards gate i Oslo i forrige uke, hvor betongelementer løsnet, kunne muligens vært unngått dersom broinspektører oppdaget det tidligere.</p>
+<p>Den mest alvorlige brokollapsen i Norge de siste årene skjedde i 2015 da deler av Skjeggestad bro på E18 i Vestfold brøt sammen etter et kvikkleireskred. Ingen kom til skade i hendelsen.</p>
+<p>Jan Tomas Espedal</p></div>
+<div type="title" level="3"> Vil forhindre plutselig kollaps</div>
+<div type="text">
+<p>Med pengestøtte fra Oslofjordfondet har forskere ved Høgskolen i Østfold, i samarbeid med universitetene i Tromsø, Chile og London, sett på muligheten for bruk av droner for å undersøke tilstanden på broene før det går galt.</p>
+<p>Vi har utviklet og testet en egen AI-algoritme og et grafisk brukergrensesnitt (GUI) for å finne sprekker, risser osv. Utviklingen av denne teknologien er nyttig for private og offentlige aktører innen veiforvaltning og vedlikehold av broer. I tillegg kan en slik type teknologi bidra til å forsterke og forbedre broene og forhindre katastrofale brokollapser.</p>
+<p>I tillegg kan droner oppdage broskader på et nivå som sannsynligvis vil være umulig for en menneskelig broinspektør. Droner kan bedre vurdere alvorlighetsgraden av broskader og redusere mye av usikkerheten og svakhetene som en broinspektørs personlige vurdering er preget av.</p></div>
+<div type="title" level="3"> Infrarødt kamera</div>
+<div type="text">
+<p>Dronene kommer lettere til, og ved hjelp av infrarødt kamera og vibrasjonsmålinger kan broens tilstand raskt kartlegges.</p>
+<p>Vi gjennomførte inspeksjon av tre broer i Østfold i perioden 31. mai – 2. juni i år og tok mer enn 3000 inspeksjonsbilder med drone. Med en egen AI-algoritme kan vi ut ifra resultatene se på beliggenheten av sprekker (koordinater), lengde, bredde, arealet, omkrets og skadeomfang.</p>
+<p>Vi fant ut at med bruk av droneinspeksjoner kan vi bidra til å:</p>
+<p>kutte inspeksjonstiden med omtrent 70 prosent</p>
+<p>kutte inspeksjonskostnadene med 70 – 85 prosent</p>
+<p>eliminere yrkesrisikoen</p>
+<p>åpne opp for økt digitalisering av broinspeksjons- og overvåkingsprosesser.</p>
+<p>oppdage broskader på et nivå som sannsynligvis vil være umulig for en menneskelig inspektør</p>
+<p>Yonas Zewdu Ayele</p></div>
+<div type="title" level="3"> Stor betydning for regionen</div>
+<div type="text">
+<p>Da vi søkte om pengestøtte for forskningen på bruk av droner i inspeksjon av broer, skrev Oslofjordfondet at de vurderer den regionale samfunnsmessige nytten for betydelig. Mer effektiv overvåking vil skape større sikkerhet for befolkning og er et godt verktøy for offentlig forvaltning, skrev fondet i sitt vedtak om støtte.</p>
+<p>I et intervju jeg hadde med NRK Østfold i februar, uttalte også Nina Utne seg, broingeniør i Statens vegvesen. Hun sa at «alt som kan forbedre både kvalitet og redusere kostnader og tid er vi positive til».</p></div>
+<div type="title" level="3">Lager 3D-modeller av broer</div>
+<div type="text">
+<p>For tre år siden inngikk Vegvesenet en kontrakt med et droneselskap for å teste ut om droner kunne brukes til slike inspeksjoner. Men de trengte mer forskning på området til tross for at Vegvesenet så langt bare hadde utelukkende positive erfaringer med bruk av droner.</p>
+<p>Første del av forskningsprosjektet er vel overstått og resultater ble lagt frem for publikum og Vegvesenet 20. september. Nå jobber vi med å trene en AI-algoritme med forskjellige brotypedata, og vi skal fortsette å lage 3D-modeller for broer i Østfold.</p>
+<p>Endring lagt inn i artikkelen: Presisering om at «nesten ingen broer blir inspisert på en måte som de burde» er 2017-tall.</p></div>
+<div type="title" level="3">Fakta: Dette er et Viten-innlegg</div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere fra hele landet bidrar med artikler.</p>
+<p>Viten-artikler publiseres i Aftenpostens papirutgave tirsdager og torsdager, i tillegg til nettartikler på ap.no/viten.</p>
+<p>Vi søker forskere eller akademikere innen alle fagfelt som vil skrive om egen forskning eller formidle aktuelt vitenskapsstoff.</p>
+<p>Tekstlengder: 4000 og 6000 tegn inkludert mellomrom.</p>
+<p>Vil du skrive for Viten, send e-post til jeanette.sjoberg@aftenposten.no</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191203-sjeldent-rakettangre.xml"/>
+<attribute name="url" value="https://www.bt.no/utenriks/i/QoWWJ4/sjeldent-rakettangrep-mot-norsk-leir-i-irak" frk="29 0 0 187 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-03 21:02"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sjeldent rakettangrep mot «norsk» leir i Irak</div>
+<div type="ingress">Norske soldater i Al-Asad Air Base i Irak lå tirsdag kveld en periode i dekning etter et sjeldent rakettangrep mot basen.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 3. desember 2019 21:02</div>
+<div type="caption"></div>
+</body></document>

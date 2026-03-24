@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190411-ny-forskning-sa-enke.xml"/>
+<attribute name="url" value="http://www.dn.no/samferdsel/ny-forskning-sa-enkelt-kan-verdens-bilkoer-kuttes/2-1-585890" frk="206 0 0 1305"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-11 07:03"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="samferdsel"/>
+<attribute name="class2" value="Nyheter,Samferdsel"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny forskning: Så enkelt kan verdens bilkøer kuttes</div>
+<div type="ingress">Trafikkø er et voksende problem verden rundt. Nå kan en svensk forsker ha funnet en løsning som kan redusere køene. Trafikkø er et voksende problem verden rundt. Nå kan en svensk forsker ha funnet en løsning som kan redusere køene.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-04-11 07:03</div>
+<div type="caption">Svensk forsker mener å ha funnet en løsning som vil redusere køene i trafikken. (Foto: Hanna Kristin Hjardar) </div>
+<div type="text">
+<p>Gustav Nilsson ved institutt for teknologi ved Universitet i Lund har utviklet en teori for hvordan man kan måle og styre køene med kameraer i sanntid, skriver universitetet i en pressemelding.</p>
+<p>Ifølge Nilssons nye doktorgradsavhandling vil et kamera ved hvert trafikklys kunne avlese bilkøene i sanntid.</p>
+<p>Nilssons modell er billigere og mer funksjonell enn dagens magnetdetektorer som bare kjenner igjen nummerskiltet på en bil som passerer, og ikke køen i sin helhet. I tillegg må detektorene graves ned, noe som koster penger.</p></div>
+<div type="title" level="3">Trafikklysene stiller seg om umiddelbart</div>
+<div type="text">
+<p>Den nyutviklede modellen gir derimot en mer fleksibel løsning basert på den aktuelle trafikksituasjonen. Gjennom å ta med lengden på bilkøen som en parameter i ligningen, og la det avgjøre hvor lenge det skal være grønt lys, så reduseres bilkøene ifølge hans beregninger med fem til ti prosent, heter det i pressemeldingen.</p></div></body></document>

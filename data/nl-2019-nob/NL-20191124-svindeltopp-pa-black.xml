@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191124-svindeltopp-pa-black.xml"/>
+<attribute name="url" value="http://www.nordlys.no/black-friday/svindel/netthandel/svindeltopp-pa-black-friday-slik-unngar-du-nettfellene/s/5-34-1228919" frk="908 4 27 5600"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-11-24 19:50"/>
+<attribute name="author" value="Morten Solli/nettavisen Økonomi"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Svindeltopp på Black Friday: Slik unngår du nettfellene</div>
+<div type="ingress">Høytid for salg er også høytid for hacking og svindel – her er fellene du må unngå.</div>
+<div type="author">Av Morten Solli/Nettavisen Økonomi</div>
+<div type="date">24. november 2019, kl. 19:50</div>
+<div type="caption"><p>SVINDELTOPP: Black Friday er salgstopp, men også høytid for svindlere. Sosial manipulering svekker teknisk beskyttelse som tofaktor-autentisering, mener Jonas Breding, nordisk sjef i Paypal. Foto: Skjermdumper / Morten Solli</p></div>
+<div type="text">
+<p>(Nettavisen Økonomi) I uka med årets største salg står over 15.000 falske nettbutikker klare til å lure deg. Det er overveiende sannsynlig at Black Friday vil være dagen i løpet av året med flest forsøk på å lure tilbudskåte nordmenn:</p>
+<p>– Vi ser denne typen svindel over hele året, men også svindlerne følger kjøpemønstrene til forbrukerne. Derfor er det gjerne mer av dette på kjente handledager. Black Friday skiller seg i tillegg ut med at det er mange flere kjøp (transaksjoner) enn vanlig, og da øker ofte antall svindelforsøk tilsvarende, sier Berit Børset, direktør for it-sikkerhet i DNB.</p>
+<p>– Svindlerne har godt teft. Det vi ofte ser i dag er at svindlerne lurer kundene i stedet for å hacke datamaskinen. Er risikoen større enn vanlig en slik dag? Det vil jeg svare ja på, sier Eivind Gjemdal, administrerende direktør i Bits, banknæringens infrastrukturselskap.</p></div>
+<div type="title" level="3">Slik blir du svindlet</div>
+<div type="text">
+<p>Ekspertene Nettavisen har snakket med er alle enige om at det ikke er fysiske angrep mot datamaskinen som er den store trusselen nå. Det handler heller om snedige metoder for å få deg til å oppgi sensitiv informasjon.</p>
+<p>Sikrere nettsider med tofaktor-løsninger og avanserte passord er ingen hindring for avanserte svindlere, tror nordensjef i nettbetalingsgiganten Paypal, Jonas Breding:</p>
+<p>– Uansett om det er digital ID eller lignende i bakgrunnen, så bedriver svindlere en mer og mer avansert form for sosial manipulering – det handler om å få folk til å oppgi sine personlige opplysninger frivillig, spiller tofaktor-autentisering liten rolle, sier Breding.</p>
+<p>Piratvarer og falske «popup»-nettbutikker sørger for at det går mange overføringer til Kina eller Danmark, forteller Berit Børset.</p>
+<p>– Svindelforsøkene dreier seg ofte om beløp under 5000 kroner, og omfanget beløper seg til noen millioner kroner. Antakelig mindre enn ti millioner, men det kan også være snakk om store mørketall her. For eksempel kan det være mange som får levert piratkopivarer uten å være klar over det, sier Børset.</p></div>
+<div type="title" level="3">Gavekort og e-poster</div>
+<div type="text">
+<p>Et typisk eksempel på sosial manipulering er at du får en e-post om at du har vunnet et gavekort, eller at noen har forsøkt å sende gratis gave, men ikke har fått tak i deg. Svindlerne bruker kjente butikknavn og sender ut falske e-poster og SMS-er:</p>
+<p>– E-posten eller SMS-en inneholder en lenke som sender deg videre til et nettsted der du blir bedt om å oppdatere personlige opplysninger, for eksempel passord, kredittkortnummer, fødselsnummer eller bankkontonummer. Ikke gjør det!, sier Anja Lohne Holm, senior kommunikasjonsrådgiver i Nordea.</p>
+<p>Banker og andre seriøse aktører vil aldri be om konfidensiell informasjon via telefon, e-post eller SMS. Du bør derfor slette meldingen og for alt i verden aldri klikke å enkene i slike SMS-er eller e-postmeldinger.</p>
+<p>– Under Black Friday er det mange som er litt i «shoppetåka», og glemmer å tenke klart, sier Børset i DNB.</p>
+<p>Hun minner om det grunnleggende rådet: «Hvis noe virker for godt til å være sant, er det som regel det». Det økte omfanget av uredigert og ukontrollert informasjon øker viktigheten av å være kritisk til om det som skrives er riktig, mener Børset:</p>
+<p>– Ser du en iPhone til 4.000, spør deg selv: vil butikken virkelig selge meg en telefon så billig? Andre selger den til 8.000. Om du er i den minste tvil om at et nettbutikk er «ekte», bør du aldri bestille varer eller legge igjen kortinformasjon der, sier DNB-direktøren.</p></div>
+<div type="title" level="3">15.000 falske nettbutikker</div>
+<div type="text">
+<p>Det vrimler av falske nettsteder og falske varer – dette topper seg i «Black Week». Forbrukertilsynet har en liste over slike nettsteder, men du kan regne med at det vil dukke opp masse nye «butikker» som enten har til hensikt å lure penger ute av godtroende forbrukere eller selger forfalskede produkter.</p>
+<p>Det er imidlertid enkelt å avsløre om butikken er ekte eller falsk, og om du bør tenke deg om minst to ganger:</p></div>
+<div type="title" level="3">Kunstig intelligens mot id-tyveri</div>
+<div type="text">
+<p>En stor del av netthandelen fra utenlandske nettsteder skjer gjennom betalingstjenesten Paypal, som satser tungt på kunstig intelligens for å komme svindel til livs.</p>
+<p>Når det gjelder ID-tyveri, handler sikringen også om at kunden faktisk er den vedkommende gir seg ut for. En gjennomsnittlig norsk Paypal-kunde bruker tjenesten 25 ganger i året, og legger derfor igjen viktige data som kan benyttes til å et ekstra sikkerhetslag i identifiseringen.</p>
+<p>– Vi har mange identifikatorer på våre konsumenter for å sikre at det er rett person. Alt fra device til ip-adresser til 200 ulike datapunkter vi kan samle inn for å gjenkjenne en konsument – ser vi noe som bryter med mønsteret, går varsellampene, forteller Breding.</p>
+<p>Som kunde har du gode rettigheter om du likevel skulle være så uheldig å bli svindlet. Kortselskapene bærer en stor del av ansvaret. Berit Børset i DNB legger vekt på reklamasjonsretten:</p>
+<p>– Alle kunder som har blitt lurt har rett til å reklamere til banken. Hvis man gjør dette raskt, vil banken i mange tilfeller klare å hjelpe slik at man får dekket tapet gjennom betalingsnettverket. Vi stopper generelt mer enn halvparten av overføringene. I noen tilfeller har vi også stanset nesten alt, sier hun.</p>
+<p>Avhengig av hvordan de kriminelle opererer, vil banken også jobbe i ettertid med å få tilbake penger gjennom betalingsnettverket.</p></div></body></document>

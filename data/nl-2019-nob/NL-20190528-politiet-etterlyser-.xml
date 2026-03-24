@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190528-politiet-etterlyser-.xml"/>
+<attribute name="url" value="http://www.nordlys.no/tromso/politi/bat/politiet-etterlyser-eieren-av-denne-baten/s/5-34-1130382" frk="48 0 0 302 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-05-28 11:43"/>
+<attribute name="author" value="Stian Saur"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet etterlyser eieren av denne båten</div>
+<div type="ingress"></div>
+<div type="author">Av Stian Saur</div>
+<div type="date">28. mai 2019, kl. 11:43</div>
+<div type="caption"><p>Vet du hvem som eier denne båten?</p></div>
+<div type="text">
+<p>Politiet er interessert i å komme i kontakt med eier av denne båten.</p>
+<p>Bakgrunnen er at båten ble funnet ved ei privat flytebrygge i Hansjordnesbukta i Tromsø, og eieren av flytebrygga gjenkjenner ikke båten.</p></div></body></document>

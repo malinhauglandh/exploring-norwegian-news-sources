@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190913-her-er-det-nye-bysty.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K31M8o/Her-er-det-nye-bystyret" frk="34 28 6 214 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-13 21:52"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Miljøpartiet De Grønne (MDG),Bystyret,Arbeiderpartiet (Ap),Senterpartiet (Sp),Pensjonistpartiet (Pp),Folkeaksjonen Nei til mer Bompenger (FNB),Fremskrittspartiet (Frp),Rødt (R),Venstre (V),Sosialistisk Venstreparti (SV),Webview,Høyre (H),Kristelig Folkeparti (KrF),Valg 2019"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er det nye bystyret</div>
+<div type="ingress">Sjekk ut hvem de 67 bystyremedlemmene er!</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">13. sep. 2019 21:52</div>
+<div type="caption"></div>
+<div type="text">
+<p>Bergen bystyre består av 67 representanter fra 11 forskjellige partier. Her ser du hvem de er og hvilket parti de representerer:</p></div></body></document>

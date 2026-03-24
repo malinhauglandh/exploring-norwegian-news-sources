@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20190607-sjekk-trondheims-bad.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/trondheim/2019/06/07/Sjekk-Trondheims-badetemperaturer-her-19216286.ece" frk="53 5 2 358 %%"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-06-07 15:05"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,trondheim"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sjekk Trondheims badetemperaturer her</div>
+<div type="ingress">Her får du de siste oppdateringene om oppdateres badetemperaturene i Trondheim.</div>
+<div type="author"></div>
+<div type="date">07.06.2019 15:05</div>
+<div type="caption"><p>Her kan du sjekke badetemperaturen i Korsvika. Foto: CHRISTER S. JOHNSEN</p></div>
+<div type="text">
+<p>Badetemperaturene hentes via en sensor som ligger 40 centimeter ned i vannet på steder hvor det er cirka fire meter dypt. Dataene er levert av NTE.</p></div></body></document>

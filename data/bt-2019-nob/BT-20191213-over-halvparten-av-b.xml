@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-over-halvparten-av-b.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/aw05jE/Over-halvparten-av-Bergens-utesteder-gikk-med-underskudd-i-fjor" frk="29 11 2 173 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Over halvparten av Bergens utesteder gikk med underskudd i fjor</div>
+<div type="ingress">Det drikkes mindre på byen nå enn for 20 år siden. Men det er dobbelt så mange utesteder.</div>
+<div type="author"></div>
+<div type="date">2019-12-13</div>
+<div type="caption"></div>
+</body></document>

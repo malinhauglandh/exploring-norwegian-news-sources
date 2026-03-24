@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190402-slik-blir-det-nye-fy.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70pJx9/Slik-blir-det-nye-fylkeshuset" frk="51 0 0 354 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-02 11:28"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Arkitektur,Byutvikling,Byplanlegging,Hordaland fylkeskommune"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir det nye fylkeshuset</div>
+<div type="ingress">Det nye fylkeshuset skal ha åpne glassflater og gi publikum mulighet til å kikke inn.</div>
+<div type="author"></div>
+<div type="date">2019-04-02</div>
+<div type="caption"><p>VINNEREN: Vinnerbidraget til nytt fylkeshus kommer fra LAB entreprenør, og heter «Penrosetrappen». Det har store glassflater og ytterskall av aluminium og tre. FOTO: Forbes Massie Studio, NSW, HUS. CUBUS (illustrasjon)</p></div>
+</body></document>

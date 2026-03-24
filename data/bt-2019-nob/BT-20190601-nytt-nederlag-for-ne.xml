@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190601-nytt-nederlag-for-ne.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/BRw5Le/Nytt-nederlag-for-Netanyahu" frk="62 4 2 440 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-01 22:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Israel,Benjamin Netanyahu"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nytt nederlag for Netanyahu</div>
+<div type="ingress">Israels president Benjamin Netanyahu maktet ikke å oppnå et nytt høyreflertall. Nytt valg til Knesset 17. september. Høyresiden er splittet. Det er også Israel, mens landet venter på et fredsutspill fra Trump.</div>
+<div type="author"></div>
+<div type="date">2019-06-01</div>
+<div type="caption"><p>DEMONSTRANTER: Netanyahus beslutning om å utlyse nyvalg i Israel har ført til voldsomme demonstrasjoner med nedsettende slagord mot presidenten. FOTO: Mahmoud Illean / TT NYHETSBYRÅN</p></div>
+</body></document>

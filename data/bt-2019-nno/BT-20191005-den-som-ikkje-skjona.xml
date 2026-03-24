@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191005-den-som-ikkje-skjona.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/jdMlX9/Vi-veit-sa-lite-om-Polen-at-det-er-ei-skam" frk="31 0 0 203 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-05 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Den som ikkje skjønar kor mykje vondt polakkane har opplevd, kan ikkje forstå landet deira.</div>
+<div type="ingress">Den som ikkje skjønar kor mykje vondt polakkane har opplevd, kan ikkje forstå landet deira.</div>
+<div type="author"></div>
+<div type="date">2019-10-05</div>
+<div type="caption"></div>
+</body></document>

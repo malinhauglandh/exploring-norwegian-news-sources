@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20191010-hvor-trygt-er-passor.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/innenriks/2019/10/10/Hvor-trygt-er-passordet-ditt-20140079.ece" frk="393 4 11 2530"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-10-10 19:44"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hvor trygt er passordet ditt?</div>
+<div type="ingress">Gjentatte store datainnbrudd utført av såkalte hackere er en stadig større trussel for sikkerheten vår på nett.</div>
+<div type="author"></div>
+<div type="date">10.10.2019 19:44</div>
+<div type="caption"><p>Frode N. Børfjord, nyhetsredaktør i Adresseavisen. Foto: Rune Petter Ness</p></div>
+<div type="text">
+<p>Gjennom mange år har det jevnlig vært lekket brukernavn og tilhørende passord i enorme mengder. Uten at vi vet det, kan mange sitte med tilgang til våre private data.</p>
+<p>Adresseavisen publiserer torsdag kveld en dokumentar med funn fra analyser av 1,4 milliarder e-postadresser og passord fra hele verden.</p>
+<p>I artikkelen Jakten på Max i august 2019 dokumenterte Adresseavisen hva datainnbrudd og hacking kunne gjøre av potensiell skade for oss, som enkeltpersoner. Samtidig som informasjon fra politiet viser at det registreres få saker (492 i fjor) og få oppklares (14 i fjor). Vi oppdager ofte ikke at vi er blitt hacket, og dermed kan viktige private dokumenter, bildene våre, id-detaljer, bankinformasjon og annet være i fremmedes hender allerede, uten at vi vet det.</p>
+<p>Det kan potensielt sett ha store skadevirkninger for både oss som enkeltpersoner, familien vår og arbeidsplassen vår.</p>
+<p>De fleste av oss er dårlige, eller i alle fall ikke gode nok på datasikkerhet. Mange har kun ett eller to passord, som vi gjenbruker mange steder. Andre gjenbruker de samme passordene når it-avdelingen på jobben tvinger fram passordbytter. Og de bruker samme passord på innlogginger i årevis. Dermed kan et stjålet passord få store skadevirkninger. For alt du vet kan dine personlige passord ligge søkbar for hvem som helst i stjålne databaser på nett allerede.</p>
+<p>Adresseavisen har gjennom lovlige journalistiske metoder kunne se både omfanget av, og innholdet i en gigantisk samling hackede brukernavn og passord. Journalistiskt sett har vi brukt dette innsynet til å kartlegge og analysere både hvor mange norske som har mistet sine hemmelige passord, hvilke enkelt avslørbare passord som faktisk brukes, og ikke minst hvor mange som ikke har byttet passord etter at hackingen har skjedd.</p>
+<p>Adresseavisen har selvfølgelig ikke spredd noen identifiserbare data, men gjennom lukkede tester og analyser sammen med blant annet NTNU, Universitetet i Oslo og eksempelvis flere av landets sykehus har vi kunnet avsløre at enorme mengder norske passord har vært hacket, og også delt på nett.</p>
+<p>Gjennom en serie artikler dokumenterer vi store mangler når det gjelder datasikkerhet både i hjemmet, på jobben og i det offentlige. Vi publiserer fordi innsikten fra vår granskning kan gjøre din og jobbens datasikkerhet bedre.</p></div></body></document>

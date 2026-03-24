@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190323-test-av-fire-100-hes.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-fire-100-hestere-denne-bor-du-velge/70897974" frk="76 17 9 511 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-23 20:54"/>
+<attribute name="author" value="Lars H. Lindén, Båtmagasinet"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="pluss_motor,pluss_båtmagasinet,pluss,båttest,utenbordsmotor,båtmotor,test av båtmotorer,tema"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av fire 100-hestere. Denne bør du velge</div>
+<div type="ingress">100-hesters utenbordsmotor fra Yamaha, Suzuki, Honda og Mercury har vært under lupen i stortest. Forskjellene er store, og vi har en klar favoritt.</div>
+<div type="author">Lars H. Lindén, Båtmagasinet</div>
+<div type="date">2019-03-23</div>
+<div type="caption"><p>STORE FORSKJELLER: En 100-hesters utenbordsmotor burde være identisk med alle andre på markedet når det gjelder ytelse. Det bekrefter våre målinger. Men når det gjelder forbruk, støynivå og ikke minst standardutstyr fant vi store forskjeller. Foto: Magnus Lejhall, Lars-Åke Redeen og Lars H. Lindén</p></div>
+</body></document>

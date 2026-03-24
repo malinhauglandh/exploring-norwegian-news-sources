@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190514-oppdaget-sikkerhetsb.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/zGx4dO/Oppdaget-sikkerhetsbrist-i-WhatsApp-Advokats-telefon-angrepet" frk="552 1 4 3807"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-14 05:35"/>
+<attribute name="author" value="Julie Moon Fjell"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="programvare,hacking,whatsapp,etterretning,overvåking,teknologi,etterforskning"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Oppdaget sikkerhetsbrist i WhatsApp. Advokats telefon angrepet.</div>
+<div type="ingress">En sikkerhetsbrist har åpnet for at spionprogramvare enkelt kan installeres. Oppdater appen nå, sier ledelsen i WhatsApp til sine brukere.</div>
+<div type="author">Julie Moon Fjell</div>
+<div type="date">12 timer siden</div>
+<div type="caption"><p>FOTO: Dado Ruvic / Reuters / NTB scanpix WhatsApp brukes av over 1.5 milliarder mennesker verden over.</p> <p>NSO Groups kontorbygning i Herzliya, Israel.</p></div>
+<div type="text">
+<p>1.5 milliarder mennesker bruker kommunikasjonstjenesten WhatsApp. Samtlige kan nå ha blitt utsatt for hacking. Det melder Financial Times tidlig tirsdag morgen.</p>
+<p>Sikkerhetsbristen i WhatsApp åpner for at spionprogramvare kan sendes til telefonen gjennom tekstmelding eller telefonsamtale, og installeres automatisk. Dersom programvaren blir installert, kan den blant annet overhøre samtaler og lese meldinger og mailer. Dette gjelder både iPhone- og Android-brukere.</p>
+<p>Bristen ble oppdaget tidligere i mai, men det er foreløpig uklart hvor mange brukere av appen dette rammer. Ifølge The Guardian har WhatsApp åpnet en intern etterforskning for å finne ut av dette.</p>
+<p>I løpet av helgen har tekniske ingeniører i WhatsApp jobbet for å blokkere bristen som tillater installering av spionprogramvare. Ledelsen i WhatsApp har følgende oppfordring til brukere:</p>
+<p>Oppdater appen.</p>
+<p>En ny versjon av appen ble i første omgang sendt ut fredag kveld, og deretter ble enda en ny versjon ferdigstilt mandag. Dersom man oppdaterer appen, vil sikkerhetsbristen altså forsvinne.</p></div>
+<div type="title" level="3">Kan lese meldinger, overhøre samtaler og finne plassering</div>
+<div type="text">
+<p>Samtidig som WhatsApp jobbet med å løse problemet i helgen, ble en menneskerettighetsadvokat rammet av feilen. Advokatens telefon ble forsøkt hacket ved at vedkommende fikk inn en telefonsamtale i WhatsApp. Da ble spionprogramvaren sendt til telefonen.</p>
+<p>Denne spionprogramvaren er produsert av det Israelske selskapet NSO Group, og heter Pegasus.</p>
+<p>I praksis fungerer det slik at Pegasus kan skru på telefonens mikrofon og kamera, og dessuten lese gjennom meldinger og mailer og hente informasjon om geografisk plassering.</p>
+<p>Menneskerettighetsadvokaten som ble forsøkt angrepet av Pegasus-programvaren, har ikke villet stå frem med navn. Vedkommende praktiserer jus i England, og har nylig jobbet med å hjelpe en gruppe meksikanske journalister, regimekritikere og en saudiarabisk dissident.</p>
+<p>Gruppen var i prosessen med å saksøke NSO i Israel, da telefonangrepet skjedde.</p>
+<p>I en offisiell uttalelse bekrefter WhatsApp at en rekke andre menneskerettighetsorganisasjoner er blitt kontaktet og advart om angrepet, melder The Guardian.</p>
+<p>John Scott-Railton, seniorforsker ved Citizen Lab i University of Toronto, sier til Financial Times at angrepet på advokatens telefon mislyktes.</p>
+<p>– Vi mistenkte at personens telefon var blitt angrepet, og fulgte med på telefonen. Da fikk vi bekreftet at angrepet ikke førte til at programvaren ble installert, sier han.</p>
+<p>Han legger til at dette viser at tiltakene WhatsApp har iverksatt i løpet av de siste dagene, har hatt suksess.</p>
+<p>Daniella Cheslow / AP / NTB scanpix</p></div>
+<div type="title" level="3">Skal bekjempe terrorisme</div>
+<div type="text">
+<p>NSO Group har forsøkt å få etterretningstjenester i Midtøsten og den vestlige verden til å ta i bruk Pegasus. Financial Times melder at NSO Group hevder Pegasus skal brukes for å «bekjempe terrorisme og kriminalitet».</p>
+<p>Men ved tidligere tilfeller har Pegasus blitt tilsendt en rekke menneskerettighetsforkjempere via tekstmelding. Her fulgte en lenke som automatisk lastet ned Pegasus til mottagerens telefon.</p>
+<p>I forbindelse med WhatsApp-angrepet har NSO bekreftet at det foregår en intern etterforskning også hos dem. Samtidig benekter gruppen å ha spredt programvaren til enkeltindivider.</p>
+<p>«NSO vil ikke, og kan ikke, bruke teknologien for å angripe en enkeltperson eller organisasjon», sier selskapet i en offisiell uttalelse denne uken, og legger til at programvaren kun brukes av etterretningstjenester.</p></div></body></document>

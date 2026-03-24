@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-i-mai-ble-forsvarets.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/RR21VW/I-mai-ble-Forsvarets-storste-skip-dopt-Na-har-det-fatt-seilingsforbud" frk="22 0 0 140 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I mai ble Forsvarets største skip døpt. Nå har det fått seilingsforbud.</div>
+<div type="ingress">Det er avdekket en rekke mangler ved KNM «Maud».</div>
+<div type="author"></div>
+<div type="date">2019-12-19</div>
+<div type="caption"></div>
+</body></document>

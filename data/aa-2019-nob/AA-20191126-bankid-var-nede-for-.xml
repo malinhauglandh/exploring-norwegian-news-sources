@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20191126-bankid-var-nede-for-.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/2019/11/26/BankID-er-nede-for-alle-Telenor-kunder-20482370.ece" frk="226 9 14 1421"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-11-26 14:31"/>
+<attribute name="author" value="Børge Sved"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">BankID var nede for alle Telenor-kunder</div>
+<div type="ingress">I rundt to rimer måtte Telenor-kunder klare seg uten innloggingstjenesten BankID på mobil.</div>
+<div type="author">Børge Sved</div>
+<div type="date">26.11.2019 14:31</div>
+<div type="caption"><p>BankID var tirsdag nede for Telenor-kunder. Bildet er tatt ved en annen anledning. Foto: Marianne Tønset, Adresseavisen</p></div>
+<div type="text">
+<p>Ifølge kommunikasjonssjef i BankID, Hanne Kjærnes, fikk de fikk melding om problemet rundt klokken 13.30 tirsdag.</p>
+<p>Problemet ble etter hvert lokalisert, og rundt to timer senere var problemet løst.</p>
+<p>Det var mulig å bruke BankID med kodebrikke for å logge inn på tjenestene i tiden BandID for mobil var nede.</p>
+<p>E24.no skrev om nyheten først.</p></div>
+<div type="title" level="3">- Beklagelig</div>
+<div type="text">
+<p>Telenor har ikke oversikt over hvor mange av deres kunder som ble rammet av feilen, men bekrefter at det gjaldt alle som bruker BankID på mobil.</p>
+<p>- Har dere fått mange henvendelser fra kunder på feilen?</p>
+<p>- Jeg har ikke oversikt over hvor mange som har tatt kontakt, men det er klart at det er en tjeneste som mange bruker, så det er beklagelig for dem som bruker dette, sier informasjonssjef i Telenor, Magnus Line, til Adresseavisen.</p></div>
+<div type="title" level="3">Feil med 113-oppringninger</div>
+<div type="text">
+<p>E24 skriver at tekniske problemer tidligere på tirsdagen førte til at personer som benyttet nødnummeret 113 kom til feil AMK-sentral. I stedet for å komme til sin lokale AMK-sentral, ble alle anrop sendt til Oslo.</p>
+<p>Feilen ble imidlertid rettet tirsdag morgen, og Line sier til Adresseavisen at det ikke er sammenheng mellom de to hendelsene.</p></div></body></document>

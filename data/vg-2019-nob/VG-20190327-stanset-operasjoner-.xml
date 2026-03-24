@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190327-stanset-operasjoner-.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/8mq2d2/stanser-operasjoner-i-helse-vest-grunnet-datatroebbel" frk="425 4 12 2452"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-03-27 09:58"/>
+<attribute name="author" value="Halvor Bjørntvedt, Marthe S. Lien"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stanset operasjoner i Helse Vest grunnet datatrøbbel</div>
+<div type="ingress">Alle operasjoner ble stanset ved samtlige sykehus i Helse vest etter at det ble oppdaget en feil i IT-systemet klokken 09.15.</div>
+<div type="author">Halvor Bjørntvedt, Marthe S. Lien</div>
+<div type="date">27.03.19 10:58 Oppdatert: 27.03.19 12:35</div>
+<div type="caption"><p>DATATRØBBEL: Alle operasjoner i Helse Vest er satt på vent onsdag. Foto: Harald M. Valderhaug</p></div>
+<div type="text">
+<p>Datatrøbbel på sykehusene gjorde at Helse Bergen stanset operasjoner, melder Bergens Tidende. Beredskapsledelsen er samlet, og operasjoner der pasientsikkerheten kan være truet ble stanset.</p>
+<p>Bente Aae, kommunikasjonsdirektør i Helse Vest , opplyser til VG litt før klokken 11.30 at enkelte systemer nå er oppe og går igjen, og at de jobber på spreng med de siste.</p>
+<p>– En del viktige systemer er nå oppe og går, og operasjonssystemet går. Vi er i gang, men det går litt saktere enn vanlig, sier Aae.</p>
+<p>Hun forsikrer at det ikke er snakk om noe angrep.</p></div>
+<div type="title" level="3">Måtte restarte</div>
+<div type="text">
+<p>– Vi har restart av nærmest alle systemene våre nå, men vi håper å ha alle oppe igjen i løpet av formiddagen, forklarte Aae tidligere onsdag.</p>
+<p>I en pressemelding opplyser Helse Vest at det var klokken 09.15 at det ble oppdaget en feil i en lagringsløsning, som førte til at flere systemer måtte restartes.</p>
+<p>– Når vi foretar en slik restart tar det dessverre tid for å få systemene opp igjen, i riktig rekkefølge, sier Erik M. Hansen i Helse Vest IKT.</p>
+<p>– I tillegg måtte noen servere restartes manuelt og dette har gjort at det har tatt enda lengre tid for å få alt til å fungere som normalt og som det skal.</p></div>
+<div type="title" level="3">Rammer de som var satt opp til operasjon</div>
+<div type="text">
+<p>Kommunikasjonsdirektør Erik Vigander i Helse Bergen, som blant annet Haukeland sykehus går under, sier til VG at han ikke har noe tall på hvor mange pasienter som er rammet.</p>
+<p>– Det rammer de som var satt opp til operasjon, og også noen pasienter på poliklinikken. Det kan medføre forsinkelser. Vi har gode back-up systemer manuelt, og setter ikke i gang med noe som kan true pasientsikkerheten, sier Vigander.</p>
+<p>Han forteller at han ikke er kjent med at det skal ha vært fare for liv og helse.</p>
+<p>IKT-sjef Frode Schanke i Helse Førde sier at det ikke kan gjennomføres pasientbehandlinger så lenge datasystemet er nede, skriver NTB.</p>
+<p>Sykehusene ber pasientene møte til planlagt time.</p>
+<p>– Vi beklager de ulempene dette medfører både for pasienter og medarbeidere. De fleste systemer er nå i drift igjen. Vi jobber hardt for å løse det som gjenstår av problemer og regner med å ha alle systemer i god drift i løpet av dagen, sier Hansen i Helse Vest.</p>
+<p>Kilde: VG/NTB</p></div></body></document>

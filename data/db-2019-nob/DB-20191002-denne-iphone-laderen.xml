@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191002-denne-iphone-laderen.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/denne-iphone-laderen-kan-hacke-datamaskinen-din/71661327" frk="417 2 8 2715"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-10-02 16:26"/>
+<attribute name="author" value="Madeleine Hatlo"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Denne Iphone-laderen kan hacke datamaskinen din</div>
+<div type="ingress">Snart skal den bli enklere å få tak i, ifølge utvikleren, som forbereder masseproduksjon av «hacker-kabelen».</div>
+<div type="author">Madeleine Hatlo</div>
+<div type="date">2019-10-02</div>
+<div type="caption"><p>HACKER-KABEL: Denne tilsynelatende vanlige Iphone-kabelen lar andre ta over datamaskinen den er koblet til. Foto: Produsenten</p> <p>«TRIVIELT»: Det mener professor Audun Jøsang. Foto UiO</p></div>
+<div type="text">
+<p>Ved første øyekast ser denne laderen akkurat ut som en sertifisert Iphone-lader, men på innsida skjuler det seg flere komponenter som gjør at en hacker kan ta over datamaskinenen den kobles til.</p>
+<p>- Det ser ut som en helt vanlig kabel og fungerer også som det. Ikke engang datamaskinen din vil merke forskjellen, fram til jeg, som en angriper, tar over kontrollen, sa sikkerhetseksperten med kallenavnet MG til Motherboard under hackerkonferansen Def Con i august.</p>
+<p>Nå melder samme nettsted at kabelen har blitt produsert på en fabrikk med stort hell, og at produktet dermed er klart for masseproduksjon.</p></div>
+<div type="title" level="3">Håper å senke prisen</div>
+<div type="text">
+<p>MG har selv utviklet produktet, og fram til nå laget alle kablene for hånd.</p>
+<p>Når den er koblet til en datamaskin, oppretter kabelen et trådløst WiFi-nett angriperen kan koble seg på, for så å «ta over» maskinen via en telefon.</p>
+<p>- Det er som å sitte med tastaturet og musa til offeret, uten å faktisk være der, sa MG da han demonstrerte produktet for Motherboard.</p>
+<p>Prisen ligger foreløpig på 200 dollar, eller i underkant av 2000 kroner, men sikkerhetseksperten håper å kunne senke prisen når fabrikkproduksjonen er i gang.</p>
+<p>Laderen er allerede markert som utsolgt på forhåndssalget til nettbutikken Hak5, som selger hacker- og datasikkerhetsverktøy.</p></div>
+<div type="title" level="3">- Trivielt</div>
+<div type="text">
+<p>MGs intensjon er å selge produktet til andre sikkerhetseksperter, men alle kan i praksis kjøpe dem når de kommer på markedet. Hvorvidt ekspertene vil fatte interesse, er professor i datasikkerhet ved Universitetet i Oslo, Audun Jøsang, usikker på.</p>
+<p>- Det virker temmelig trivielt, sier han til Dagbladet.</p>
+<p>Jøsang påpeker at det finnes tilsvarende produkter på markedet allerede, og viser da spesielt til såkalte «IMSI-catchere» - bærbare basestasjoner som lurer telefoner til å gi fra seg IMSI-nummeret.</p>
+<p>På den måten kan eieren spore hvor telefonen befinner seg, eller avlytte telefonsamtaler.</p>
+<p>Når det gjelder produktene som likner mer på laderen, kjenner han ikke til hvor utstrakt bruken er, eller hvem som benytter seg av dem. «IMSI-catcherne» er relativt dyre å både skaffe seg og drifte, sier professoren.</p>
+<p>- IMSI-catchere brukes av politimyndigheter og kriminelle i hele verden. Det var mye snakk om dem da Aftenposten detekterte dusinvis av «IMSI-catchere» rundt Aker Brygge og Stortinget. Mange pekte på PST, men de imrømmet aldri noe, som er naturlig. Hvorfor skulle de?</p></div></body></document>

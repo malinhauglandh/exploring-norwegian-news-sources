@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191102-leirebyen-halden.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/forbruker/i/dOzJ9j/Leirebyen-Halden" frk="37 16 4 245 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-02 11:19"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value="bolig,design,figgjo,halden,helsinki,sandnes"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Leirebyen Halden</div>
+<div type="ingress">Figgjo og Stavangerflint har fått sine bøker. Nå står Halden for tur.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vikingskip fra Arol. Keramikkindustrien i Halden fikk vind i seilene på 40-tallet, men i løpet av 70-tallet var seilasen over. Geir Flatøe</p></div>
+</body></document>

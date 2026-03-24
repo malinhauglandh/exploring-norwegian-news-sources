@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013---eg-har-fatt-klar-b.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/2G4Xkl/-Eg-har-fatt-klar-beskjed-om-at-dette-ikkje-skal-opp-pa-veggen" frk="31 25 5 196 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Eg har fått klar beskjed om at dette ikkje skal opp på veggen</div>
+<div type="ingress">Kva er eit heimelaga relieff-seglskutebilete frå 60-talet eigentleg verd? Og korleis er marknaden for 600 ugler?</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

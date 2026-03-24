@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190412-boeing-nar-100-teste.xml"/>
+<attribute name="url" value="http://www.dn.no/luftfart/boeing/737-max/boeing-737-max/boeing-nar-100-tester-med-ny-737-max-oppdatering/2-1-587035" frk="151 25 26 1026"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-12 05:04"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="luftfart,boeing,737-max,boeing-737-max"/>
+<attribute name="class2" value="Nyheter,Luftfart"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Boeing: Nær 100 tester med ny 737 Max-oppdatering</div>
+<div type="ingress">Boeing sier de har gjort 96 tester av en programvareoppdatering i 737 Max-modellene. Boeing sier de har gjort 96 tester av en programvareoppdatering i 737 Max-modellene.</div>
+<div type="author">NTB</div>
+<div type="date">2019-04-12 05:04</div>
+<div type="caption">Boeing har foretatt mange tester etter programvareoppdateringen i 737 Max-modellene. Bildet er fra Boeings base i Seattle. (Foto: Ted S. Warren/AP/NTB Scanpix) </div>
+<div type="text">
+<p>Flere tester vil foretas de neste ukene, opplyser selskapet som forsøker å overbevise sikkerhetsmyndigheter.</p>
+<p>Fredag skal USAs luftfartsmyndighet FAA holde møter med sikkerhetseksperter og piloter fra American Airlines, Southwest Airlines og United Airlines, de tre flyselskapene som bruker Max-modellene i USA.</p></div>
+<div type="title" level="3">Vil høre før de bestemmer seg</div>
+<div type="text">
+<p>En FAA-talsmann sier myndigheten vil høre fra flyselskapene og pilotene før de bestemmer seg for hva Boeing må gjøre.</p>
+<p>Siden oktober har i alt 346 mennesker mistet livet i to 737 Max 8-ulykker i Indonesia og Etiopia. Over hele verden ble modellen satt på bakken av luftfartsmyndigheter.</p></div></body></document>

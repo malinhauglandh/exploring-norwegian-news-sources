@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190220-norges-hoyeste-tre-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/yvAqRR/Norges-hoyeste-tre-strekker-seg-fremdeles" frk="55 23 8 346 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-20 08:11"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen,Trær,Skog"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Norges høyeste tre strekker seg fremdeles</div>
+<div type="ingress">Det tok 119 år, men nå er sitkagranen i Hestebergveien like høy som rådhuset i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-02-20</div>
+<div type="caption"><p>REKORDGRAN: Tidligere skogmester i Bergen, Axel Ingvaldsen, har alene plantet 60.000 sitkagran i og rundt Bergen. Men ingen av dem har vokst seg så store som denne i Hestebergveien. FOTO: Tor Høvik</p></div>
+</body></document>

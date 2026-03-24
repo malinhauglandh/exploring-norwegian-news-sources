@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190910-jente-truet-med-a-dr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70Lnx9/Jente-truet-med-a-drepe-noen-pa-Floyen" frk="32 10 2 197 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-10 12:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Bergen fengsel"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Jente truet med å drepe noen på Fløyen</div>
+<div type="ingress">Hun var aggressiv og sint på samfunnet.</div>
+<div type="author"></div>
+<div type="date">2019-09-10</div>
+<div type="caption"><p>TRUSLER: Jenten var 17 år da hun satt i fengsel og fremsatte drapstrusler. FOTO: Joachim Jørgensen</p></div>
+</body></document>

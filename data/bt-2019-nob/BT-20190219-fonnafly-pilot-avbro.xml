@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190219-fonnafly-pilot-avbro.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Eo10l3/Fonnafly-pilot-avbrot-flyging-ved-Roldal-like-for-helikopteret-styrtet" frk="29 8 2 227 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-19 18:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Robinson,Flyulykker,Luftfart,Røldal"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fonnafly-pilot avbrøt flyging ved Røldal like før helikopteret styrtet</div>
+<div type="ingress">Dårlig vær gjorde at en pilot fra Fonnafly avbrøt flyging i Røldalsfjellet like før Robinson 44-helikopteret krasjet søndag ettermiddag.</div>
+<div type="author"></div>
+<div type="date">2019-02-19</div>
+<div type="caption"></div>
+</body></document>

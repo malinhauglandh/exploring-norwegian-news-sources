@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190603-dette-vet-vi-om-selv.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/dette-vet-vi-om-selvmord-blant-foreldre-til-barnevernsbarn/71144543" frk="55 0 0 356 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-03 09:46"/>
+<attribute name="author" value="Faktisk.no |"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,innenriks,faktisk,barnevern,selvmord"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette vet vi om selvmord blant foreldre til barnevernsbarn</div>
+<div type="ingress">Vi vet ikke nok om hvorfor foreldre til barn med barnevernserfaring har høyere risiko både for dødsfall og selvmord.</div>
+<div type="author">Faktisk.no |</div>
+<div type="date">2019-06-03</div>
+<div type="caption"><p>USIKRE TALL: Foreldre til barnevernsbarn begår oftere selvmord enn andre, men vi vet ikke om det har en direkte sammenheng. Foto: Sara johannessen / NTB Scanpix</p></div>
+</body></document>

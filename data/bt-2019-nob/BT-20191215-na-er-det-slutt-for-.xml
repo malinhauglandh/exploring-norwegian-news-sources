@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191215-na-er-det-slutt-for-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/0nJnKo/Na-er-det-slutt-for-Herland-Eiendom-pa-Geilo-Meglerne-gar-til-konkurrenten" frk="25 0 0 181 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-15 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nå er det slutt for Herland Eiendom på Geilo. Meglerne går til konkurrenten.</div>
+<div type="ingress">Daglig leder Jannike Seljevoll Herleiksplass fant tonen med luksusmegler fra Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-12-15</div>
+<div type="caption"></div>
+</body></document>

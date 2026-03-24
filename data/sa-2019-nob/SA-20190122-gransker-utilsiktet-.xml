@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190122-gransker-utilsiktet-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/xRoLll/Gransker-utilsiktet-hendelse-i-Barentshavet" frk="48 5 2 373 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-22 13:02"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="beredskap,offshore,barentshavet,seadrill,klima,equinor,olje og gass,oljeproduksjon"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Gransker utilsiktet hendelse i Barentshavet</div>
+<div type="ingress">Petroleumstilsynet har besluttet å granske en utilsiktet hendelse under en boreoperasjon på den flyttbare boreinnretningen West Hercules 16. januar. Seadrill er eier og Equinor operatør.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En utilsiktet hendelse under en boreoperasjon på West Hercules skal nå granskes av Petroleumstilsynet. Ole Jørgen Bratland</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191226-lange-koer-etter-tra.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/y3pKx2/Lange-koer-etter-trafikkuhell-pa-E-18" frk="39 7 2 269 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-26 23:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyheter,nyhetsdognet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Lange køer etter trafikkuhell på E 18</div>
+<div type="ingress">To biler var fredag ettermiddag involvert i en kollisjon ved Varoddbrua. Det skapte saktegående køer i vestgående retning.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ulykken har skjedd i vestgående retning ved Vige. FOTO: Skjermdump fra FVNs trafikkamera</p></div>
+</body></document>

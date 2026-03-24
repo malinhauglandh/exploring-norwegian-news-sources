@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191231-brann-i-bolig-en-man.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/BR2nEG/Brann-i-bolig-En-mann-hoppet-fra-andre-etasje" frk="44 26 7 266 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-31 01:11"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brann i bolig: En mann hoppet fra andre etasje</div>
+<div type="ingress">Mandag kveld begynte det å brenne i en enebolig. En mann i 40-årene er sendt til legevakt etter å ha hoppet fra andre etasje.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Brannvesenet jobber med å slukke husbrannen i Arendal. FOTO: 03811-tipser</p></div>
+</body></document>

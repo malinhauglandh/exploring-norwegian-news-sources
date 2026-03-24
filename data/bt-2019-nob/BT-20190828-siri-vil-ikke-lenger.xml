@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190828-siri-vil-ikke-lenger.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/Wb3BJj/Siri-vil-ikke-lenger-gjore-automatiske-samtaleopptak" frk="182 0 0 1191" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-28 23:04"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Google,Apple,Overvåking,Smarthøyttaler,Siri"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Siri vil ikke lenger gjøre automatiske samtaleopptak</div>
+<div type="ingress">Apple lover at samtaler med den digitale assistenten Siri ikke lenger skal lagres automatisk.</div>
+<div type="author">NTB</div>
+<div type="date">28. aug. 2019 23:04</div>
+<div type="caption"><p>INGEN OPPTAK: Den digitale assistenten Siri vil ikke lenger gjøre automatiske opptak av samtalene med brukere. Illustrasjonsfoto. FOTO: Marcio Jose Sanchez / AP</p></div>
+<div type="text">
+<p>Bakgrunnen for endringen er at det nylig ble kjent at Apple og Google hyret inn tredjepartsfirmaer til å lytte til og transkribere samtaler hentet inn fra telefoner og smarthøyttalere.</p>
+<p>– Vi er klar over at vi ikke har levd ordentlig opp til våre idealer, og det beklager vi, sier selskapet i en pressemelding onsdag.</p>
+<p>Siri-brukere vil fortsatt kunne godkjenne at Apple lagrer samtalene for å kunne forbedre Siri. Selskapet varsler at det fremover kun vil være selskapets ansatte som kan gå igjennom opptakene, gitt at brukerne takker ja til lagring.</p>
+<p>Siri er en digital hjelper som er installert i Apples telefoner og smarthøyttalere. Google har et liknende produkt, som heter Google Assistant.</p>
+<p>I tillegg til Apple og Google har også Facebook, Amazon og Microsoft satt mennesker til å gjennomgå brukeres interaksjoner med robotassistenter for å forbedre tjenestene.</p></div></body></document>

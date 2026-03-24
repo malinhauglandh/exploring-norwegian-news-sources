@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-kong-harald-er-sykme.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/0nJv7o/kong-harald-er-sykmeldt" frk="47 0 0 303 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 13:59"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kong Harald er sykmeldt</div>
+<div type="ingress">Kong Harald er sykmeldt med en virusinfeksjon, bekrefter kommunikasjonssjef Guri Ofstad Varpe ved Det kongelige hoff overfor NTB.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 19. desember 2019 13:59</div>
+<div type="caption"><p>Kong Harald er blitt syk. Bildet er fra hans besøk i Lindormen barnehage i Østfold i april. Foto: Foto: Lise Åserud / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191031-bitcoins-norge-kunde.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/okonomi/i/qLxP7g/Bitcoins-Norge-kunder-sier-ja-til-forlik" frk="34 0 0 228 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-31 14:47"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value="bitcoin,bitcoins norge,kryptovaluta,ole-andre torjussen,økokrim"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bitcoins Norge-kunder sier ja til forlik</div>
+<div type="ingress">Ti har takket ja. Det er ikke nok til at Bitcoins Norge unngår massesøksmål, mener advokat.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ole-André Torjussen både eier og har drevet Bitcoins Norge. Jon Ingemundsen</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190722-bergensmann-anket-da.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/jdgLJL/Bergensmann-anket-da-han-ble-fengslet-for-cruise-voldtekt-Han-ble-ikke-hort" frk="41 0 0 294 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-22 13:04"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergensmann anket da han ble fengslet for cruise-voldtekt. Han ble ikke hørt.</div>
+<div type="ingress">– Svært beklagelig og skuffende, mener forsvareren.</div>
+<div type="author"></div>
+<div type="date">2019-07-22</div>
+<div type="caption"><p>UFORSTÅENDE: Forsvarer Erik Johan Mjelde sier den siktede mannen mener han verken har begått overgrep eller voldtekt. FOTO: EIRIK BREKKE (arkiv)</p></div>
+</body></document>

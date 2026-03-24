@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191003-har-sendt-ut-farevar.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/3J76PA/Har-sendt-ut-farevarsel-Venter-opptil-70-millimeter-regn-pa-tolv-timer" frk="46 6 2 293 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-10-03 18:56"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Har sendt ut farevarsel: Venter opptil 70 millimeter regn på tolv timer</div>
+<div type="ingress">Torsdag kveld og fredag morgen ventes det lokalt kraftig regn i ytre strøk av Agder.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Meteorologisk institutt har sendt ut gult farevarsel i Agder som følge av den varslede nedbøren. FOTO: Jacob Buchard</p></div>
+</body></document>

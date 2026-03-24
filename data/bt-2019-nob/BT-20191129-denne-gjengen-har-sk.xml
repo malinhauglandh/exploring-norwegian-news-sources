@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191129-denne-gjengen-har-sk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/e8v5La/Denne-gjengen-har-skapt-en-av-landets-aller-mest-lonnsomme-bedrifter" frk="48 9 3 301 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-29 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne gjengen har skapt en av landets aller mest lønnsomme bedrifter</div>
+<div type="ingress">Det er som en ellevill drøm for enhver bedriftsleder: På ti år har den vesle databedriften Highsoft i Vik i Sogn levert et overskudd på 185 millioner kroner. På kundelisten er både Facebook, Twitter og Microsoft.</div>
+<div type="author"></div>
+<div type="date">2019-11-29</div>
+<div type="caption"></div>
+</body></document>

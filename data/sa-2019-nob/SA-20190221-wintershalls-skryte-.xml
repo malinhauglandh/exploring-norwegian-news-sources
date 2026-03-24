@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190221-wintershalls-skryte-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/WLVbmK/Wintershalls-skryte-felt-er-stengt-ned-etter-problemer" frk="52 5 2 370 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-21 14:45"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="wintershall,oljedirektoratet,utbygging,equinor,oljepris,norskehavet,oljeproduksjon"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Wintershalls skryte-felt er stengt ned etter problemer</div>
+<div type="ingress">Wintershall har kuttet oljereservene i Maria-feltet i Norskehavet med 71 prosent etter problemer. Nå er produksjonen stengt ned.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Hugo Dijkgraaf tok over ledelsen av Wintershall i Norge etter å ha ledet arbeidet med Maria-feltet, som Wintershall har sett på som sitt norske flaggskip. Wintershall</p></div>
+</body></document>

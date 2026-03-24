@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191210-russland-beskylder-t.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/7018B4/Russland-beskylder-Tyskland-for-antirussisk-hysteri" frk="26 10 2 195 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-10 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Russland beskylder Tyskland for antirussisk hysteri</div>
+<div type="ingress">Den brutale nedskytingen av en 40-årig tsjetsjener som var i eksil i Berlin forsurer forholdet mellom Tyskland og Russland.</div>
+<div type="author"></div>
+<div type="date">2019-12-10</div>
+<div type="caption"></div>
+</body></document>

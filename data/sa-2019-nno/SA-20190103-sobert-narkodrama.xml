@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190103-sobert-narkodrama.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/J1dWKb/Sobert-narkodrama" frk="31 10 2 198 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-03 15:27"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="film,anmeldelse,filmanmeldelse"/>
+<attribute name="language" value="nno"/>
+</header>
+<body>
+<div type="title" level="1">Sobert narkodrama</div>
+<div type="ingress">FILM: Beautiful Boy fortel edrueleg om narkoman son og familien hans, men manglar litt på å treffa emosjonelt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Nic er 18 år og narkoman. Kan familien redda han?</p></div>
+</body></document>

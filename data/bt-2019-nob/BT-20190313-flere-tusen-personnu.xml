@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190313-flere-tusen-personnu.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Qld8dV/Flere-tusen-personnumre-la-tilgjengelig-pa-nett-etter-sikkerhetshull" frk="54 0 0 343 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-13 13:57"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Datatilsynet,Personvern,Bergen kommune,Datasikkerhet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Flere tusen personnumre lå tilgjengelig på nett etter sikkerhetshull</div>
+<div type="ingress">Har du bodd i hytten Tubakuba på Fløyen eller booket ett av kommunens lokaler? Da kan fødselsnummeret ditt ha ligget ute på nett i årevis.</div>
+<div type="author"></div>
+<div type="date">2019-03-13</div>
+<div type="caption"><p>TUBAKUBA: Har du bodd her en natt, kan hele fødselsnummeret ditt ha ligget tilgjengelig på nett. FOTO: Rune Nielsen</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190627-dette-er-den-beste-l.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/dette-er-den-beste-lydbok-tjenesten/71285432" frk="53 0 0 337 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-27 19:53"/>
+<attribute name="author" value="Cathrine Krøger"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="bok,ebok.no,fabel,kultur,strømmetjeneste,litteratur,lydbøker,pluss,storytel,anmeldelse"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette er den beste lydbok-tjenesten</div>
+<div type="ingress">Storytel, Fabel eller Ebok.no? Vi har testet hvor du får best tilgang på lydbøker i ferien.</div>
+<div type="author">Cathrine Krøger</div>
+<div type="date">2019-06-27</div>
+<div type="caption"><p>REIS LETT: Med lydbøker slipper du tunge feriekofferter. Men det er stor forskjell på utvalget hos de norske tjenestene, ettersom de er eid av ulike forlag. Foto: NTB SCANPIX / SHUTTERSTOCK</p></div>
+</body></document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190920-facebook-stanser-tit.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/facebook-stanser-titusenvis-av-apper/71623863" frk="171 7 9 1256"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-20 19:15"/>
+<attribute name="author" value="NTB I"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Facebook stanser titusenvis av apper</div>
+<div type="ingress">Facebook opplyser at selskapet har fjernet flere titalls tusen applikasjoner som en del av etterforskningen etter Cambridge Analytica-skandalen.</div>
+<div type="author">NTB I</div>
+<div type="date">2019-09-20</div>
+<div type="caption"><p>Facebook har fjernet flere titalls tusen applikasjoner fra sine plattformer som en del av etterforskningen etter Cambridge Analytica-skandalen. Illustrasjonsfoto: Richard Drew / AP / NTB scanpix</p></div>
+<div type="text">
+<p>Rundt 400 forskjellige utviklere står bak applikasjonene som har blitt suspendert. En del av applikasjonene er helt fjernet fra plattformen, og noen av utviklerne vil bli saksøkt av teknologigiganten.</p>
+<p>– Stansen er ikke nødvendigvis en indikasjon på at disse applikasjonene har utgjort en trussel for folk, sier visepresident Ime Archibong i Facebooks produktpartnerskap i en uttalelse.</p>
+<p>Selskapet opplyser at granskningen fremdeles pågår og at de hittil har gått gjennom flere millioner apper.</p>
+<p>I mars 2018 begynte Facebook å se nærmere på hvilke apper som har tilgang til Facebook-brukeres personlige opplysninger.</p>
+<p>Granskningen startet etter at dataanalyseselskapet Cambridge Analytica samlet inn personopplysninger fra rundt 87 millioner Facebook-brukere – opplysninger som så ble analysert og solgt videre, blant annet til valgkampapparatet til Donald Trump.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190709-her-er-de-nye-elbile.xml"/>
+<attribute name="url" value="http://www.dn.no/motor/elbiler/elbil/nye-biler/her-er-de-nye-elbilene-som-kommer-til-norge/2-1-616824" frk="46 0 0 282 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-09 04:22"/>
+<attribute name="author" value="Embret Sæter"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="motor,elbiler,elbil,nye-biler"/>
+<attribute name="class2" value="Privat,Motor"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er de nye elbilene som kommer til Norge</div>
+<div type="ingress">Ventelistenes tid er over. Snart kommer en strøm av nye elektriske biler til Norge. Ventelistenes tid er over. Snart kommer en strøm av nye elektriske biler til Norge.</div>
+<div type="author">Embret Sæter</div>
+<div type="date">2019-07-09 04:22</div>
+<div type="caption">Porsche Taycan på test i Shanghai. (Foto: Porsche) </div>
+<div type="text">
+</div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190806-her-kan-du-hente-gra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GGeyLm/Her-kan-du-hente-gratis-mobler" frk="46 0 0 289 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-06 05:36"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Møbler,Gjenbruk,Design,Interiør,Studentliv"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her kan du hente gratis møbler</div>
+<div type="ingress">Mens noen finner en ny sofa til studenthybelen, tjener andre tusenvis av kroner på å selge gratis ting videre.</div>
+<div type="author"></div>
+<div type="date">2019-08-06</div>
+<div type="caption"><p>FULL BIL: Veronika Gjerde Aadland og Jannike Bahus Glomsaas fyller bilen med ting fra brukthallen på Espehaugen. FOTO: Bård Bøe</p></div>
+</body></document>

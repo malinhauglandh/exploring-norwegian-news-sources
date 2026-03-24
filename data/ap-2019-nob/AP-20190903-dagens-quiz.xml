@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190903-dagens-quiz.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/GGq7Aq/Dagens-quiz" frk="43 6 2 291 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-09-03 17:30"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz</div>
+<div type="ingress">Hva heter orkanen som søndag rammet Bahamas?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">03.sep.2019 19:30</div>
+<div type="caption"><p>FOTO: Tim Aylen, AP/NTB scanpix</p></div>
+<div type="text">
+<p>1. Hva kalles et stortingsvedtak som innebærer at Stortinget avsier sterk kritikk overfor en statsråd uten å fremme mistillit?</p>
+<p>2. Hva slags dyr er avbildet i Ringsakers kommunevåpen?</p></div></body></document>

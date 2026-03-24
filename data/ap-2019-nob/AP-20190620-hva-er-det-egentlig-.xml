@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190620-hva-er-det-egentlig-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/zGVry5/Hva-er-det-egentlig-med-E-coli" frk="920 3 19 5599"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-06-20 06:30"/>
+<attribute name="author" value="Reidun Sirevåg"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="mat og drikke,viten,dna,forskning og vitenskap,kloakk,sykdom"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hva er det egentlig med E. coli?</div>
+<div type="ingress">Ingen bakterie er så godt undersøkt og er så ofte i avisoverskrifter som Eschericha coli.</div>
+<div type="author">Reidun Sirevåg</div>
+<div type="date">20. juni 2019 08:30</div>
+<div type="caption"><p>FOTO: Ingar Haug Steinholt Vanligvis er E. coli i tarmen helt ufarlig for oss. Men det finnes noen varianter som gir sykdom. Årsaken er at de produserer ulike giftstoffer som kan forårsake kraftig diaré både hos barn og voksne.</p> <p>Reidun Sirevåg, professor em., Institutt for biovitenskap, Universitetet i Oslo.</p></div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere og fagfolk fra hele landet bidrar med artikler.</p>
+<p>Den kalles også ofte E.coli, eccoli, colibakterien eller «Hamburgerbakterien». Nylig var den i nyhetene i forbindelse med at drikkevannet i Askøy var forurenset med bakterier som gjorde mange syke.</p>
+<p>Hva er så spesielt med denne bakterien som så mange kjenner navnet på?</p>
+<p>UIO</p>
+<p>Eschericia coli ble beskrevet første gang i 1885 av barnelege og bakteriolog Theodor Escherich, som den senere ble oppkalt etter. Hos mennesket og andre varmblodige dyr utgjør den en viktig del av den naturlige floraen i tykktarmen (colon). Der gjør den nytte for seg ved blant annet å produsere vitamin K, som er nødvendig for at blod skal koagulere. Vanligvis er E. coli i tarmen helt ufarlig for oss.</p></div>
+<div type="title" level="3"> Indikatororganisme for kloakk</div>
+<div type="text">
+<p>Årsaken til at E. coli alltid nevnes i forbindelse med forurensing av drikkevann og badevann, er at den i årtier har vært brukt som såkalt indikatororganisme for kloakk. At nettopp E. coli brukes i denne sammenhengen, skyldes at den ikke kan leve og formere seg i vann. Hvis den likevel er til stede i en brønn eller annen drikkevannskilde, tyder det sterkt på at vannet er forurenset av kloakk eller avføring fra dyr. Da er risikoen stor for at også andre bakterier, som eventuelt forårsaker sykdom, er til stede.</p>
+<p>Dette var tilfelle i på Askøy der farlige Campylobacter forårsaket sykdom hos personer som hadde drukket forurenset drikkevann.</p>
+<p>Som nevnt er E. coli vanligvis ufarlig. Men det finnes noen varianter (stammer) av E. coli som gir sykdom. Årsaken er at de produserer ulike giftstoffer (toksiner) som kan forårsake kraftig diaré både hos barn og voksne. Den mest kjente stammen er E. coli: O157. (EHEC). Den produserer et toksin som ødelegger tarmveggen og dermed forårsaker kraftig, blodig diaré og noen ganger nyresvikt.</p></div>
+<div type="title" level="3">«Hamburgerbakterien»</div>
+<div type="text">
+<p>Her i landet er E. coli: 0157 ofte omtalt som «hamburgerbakterien» fordi den er funnet i kjøttdeig som har vært brukt til å lage hamburgere. Denne farlige stammen av E. coli har også vært funnet i annen mat. Det kan se ut som om den opprinnelig kommer fra kveg hvor den ikke forårsaker sykdom.</p>
+<p>Men når dyrene blir slaktet, kan den følge videre med i kjøttet og på den måten komme på middagsbordet. Den beste måten å sikre seg mot slike bakterier på er god kontroll av maten og passe på at kjøtt er gjennomstekt.</p></div>
+<div type="title" level="3"> Tar opp arvestoff</div>
+<div type="text">
+<p>At det finnes ulike stammer av en bakterie som for eksempel E. coli, betyr at de har noen få, bestemte egenskaper som andre ikke stammer har. Dette kan være evnen til å produsere et giftstoff eller evnen til å feste seg i tarmveggen. Noen stammer er også resistente mot antibiotika. At slike stammer oppstår, skyldes at mange bakterier har evnen til å ta opp arvestoff (DNA) direkte fra omgivelsene og innlemme det i sitt eget arvestoff. Dette kan for eksempel være plasmider, som er små, ringformede DNA-molekyler.</p>
+<p>Noen har også en enkel form for kjønnet formering der de får overført arvemateriale (DNA-molekyler) ved å være i direkte kontakt med en annen bakterie. Ved hjelp av disse mekanismene får de lett i seg fremmede gener som gir dem nye egenskaper. Overføring av gener på denne måten kalles horisontal genoverføring, i motsetning til gener som overføres fra en generasjon til neste, for eksempel fra morcelle til dattercelle.</p></div>
+<div type="title" level="3"> E.coli er billig i drift</div>
+<div type="text">
+<p>I biologi og medisin er det vanlig å bruke modellorganismer i forskning. Mange forsøk er forbudt å utføre på mennesker, og derfor brukes for eksempel mus og rotter i stedet. Slike dyr formerer seg raskt og er forholdsvis lette å arbeide med. I genetikk er bananfluer den viktige modellorganismen, og når det gjelder fisk, er det vanlig å bruke akvariefisken Zebrafisk. For å undersøke fotosyntesen har en liten grønnalge, Chlorella, ofte vært modellen. I alle tilfellene er organismene små, ufarlige og enkle å ha med å gjøre.</p>
+<p>Når det gjelder bakterier, er E. coli modellorganismen fremfor alle. Ingen bakterie er så grundig undersøkt som nettopp E. coli, til tross for at det egentlig ikke noe spesielt med den.</p>
+<p>E. coli er lett å arbeide med, den vokser raskt og er billig i drift. Den utnytter organiske forbindelser som for eksempel glukose, har enkle næringskrav og lever godt både med og uten oksygen.</p>
+<p>Fordi den allerede var godt kjent og lett å ha med å gjøre, ble den raskt tatt i bruk i forskning innenfor genetikk og molekylærbiologi. Den lar seg lett manipulere genetisk, og den tar opp fremmede gener uten problem. I dag blir for eksempel humant insulin produsert ved å dyrke store mengder av E. coli som har fått satt inn det humane genet for insulin.</p></div>
+<div type="title" level="3">Fakta: Dette er et Viten-innlegg</div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere fra hele landet bidrar med artikler.</p>
+<p>Viten-artikler publiseres i Aftenpostens papirutgave tirsdager og torsdager, i tillegg til nettartikler på ap.no/viten.</p>
+<p>Vi søker forskere eller akademikere innen alle fagfelt som vil skrive om egen forskning eller formidle aktuelt vitenskapsstoff.</p>
+<p>Tekstlengder: 4000 og 6000 tegn inkludert mellomrom.</p>
+<p>Vil du skrive for Viten, send epost til jeanette.sjoberg@aftenposten.no</p></div></body></document>

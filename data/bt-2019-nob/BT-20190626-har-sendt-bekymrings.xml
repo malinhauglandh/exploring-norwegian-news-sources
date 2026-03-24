@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190626-har-sendt-bekymrings.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/opVw9W/Har-sendt-bekymringsmelding-om-massive-luseangrep-i-Hardangerfjorden" frk="31 0 0 226 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-26 11:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Lakselus,Havforskningsinstituttet,Fisk,Laks,Lingalaks,Mattilsynet,Sommer,Oppdrettsnæring"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Har sendt bekymringsmelding om «massive luseangrep» i Hardangerfjorden</div>
+<div type="ingress">Frykter for sjøørret i området.</div>
+<div type="author"></div>
+<div type="date">2019-06-26</div>
+<div type="caption"><p>LUS: Dette er en av ørretene som er observert med lus den siste tiden. FOTO: Hardangerfjord villfisklag</p></div>
+</body></document>

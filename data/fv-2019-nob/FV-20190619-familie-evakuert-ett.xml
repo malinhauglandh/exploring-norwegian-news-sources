@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190619-familie-evakuert-ett.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/Oparpb/Familie-evakuert-etter-steinras" frk="45 13 4 300 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-06-19 12:10"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Familie evakuert etter steinras</div>
+<div type="ingress">Moren hadde akkurat kjørt datteren til barnehagen, da steinblokker på flere tonn dundret ned på gårdstunet og smadret garasjen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Steinblokken foran garasjen var en av flere som onsdag morgen løsnet fra fjellet 50 – 60 meter over bakken. FOTO: Privat</p></div>
+</body></document>

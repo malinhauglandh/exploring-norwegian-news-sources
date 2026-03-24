@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190129-snart-apner-de-byens.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/a2zOwA/Snart-apner-de-byens-nyeste-lokalradio" frk="48 15 5 324 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-29 21:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Radio,Musikk,DAB,Garderobemannen,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Snart åpner de byens nyeste lokalradio</div>
+<div type="ingress">P5 i Bergen ble lagt ned før nyttår. Programlederne starter nå 5000 Bergen, en nærradio eid og drevet av bergensere.</div>
+<div type="author"></div>
+<div type="date">2019-01-29</div>
+<div type="caption"><p>RADIO: Kjellemann, Gunvor Roti Dal, Martine Onstad og Petter Lavern er snart klare for daglige tolvtimers-sendinger fra Skuteviken. FOTO: Rune Sævig</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190618-kursen-pa-bitcoin-st.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/okonomi/i/dOrdXz/Kursen-pa-bitcoin-stiger-og-stiger" frk="41 38 10 257 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-18 12:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value="kryptovaluta,bitcoin,litecoin,ethereum,facebook"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kursen på bitcoin stiger og stiger</div>
+<div type="ingress">Bitcoin-kursen har steget kraftig de siste månedene, og er på vei mot 10.000 dollar, eller 87.000 kroner.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Bitcoins finnes ikke i den fysiske verden, bare på nettet. Slike mynter er derfor bare til pynt.</p></div>
+</body></document>

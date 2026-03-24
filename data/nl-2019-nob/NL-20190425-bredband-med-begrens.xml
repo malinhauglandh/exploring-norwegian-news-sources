@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190425-bredband-med-begrens.xml"/>
+<attribute name="url" value="http://nordnorskdebatt.no/article/bredband-begrensninger-pa-bruk" frk="689 17 66 3762"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-04-25"/>
+<attribute name="author" value="Thomas Wøhni"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bredbånd med begrensninger på bruk er ikke bredbånd, Telenor!</div>
+<div type="ingress"></div>
+<div type="author">Thomas Wøhni Lebesby</div>
+<div type="date">25. april 2019</div>
+<div type="caption"><p>Foto: Colourbox</p></div>
+<div type="text">
+<p>Da jeg var en del av 8-bits generasjonen på det tidlige 80 tall, undret jeg meg over om jeg fremdeles ville spille på datamaskiner når jeg var blitt skikkelig gammel, og kan i dag svare at ja, det gjør jeg. Mye har endret seg siden den gang, og noe av det som har endret seg mest, er mengden data som et spill består av. Der hvor spillene til min første datamaskin hadde en størrelse på 48kb, hadde fjorårets mest populære spill, Red Dead Redemption 2 en filstørrelse på 105GB. Det er mer enn 2 millioner ganger så stort. Det er ikke bare spill som krever store mengder data, streaming av TV tar opp stadig mer av den tilgjengelige båndbredden. Der hvor vi rundt 2007 gledet oss over 720p, ble det kun et blaff og var avløst av 1080p før de fleste helt hadde forstått hva HDTV var, og det ble igjen avløst av 4K, og nå er 8K underveis. Hvert av disse sprangene krever 4 ganger så mye data som forrige standard, slik at 4K krever 64 ganger så mye data som 480p. Veksten i mengden som vi behøver har vært tiltagende siden vi startet å overføre digitale data, og intet tyder på at det vil avta. Tvert i mot så sier Telenor selv om overgangen til 5G «Dette er ikke bare nødvendig for å møte den sterke veksten i datatrafikk i nettet som vi allerede ser, der stadig mer innhold krever store datamengder. Et eksempel her er om stadig flere skal strømme 4K-kvalitets video.»</p>
+<p>Det er derfor ikke vanskelig å se for seg helt realistiske scenarioer hvor 1000GB blir for lite, vi kan for enkelhets skyld regne på det med kun streaming alene. En 4K strøm hos Netflix bruker 7.2GB pr. time. Det gir deg i underkant av 139 timer om måneden med streaming, forutsatt at du ikke bruker nettet til noe annet. Nå er det ikke slik lengre at familien samles foran fjernsynet. Så hvis vi tar utgangspunkt i en familie med to voksne og to barn, og antar at far er nødt til å se TV sammen med mor, og derfor deler kapasiteten på kun 3, så er det 46 timer med TV om måneden. Det er 1,5 timer TV om dagen, forutsatt at du ikke bruker nettet til noe annet. Nåde da hvis far i huset en sen aften sniker seg til å se The Grand Tour, og faller i søvn foran fjernsynet slik at det ikke er data igjen når barna våkner og skal se sin morgen-TV.</p>
+<p>Les innlegget fra Telenors dekningssjef: Telenor satser på det kundene vil ha, også i Nord-Norge</p>
+<p>Poenget Bjørn, som jeg snirkler meg inn mot, er ikke bare at 1000GB på ingen måte er nok, bredbånd med begrensninger på bruk er ikke skikkelig bredbånd, det er heller ingen erstatning for DSL, og det er i alle fall ikke en modernisering. DSL over kobber har også potensiale til høyere hastigheter enn hva Telenor leverer i dag, og kun implementert riktig vil 4G kunne være en forbedring av dette. Hjemmebredbånd Mobil er ikke det.</p>
+<p>Jeg vil oppfordre Telenor til to ting som er av den største betydning for det.</p>
+<p>1. Fri bruk. Siden 4G nettet er så mye mer moderne og robust enn kobberlinjene, burde det ikke finnes noen grunn for å sende Telenors kunder tilbake til tellerskrittenes tid hvor vi må rasjonere data.</p>
+<p>2. Utnytt den store styrken som 4G nettet til Telenor har, dekningen. Som det står pr. i dag vil Hjemmebredbånd Mobil kun være tilgjengelig for kunder som mister sin DSL forbindelse. Gjør det heller tilgjengelig for alle som ikke har andre muligheter. Alle de som mistet forbindelsen til internet ved overgangen til ADSL for snart 20 år siden.</p>
+<p>Du kommer omkring Bjørn, og du vet hvor vi bor. Det er oss regjeringen har bedt om å doble produksjonen av sjømat innen 2030, og femdoble den innen 2050. Det kommer ikke av seg selv, og en av ressursene vi behøver er data, store mengder av data. Telenor er derfor en viktig del av denne blå fremtiden.</p></div></body></document>

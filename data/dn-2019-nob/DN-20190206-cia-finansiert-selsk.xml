@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190206-cia-finansiert-selsk.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/cia-finansiert-selskap-bak-nyheten-om-statlig-kinesisk-hacking/2-1-537343" frk="197 5 8 1500"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-06 16:20"/>
+<attribute name="author" value="Osman Kibar"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">CIA-finansiert selskap bak nyheten om statlig kinesisk hacking</div>
+<div type="ingress">Det CIA-finansierte sikkerhetsselskapet Recorded Future står bak undersøkelsene som knytter kinesiske myndigheter til det store hackerangrepet mot Visma. Sikkerhetsselskapet avslører også hackernes fremgangsmåte. Det CIA-finansierte sikkerhetsselskapet Recorded Future står bak undersøkelsene som knytter kinesiske myndigheter til det store hackerangrepet mot Visma. Sikkerhetsselskapet avslører også hackernes fremgangsmåte.</div>
+<div type="author">Osman Kibar</div>
+<div type="date">2019-02-06 16:20</div>
+<div type="caption">Hackerangrepet mot Visma skal ha blitt gjennomført av APT10, en kjent trusselaktør i sikkerhetsverdenen også omtalt som Stone Panda. (Foto: Håkon Mosvold Larsen/NTB Scanpix) </div>
+<div type="text">
+<p>Påstander om kinesisk spionasje er på høyeste dagsorden internasjonalt i flere land, samtidig som amerikanske myndigheter advarer sine allierte mot angivelig spionasjerisiko fra Huawei, ZTE og andre kinesiske selskaper.</p>
+<p>Tirsdag ble det kjent at det norske selskapet Visma er blitt hacket som et ledd i en større digital spionasjekampanje.</p></div>
+<div type="title" level="3">Selv finansiert av statlig aktør</div>
+<div type="text">
+<p>Hackerangrepet mot Visma skal ha blitt gjennomført av APT10, en kjent trusselaktør i sikkerhetsverdenen også omtalt som Stone Panda. Denne trusselaktøren har vært aktiv siden 2016 og er sponset av den kinesiske staten. Det skriver det amerikanske sikkerhetsselskapet Recorded Future, som står bak undersøkelsene, i en rapport om angrepet. Recorded Future er selv tungt finansiert av en statlig aktør – den amerikanske etterretningstjenesten CIA.</p></div></body></document>

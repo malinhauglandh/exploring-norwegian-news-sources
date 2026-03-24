@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191119-andelen-gratispasser.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/qLx2nz/Andelen-gratispasseringer-i-bomringen-har-aldri-vart-hoyere" frk="56 13 5 380 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-19 15:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="bil,bompenger,elbil,statens vegvesen,trafikk,trafikktall"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Andelen gratispasseringer i bomringen har aldri vært høyere</div>
+<div type="ingress">NORD-JÆREN: Gratispasseringene nådde en ny topp i bomringen i september. Da passerte vel 45 av 100 biler uten at de ble belastet bompenger. Langt flere elbiler og undervurdering av effekten av timesregelen, er forklaringen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Snart er hver femte bil som kjører gjennom bomringen på Nord-Jæren en elbil.</p></div>
+</body></document>

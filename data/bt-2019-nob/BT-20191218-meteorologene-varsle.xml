@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191218-meteorologene-varsle.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/Op2kmA/Meteorologene-varsler-eskalering-av-ekstremvarmen-i-Australia" frk="92 9 6 632 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-18 11:34"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Meteorologene varsler eskalering av ekstremvarmen i Australia</div>
+<div type="ingress">Australia satte tirsdag varmerekord med en gjennomsnittstemperatur på hele 40,9 grader. Nå varsler meteorologene at det er enda varmere vær i vente.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 18. desember 2019 11:34</div>
+<div type="caption"><p>BONDI BEACH: Australia opplevde tirsdag den varmeste dagen som noen gang er registrert. Den nye gjennomsnittstemperaturrekorden er på 40,9 grader. Her fra Bondi Beach i Sydney. Foto: Marianne Løvland, NTB scanpix (arkiv)</p> <p>FRYKTER BRANNER: Brannene har herjet nord for Sydney i Australia siden oktober. De høye temperaturene øker faren for at brannene vil eskalere. Foto: AP / Rick Rycroft / NTB scanpix</p></div>
+</body></document>

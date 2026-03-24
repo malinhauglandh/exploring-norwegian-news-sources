@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190329-fakta-om-sommertid.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/qL6e6E/Fakta-om-sommertid" frk="158 34 32 926"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-29 05:00:37"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fakta om sommertid</div>
+<div type="ingress"></div>
+<div type="author">NTB</div>
+<div type="date">2019-03-29 05:00:37</div>
+<div type="caption"><p>Illustrasjonsfoto: Erik Johansen / NTB scanpix</p></div>
+<div type="text">
+<p>* Søndag 31. mars stilles klokka en time fram fra klokka 2 (UTC + 1 time) til 3 (UTC + 2 timer).</p>
+<p>* Klokka drives fra Justervesenets atomur, som har en usikkerhet på cirka ± 0,1 mikrosekund.</p>
+<p>* Sommertid ble innført i en rekke land i Europa i 1916. På denne måten fikk man lys en time lengre på kveldene om sommeren. I Norge har vi hatt sommertid hvert år siden 1980.</p>
+<p>* EU-kommisjonen fremmet 12. september 2018 et forslag om å oppheve sommertidsdirektivet. Forslaget innebærer at vi skal slutte å stille klokka fram og tilbake hvert halvår.</p>
+<p>* Norsk normaltid er en time foran den såkalte UTC-tiden. UTC står for «Coordinated Universal Time». Det er en felles tid som gjelder over hele verden.</p>
+<p>* Norsk sommertid er to timer foran UTC-tid. Sommertid gjelder normalt klokka 2.00.00 siste søndag i mars til klokka 3.00.00 siste søndag i oktober.</p></div></body></document>

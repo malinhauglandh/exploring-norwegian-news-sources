@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190203-politiet-rykket-ut-s.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/jPWrro/Politiet-rykker-ut-Skilopere-skaper-trafikale-problemer" frk="47 0 0 351 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-02-03 15:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet rykket ut: Skiløpere skapte trafikale problemer</div>
+<div type="ingress">Lørdag rykket politiet ut til Kjåvann etter flere meldinger om parkeringskaos. - Vi må forvente mye trafikk til turløyper på årets fineste dag, sier politiet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Stort trøkk på parkeringsplassen på Kjåvann fører til trafikale problemer søndag ettermiddag. FOTO: Torbjørn Witzøe</p></div>
+</body></document>

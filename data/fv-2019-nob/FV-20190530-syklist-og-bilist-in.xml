@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190530-syklist-og-bilist-in.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/2GodWv/Syklist-og-bilist-involvert-i-trafikkulykke-i-Mandal" frk="37 12 3 239 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-05-30 23:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Syklist og bilist involvert i trafikkulykke i Mandal</div>
+<div type="ingress">En bil og en syklist var involvert i en trafikkulykke på fylkesvei 202 Hogganvikveien</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En bil kolliderte fredag kveld med en syklist i Mandal. FOTO: Jarle R. Martinsen</p></div>
+</body></document>

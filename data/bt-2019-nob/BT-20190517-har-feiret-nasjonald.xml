@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190517-har-feiret-nasjonald.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/pLKmPE/Har-feiret-nasjonaldagen-i-baten-i-25-ar" frk="42 32 8 245 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-17 12:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Familie,Bergen,17. mai"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Har feiret nasjonaldagen i båten i 25 år</div>
+<div type="ingress">Tre generasjoner i familien Hanøy feiret 17. mai i båten for 25. år på rad.</div>
+<div type="author"></div>
+<div type="date">2019-05-17</div>
+<div type="caption"><p>FEIRER I BÅT: Familien Hanøy serverer lapskaus, champagne og bløtkake i båten på 17. mai. FOTO: Eirik Brekke</p></div>
+</body></document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190320-dnb-oker-sikkerheten.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/7l9ak4/DNB-oker-sikkerheten-etter-dataangrepet-mot-Hydro" frk="229 16 23 1421"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-20 23:13"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">DNB øker sikkerheten etter dataangrepet mot Hydro</div>
+<div type="ingress">Antallet dataangrep mot DNB er 20-doblet de siste seks årene. Som følge av dataangrepet mot Hydro, innfører banken nye sikkerhetstiltak.</div>
+<div type="author">NTB</div>
+<div type="date">21. mars 2019 00:13</div>
+<div type="caption"><p>Hydro ba tirsdag alle ansatte om ikke koble PC til nettverket på grunn av dataangrepet. Foto: Terje Pedersen / NTB scanpix</p></div>
+<div type="text">
+<p>– Vi har innført tiltak for å forsøke å hindre at lignende kan skje hos oss og begrense spredning skulle det oppstå. Ifølge mediene har Hydro fått et kryptovirus i nettverket som beveger seg fra PC til PC. Vi har nå lagt inn blokkeringer som begrenser slik spredning hos oss, sier Anders Hardangen, leder av DNBs senter for Cyber Defence, til Dagens Næringsliv.</p>
+<p>Antallet dataangrep mot DNBs virksomhet har økt fra 310 i 2013 til 6.523 i 2018, noe som er en 20-dobling på seks år, skriver avisen. Siden 2015 er antall angrep mer enn tredoblet.</p>
+<p>Hardangen sier økningen er eksplosiv.</p>
+<p>– Det er skremmende å se tallene, men beroligende å vite at det som oftest går bra, sier han, og sier de bruker mye energi og penger på å beskytte virksomheten mot cyberkriminalitet.</p>
+<p>I fjor avdekket cyber-avdelingen sju angrep med alvorlig skadepotensial. Alle angrep ble avverget, og ingen saker førte til skade eller datalekkasje.</p>
+<p>Hydro ble natt til tirsdag utsatt for et omfattende cyberangrep, som påvirket driften i flere av selskapets forretningsområder. Selskapet ble rammet av et såkalt løsepengevirus.</p></div></body></document>

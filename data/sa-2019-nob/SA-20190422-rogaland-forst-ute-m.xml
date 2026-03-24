@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190422-rogaland-forst-ute-m.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/lokalt/i/OnrJk3/Rogaland-forst-ute-med-selvkjorende-buss" frk="44 7 2 279 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-22 20:15"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="kollektivtransport,forus næringspark,buss,kolumbus,trafikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rogaland først ute med selvkjørende buss</div>
+<div type="ingress">FORUS: Kolumbus har sendt inn søknad om bruk av selvkjørende buss i rute. Bussen skal i første omgang kjøre en 1,2 kilometer lang trasé på Forus.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kolumbus ønsker å få selvkjørende busser inn i trafikken. Fredrik Refvem</p></div>
+</body></document>

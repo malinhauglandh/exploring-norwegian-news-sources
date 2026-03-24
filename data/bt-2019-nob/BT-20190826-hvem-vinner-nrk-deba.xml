@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190826-hvem-vinner-nrk-deba.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/VbpkJ1/Hvem-vinner-NRK-debatten-i-Bergen" frk="35 0 0 239 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-26 21:20"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Kommunevalg 2019,Politikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hvem vinner NRK-debatten i Bergen?</div>
+<div type="ingress">NRK sendte debatt fra Korskirken i Bergen. BTs kommentatorer ga sine vurderinger.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">26. aug. 2019 21:20</div>
+<div type="caption"><p>DEBATT: Fattigdom er tema for NRK sitt folkemøte fra Korskirken i Bergen mandag kveld. FOTO: TOR HØVIK</p></div>
+</body></document>

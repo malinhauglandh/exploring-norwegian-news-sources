@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191018-passordekspert-kriti.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/dagbladet/medier/hacking/passordekspert-kritisk-til-dagbladets-sikkerhetslosning/2-1-691087" frk="264 0 0 1817"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-18 14:39"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,dagbladet,medier,hacking"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Passordekspert kritisk til Dagbladets sikkerhetsløsning</div>
+<div type="ingress">Dagbladets journalister skal ha kunnet logge seg på publiseringssystemet med private Google-kontoer uten noen krav til høy sikkerhet. Dagbladets journalister skal ha kunnet logge seg på publiseringssystemet med private Google-kontoer uten noen krav til høy sikkerhet.</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-10-18 14:39</div>
+<div type="caption">Passord- og sikkerhetsekspert Per Thorsheim mener Dagbladets påloggingsløsning er for svak dersom det stemmer at de kan logge på med private Google-kontoer. (Foto: Melisa Fajkovic) Sjefredaktør Alexandra Beverfjord i Dagbladet. (Foto: Elin Høyland) Mer... </div>
+<div type="text">
+<p>– Dersom Dagbladet lar sine ansatte logge inn med private Google-kontoer er de prisgitt de enkelte brukernes egne sikkerhetsrutiner. Da må de lene seg på opplæring av de ansatte, noe vi vet ikke alltid fungerer så godt, sier passord- og sikkerhetsekspert Per Thorsheim til DN.</p>
+<p>Torsdag ettermiddag ble Dagbladet.no, Dinside.no, KK.no, Sol.no og Seoghør.no stengt i flere timer etter at innholdet i flere publiserte artikler ble radikalt endret av uvedkommende. Blant annet ble leserne forledet til å tro at statsminister Erna Solberg synes pedofili er akseptabelt. Hendelsen kan være ett av de mest alvorlige sikkerhetsbruddene i norske medier de siste årene. Aller Media, som eier nettstedene, gikk torsdag ut og sa at de mistenkte hacking og har politianmeldt hendelsen.</p>
+<p>– Vi vet ikke om det dreier seg om hacking, men vi utelukker det ikke, sa sjefredaktør Alexandra Beverfjord i Dagbladet til DN torsdag kveld.</p>
+<p>Nøyaktig hvordan inntrengerne har skaffet seg tilgang vil ikke Dagbladet eller Aller Media bekrefte. DN vet at journalister i Dagbladet kan velge mellom to påloggingsløsninger til publiseringssystemet Labrador, aID og Google. aID er et påloggingssystem utviklet av Amedia som også brukes av Aller Media.</p></div></body></document>

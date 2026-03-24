@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190731-kongepyton-savnet-i-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/6jyv8O/Kongepyton-savnet-i-Stavanger" frk="25 0 0 169 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-31 12:17:47"/>
+<attribute name="author" value="Eivind Aarre"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kongepyton savnet i Stavanger</div>
+<div type="ingress">Slik kom den seg unna. Video: Tommy Ellingsen</div>
+<div type="author">Eivind Aarre</div>
+<div type="date">2019-07-31 12:17:47</div>
+<div type="caption"><p>Kongepyton savnet i Stavanger Slik kom den seg ut. Video: Tommy Ellingsen</p></div>
+</body></document>

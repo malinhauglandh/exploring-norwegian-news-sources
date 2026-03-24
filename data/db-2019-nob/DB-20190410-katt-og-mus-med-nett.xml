@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190410-katt-og-mus-med-nett.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/katt-og-mus-med-nettpiratene/70825347" frk="857 2 16 5678"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-10 03:37"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="utenriks,nyheter,dataangrepet,meta_vu"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Katt og mus med nettpiratene</div>
+<div type="ingress">Da Dagbladet avslørte at tusenvis av norske nettsteder ble misbrukt i spam-annonser, forsøkte piratene å kamuflere nettstedene ved å fylle dem med gresk tekst.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-10</div>
+<div type="caption"><p>LINKET SAMMEN: Et graf-bilde som 8000 av domenene i samlingen, altså 10% av nettverket. Hver røde prikk er et piratnettsted. Strekene er lenker mellom de. Grafikk: Tor-Henning Ueland</p> <p>HELT GRESK: Denne siden inneholdt tidligere kopiert innhold fra BBC. Etter at Dagbladet begynte å grave ble innholdet endre til gresk.</p> <p>HELLAS: Spam-sidene ble kamuflert med gresk innhold. Foto: John T. Pedersen /Dagbladet</p> <p>STATLIG: Denne nettsiden inneholdt tidligere stjålet innhold fra Statens Vegvesen. Så ble innholdet endret til gresk.</p></div>
+<div type="text">
+<p>Dagbladets avsløringer av et omfattende dataangrep har utløst en katt og mus-jakt i skjulte rom på nettet. Da Dagbladet begynte å undersøke piratenes nettsteder, forsøkte piratene å kamuflere spam-sidene sine for at de ikke skulle finnes igjen.</p>
+<p>Kamuflasjen var gresk for de aller fleste.</p></div>
+<div type="title" level="3">Omfattende angrep</div>
+<div type="text">
+<p>Dagbladet har avslørt at nettpirater i flere måneder har angrepet og stjålet innhold fra de fleste av Norges største aviser, offentlige nettsteder som Statens Vegvesen og Fylkesmannen.no og utenlandske giganter som BBC.</p>
+<p>Totalt har Dagbladet funnet at over 80 000 nettsider er angrepet. Ved å lage et dataprogram som analyserte spam-nettstedene fant Dagbladet at de aller fleste krysslenket til hverandre og at spam-sidene dermed framsto som et organisert dataangrep.</p>
+<p>Angriperne brukte innhold fra Dagbladet, VG og NRK – blant andre – til å lure nettbrukere inn på både pornosider og til en rekke annonsenettsteder. Hensikten ser ut til å være å få folk til å gi fra seg personopplysninger - hvorpå dette legges ut til salg. Flere spor ledet til selskaper i Tyskland, Sverige og Norge.</p>
+<p>Derfra kom du deg ikke ut igjen, med mindre du enten lukker hele nettleseren så alt du surfer på blir borte, er nettkyndig nok til å stenge bare den aktuelle fanen - eller gjør det konkurransen ber deg om.</p></div>
+<div type="title" level="3">Skjult hos milliardær</div>
+<div type="text">
+<p>Dagbladet har undersøkt spam-nettstedene, og funnet følgende fellestrekk:</p>
+<p>Dagbladet har avslørt at to IP-adresser registrert i Frankrike ble brukt til å «crawle» innhold fra spam-sidene: å samle opp nye spam-sider med falskt innhold fra Dagbladet og VG, og sørge for at de ble registrert i Google-treffene når folk søkte på Dagbladets og VGs innhold. IP-adressene er registrert hos Online.net – en nettjeneste drevet av et kontroversielt nettselskap eid av milliardæren Xavier Niel, Frankrikes 7. rikeste mann. Etter at Dagbladet la fram sine funn har det franske firmaet ryddet opp – og stengt flere servere piratene disponerte. Sikkerhetssjef Hedi Serradj sier imidlertid at de ikke kan opplyse om hvem som eier IP-adressene uten en rettskjennelse.</p>
+<p>Spam-sidene bruker en såkalt «navneserver» registrert hos selskapet Cloudflare til å skjule sin identitet. I utgangspunktet er en navneserver en server som oversetter domenenavnene vi bruker i nettleseren – dagbladet.no, vg.no, nrk.no – til tall. Tallene blir så satt sammen til IP-nummer, og nettsiden får sin IP-adresse, som igjen gjør den mulig å spore på Internett. Men Cloudflare tilbyr servere som fungerer som et gjerde mellom nettsted-eieren og nettbrukeren foran skjermen hjemme. Cloudflare-serverne skjuler nettstedets opprinnelige opphav. I stedet får du bare opp Cloudflare-serverens adresse.</p>
+<p>En stor andel av spam-nettsidene er registrert i det vestafrikanske diktaturet Ekvatorial-Guinea, og på stillehavsøya Tokelau. De eksotiske adressene skyldes at spam-nettsidene er registrert via nettjenesten Freenom – som tilbyr rask og anonym registrering av nettsider, nettopp i Ekvatorial-Guinea og på Tokelau.</p></div>
+<div type="title" level="3">Rapporterte</div>
+<div type="text">
+<p>Cloudflare har nektet å opplyse Dagbladet hvem som disponerer spam-sidene, mens Freenom-sjef Joost Zuurbier ikke har besvart Dagbladets henvendelser. Ingen av nettjenestene har ønsket å sette Dagbladet i kontakt med personene bak dataangrepet, tross gjentatte henvendelser. Cloudflare har i et intervju med Dagbladet forklart hvordan de ser på sin rolle.</p>
+<p>Men både Online.net, Freenom og Cloudflare har et såkalt «abuse»-system, der du kan rapportere inn misbruk eller upassende innhold.</p>
+<p>Dagbladet har sendt detaljerte rapporter via abuse-systemene hos Online.net, Freenom og Cloudflare, Det fikk nettpiratene å reagere.</p>
+<p>I rapportene Dagbladet sendte til Online.net, Freenom og Cloudflare ba vi personene bak spam-sidene om å ta kontakt. Det har ikke skjedd. I stedet forsøkte nettpiratene å gjemme spam-sidene slik at de kunne fortsette sin virksomhet i fred.</p></div>
+<div type="title" level="3">Kamuflerte seg</div>
+<div type="text">
+<p>En etter en ble spam-sidene der det stjålne innholdet fra blant annet Dagbladet, VG, BBC og Fylkesmannen.no hadde ligget, kamuflert. Det norske innholdet ble fjernet, og erstattet med innhold på gresk.</p>
+<p>Sidene inneholder nå informasjon hentet fra greske nettsteder – stjålet på samme måte som det norske innholdet fra Dagbladet og VG.</p>
+<p>Selv om brukere som besøker disse sidene direkte fikk opp innhold fra en tilfeldig gresk nettside, ble Googles systemer lurt og fikk servert stjålet innhold fra Norge og andre land. Slik kan Google fortsette å levere det innholdet i sine søkeresultater.</p></div>
+<div type="title" level="3">Sporene</div>
+<div type="text">
+<p>Sporene fra spam-annonsene har ledet til flere selskaper, som har tjent gode penger på virksomheten:</p>
+<p>Et av dem er Egentic, et tysk selskap som i 2001 ble stiftet i stua til en adelsmann i Frankfurt.</p>
+<p>Andre selskaper er svenske Creative Marketing og flere nederlandske markedsføringsselskaper.</p>
+<p>Konsekvensen for vanlige nordmenn, som trykker på annonsene de får opp, er at personopplysningene deres blir solgt til de som ønsker å kjøpe dem. Og at de rennes ned av spam-reklame.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-det-er-blitt-dobbelt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Vb2xk6/Det-er-blitt-dobbelt-sa-mange-av-dem-pa-ti-ar-Likevel-synker-inntektene-fra-cruiseturistene" frk="39 8 2 250 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Det er blitt dobbelt så mange av dem på ti år. Likevel synker inntektene fra cruiseturistene.</div>
+<div type="ingress">Snart passerer vi en million cruiseturister i året. Men en ny undersøkelse viser at 92 prosent av inntektene nå går til cruiserederiene.</div>
+<div type="author"></div>
+<div type="date">2019-12-19</div>
+<div type="caption"></div>
+</body></document>

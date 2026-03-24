@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190124-nordlys-og-sorlys-er.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/nordlys-og-sorlys-er-ikke-like-norske-forskere-har-funnet-ut-hvorfor/70696091" frk="894 5 32 6162"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-24 22:26"/>
+<attribute name="author" value="Ralf Lofstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nordlys,jorda,innenriks,geofysikk,forskning,astrofysikk,nyheter,sola,vitenskap,solvind,romforskning"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nordlys og sørlys er ikke like. Norske forskere har funnet ut hvorfor</div>
+<div type="ingress">Funnet beskrives som sensasjonelt.</div>
+<div type="author">Ralf Lofstad</div>
+<div type="date">2019-01-24</div>
+<div type="caption"><p>ASYMMETRI: Birkelandsenteret for romforskning forklarer hvorfor nordlys og sørlys ikke er lik hverandre. Video: Mount Visual / Birkelandsenteret for romforskning</p> <p>LYSSHOW: Nordlys kan være et spektakulært skue. Her fra Skagsanden i Lofoten. Foto: Mumemories / Shutterstock / NTB Scanpix</p> <p>KOLLISJON: Illustrasjonen viser solvind som treffer og påvirker jordas magnetfelt, som strekker seg mellom den magnetiske nord- og sørpolen. Illustrasjon: koya979 / Shutterstock / NTB Scanpix</p> <p>STOLT: Professor Nikolai Østgaard er svært fornøyd med at Birkelandsenterets forskning får internasjonalt gjennomslag. Foto: Universitetet i Bergen</p> <p>ROMSTASJON: En NASA-astronaut delte nylig denne videoen fra Den internasjonale romstasjonen (ISS) som viser et spektakulært og mektig nordlys danse over kloden. Video: @Astro2fish/Twitter/CNN</p> <p>PIONER: Kristian Birkeland (1867- 1917) kalles «verdens første romforsker». Foto: L. Szacinski / Oslo museum</p> <p>SØRLYS: Bare de færreste får se sørlys, fordi det stort sett opptrer over Antarktis. Her fra en forskningsstasjon. Foto: Sergey 402 / Shutterstock / NTB Scanpix</p> <p>- VIKTIG: Det å forstå nordlyset og solvinden bedre har stor betydning på en rekke felt, sier romforsker Pål Brekke. Foto: Kevin Schenk / Wikimedia Commons</p></div>
+<div type="text">
+<p>- Dette er en forklaring på hvordan ting er - og forklaringen er motsatt av hva vårt forskningsfelt har trodd før, sier Nikolai Østgaard, professor og leder for Birkelandsenteret for romforskning, til Dagbladet.</p>
+<p>Det norske forskningssenteret, som ligger under Universitetet i Bergen (UiB), har nylig publisert det som karakteriseres som et sensasjonelt funn - en forklaring på hvorfor nordlys og sørlys ikke er speilvendte utgaver av hverandre.</p></div>
+<div type="title" level="3">Partikkelkollisjon</div>
+<div type="text">
+<p>Store deler av Norge er velsignet med gode forhold for å se nordlys (aurora borealis), som bukter seg spektakulært over nattehimmelen. På den sørlige halvkule fins tilsvarende, sørlys (aurora australis), men langt færre får se det, siden det hovedsakelig forekommer over Antarktis.</p>
+<p>Nord- og sørlys (fellesnavn aurora polaris) har samme opprinnelse. Lysshowet skyldes at store mengder ladde partikler sendes ut fra sola og kolliderer med gasser i jordas atmosfære; under kollisjonen frigjøres elektromagnetisk stråling, bl.a. synlig lys.</p>
+<p>Jorda er en gigantisk magnet, og lyset strekker seg mellom de magnetiske polene i nord og sør, langs feltlinjene i planetens magnetfelt, fordi solpartiklene følger linjene.</p>
+<p>På grunn av symmetrien i feltlinjene over polene gikk forskerne lenge ut fra at nord- og sørlyset måtte være speilbilder av hverandre hva angår retning og fordeling. Men i 2009 fant forskere ved Birkelandsenteret ut at forskjellen mellom aurora i nord og sør på samme tid var påfallende ulik.</p></div>
+<div type="title" level="3">- Ganske sensasjonelt</div>
+<div type="text">
+<p>Siden har forskere prøvd å finne en plausibel forklaring på hvorfor det er slik, og nå har Birkelandsenteret offentliggjort en rapport som er publisert i prestisjetunge Journal of Geophysical Research.</p>
+<p>- Forklaringen er helt motsatt av hva jeg og mange andre forskere har trodd. Derfor er disse resultatene ganske sensasjonelle, sier tidsskriftets redaktør Mike Liemohn til UiB.</p>
+<p>Mekanismene som virker, er kompliserte, men retningen på solvinden - partikkelstrømmen fra sola - spiller en vesentlig rolle.</p>
+<p>Fordi solvindens partikler er elektrisk ladde, fører vinden med seg et sterkt eget magnetfelt. Når vinden treffer jordas magnetfelt, særlig i sørlig retning, kobler de to feltene seg sammen på jordas dagside og danner nye magnetfeltlinjer som strekker seg ut i en lang hale på planetens nattside (magnetohalen).</p></div>
+<div type="title" level="3">Retningen avgjør</div>
+<div type="text">
+<p>Fram til nå har det vært en gjengs oppfatning at asymmetrien mellom nord- og sørlyset oppstår når feltlinjene i magnetohalen kobler seg sammen igjen på nattsida av jorda, men Birkelandsenterets forskning viser nå at forklaringen ligger i hvordan solvindens magnetfelt treffer jordas felt.</p>
+<p>Dersom solvindens felt treffer jorda i nord-sør-retning - et relativt sjeldent fenomen - blir auroraen temmelig symmetrisk. Men dersom den treffer i øst-vest-retning, fører det til at de nye feltlinjene som dannes, blir vridd, og jordas magnetfelt får en helling - derav asymmetrien.</p>
+<p>Og videre: Mekanismen som forskerne trodde forårsaker asymmetrien - koblingen av feltlinjene i magnetohalen - viser seg faktisk å korrigere asymmetrien.</p>
+<p>Dersom dette er vanskelig å se for seg, anbefales det sterkt å se Birkelandsenterets forklaringsvideo øverst i artikkelen.</p></div>
+<div type="title" level="3">- Bekvemt</div>
+<div type="text">
+<p>- Vårt forskningsfelt har visst lenge at solvindens magnetfelt nesten alltid treffer jordas felt i øst-vest-retning, men har ikke tatt det innover seg. Og av bekvemmelighetsgrunner har man sett nord- og sørlyset som symmetriske, sier professor Nikolai Østgaard.</p>
+<p>Østgaard er svært fornøyd med å få forskningsrapporten omtalt på hjemmesida til American Geophysical Union - en sammenslutning med rundt 60 000 medlemmer.</p>
+<p>- Å bli slått opp på den hjemmesida er stort, sier han.</p>
+<p>- Hvor går veien videre nå?</p>
+<p>- Nå vil vi finne ut bl.a. hvordan påtrykket fra sola vil variere - forstå hvordan omkalfatringene skjer, hvorfor, og virkningene, sier professoren.</p></div>
+<div type="title" level="3">Skaper problemer</div>
+<div type="text">
+<p>Pål Brekke, forsker ved Norsk Romsenter, forklarer hvorfor den norske oppdagelsen er viktig.</p>
+<p>- Å forstå nordlyset og solvinden bedre er viktig fordi det forteller oss noe om koblingen mellom sola og jorda. Det er de samme prosessene som skaper problemer for teknologien vår, sier han til Dagbladet.</p>
+<p>Det er kjent at sterk solvind kan skape en rekke problemer for menneskelig liv. Blant annet kan navigasjonssystemer som GPS bli kraftig påvirket fordi satellitter blir slått ut, og fordi sterk strøm kan induseres i kraftledninger, kan hele kraftnett gå ut av drift.</p>
+<p>Han minner om at romforskningspioneren Kristian Birkeland (1867-1917), som har gitt navn til Birkelandsenteret, for over hundre år siden gjorde banebrytende målinger med magnetometer som resulterte i forståelsen av hvordan solvinden kan påvirke retningsmåling.</p>
+<p>- De samme målingene brukes i dag av oljeselskapene, slik at de vet i hvilken retning de skal bore, sier romforskeren.</p></div></body></document>

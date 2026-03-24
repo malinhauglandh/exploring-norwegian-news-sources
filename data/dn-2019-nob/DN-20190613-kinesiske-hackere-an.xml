@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190613-kinesiske-hackere-an.xml"/>
+<attribute name="url" value="http://www.dn.no/utenriks/hongkong/kina/telegram/kinesiske-hackere-angrep-meldingsappen-telegram-under-hongkong-opptoyene/2-1-620299" frk="252 0 0 1773"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-06-13 12:41"/>
+<attribute name="author" value="Morten Iversen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="utenriks,hongkong,kina,telegram"/>
+<attribute name="class2" value="Nyheter,Utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kinesiske hackere angrep meldingsappen Telegram under Hongkong-opptøyene</div>
+<div type="ingress">Den populære krypterte meldingsappen Telegram ble utsatt for et massivt angrep under demonstrasjonene i Hongkong. Selskapet har sporet det til Kina. Den populære krypterte meldingsappen Telegram ble utsatt for et massivt angrep under demonstrasjonene i Hongkong. Selskapet har sporet det til Kina.</div>
+<div type="author">Morten Iversen</div>
+<div type="date">2019-06-13 12:41</div>
+<div type="caption">Kina har angrepet den krypterte meldingstjenesten Telegram. Tjenesten er benyttet av demonstranter i Hongkong for å arrangere og koordinere protester den siste uken. (Foto: Andy Wong/AP/NTB Scanpix) </div>
+<div type="text">
+<p>Telegram er en populær meldingsapp hvor all kommunikasjon er kryptert. Tjenesten er forbudt og blokkert i Kina, Russland og andre land med autoritære regimer.</p>
+<p>Telegram er blitt brukt til å organisere demonstrasjonene i Hongkong den siste uken. Tusenvis av mennesker har tatt til gatene denne uken for å forsøke å hindre at politikerne får behandlet en lovendring som muliggjør utlevering til Kina.</p>
+<p>Eierselskapet til Telegram har opplevd store tekniske problemer med meldingstjenesten det siste døgnet.</p>
+<p>«Vi har opplevd et kraftig DDos-angrep», bekrefter selskapet via Twitter.</p>
+<p>DDoS er en form for et tjenestenektangrep hvor målet er å overbelaste nettsteders kapasitet slik at det blir utilgjengelig for brukere. Denne typen angrep kan koordineres sentralt, men det krever tilgang til et nettverk av datamaskiner som er tilkoblet internett.</p></div>
+<div type="title" level="3">Koordinert tjenestenektangrep</div>
+<div type="text">
+<p>Grunnlegger og konsernsjef Pavel Durov sier de fleste angrepene kom fra Kina. Det er ikke første gang. Også tidligere har Telegram opplevd det samme når det har vært uro i Hongkong.</p>
+<p>«Alle statsstøttede DDos-angrep har sammenfalt med demonstrasjoner i Hongkong, som har vært koordinert på Telegram», skriver Durov.</p></div></body></document>

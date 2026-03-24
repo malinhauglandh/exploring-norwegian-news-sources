@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20191021-bergen-kommune-steng.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/i/WbWGnK/bergen-kommune-stenger-meldingstjeneste" frk="434 0 0 2685"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-10-21 18:49"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bergen kommune stenger meldingstjeneste</div>
+<div type="ingress">Skoleappen Vigilo stenges av i Bergen kommune, etter at en ny alvorlig feil er oppdaget.</div>
+<div type="author"></div>
+<div type="date">Oppdatert 21. oktober</div>
+<div type="caption"><p>SKOLEBYRÅD: Bergen kommune stenger meldingstjenesten Vigilo etter at en feil ble oppdaget. Skolebyråd Linn Kristin Engø (Ap) kaller feilen alvorlig. Foto: Marit Hommedal / NTB scanpix</p></div>
+<div type="text">
+<p>Feilen førte til at en melding fra en foresatt til en kontaktlærer gikk ut til en hel foreldregruppe, skriver Bergen kommune i en pressemelding.</p>
+<p>Dette er en funksjon som Bergen kommune ikke har avtale om å ta i bruk.</p></div>
+<div type="title" level="3"> – Alvorlig feil</div>
+<div type="text">
+<p>– Dette er en alvorlig feil. Vi kommer til å kreve en grundig forklaring fra leverandøren om hvordan de kan ta i bruk en ny funksjonalitet som vi ikke har bestilt, spesielt i lys av den siste tids hendelser, sier byråd Linn Kristin Engø (Ap) for barnehage, skole og idrett.</p>
+<p>Feilen skyldtes en oppdatering av programvaren som ble gjennomført fredag. Avviket ble oppdaget først mandag. Vigilo har nå stengt av meldingstjenesten og fjernet chattefunksjonen i appen.</p>
+<p>Bergen kommune begynte å bruke appen i høst. Den skal brukes til kommunikasjon mellom foreldre og ansatte i skoler og barnehager.</p>
+<p>Bergen kommunen har besluttet å vente med å ta tjenesten i bruk inntil videre.</p></div>
+<div type="title" level="3">Responsfunksjon slått av </div>
+<div type="text">
+<p>Administrerende direktør Øystein Viland i Vigilo avviser at det er en feil i appen.</p>
+<p>– En forelder har antakeligvis svart på en gruppemelding som kontaktlæreren har lagt ut. Da blir det synlig for alle, sier Viland til Bergensavisen.</p>
+<p>Dette er ikke første gang skoleappen Vigilo svikter. Tidligere i oktober fikk foreldre uten foreldreansvar informasjon om barna sine, etter at informasjonen ble delt i skoleappen. Kripos ble koblet inn saken.</p>
+<p>Svikten omfatter blant annet tre barn som bor på hemmelig adresse og ti barn som har familieforhold som gjør at foreldrene ikke skulle ha noen informasjon om barna, skrev Bergens Tidende.</p></div>
+<div type="title" level="3">Trøbbel også i Fredrikstad</div>
+<div type="text">
+<p>Også i Fredrikstad har man mandag opplevd Vigilo-trøbbel. Det bekrefter kommunaldirektør for utdanning og oppvekst, Marianne Bekker, til VG.</p>
+<p>– Vi er i dag blitt kjent med at en gruppemelding sendt i Vigilo til foresatte ble besvart av en foresatt - en fraværsmelding på sitt barn -, og at dette svaret gikk til alle foresatte som fikk gruppemeldingen. Skoles ledelse tok kontakt med Vigilo og ba om å få slettet meldingen. Dette ble gjort, skriver hun i en e-post til VG.</p>
+<p>Mandag kveld har hun hatt kontakt med Vigilo, som opplyser til kommunen at de nå har fjernet muligheten til å sende respons på gruppemeldinger.</p>
+<p>– I Fredrikstad kommune har jeg, i samråd med skolesjefen, derfor bestemt at meldingsfunksjonen i Vigilo ikke skal stenges på grunn av det inntrufne.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190831-trekker-omstridt-avt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/xPbkRj/Trekker-omstridt-avtale-med-nye-Forum" frk="58 0 0 367 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-31 10:25"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Medier,Odfjell,Norge IDAG,Dagen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Trekker omstridt avtale med nye Forum</div>
+<div type="ingress">Avisen Norge IDAG og TV-kanalen Visjon Norge trekker seg fra kontroversiell avtale med nye Forum Scene.</div>
+<div type="author"></div>
+<div type="date">2019-08-31</div>
+<div type="caption"><p>TREKKER AVTALE: Bjarte Ystebø, ansvarlig redaktør i den kristne avisen Norge IDAG, forklarer at de trekker seg fra den unike leieavtalen med nye Forum Scene for å skape ro rundt driften. FOTO: Odd E. Nerbø</p></div>
+</body></document>

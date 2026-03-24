@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190331-taxisystemet-til-rog.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/70pQzV/Taxisystemet-til-Rogaland-taxi-la-nede-i-mange-timer" frk="175 7 8 1003"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-31 06:05:40"/>
+<attribute name="author" value="Janne Hagen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Taxisystemet til Rogaland taxi lå nede i mange timer</div>
+<div type="ingress">Ingen taxier kan bestilles eller sendes ut.</div>
+<div type="author">Janne Hagen</div>
+<div type="date">2019-03-31 06:05:40</div>
+<div type="caption"><p>Anders Minge</p></div>
+<div type="text">
+<p>– Vi har hatt en harddisk-krasj, og har alle servicefolkene på plass nå. De jobber på spreng for å få systemet opp igjen, sier Marianne Lilleås, avdelingsleder på kundesenteret.</p>
+<p>Systemet har ligget nede siden 04.30. Alle som hadde forhåndsbestilt taxi til søndag morgen, for eksempel for å rekke fly, måtte finne andre løsninger for å komme seg avgårde.</p>
+<p>– Vi beklager virkelig alle problemene dette medfører for kundene våre.</p>
+<p>– Ingen taxier blir sendt ut, og ingen kan bestilles.</p>
+<p>Rogaland taxi har ikke anlegg som de kan rope opp taxiene manuelt på.</p>
+<p>– Vi vet foreløpig ikke hva som har ført til denne feilen, sier Lilleås.</p>
+<p>Klokken 14.30 er alle systemer i orden igjen.</p></div>
+<div type="title" level="3">Siste:</div>
+<div type="text">
+<p>– Det har vært litt av og på i løpet av dagen, men nå virker alt som det skal, og vi har ikke mistet noen data, sier Lilleås.</p>
+<p>Det betyr at alle som har forhåndsbestilt taxi, nå får den som bestilt.</p></div></body></document>

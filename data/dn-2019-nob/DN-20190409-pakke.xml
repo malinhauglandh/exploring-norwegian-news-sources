@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190409-pakke.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/pakke/2-1-584020" frk="20 20 3 143 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-09 17:52"/>
+<attribute name="author" value="Leder DN"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Pakke</div>
+<div type="ingress">Administrerende direktør Håkan Ericsson i PostNord må gå av og får en sluttpakke verdt 14,2 millioner svenske kroner.</div>
+<div type="author">Leder DN</div>
+<div type="date">2019-04-09 17:52</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

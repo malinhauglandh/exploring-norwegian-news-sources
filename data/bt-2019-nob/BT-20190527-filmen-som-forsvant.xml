@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190527-filmen-som-forsvant.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/6jWlnQ/Filmen-som-forsvant" frk="42 21 6 278 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-27 05:47"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Tall Ships Races,Odfjell,Bergens Tidende,Dokumentarfilm,Sjøfart,Bergen,Hardanger"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Filmen som forsvant</div>
+<div type="ingress">Edvard Tydal hadde hovedrollen i en amerikansk film om «Statsraad Lehmkuhl». Nå er filmen borte vekk.</div>
+<div type="author"></div>
+<div type="date">2019-05-27</div>
+<div type="caption"><p>FØRSTEREISGUTTEN: Edvard Tydal hadde hovedrollen i filmen «A Seaman Is Born», den sommeren han fylte 15 år i 1960. FOTO: Valerie Moolman</p></div>
+</body></document>

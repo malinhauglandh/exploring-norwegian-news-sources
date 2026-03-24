@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191021-framtida-er-elektris.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/LAdO4Q/Snart-er-heile-bilparken-pa-Patriks-jobb-elektrisk" frk="18 0 0 136 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-21 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Framtida er elektrisk for tømrarar Patrik</div>
+<div type="ingress">Med statsstøtte styrer norske verksemder med god fart mot elektrisk drift.</div>
+<div type="author"></div>
+<div type="date">2019-10-21</div>
+<div type="caption"></div>
+</body></document>

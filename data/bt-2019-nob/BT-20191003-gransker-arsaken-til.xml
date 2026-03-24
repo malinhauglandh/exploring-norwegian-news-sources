@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191003-gransker-arsaken-til.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70Jd7v/Gransker-arsaken-til-at-betong-falt-ned-i-Floyfjellstunnelen" frk="30 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-03 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Gransker årsaken til at betong falt ned i Fløyfjellstunnelen</div>
+<div type="ingress">Både betongblandingen og utstyret skal granskes for å finne ut hvordan fersk betong kunne ramle ned fra taket i Fløyfjellstunnelen.</div>
+<div type="author"></div>
+<div type="date">2019-10-03</div>
+<div type="caption"></div>
+</body></document>

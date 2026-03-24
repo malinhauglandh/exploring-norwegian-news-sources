@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190625-person-funnet-dod-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/70xR6K/Person-funnet-dod-i-Bergen--politiet-etterforsker-saken" frk="96 9 6 619 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-25 18:30"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Person funnet død i Bergen – politiet etterforsker saken</div>
+<div type="ingress">En person er funnet død i en leilighet i Sandviken i Bergen tirsdag ettermiddag.</div>
+<div type="author">NTB</div>
+<div type="date">25. juni 2019 18:30</div>
+<div type="caption"><p>FOTO: 2211-tipser</p></div>
+<div type="text">
+<p>– Det er for tidlig å si om det dreier seg om noe kriminelt. Politiet har begynt etterforskning på stedet, sier operasjonsleder Frode Kolltveit i Vest politidistrikt til Bergensavisen.</p>
+<p>Politiet fikk melding om dødsfallet klokka 17 tirsdag.</p>
+<p>Vedkommende ble funnet inne i en bolig. Politiet vil foreløpig ikke si noe om alder og kjønn.</p>
+<p>Det er besluttet at vedkommende skal obduseres ettersom dødsårsaken ikke er klar, opplyser Kolltveit til NTB.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190322-et-nodvendig-selvmor.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/kaAk9L/Et-nodvendig-selvmord" frk="22 0 0 169 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-22 18:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Litteratur,Kultur,Debatt,Barneoppdragelse,Nordisk råds litteraturpris,Roman,Selvmord,Bokanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Et «nødvendig» selvmord</div>
+<div type="ingress">«Nattskift i Nekropolis» er et oppgjør med alle pappaer som burde strukket seg lenger.</div>
+<div type="author"></div>
+<div type="date">2019-03-22</div>
+<div type="caption"><p>FOTO: Marvin Halleraker (illustrasjon)</p></div>
+</body></document>

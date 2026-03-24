@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190224-dagens-quiz-mandag-2.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/ngqQdL/Dagens-quiz-mandag-25-februar" frk="38 29 8 267 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-24 17:45"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz mandag 25. februar</div>
+<div type="ingress">Hvilken norsk avis har høyest opplagstall?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">24.feb.2019 18:45</div>
+<div type="caption"><p>FOTO: Junge, Heiko / NTB scanpix</p></div>
+<div type="text">
+<p>1. Hvilken Kristine ble i 1912 norgeshistoriens første kvinnelige professor?</p>
+<p>2. Hvilket land er verdens desidert største eksportør av kaffe?</p></div></body></document>

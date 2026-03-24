@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191229-afrikanske-land-gjor.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/kJLyWj/Afrikanske-land-gjor-cannabis-lovlig" frk="21 0 0 138 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-29 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Afrikanske land gjør cannabis lovlig</div>
+<div type="ingress">Zambia er det fjerde landet i Afrika som nylig har åpnet for dyrking av cannabis.</div>
+<div type="author"></div>
+<div type="date">2019-12-29</div>
+<div type="caption"></div>
+</body></document>

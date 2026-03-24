@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191109-reddet-han-bergens-h.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50eMoW/Reddet-han-bergens-historie" frk="35 0 0 242 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-09 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Reddet han bergens historie?</div>
+<div type="ingress">Utallige historieverk om Bergen viser hvor opptatt vi bergensere er av vår fortid. Mange av de eldre historiebøkene ble imidlertid aldri trykket i sin samtid, men sirkulerte kun som avskrifter.</div>
+<div type="author"></div>
+<div type="date">2019-11-09</div>
+<div type="caption"></div>
+</body></document>

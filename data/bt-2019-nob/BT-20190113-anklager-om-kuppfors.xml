@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190113-anklager-om-kuppfors.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8waR2Q/Anklager-om-kuppforsok-i-Sp" frk="39 0 0 283 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-13 11:05"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Revisorer,Debatt,Bystyret,Privatisering,Bergen,Politikk,Deloitte"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Anklager om kuppforsøk i Sp</div>
+<div type="ingress">Ove-Sverre Bjørdal får kamp om førsteplassen på Senterpartiets valgliste fra Chase Alexander Jordal.</div>
+<div type="author"></div>
+<div type="date">2019-01-13</div>
+<div type="caption"><p>FÅR KAMP: Ove-Sverre Bjørdal i Senterpartiet får en utfordrer i kampen om førsteplassen på partiets valgliste. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

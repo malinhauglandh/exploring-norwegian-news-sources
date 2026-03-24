@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190516-ingen-funn-etter-at-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Jo7REj/Politiet-fortsetter-a-grave-pa-kirkeplassen-i-Fana" frk="31 10 2 197 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-16 17:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Fana,Forsvinninger,Politiet,Etterforskning"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ingen funn etter at fem graver er åpnet</div>
+<div type="ingress">Mandag vurderer politiet hva de gjør videre.</div>
+<div type="author"></div>
+<div type="date">2019-05-16</div>
+<div type="caption"><p>MED KAMERA: I 18-tiden torsdag gikk krimteknikerne inn i teltet med kamera. FOTO: Rune Sævig</p></div>
+</body></document>

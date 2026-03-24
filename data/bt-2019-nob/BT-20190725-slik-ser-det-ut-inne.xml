@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190725-slik-ser-det-ut-inne.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/y3GxJg/Slik-ser-det-ut-inne-pa-Midtun-skole" frk="41 0 0 259 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-25 11:17"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Bygg og eiendom,Skolestart,Skole"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik ser det ut inne på Midtun skole</div>
+<div type="ingress">Asbest i rør og plater førte til at skolen måtte stenge med umiddelbar virkning.</div>
+<div type="author"></div>
+<div type="date">2019-07-25</div>
+<div type="caption"><p>STØV: Asbeststøv frigjøres når materialet fjernes. Det er asbeststøv i luften som utgjør helsefaren. FOTO: Eriksen HMS AS</p></div>
+</body></document>

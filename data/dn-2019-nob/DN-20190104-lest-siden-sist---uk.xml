@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190104-lest-siden-sist---uk.xml"/>
+<attribute name="url" value="http://www.dn.no/lest-siden-sist/lest-siden-sist-uke-1/2-1-509581" frk="29 5 1 193 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-04 18:53"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lest-siden-sist"/>
+<attribute name="class2" value="Meninger,Lest siden sist"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Lest siden sist – uke 1</div>
+<div type="ingress">Kommentator tyder stjerner. Partileder gjør som Jesus. Her er ukens klipp. Kommentator tyder stjerner. Partileder gjør som Jesus. Her er ukens klipp.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-01-04 18:53</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

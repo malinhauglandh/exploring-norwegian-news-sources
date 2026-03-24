@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-styreledere-politian.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/awk03L/styreledere-politianmeldt-skal-ha-proevd-aa-lure-28-millioner-ut-av-ko" frk="29 10 2 190 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Styreledere politianmeldt: Skal ha prøvd å lure 2,8 millioner ut av konkursbo</div>
+<div type="ingress">Da advokaten skulle gå gjennom konkursboet, oppdaget han noe som han ikke fikk til å stemme.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

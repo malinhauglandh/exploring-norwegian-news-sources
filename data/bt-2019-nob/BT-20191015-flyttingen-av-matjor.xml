@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191015-flyttingen-av-matjor.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/4qG7L6/Flyttingen-av-matjorden-pa-Liland-er-startet-Men-mottakeren-vil-helst-ikke-ha-den" frk="32 10 2 197 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-15 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Flyttingen av matjorden på Liland er startet. Men mottakeren vil helst ikke ha den.</div>
+<div type="ingress">Arbeidet med å grave opp 50 dekar med landbruksjord for å bygge bilpark er startet på Liland.</div>
+<div type="author"></div>
+<div type="date">2019-10-15</div>
+<div type="caption"></div>
+</body></document>

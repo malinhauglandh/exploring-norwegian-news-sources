@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-twitter-er-oppe-igje.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/kJB4aB/Twitter-er-oppe-igjen" frk="27 0 0 184 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 09:03"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Twitter er oppe igjen</div>
+<div type="ingress">Mikrobloggtjenesten Twitter var nede torsdag kveld. Flere meldte om problemer med å logge inn på nettstedet. Problemene virker nå å være løst.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

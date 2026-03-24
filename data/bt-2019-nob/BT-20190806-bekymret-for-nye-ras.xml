@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190806-bekymret-for-nye-ras.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WbxGza/Bekymret-for-nye-ras-i-Jordalen" frk="24 0 0 167 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-06 05:36"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Vær,NVE,Ras,Skred,Sommerskredene"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bekymret for nye ras i Jordalen</div>
+<div type="ingress">Jordsmonnet klarer ikkeå svelge unna regnmengdene.</div>
+<div type="author"></div>
+<div type="date">2019-08-06</div>
+<div type="caption"><p>RAS: Flere ras gikk i Jordalen mandag. FOTO: TROND OLAV NETELAND</p></div>
+</body></document>

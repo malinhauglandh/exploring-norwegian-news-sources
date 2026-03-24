@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190214-vi-ma-lare-maskinene.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/teknologi/digitalisering/maskinlaring/vi-ma-lare-maskinene-folkevett/2-1-541643" frk="696 0 4 4769"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-14 15:48"/>
+<attribute name="author" value="Kjell Jørgen Hole"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,teknologi,digitalisering,maskinlaring"/>
+<attribute name="class2" value="Meninger,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vi må lære maskinene folkevett</div>
+<div type="ingress">Kunstig intelligens har hittil manglet både alminnelig folkevett og evnen til abstrakt resonnering. Innsikt i hvordan hjernen lærer, kan bøte på manglene. Kunstig intelligens har hittil manglet både alminnelig folkevett og evnen til abstrakt resonnering. Innsikt i hvordan hjernen lærer, kan bøte på manglene.</div>
+<div type="author">Kjell Jørgen Hole</div>
+<div type="date">2019-02-14 15:48</div>
+<div type="caption">På tross av at det er teoretisk mulig å lage større og raskere kunstig intelligens-systemer med tilgang på mer energi enn hva hjernen har, er vi langt fra målet om å lage kunstig intelligens på samme nivå som menneskelig intelligens. (Foto: Istock/Getty Images) Kjell Jørgen Hole, professor i informatikk ved Universitetet i Bergen, direktør for Simula UiB. Mer... </div>
+<div type="text">
+<p>Fagfeltet kunstig intelligens studerer metoder som lar datamaskiner lære hvordan de skal løse problemer uten at det er nødvendig å eksplisitt programmere maskinene. Kunstig intelligens har ført til bedre oversettelser av språk, gjenkjenning av bilder og tale, robotteknologi og navigasjon.</p>
+<p>Den menneskelige hjernen er det beste eksempelet vi har på intelligens. Dens kognitive funksjoner styres av neocortex – den ytre delen av hjernen, som ligner på en krøllete tøyserviett. Menneskelig intelligens er et resultat av evolusjonære prosesser i naturlige miljøer.</p>
+<p>Det gir liten mening å studere hjernens kognitive funksjoner uten å ta hensyn til den tette koblingen mellom hjernen og kroppen. Hjernen integrerer behandlingen av sanseinntrykk og genereringen av kommandoer til kroppen. Mekanismene for denne sensomotoriske integrasjonen benyttes også til abstrakt tenkning.</p>
+<p>Menneskets tankeprosesser er med andre ord formet av hjernens og kroppens oppbygging og funksjonsevne.</p>
+<p>Kunstig intelligens (KI) består av dataprogrammer som behandler inndata fra omverdenen og genererer utdata. Utdataene er uten mening for datamaskinene. Det er brukerne av programmene som tillegger utdataene mening. Forskere på feltet har i stor grad ignorert studier av neocortex og heller fokusert på matematiske metoder ved utvikling av kunstig intelligens.</p>
+<p>Fordi hjernen er et produkt av evolusjon hvor nyere deler, inkludert neocortex, må bygge på funksjonaliteten til eldre deler, har det vært en utbredt oppfatning at det er mulig å utvikle kunstig intelligens som er smartere enn hjernen ved å starte helt på nytt.</p>
+<p>I tillegg har man lagt vekt på at hjernen har begrensninger: den fysiske størrelsen er begrenset av hodeskallen, tilgang til energi fra kroppen er begrenset og hastigheten på operasjonene i hjernen er langsomme sammenlignet med en moderne datamaskin.</p>
+<p>På tross av at det er teoretisk mulig å lage større og raskere kunstig intelligens-systemer med tilgang på mer energi enn hva hjernen har, er vi langt fra målet om å lage kunstig intelligens på samme nivå som menneskelig intelligens. Dagens kunstig intelligens-systemer trenger meget store datamengder, såkalte treningsmengder, for å oppnå tilsynelatende intelligent oppførsel. Likevel har systemene problemer med å håndtere situasjoner som ikke er representert i treningsmengdene.</p>
+<p>Hovedproblemet er at systemene mangler både alminnelig folkevett og evnen til abstrakt resonnering.</p>
+<p>Mange eksisterende KI-metoder er basert på såkalte kunstige nevrale nettverk. Forskningslitteraturen indikerer at disse nettverkene er inspirert av hjernen. Det er en sannhet med modifikasjoner. «Hjernecellene» i kunstige nevrale nettverk er basert på kunnskap om hjernen fra 1940-tallet. I dag vet vi at hjernecellene har mer funksjonalitet enn hva kunstig intelligens-forskere benytter i sine nettverk.</p>
+<p>Vi vet også at forbindelsene mellom hjernecellene er aktive prosesseringselementer, og ikke passive forbindelser slik som i kunstige nevrale nett.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>Det er derfor i beste fall uklart om dagens kunstige nevrale nettverk kan lede til kunstig intelligens på menneskets nivå.</p>
+<p>Vi kan trygt si at neocortex opererer på en radikalt annen måte enn kunstige nevrale nettverk. Mer oppmerksomhet om hvordan neocortex fungerer, kan derfor føre til et gjennombrudd i kunstig intelligens. Det er krevende å forske i grenselandet mellom informatikk og nevrovitenskap, men den potensielle gevinsten er mye større enn å følge de mer tradisjonelle tilnærmingene til kunstig intelligens med de nevnte svakhetene det fører med seg.</p>
+<p>Det eksisterer mange forskningsresultater om hjernen, men de er oftest på en form som gjør det vanskelig for informatikere å benytte informasjonen til å utvikle bedre KI-metoder.</p>
+<p>Det nye konsortiet Nora, bestående av universitetene i Agder, Bergen, Tromsø og Oslo, samt Oslomet, NMBU og Simula Research Laboratory, vil styrke forskning og utdannelse innen KI. Nora bør stimulere til utvikling av bedre metoder basert på forståelse av hvordan hjernen fungerer.</p></div></body></document>

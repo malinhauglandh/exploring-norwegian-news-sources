@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191011-muhammed-azeem-vaske.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/nanLRB/Muhammed-Azeem-vasker-muslimske-dode-pa-Haukeland" frk="23 0 0 136 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Muhammed Azeem vasker muslimske døde på Haukeland</div>
+<div type="ingress">– Det er en tøff jobb, men det trøster meg at jeg får mye tilbake.</div>
+<div type="author"></div>
+<div type="date">2019-10-11</div>
+<div type="caption"></div>
+</body></document>

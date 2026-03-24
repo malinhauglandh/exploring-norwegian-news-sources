@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190401-her-er-start-borsen-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/Her-er-Start-borsen-etter-kampen-mot-Aalesund-271740b.html" frk="24 0 0 165 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-04-01 10:50"/>
+<attribute name="author" value="Pål Wollebæk Jørgensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="ik start"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er Start-børsen etter kampen mot Aalesund</div>
+<div type="ingress">En tung dag for Idrettsklubben Start også på banen lørdag.</div>
+<div type="author">Pål Wollebæk Jørgensen</div>
+<div type="date">01.apr.2019 12:50</div>
+<div type="caption"><p>FOTO: Marius Simensen / BILDBYRÅN NORWAY</p></div>
+</body></document>

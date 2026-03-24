@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191204-det-mest-uskikkelige.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5wnm5/Det-mest-uskikkelige-stedet-i-Bergen" frk="28 5 1 169 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-04 05:29"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Det mest uskikkelige stedet i Bergen</div>
+<div type="ingress">Dag 4: Danmarksplass</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 4. desember 2019 05:29</div>
+<div type="caption"><p>JULEKALENDER: Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

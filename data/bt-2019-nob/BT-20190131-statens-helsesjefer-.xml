@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190131-statens-helsesjefer-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/3jAMOP/Statens-helsesjefer-vil-ha-slutt-pa-hemmelige-medisinpriser" frk="61 0 0 429 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-31 05:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Bent Høie,Kjersti Toppe,Medisin,Taushetsplikt,Konkurransetilsynet,Ingvild Kjerkol,Legemiddelindustrien,Legemiddelverket,Prissamarbeid,Helsedirektoratet,Legeforeningen,Sykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Statens helsesjefer vil ha slutt på hemmelige medisinpriser</div>
+<div type="ingress">Toppsjefene i Statens legemiddelverk og Helsedirektoratet vil ha åpenhet om prisen på legemidler. I dag var det høring i Stortinget.</div>
+<div type="author"></div>
+<div type="date">2019-01-31</div>
+<div type="caption"><p>HELSETOPPER: Direktør Kjetil M. Istad i Sykehusinnkjøp HF (i midten) og direktør Audun Hågå (t.v.) i Statens legemiddelverk var blant de som ble spurt ut i dagens stortingshøring om legemiddelpriser. FOTO: STORTINGET</p></div>
+</body></document>

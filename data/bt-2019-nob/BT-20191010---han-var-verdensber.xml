@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010---han-var-verdensber.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5dLBk/-Han-var-verdensberomt-i-Bergen" frk="32 0 0 189 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Han var verdensberømt i Bergen</div>
+<div type="ingress">– Klaus Hanssen gjorde utrolig mye for sin fødeby Bergen og for nasjonen Norge. Derfor vil vi trekke ham frem i lyset, sier Jo Gjerstad.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

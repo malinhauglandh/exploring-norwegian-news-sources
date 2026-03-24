@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190707-folkekjar-teikneseri.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/pLVeVj/Folkekjar-teikneserie-star-opp-fra-dei-dode" frk="25 0 0 168 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-07 12:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="varg veum,egmont,tegneserie"/>
+<attribute name="language" value="nno"/>
+</header>
+<body>
+<div type="title" level="1">Folkekjær teikneserie står opp frå dei døde</div>
+<div type="ingress">Fantomet møter Varg Veum i Bergen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kjell Steen har leia norske Fantomet-fans i ei årrekkje. Anders Minge</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190618-stales-hytte-i-bodo-.xml"/>
+<attribute name="url" value="http://www.nordlys.no/bodo/bolig/hytte/stales-hytte-i-bodo-selges-som-en-av-landets-billigste-det-er-kun-n-hake/s/5-34-1144136" frk="16 0 0 94 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-18 23:14"/>
+<attribute name="author" value="Fredrik Stenbro"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ståles hytte i Bodø selges som en av landets billigste. Det er kun én hake</div>
+<div type="ingress"></div>
+<div type="author">Av Fredrik Stenbro</div>
+<div type="date">18. juni 2019, kl. 23:14</div>
+<div type="caption"></div>
+</body></document>

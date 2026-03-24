@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190905---vi-kjenner-mange-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/oplmwW/-Vi-kjenner-mange-som-onsker-a-bo-som-oss_-men-som-ikke-far-det-til" frk="49 0 0 277 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-05 06:03"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kommunevalg 2019,Familie,Bergen,biler,Barn,Sykkel,Valg 2019"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Vi kjenner mange som ønsker å bo som oss, men som ikke får det til</div>
+<div type="ingress">Ina Grung lever midt i sentrum med mann og tre barn.</div>
+<div type="author"></div>
+<div type="date">2019-09-05</div>
+<div type="caption"><p>MINSTEMANN: Først da Ina Grung og ektemannen fikk utvidet sentrumsleiligheten sin, gikk de inn for barn nummer tre. FOTO: Jannica Luoto</p></div>
+</body></document>

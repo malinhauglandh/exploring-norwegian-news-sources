@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190321-boeing-krevde-ekstra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/aw25X5/Boeing-krevde-ekstra-betalt-for-utstyr-som-kunne-hindret-styrt" frk="407 6 16 2449" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-21 19:31"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boeing krevde ekstra betalt for utstyr som kunne hindret styrt</div>
+<div type="ingress">Boeing 737 MAX 8-flyene som styrtet i Indonesia og Etiopia, manglet viktige sikkerhetssystemer som flyprodusenten har krevd ekstra betalt for.</div>
+<div type="author">NTB</div>
+<div type="date">21. mars 2019 19:31</div>
+<div type="caption"><p>Et Boeing 737 MAX 8-fly parkert på Boeing Field i Seattle. Foto: Ted S. Warren / AP / NTB scanpix</p></div>
+<div type="text">
+<p>En rekke flyselskaper har kjøpt 737 MAX 8-fly fra Boeing, men flere av dem har ikke tatt seg råd til å utstyre flyene med ekstrautstyr som kan forhindre ulykker, skriver The New York Times.</p>
+<p>Indonesiske Lion Air er ett av dem, Ethiopian Airlines et annet. Årsaken til at fly fra de to selskapene styrtet rett etter avgang, er ikke fastslått med sikkerhet, men mye tyder på feil ved datasystemet eller sensorer som skal forhindre flyene fra å steile.</p>
+<p>Når det såkalte MCAS-systemet oppdager at flyet steiler faretruende, sørger det automatisk for å tvinge nesa på flyet nedover. Dette kan ha skjedd ved en feil i begge de to ulykkene.</p></div>
+<div type="title" level="3">Kunne forhindret styrt</div>
+<div type="text">
+<p>Boeing har tilbudt ekstrautstyr som kunne ha forhindret dette fra å skje, blant annet en innretning som sørger for at det går en alarm dersom det er avvik mellom de to sensorene som skal lese av vinkelen på flyet.</p>
+<p>En kilde med kjennskap til 737 MAX 8-flyene opplyste torsdag til Financial Times at Boeing nå skal installere slike innretninger i cockpiten på alle fly av denne typen, både de som alt er tatt i bruk og de som skal produseres.</p>
+<p>Boeing har også varslet programvareoppdatering i flyene, men vil ikke kommentere avisens opplysninger.</p></div>
+<div type="title" level="3">Stoler ikke på</div>
+<div type="text">
+<p>Canadiske og europeiske luftfartsmyndigheter stoler ikke helt på at Boeing vil gjøre det som er nødvendig, og vil heller ikke overlate til USAs luftfartsmyndighet FAA å kontrollere dette. FAA hadde i utgangspunktet godkjent flyene som nå er satt på bakken.</p>
+<p>– Vi skal se svært, svært nøye på endringene som Boeing og FAA legger fram for å rydde opp. Jeg kan garantere at vi fra vår side ikke vil tillate flytypen å være på vingene hvis vi ikke får tilfredsstillende svar på alle våre spørsmål, uansett hva FAA foretar seg, sier den europeiske luftfartsmyndigheten EASAs leder Patrick Ky.</p>
+<p>Canadas samferdselsminister Marc Garneau har samme budskap:</p>
+<p>– Når programvareendringen er klar innen noen uker, skal vi i Canada, selv om den blir sertifisert av FAA, foreta vår egen sertifisering, sier han.</p>
+<p>Dermed bryter Canada og Europa med praksisen om at man godtar sertifisering foretatt i landet der flyene produseres.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190902-bitcoins-norge-med-m.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/okonomi/i/GGeLJx/Bitcoins-Norge-med-millionunderskudd" frk="58 22 9 396 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-02 11:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bitcoins Norge med millionunderskudd</div>
+<div type="ingress">Etter skatt endte årsresultatet for Bitcoins Norge i 2018 med et underskudd på 2,4 millioner kroner. Året før hadde selskapet et overskudd på 2,8 millioner.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kryptoverdier for over 4 millioner kroner gikk tapt i det som beskrives som flere alvorlige dataangrep mot en av Bitcoins Norges underleverandører. Foto: Gorm Kallestad / NTB scanpix</p></div>
+</body></document>

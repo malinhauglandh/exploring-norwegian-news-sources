@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191025-en-smak-av-smilets-l.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/8mW352/en-smak-av-smilets-land" frk="31 0 0 178 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-25 12:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="restaurantanmeldelse,spise ute,thailand"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">En smak av Smilets Land</div>
+<div type="ingress">SPISE UTE: Daran Thai på Løkkeveien byr på mat som serveres med et stort smil. Og maten er slett ikke verst, den heller.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Jarle Aasland</p></div>
+</body></document>

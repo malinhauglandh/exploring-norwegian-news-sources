@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190919-pa-nattbordet-espen-.xml"/>
+<attribute name="url" value="http://www.dn.no/pa-nattbordet/espen-bjaarstad/nattbordet/pa-nattbordet/pa-nattbordet-espen-bjaarstad/2-1-672939" frk="24 0 0 162 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-19 17:45"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="pa-nattbordet,espen-bjaarstad,nattbordet,pa-nattbordet"/>
+<attribute name="class2" value="Etterbørs,På nattbordet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">På nattbordet: Espen Bjaarstad</div>
+<div type="ingress">Espen Bjaarstad har en bra svoger. Espen Bjaarstad har en bra svoger.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-09-19 17:45</div>
+<div type="caption">Espen Bjaarstad er daglig leder i Netlab. </div>
+<div type="text">
+</div></body></document>

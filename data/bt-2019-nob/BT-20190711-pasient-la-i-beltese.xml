@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190711-pasient-la-i-beltese.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5jVpB/Pasient-la-i-belteseng-i-syv-dogn" frk="57 5 2 352 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-11 15:09"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sandviken,Helse Bergen,Sivilombudsmannen,Psykisk helse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Pasient lå i belteseng i syv døgn</div>
+<div type="ingress">I påvente av plass på sikkerhetsavdelingen, ble en pasient liggende i belteseng på Sandviken i syv døgn.</div>
+<div type="author"></div>
+<div type="date">2019-07-11</div>
+<div type="caption"><p>REIMET FAST: I en slik seng har 35-åringen vært spent fast sammenhengende i syv døgn. Advokaten hans og pårørende er opprørt. Dette bildet er fra et av akuttmottakene. FOTO: Geir Martin Strande</p></div>
+</body></document>

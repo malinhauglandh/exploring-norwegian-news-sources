@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190326-slurv-i-medisinsk-fo.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/6j398r/Slurv-i-medisinsk-forskning--Simen-Gaure" frk="566 1 5 3854"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-26 06:15"/>
+<attribute name="author" value="Simen Gaure"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="uviten,debatt,viten,forskning og vitenskap,medisin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slurv i medisinsk forskning | Simen Gaure</div>
+<div type="ingress">Et viktig tiltak for å forhindre overdrivelser og feilaktige funn i medisinsk forskning blir ikke fulgt opp av medisinske tidsskrifter.</div>
+<div type="author">Simen Gaure</div>
+<div type="date">26. mars 2019 07:15</div>
+<div type="caption"><p>FOTO: Shutterstock / NTB scanpix</p> <p>Simen Gaure er forsker ved Frischsenteret og Uviten-spaltist i Aftenposten.</p></div>
+<div type="text">
+<p>I Uviten skriver Nina Kristiansen, Atle Fretheim, Marit Simonsen og Simen Gaure hver uke om det de mener er dårlig forskning, flau formidling, kunnskapsløse politiske forslag og ren fusk.</p>
+<p>En av forskningens arbeidshester er signifikanstester. Når man gjør et utvalg av befolkningen, enten det er meningsmålinger, pasienter eller arbeidsledige, er det alltid en mulighet for at utvalget blir skjevt.</p>
+<p>Selv hvis man trekker tilfeldig kan utvalget bli skjevt, helt tilfeldig. En signifikanstest angir sannsynligheten for at resultatet man får, skyldes tilfeldig skjevhet ved utvalget snarere enn et faktisk fenomen i befolkningen.</p>
+<p>Morten Uglum</p></div>
+<div type="title" level="3">Feiltolkninger</div>
+<div type="text">
+<p>Det er flere problemer med signifikanstester. Det ene er at de forutsetter at utvalget er gjort tilfeldig, eller i det minste uavhengig av det man undersøker. Det andre er at ikke alle forskere forstår hva en signifikanstest er, det er bare et tall som kommer ut av EDB-maskinen. Hvis tallet er mindre enn 0,01 er resultatet riktig, ellers er det feil. En som er bevandret i statistikk vil raskt kunne korrigere slike feiltolkninger av signifikanstester.</p>
+<p>Problemer med tilfeldige utvalg er vanskeligere å håndtere. For eksempel kan det hende at man underveis i et forskningsprosjekt oppdager at preparatet man undersøker ikke ser ut til å virke så godt på depresjon som det er ment for, men desto bedre på høyt blodtrykk. Da er det fristende å endre på prosjektet og rapportere effekten på blodtrykk istedenfor på depresjon.</p></div>
+<div type="title" level="3">Vanskeligere å skifte fokus</div>
+<div type="text">
+<p>Problemet er at da er ikke lenger signifikanstestene gyldige. Hvis man gjør endringer underveis basert på foreløpige resultater, bør man også utføre en signifikanstest for «multiple sammenligninger» eller andre justeringer som statistikere foreskriver, men det gjøres sjelden i slike tilfeller.</p>
+<p>For å bøte på dette problemet, har man innført forhåndsregistrering for medisinsk forskning. Man må registrere prosjektet i en database på forhånd og beskrive hva som skal undersøkes og hvordan. I teorien blir det da vanskeligere å skifte fokus og få tvilsomme signifikanstester.</p></div>
+<div type="title" level="3"> Får noen vite det?</div>
+<div type="text">
+<p>Lege og forsker Ben Goldacre har i flere år påpekt problemer med medisinsk forskning. En av kjepphestene har nettopp vært forhåndsregistrering. Sjekker tidsskriftene forhåndsregistreringen, og hva hvis man forandrer på oppsettet til tross for registreringen? Får noen vite det? Med flere andre publiserte han i februar en undersøkelse i tidsskriftet «Trials» av hvordan det håndteres når forskning publisert i topptidsskrifter avviker fra forhåndsregistreringen uten at det opplyses om.</p>
+<p>De gjennomgikk 67 undersøkelser i fem topptidsskrifter og sendte brev med lister over avvik de fant, med rettelser, og analyserte responsen. Noen tidsskrifter publiserte øyeblikkelig brevene online, andre ignorerte dem. Noen redaktører hadde feiloppfatninger om hvilke regler som gjaldt og om forhåndsregistrering i sin alminnelighet. Det virket ikke som det var så nøye. Et flertall av avviksmeldingene forble upublisert.</p></div>
+<div type="title" level="3"> Nedslående lesning</div>
+<div type="text">
+<p>Alt i alt er det nedslående lesning. Artikler i topptidsskriftene kan ha svært stor innflytelse på praktisk medisin i hele verden. Hvis resultater der er oppblåst, nedtonet eller unøyaktige uten mulighet for korreksjon, kan det få dramatiske konsekvenser for pasienter.</p>
+<p>Heldigvis er helsemyndigheter forsiktige med anbefalinger basert på enkeltundersøkelser, men like fullt er Goldacres funn et tankekors. Vi får håpe det medisinske miljøet tar problemene på alvor og innfører bedre kontroll i publikasjonsprosessen.</p></div></body></document>

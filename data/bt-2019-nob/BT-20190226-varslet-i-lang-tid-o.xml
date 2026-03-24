@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190226-varslet-i-lang-tid-o.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/L0V6GP/Varslet-i-lang-tid-om-farlige-feil" frk="61 0 0 373 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-26 20:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bystyret,Helsehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Varslet i lang tid om farlige feil</div>
+<div type="ingress">– Vi visste at journalsystemet var tungvint, men ikke at det er uforsvarlig, sa byråden. Men ansatte på Helsehuset har varslet i lang tid.</div>
+<div type="author"></div>
+<div type="date">2019-02-26</div>
+<div type="caption"><p>VISSTE IKKE: Byråd Rebekka Ljosland sa i komité for helse og sosial at hun ikke tidligere var varslet om uforsvarlige tjenester på grunn av journalsystemet. FOTO: Bard Boe (arkiv)</p></div>
+</body></document>

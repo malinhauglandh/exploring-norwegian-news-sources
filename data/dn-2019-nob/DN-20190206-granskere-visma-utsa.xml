@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190206-granskere-visma-utsa.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/reuters-visma-hacket-av-kinesisk-etterretning/2-1-537093" frk="504 2 10 3357"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-06 16:19"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Granskere: Visma utsatt for datainnbrudd av kinesisk etterretning</div>
+<div type="ingress">For to dager siden sa den kinesiske ambassaden at Kina respekterer Norges «suverenitet og nasjonale sikkerhet». Nå avslører granskere omfattende cyberangrep på norske Visma. For to dager siden sa den kinesiske ambassaden at Kina respekterer Norges «suverenitet og nasjonale sikkerhet». Nå avslører granskere omfattende cyberangrep på norske Visma.</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-02-06 16:19</div>
+<div type="caption">Visma er ifølge Reuters blitt hacket av kinesisk etterretning. (Foto: Grøtt, Vegard Wivestad/NTB Scanpix) </div>
+<div type="text">
+<p>Det norske programvareselskapet Visma skal ha vært et av minst tre selskaper som har blitt angrepet i et omfattende cyberangrep fra kinesisk etterretning.</p>
+<p>Det melder Visma i en pressemelding. Reuters omtalte saken først.</p></div>
+<div type="title" level="3">Statsfinansiert hackergruppe</div>
+<div type="text">
+<p>Det amerikanske cybersikkerhetsselskapet Recorded Future mener det har avdekket en datainnbruddskampanje mot amerikanske og europeiske selskaper utført av den statsfinansiert kinesiske hackergruppen APT10.</p>
+<p>Gruppen skal ha peilet seg inn på minst tre selskaper i USA og Europa i perioden november 2017 til september 2018.</p>
+<p>Visma bekrefter at selskapet var et av dem som ble angrepet.</p></div>
+<div type="title" level="3">Ingen kunder er rammet</div>
+<div type="text">
+<p>Det norske programvareselskapet sier angrepet først ble oppdaget av deres egne systemer og bekrefter at ingen av deres kunder er blitt rammet på noen som helst måte.</p>
+<p>Vismas sikkerhetssjef Espen Johansen sier til Reuters at han er sikker på at ingen av kundenes nettverk ble rammet.</p>
+<p>– Men hvis jeg tar på meg min «paranoidhatt» kunne dette ha vært katastrofalt. Hvis du er et stort etterretningsbyrå et eller annet sted i verden og du vil hente ut så mye informasjon som mulig, så går du selvfølgelig for punktene der alt sammenfaller, det er klart, sier Johansen til Reuters.</p>
+<p>Han sier videre at Visma har kunder som er veldig interessante for andre land.</p></div>
+<div type="title" level="3">Kinas ambassade: Tar avstand fra cyberspionasje</div>
+<div type="text">
+<p>Mandag la PST frem sin årlige trusselvurdering. Der var Kina høyt på agendaen.</p>
+<p>PST-sjef Benedicte Bjørnland sa at etterretningstrykket mot Norge fra fremmede stater er økende. Det gjelder spesielt datanettverksoperasjoner, og Bjørnland advarte blant annet mot Kina og mobil- og telekomselskapet Huawei.</p>
+<p>Hun advarte også mot det kinesiske mobil- og telekomselskapet Huawei.</p>
+<p>– Kinas etterretningslov pålegger for eksempel både private og kommersielle aktører å samarbeide med nasjonen når den ønsker det, sa PST-sjefen.</p>
+<p>Samme dag uttalte den kinesiske ambassaden i Norge at Kina alltid respekterer Norges suverenitet og nasjonale sikkerhet, og aldri blandet seg i norsk innenrikspolitiske saker.</p>
+<p>Ambassaden sa den konsekvent tar avstand fra cyberspionasje, at det ikke er noen interessekonflikter mellom Kina og Norge og at Kina ikke utgjør en trussel for Norges sikkerhet.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p></div>
+<div type="title" level="3">Kontakt med PST</div>
+<div type="text">
+<p>Etter at Visma selv hadde oppdaget angrepet tok det kontakt med Recorded Future for å grave dypere i cyberangrepet. I pressemeldingen skriver selskapet at det valgte å ikke varsle om hackingen før man hadde endelig bevis på hvem som utførte innbruddet.</p>
+<p>Visma skal ha vært i kontakt med, og fått råd og veiledning, av Nasjonalt sikkerhetsråd og PST.</p>
+<p>– Som en tommelfingerregel rapporterer vi alltid inn cyberangrep til politiet. Det er vårt ansvar som et selskap og vårt ansvar overfor kundene våre, sier Johansen i pressemeldingen.</p></div></body></document>

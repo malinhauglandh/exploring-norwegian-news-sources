@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190727-kunstner-killi-olsen.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/xP7bmn/Kunstner-Killi-Olsen-bor-alene-med-hunden-sin-pa-en-gard-med-19-hus-Det-er-sann-han-vil-ha-det" frk="41 16 4 238 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-27 14:04"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstner Killi Olsen bor alene med hunden sin på en gård med 19 hus. Det er sånn han vil ha det</div>
+<div type="ingress">Kunstner Kjell Erik Killi Olsen foretrekker store hjem. For tiden betyr det 19 hus på en middelaldergård i Gudbrandsdalen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

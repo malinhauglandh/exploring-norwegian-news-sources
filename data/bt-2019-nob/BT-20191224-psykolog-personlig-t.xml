@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191224-psykolog-personlig-t.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mLqBG/Psykolog-Personlig-trener-Nei-takk_-jeg-har-Ulriken" frk="30 10 2 182 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-24 06:24"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Psykolog? Personlig trener? Nei takk, jeg har Ulriken.</div>
+<div type="ingress">Dag 24: Ulriken</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 24. desember 2019 06:24</div>
+<div type="caption"><p>JULEKALENDER: Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

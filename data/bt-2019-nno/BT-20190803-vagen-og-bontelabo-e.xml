@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190803-vagen-og-bontelabo-e.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GGeJ7m/Vagen-og-Bontelabo-er-eit-populart-omrade-for-fiske-Forskar-meiner-det-er-nokre-typar-fisk-ein-bor-halde-seg-langt-unna" frk="43 0 0 265 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-03 13:39"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Fisk,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vågen og Bontelabo er eit populært område for fiske. Forskar meiner det er nokre typar fisk ein bør halde seg langt unna.</div>
+<div type="ingress">Les kva for typar her.</div>
+<div type="author"></div>
+<div type="date">2019-08-03</div>
+<div type="caption"><p>BONTELABO: Ved sida av cruiseskipa ved Bontelabo prøvar Josef Jon Jolina fiskelykka. FOTO: Tor Høvik</p></div>
+</body></document>

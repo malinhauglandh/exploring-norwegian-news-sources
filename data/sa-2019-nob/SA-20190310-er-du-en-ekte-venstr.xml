@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190310-er-du-en-ekte-venstr.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/innenriks/i/oRjk4j/Er-du-en-ekte-Venstre-velger" frk="26 0 0 161 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-10 10:01"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value="venstres landsmøte,venstre (v)"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Er du en ekte Venstre-velger?</div>
+<div type="ingress">Velgerne svikter Venstre. Vet du hva de står for? Kan det ligge en gjemt Venstre-velger i dag? Ta denne testen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

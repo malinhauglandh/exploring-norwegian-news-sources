@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190314-denne-jenten-har-ins.xml"/>
+<attribute name="url" value="http://junior.bt.no/nyheter/i/m6Xedl/Denne-jenten-har-inspirert-flere-tusen-barn-til-a-streike" frk="27 0 0 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-14 11:40"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne jenten har inspirert flere tusen barn til å streike</div>
+<div type="ingress">Det er ventet flere tusen på Torgallmenningen i ettermiddag.</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">14.mar.2019 11:40</div>
+<div type="caption"><p>Greta Thunberg, klimaaktivist.</p> <p>Hvem er Greta Thunberg?</p></div>
+</body></document>

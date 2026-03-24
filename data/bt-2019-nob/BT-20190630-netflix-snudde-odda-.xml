@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190630-netflix-snudde-odda-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/BRz6gE/Netflix-snudde-Odda-pa-hodet" frk="37 16 4 241 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Netflix snudde Odda på hodet</div>
+<div type="ingress">«Vi trenger 15 bunadskledde folk i alle aldre til et 17. mai tog i morgen». Slike ønsker er blitt dagligdagse i Odda etter at strømmegiganten Netflix flyttet inn med dramasatsingen «Ragnarok».</div>
+<div type="author"></div>
+<div type="date">2019-06-30</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190416-tirsdag-far-flybusse.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/RR5jpr/Tirsdag-far-Flybussen-helt-nye-stopp-i-sentrum" frk="54 6 2 311 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-16 11:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kollektivtransport,Buss"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tirsdag får Flybussen helt nye stopp i sentrum</div>
+<div type="ingress">Skal du ta Flybussen etter påske? Da bør du lese denne saken.</div>
+<div type="author"></div>
+<div type="date">2019-04-16</div>
+<div type="caption"><p>BLIR STENGT En flybuss i Olav Kyrres gate for noen år siden. Fra tirsdag 23. april må alle busser, også flybusser, finne en annen rute. Det får store konsekvenser. FOTO: Tide Buss AS</p></div>
+</body></document>

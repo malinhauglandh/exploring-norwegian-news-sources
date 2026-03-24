@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190404---en-dramatisk-utvik.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wPrVx4/-En-dramatisk-utvikling" frk="67 10 4 385 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-04 22:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen kommune,Helsestasjon,Fastlegene,Legeforeningen,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– En dramatisk utvikling</div>
+<div type="ingress">For første gang er det under én prosent ledige plasser hos byens fastleger. Rajendiran Kada er nå den eneste som har plass til over 2000 pasienter.</div>
+<div type="author"></div>
+<div type="date">2019-04-04</div>
+<div type="caption"><p>FULLTIDSDOKTOR: – Jeg har ingen andre oppgaver enn å være fastlege og er på kontoret fem dager i uken. Da er det ikke noe problem å ha såpass lang liste, sier Rajendiran Kada. FOTO: Rune Sævig</p></div>
+</body></document>

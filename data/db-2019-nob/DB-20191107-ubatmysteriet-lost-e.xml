@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191107-ubatmysteriet-lost-e.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/ubatmysteriet-lost-etter-77-ar/71792211" frk="53 42 14 328 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-07 20:49"/>
+<attribute name="author" value="Hans-Martin Thømt Ruud"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ubåtmysteriet løst etter 77 år</div>
+<div type="ingress">Ubåten forsvant på mystisk vis i 1942. Nå er den dukket opp igjen. Funnet avdekker 44 skjebner og en kjærlighetshistorie.</div>
+<div type="author">Hans-Martin Thømt Ruud</div>
+<div type="date">2019-11-07</div>
+<div type="caption"><p>FUNNET: «HMS Urge» tjenestegjorde i Middelhavet, men forsvant på mystisk vis i 1942. Nå er det funnet, 77 år etter. Foto: National Museum of the Royal Navy</p></div>
+</body></document>

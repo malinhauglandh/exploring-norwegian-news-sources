@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190207-norwegian-tapte-stor.xml"/>
+<attribute name="url" value="http://www.dn.no/luftfart/norwegian/bank-norwegian/danske-bank/norwegian-tapte-stort-pa-bank-norwegian-veddemal/2-1-538368" frk="163 16 18 1106"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-07 15:52"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="luftfart,norwegian,bank-norwegian,danske-bank"/>
+<attribute name="class2" value="Nyheter,Luftfart"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norwegian tapte stort på Bank Norwegian-veddemål</div>
+<div type="ingress">I 2017 inngikk Norwegian aksjebytteavtaler med Danske Bank. Det gikk ikke bra. I 2017 inngikk Norwegian aksjebytteavtaler med Danske Bank. Det gikk ikke bra.</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-02-07 15:52</div>
+<div type="caption">Konsernsjef Bjørn Kjos, til høyre, og styreleder Bjørn H. Kise i Norwegian. (Foto: Gunnar Lier) </div>
+<div type="text">
+<p>Norwegian solgte i to omganger i 2017 unna store mengder aksjer i Bank Norwegian.</p>
+<p>Flyselskapet innkasserte mange hundre millioner kroner fra aksjesalgene, men inngikk samtidig såkalte TRS-avtaler (Total Return Swap) med Danske Bank.</p>
+<p>I praksis solgte dermed Norwegian store aksjeposter i Bank Norwegian, samtidig som det inngikk en tidsavgrenset avtale der det beholdt den økonomiske eksponeringen for aksjene. I perioden frem til TRS-avtalen forfaller, betaler Norwegian en liten rente for å ha den økonomiske eksponeringen i aksjene, men uten at de har stemmerett for aksjene.</p></div>
+<div type="title" level="3">Slik gikk veddemålet</div>
+<div type="text">
+<p>Nå er fasiten for veddemålet klar.</p>
+<p>Da TRS-avtalene utløp i desember i fjor hadde aksjekursen på Bank Norwegian-aksjene falt 24 prosent siden avtalene først ble inngått i desember 2017.</p></div></body></document>

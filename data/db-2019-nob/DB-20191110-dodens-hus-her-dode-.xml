@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191110-dodens-hus-her-dode-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/magasinet/dodens-hus-her-dode-17-nordmenn/71745081" frk="68 19 8 404 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-10 20:59"/>
+<attribute name="author" value="Thomas Karlsen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="magasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dødens hus: Her døde 17 nordmenn</div>
+<div type="ingress">I dette huset døde 17 norske fangstmenn vinteren 1873. Av ... latskap? Slik fant de årsaken.</div>
+<div type="author">Thomas Karlsen</div>
+<div type="date">2019-11-10</div>
+<div type="caption"><p>I ET stort, ØDE LANDSKAP: Svenskhuset på Kapp Thordsen på Svalbard, slik det ser ut i dag.. I forgrunnen sees et smalsporet skinnespor, som ble lagt for å frakte proviant og utstyr opp til huset da man planla å bygge gruvekoloni i Isfjorden på begynnelsen...</p></div>
+</body></document>

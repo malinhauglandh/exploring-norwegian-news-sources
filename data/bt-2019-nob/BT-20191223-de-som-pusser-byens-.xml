@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191223-de-som-pusser-byens-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/aw0lwA/De-som-pusser-byens-juveler" frk="28 12 2 160 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-23 11:32"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De som pusser byens juveler</div>
+<div type="ingress">Dag 23: Gamle trehus</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 23. desember 2019 11:32</div>
+<div type="caption"><p>JULEKALENDER: Det er mange grunner til å elske Bergen. I dagens luke kan du høre én av dem.</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191228-skrablikk-her-er-are.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/1nzdWQ/Skrablikk-Her-er-arets-Brann-lag-2020" frk="16 66 8 121 ## %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-28 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skråblikk: Her er årets Brann-lag 2020</div>
+<div type="ingress">BT-kommentator Anders Pamer oppsummerer 2019 med glimt i øyet.</div>
+<div type="author"></div>
+<div type="date">2019-12-28</div>
+<div type="caption"></div>
+</body></document>

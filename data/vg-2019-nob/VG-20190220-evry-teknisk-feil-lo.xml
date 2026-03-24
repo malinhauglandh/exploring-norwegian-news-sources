@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190220-evry-teknisk-feil-lo.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/l1q1nL/evry-teknisk-feil-loest" frk="159 7 8 1019"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-02-20 12:09"/>
+<attribute name="author" value="Lone Lohne, Jenny-Linn Lohne"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Evry: Teknisk feil løst</div>
+<div type="ingress">IT-selskapet Evry melder at de har rettet en teknisk feil som berørte flere kunder, deriblant Posten og apotekene.</div>
+<div type="author">Lone Lohne, Jenny-Linn Lohne</div>
+<div type="date">20.02.19 13:09 Oppdatert: 20.02.19 14:27</div>
+<div type="caption"><p>FEIL: Evry jobber med å løse teknisk feil onsdag. Foto: Larsen, Håkon Mosvold / NTB scanpix</p></div>
+<div type="text">
+<p>Klokken 13.45 ble feilen rettet og systemet er oppe igjen, ifølge Evry .</p>
+<p>– Det er ikke mulig å si noe om rotårsaken som utløste dette, sier Eliese Lausten Døvle, leder for eksternkommunikasjon, til VG.</p>
+<p>Klokken 11.25 onsdag oppstod feilen som rammet flere kunder. Dette førte til en forstyrrelse i nettverkstilkoblingen.</p></div>
+<div type="title" level="3">Problemer med e-resept</div>
+<div type="text">
+<p>Feilen førte blant annet til problemer med e-resept-systemet, som gjorde at apotekene ikke kunne ekspedere resepter elektronisk.</p>
+<p>Feilen skal imidlertid ikke ha gått ut over pasientsikkerheten, da leger kan gi resepter manuelt og apotek har rutiner for nødekspedering ved behov.</p>
+<p>Pressesjef John Eckhoff bekrefter til VG at også Posten Norge ble rammet av feilen, som kunne føre til problemer med å få utlevert og sende pakker.</p></div></body></document>

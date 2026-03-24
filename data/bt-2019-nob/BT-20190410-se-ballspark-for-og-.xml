@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190410-se-ballspark-for-og-.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/vQrMbm/Se-Ballspark-for-og-etter-kampen" frk="17 33 4 121 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-10 22:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Ballspark,SK Brann"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se Ballspark før og etter Brann-kampen</div>
+<div type="ingress">Brann møter Kristiansund 18.30. Ballspark går på før og etter.</div>
+<div type="author"></div>
+<div type="date">2019-04-10</div>
+<div type="caption"></div>
+</body></document>

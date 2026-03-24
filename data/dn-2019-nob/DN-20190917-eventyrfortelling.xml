@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190917-eventyrfortelling.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/eventyrfortelling/2-1-673443" frk="47 14 4 285 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-17 18:00"/>
+<attribute name="author" value="DN Leder"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Eventyrfortelling</div>
+<div type="ingress">Et industrieventyr kan bygges opp på flytende havvind på sokkelen forutsatt at «vi går i gang nå», sier Arvid Nesse i Norwegian Offshore Wind Cluster til Aftenposten. Og grunnen til at det er et eventyr, er at det ikke vil bli lønnsomt før i 2035.</div>
+<div type="author">DN Leder</div>
+<div type="date">2019-09-17 18:00</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

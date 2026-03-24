@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-forfatter-jon-fosse-.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/OpqvWO/forfatter-jon-fosse-er-tilbake-med-en-bok-paa-over-1000-sider-uten-ett" frk="46 20 6 291 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value="Alkohol,Bøker,Den katolske kirke,Jon Fosse,Kultur,Litteratur,Religion,Roman"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Forfatter Jon Fosse er tilbake med en bok på over 1000 sider. Uten ett eneste punktum.</div>
+<div type="ingress">Etter Jon Fosses farvel med teateret, reisingen og alkoholen, vender den 60 år gamle småbarnsfaren edru tilbake med en gedigen roman skrevet uten et eneste punktum.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"><p>FOTO: Tor Stenersen</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190112-stor-oversikt-her-fi.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/bolig/Stor-oversikt-Her-finner-du-de-billigste-eneboligene-i-ditt-fylke-12324b.html" frk="41 0 0 281 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-12 13:00"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value="norges eiendomsmeglerforbund,prognosesenteret,gjeld,eiendom,eiendom norge,boligpriser,carl o. geving,bolig,oslo,boligmarkedet,webview,økonomi,vardø,boligprisstatistikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor oversikt: Her finner du de billigste eneboligene i ditt fylke</div>
+<div type="ingress">Dette er Norges billigste nabolag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>BILLIGST: Søndre Nordstrand i Oslo, Suldal i Rogaland og Odda i Hordaland er blant de billigste områdene i landet. Cornelius Poppe/Vidar Ruud/Jan Gunnar Furuly</p></div>
+</body></document>

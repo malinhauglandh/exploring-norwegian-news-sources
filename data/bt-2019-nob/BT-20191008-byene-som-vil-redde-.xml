@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191008-byene-som-vil-redde-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/BRnr09/Byene-som-vil-redde-klimaet" frk="36 0 0 239 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-08 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Byene som vil redde klimaet</div>
+<div type="ingress">Et nettverk av verdens største byer skal denne uken møtes i København for å lage klimaavtaler uten sine regjeringer. Miljøorganisasjoner roser byene for å gjøre det som regjeringene ikke vil.</div>
+<div type="author"></div>
+<div type="date">2019-10-08</div>
+<div type="caption"></div>
+</body></document>

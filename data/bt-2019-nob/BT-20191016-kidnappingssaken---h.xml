@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191016-kidnappingssaken---h.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LAdB4Q/Kidnappingssaken--Han-sa-han-hadde-en-jente-som-skulle-hjelpe" frk="40 9 2 222 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-16 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kidnappingssaken: – Han sa han hadde en jente som skulle hjelpe</div>
+<div type="ingress">Først hevdet 25-åringen at han selv ble bortført. Så sa han at han ble truet til å være med på kidnapping og brakte en ung kvinne i saken.</div>
+<div type="author"></div>
+<div type="date">2019-10-16</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190806-kokevarselet-pa-asko.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BRmPbG/Kokevarselet-pa-Askoy-opprettholdes-til-torsdag" frk="34 0 0 223 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-06 05:36"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Askøy,E.coli-bakterien,Vann og avløp"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kokevarselet på Askøy opprettholdes til torsdag</div>
+<div type="ingress">Kommunen vil ta flere prøver.</div>
+<div type="author"></div>
+<div type="date">2019-08-06</div>
+<div type="caption"><p>TRYGT VANN: Askøyværinger på Kleppe må fortsette å hente vann i dunkene som er utplassert på skoler i området. FOTO: Bård Bøe</p></div>
+</body></document>

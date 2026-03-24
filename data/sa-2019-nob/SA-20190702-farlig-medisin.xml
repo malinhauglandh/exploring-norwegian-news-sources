@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190702-farlig-medisin.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/K3L0xy/Farlig-medisin" frk="31 5 1 200 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-02 11:41"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="hodepine-quiz,hodepine-quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Farlig medisin</div>
+<div type="ingress">Hodepine 7: En av årets journaliststudenter som har hatt praksis i Aftenbladet, har levert denne oppgaven. Den er blitt en av mine favoritter, men den er ikke enkel.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

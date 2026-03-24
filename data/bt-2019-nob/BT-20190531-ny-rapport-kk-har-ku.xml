@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190531-ny-rapport-kk-har-ku.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BRwpEl/Ny-rapport-KK-har-kuttet-mest" frk="52 0 0 356 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-31 07:26"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Helse Bergen,Stavanger,Barsel,Fødsel,Trondheim"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny rapport: KK har kuttet mest</div>
+<div type="ingress">Kvinneklinikken på Haukeland leverer billigere fødsler og sender barselkvinner tidligere hjem enn sykehusene i Stavanger og Trondheim.</div>
+<div type="author"></div>
+<div type="date">2019-05-31</div>
+<div type="caption"><p>RASKT UT: Etter en natt på familierom er de tre klare for hjemreise. Marita van der Meeren og Raimond Alexander Danielsen beundrer vesle Odin Alexander. FOTO: Ørjan Deisz</p></div>
+</body></document>

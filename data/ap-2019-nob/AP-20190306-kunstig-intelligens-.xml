@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190306-kunstig-intelligens-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/vmqAWj/Kunstig-intelligens-skriver-sa-godt-at-utviklerne-ikke-tor-slippe-den-los" frk="146 3 3 912"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-06 13:39"/>
+<attribute name="author" value="Per Kristian Bjørkeng"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="teknologi,kunstig intelligens,falske nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstig intelligens skriver så godt at utviklerne ikke tør slippe den løs</div>
+<div type="ingress">Robotens tekster er så troverdige at de kunne vært skrevet av mennesker. Nå frykter utviklerne selv at den kan bli misbrukt til å skrive falske nyheter.</div>
+<div type="author">Per Kristian Bjørkeng</div>
+<div type="date">06.mar.2019 14:39</div>
+<div type="caption"><p>FOTO: Microstock AI-modellen brukte svære datamaskiner til å lære seg mønstrene i 30 millioner sider med tekst fra internett. Deretter klarte den å skape lange tekster som til forveksling ligner noe som er skrevet av mennesker.</p></div>
+<div type="text">
+<p>Hva om du ikke kunne være sikker på om hvorvidt tekstene du leste, var skrevet av et menneske eller av en algoritme?</p>
+<p>Forskningsstiftelsen OpenAI ble grunnlagt ved hjelp av 1 milliard dollar fra blant andre Tesla-sjef Elon Musk. Nå har stiftelsens forskere trent et dataprogram til å formulere troverdige tekster som er både trakasserende, fordomsfulle og uriktige. Derfor vil de ikke slippe algoritmen ut i det fri, slik de normalt gjør.</p></div></body></document>

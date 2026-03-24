@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191025-sr-banks-robot-svare.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/article/sa-7rGBV.html" frk="44 16 5 311 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-25 12:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="article"/>
+<attribute name="class2" value="gründere,sparebank 1 sr-bank,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">SR-banks robot svarer på 3000 spørsmål i uken</div>
+<div type="ingress">Sparebank 1 SR-bank jobbet med å implementere robotteknologi for kontakt med bankkundene. Gjennom Boost AI fant selskapet løsningen. – Det selskapet er en solskinnshistorie, sier bankdirektør.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Slik kan et spørsmål bli besvart av «Banki». SR-bank</p></div>
+</body></document>

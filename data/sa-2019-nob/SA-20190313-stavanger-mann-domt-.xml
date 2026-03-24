@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190313-stavanger-mann-domt-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/ddxjm1/Stavanger-mann-domt-for-grov-voldtekt-av-barn" frk="28 11 2 168 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-13 09:02"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="overgrep,gulating lagmannsrett,voldtekt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stavanger-mann dømt for grov voldtekt av barn</div>
+<div type="ingress">Flere ganger i en periode på et halvt år forgrep domfelte seg på en 10 år gammel gutt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Pål Christensen</p></div>
+</body></document>

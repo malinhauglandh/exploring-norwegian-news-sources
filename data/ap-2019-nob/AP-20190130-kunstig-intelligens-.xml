@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190130-kunstig-intelligens-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/3jAqm0/Kunstig-intelligens-avslorte-Lanekassen-juks" frk="237 15 24 1575"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-30 13:30"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="arbeidsmarkedet,lånekassen,kunstig intelligens"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstig intelligens avslørte Lånekassen-juks</div>
+<div type="ingress">Lånekassen har for første gang brukt kunstig intelligens for å velge ut studenter til bokontroll. Det ga dobbelt så mange avsløringer av juks.</div>
+<div type="author">NTB</div>
+<div type="date">30. jan. 2019 14:30</div>
+<div type="caption"><p>FOTO: Thomas Brun / NTB scanpix Kun studenter som ikke bor sammen med foreldrene sine, kan få omgjøring av lån til stipend. Illustrasjonsfoto:</p></div>
+<div type="text">
+<p>Bokontrollen gjøres blant studenter som oppgir at de bor borte, ettersom det kun er studenter som ikke bor sammen med foreldrene sine, som kan få omgjøring av lån til stipend.</p>
+<p>Lånekassens bokontroll i 2018 omfattet 25.000 studenter. 15.000 ble plukket ut ved kunstig intelligens (maskinlæring), mens 10.000 ble plukket ut ved tilfeldig utvalg (kontrollgruppe). Resultatene viser at kunstig intelligens gjør det lettere å finne de som ikke er reelle borteboere, opplyser Lånekassen.</p>
+<p>– 5,5 prosent i kontrollgruppen og 11,6 prosent i maskinlæringsgruppa besto ikke bokontrollen. Det viser at maskinlærings-utplukket har vært dobbelt så effektivt som det tilfeldige utvalget til å finne studenter som har gitt oss uriktige opplysninger om bosted, sier administrerende direktør Nina Schanke Funnemark i Lånekassen.</p>
+<p>Hun trekker frem at denne metoden basert på kunnskap fra tidligere kontroller gjør at Lånekassen kan la være å kontrollere dem som med svært stor sannsynlighet er reelle borteboere.</p>
+<p>– Dermed må færre studenter ta seg bryet med å sende inn dokumentasjon, noe som også betyr mindre saksbehandling hos oss, sier direktøren.</p>
+<p>Snart er det tid for ny bokontroll. Også denne gangen vil det bli brukt kunstig intelligens.</p></div></body></document>

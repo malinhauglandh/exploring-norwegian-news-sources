@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190801-elendig-manus-men-ga.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/kJex0X/Late-Night-har-et-elendig-manus_-men-blir-en-ganske-underholdende-film" frk="25 0 0 186 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Elendig manus, men ganske underholdende film»</div>
+<div type="ingress">Dialogen er en katastrofe og poengene hamres inn med slegge. Men «Late Night» er likevel ikke uten underholdningsverdi.</div>
+<div type="author"></div>
+<div type="date">2019-08-01</div>
+<div type="caption"></div>
+</body></document>

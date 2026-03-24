@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190210-aurora-sang-for-film.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/jPWJRL/Aurora-sang-for-filmfiffen-i-Berlin-for-USA-turneen" frk="24 0 0 181 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-10 00:47"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Kultur,Konsert,Film,Musikk,Aurora Aksnes,Pop (musikk),Bergen,Berlin,Kino"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Aurora sang for filmbransjen i Berlin</div>
+<div type="ingress">Tirsdag starter hun verdensturneen i Vancouver.</div>
+<div type="author"></div>
+<div type="date">2019-02-10</div>
+<div type="caption"><p>BERLIN: Aurora Aksnes spilte for filmbransjen i Berlin. FOTO: Frank Johnsen</p></div>
+</body></document>

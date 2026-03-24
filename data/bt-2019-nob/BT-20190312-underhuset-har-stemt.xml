@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190312-underhuset-har-stemt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/ng3Van/Underhuset-har-stemt-ned-brexitavtalen-pa-nytt" frk="32 25 6 235 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-12 20:23"/>
+
+<attribute name="author" value="Johan.falnes@ntb.no"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Underhuset har stemt ned brexitavtalen på nytt</div>
+<div type="ingress">Et overveldende flertall har stemt imot Theresa Mays brexit-avtale i Parlamentet.</div>
+<div type="author">johan.falnes@ntb.no</div>
+<div type="date">12. mars 2019 20:23</div>
+<div type="caption"></div>
+<div type="text">
+<p>391 representanter stemte imot, mens bare 242 stemte for i avstemningen tirsdag kveld.</p></div></body></document>

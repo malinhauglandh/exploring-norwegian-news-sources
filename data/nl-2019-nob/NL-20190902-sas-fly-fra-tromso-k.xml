@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190902-sas-fly-fra-tromso-k.xml"/>
+<attribute name="url" value="http://www.nordlys.no/nyheter/sport/flytrafikk/sas-fly-fra-tromso-kansellert-til-kamp-blir-utsatt/s/5-34-1188071" frk="28 0 0 189 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-09-02 10:57"/>
+<attribute name="author" value="Lars Eidissen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">SAS-fly fra Tromsø kansellert – TIL-kamp blir utsatt</div>
+<div type="ingress">Et SAS-fly som skulle transportere blant annet TIL-spillere til kamp i Bodø er kansellert på grunn av teknisk svikt.</div>
+<div type="author">Av Lars Eidissen</div>
+<div type="date">02. september 2019, kl. 10:57</div>
+<div type="caption"></div>
+</body></document>

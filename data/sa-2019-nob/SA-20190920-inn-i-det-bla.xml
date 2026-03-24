@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190920-inn-i-det-bla.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/jdX3ww/Inn-i-det-bla" frk="78 8 4 447 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-20 19:38"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="danmark,livsstil"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Inn i det blå</div>
+<div type="ingress">De har arvet en øy og tusen historier. Innbyggerne på den lille danske øya Ærø har alltid forholdt seg til sjøen som en mulighet, en omfavnelse og en farefull motorvei ut i verden.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Man kan stille klokken etter morgenbaderne i Ærøskøbing. Klokken 07.30 dukker den første skyggen opp ved badehuset. Selv om det er november og tre grader i vannet, belønnes de med en glad kropp og en rosa soloppgang. Marie von Krogh</p></div>
+</body></document>

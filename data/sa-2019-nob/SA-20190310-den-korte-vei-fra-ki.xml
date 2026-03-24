@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190310-den-korte-vei-fra-ki.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/8w4rEQ/Den-korte-vei-fra-kino-til-fortapelse" frk="49 23 7 304 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-10 10:41"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Den korte vei fra kino til fortapelse</div>
+<div type="ingress">Levende bilder bør forbys! Nei, kinosalen er ikke den korte vei til fortapelse! 100 år senere krangler ingen. Film er følelser og fantasi.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Filmteateret på Sølvberget i Stavanger. Filmen «Ben Hur» fikk æren av å innvie bygget i 1927. Henry Imsland</p></div>
+</body></document>

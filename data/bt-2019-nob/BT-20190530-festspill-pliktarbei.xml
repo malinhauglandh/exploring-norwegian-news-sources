@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190530-festspill-pliktarbei.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/MRdObB/Festspill-pliktarbeid-fra-Knausgard" frk="17 0 0 133 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Festspill-pliktarbeid fra Knausgård</div>
+<div type="ingress">Det er mer Karl Ove enn Solveig i bestillingverket til Festspillene i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-05-30</div>
+<div type="caption"></div>
+</body></document>

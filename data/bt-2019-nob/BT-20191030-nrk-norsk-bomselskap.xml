@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-nrk-norsk-bomselskap.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GGX1aB/nrk-norsk-bomselskap-sender-persondata-til-kina" frk="275 0 1 1704" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 17:36"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">NRK: Norsk bomselskap sender persondata til Kina</div>
+<div type="ingress">Datatilsynet vil undersøke om bomselskapet Ferde har brutt loven ved å la et kinesisk selskap gå gjennom bilder for å kreve inn bompenger.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"><p>FRA BERGEN: Bilder av biler fra bompengestasjoner gjennomgås i Kina hvis man ikke klarer å tyde registreringsnummeret. Fred Ivar Utsi Klemetsen</p></div>
+<div type="text">
+<p>Oppdatert for mindre enn 1 time siden</p>
+<p>NTB</p>
+<p>Ferde opererer blant annet i Bergen og på store deler av Vestlandet. Bomselskapet har brukt kinesisk arbeidskraft for å gå gjennom bilder av biler som har passert bomringen, melder NRK.</p>
+<p>Det er i de tilfellene at bilenes nummerskilt ikke har blitt gjenkjent av datamaskinene at de må gjennomgås manuelt for å tyde bilskiltene og legge dem inn i systemet.</p>
+<p>Denne jobben blir hovedsakelig utført av kinesere i Kina, ifølge NRK.</p></div>
+<div type="title" level="3">Ber om dokumentasjon</div>
+<div type="text">
+<p>Datatilsynet er skeptisk til at norske bilisters persondata er sendt til Kina.</p>
+<p>– Vi ønsker å se nærmere på saken og undersøke hva som har skjedd. Vi kommer til å be om innhenting av dokumentasjon, og hva slags vurderinger som er tatt, sier direktør i Datatilsynet, Bjørn Erik Thon.</p></div>
+<div type="title" level="3">Ferde kommenterer ikke</div>
+<div type="text">
+<p>I utgangspunktet er det ikke lov å sende personopplysninger ut av EU/EØS. Men det finnes unntak ved at bompengeselskapene og databehandlerne for eksempel inngår en egen standardavtale utarbeidet av EU-kommisjonen.</p>
+<p>Ferde opplyser til NRK at de er i dialog med Datatilsynet og foreløpig ikke ønsker å gi noen ytterligere kommentarer.</p>
+<p>BT var i kontakt med Ferdes kommunikasjosdirektør Marit Husa mandag morgen. Hun skriver dette i en e-post til BT:</p>
+<p>«De har tilgang til ett og ett bilde der de gjennomgår bilder fra bomringene. Alle data er fysisk lagret i Norge.»</p></div></body></document>

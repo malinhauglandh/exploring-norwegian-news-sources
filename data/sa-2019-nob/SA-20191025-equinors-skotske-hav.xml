@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191025-equinors-skotske-hav.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/K3q5wo/equinors-skotske-havvindanlegg-slar-egen-rekord" frk="47 20 6 291 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-25 12:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="equinor,fornybar energi,havvind,hywind,olje og gass,vindkraft"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Equinors skotske havvindanlegg slår egen rekord</div>
+<div type="ingress">Første år ga resultater Equinor ikke har sett før fra vindmøller til havs. I år ser det enda bedre ut.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>De fem flytende havvindmøllene, hver med en effekt på 6 MW, leverer strøm til rundt 20.000 skotske hjem. Jon Ingemundsen</p></div>
+</body></document>

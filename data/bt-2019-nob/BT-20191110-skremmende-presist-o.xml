@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191110-skremmende-presist-o.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/zGzeyr/Skremmende-presist-om-byrakratiske-samfunn" frk="16 0 0 140 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skremmende presist om byråkratiske samfunn</div>
+<div type="ingress">Avdøde Jan Roar Leikvolls roman er en Kafka-aktig, klaustrofobisk fortelling.</div>
+<div type="author"></div>
+<div type="date">2019-11-10</div>
+<div type="caption"></div>
+</body></document>

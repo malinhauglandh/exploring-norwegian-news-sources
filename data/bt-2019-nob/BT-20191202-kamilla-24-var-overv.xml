@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-kamilla-24-var-overv.xml"/>
+<attribute name="url" value="https://www.bt.no/sprek/i/Op10QE/Syv-grep-avgjor-om-du-lykkes-For-Kamilla-24-var-spesielt-to-ting-avgjorende" frk="27 24 4 162 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sprek"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kamilla (24) var overvektig og manglet energi. Slik gikk hun ned 17 kg.</div>
+<div type="ingress">Kamilla spiste usunt, festet mye og var lite aktiv. Slik tok hun grep.</div>
+<div type="author"></div>
+<div type="date">2019-12-02</div>
+<div type="caption"></div>
+</body></document>

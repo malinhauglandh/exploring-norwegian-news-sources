@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191209-washington-post-usa-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/lAmGLy/Washington-Post-USA-forte-alle-bak-lyset-i-Afghanistan" frk="59 0 0 388 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-09 23:20"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Washington Post: USA førte alle bak lyset i Afghanistan</div>
+<div type="ingress">Mens USA skrøt av framgang i Afghanistan-krigen, satt myndighetene på klare beviser for det motsatte, viser tusenvis av dokumenter publisert av Washington Post.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 9. desember 2019 23:20</div>
+<div type="caption"><p>Krigen i Afghanistan har drevet millioner av mennesker på flukt. Bildet er fra en leir for internt fordrevne i Kabul. Foto: Arkivfoto: AP / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190713-bergen-topper-statis.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/lAeg1k/Bergen-topper-statistikken-over-tisseboter-i-landet" frk="50 19 6 314 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-13 10:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergen topper statistikken over «tissebøter» i landet</div>
+<div type="ingress">Vest politidistrikt dro inn 364.000 kroner på urineringsbøter i fjor.</div>
+<div type="author"></div>
+<div type="date">2019-07-13</div>
+<div type="caption"><p>BØTER: I fjor var det kun i Kristiansand folk fikk flere bøter for å urinere offentlig enn i Bergen. Så langt i år ligger Bergen an til en førsteplass. FOTO: Eirik Brekke</p></div>
+</body></document>

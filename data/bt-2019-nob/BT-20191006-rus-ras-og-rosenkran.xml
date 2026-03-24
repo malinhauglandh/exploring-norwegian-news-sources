@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191006-rus-ras-og-rosenkran.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/rA3Wk3/Rus_-ras-og-Rosenkrantz-Her-er-budsjettlekkasjene-i-vest" frk="25 0 0 185 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-06 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rus, ras og Rosenkrantz: Her er budsjettlekkasjene i vest</div>
+<div type="ingress">Mandag legges statsbudsjettet frem. Men mange av «godbitene» for Vestlandet ble lekket allerede før valget.</div>
+<div type="author"></div>
+<div type="date">2019-10-06</div>
+<div type="caption"></div>
+</body></document>

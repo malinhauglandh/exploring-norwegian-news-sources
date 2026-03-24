@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190626-test-raskt-og-oppbla.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/bil-baat-og-motor/i/9vxqyq/test-raskt-og-oppblaasbart-paa-sjoeen" frk="37 0 0 206 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-06-26 13:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,bil-baat-og-motor"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test: Raskt og oppblåsbart på sjøen</div>
+<div type="ingress">Det er sommer og tid for å ha det gøy på vannet. Her er det testet tre oppblåsbare seilfarkoster som kan pakkes og stues ned under dekk eller i bilen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

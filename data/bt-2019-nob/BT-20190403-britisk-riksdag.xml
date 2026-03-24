@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190403-britisk-riksdag.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/leder/i/qL6xqO/Britisk-riksdag" frk="55 0 0 354 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-03 20:30"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,leder"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Britisk riksdag</div>
+<div type="ingress">Britiske politikarar har mista kontrollen over brexit. No må dei samarbeide, om det skal finnast ein veg ut av uføret.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">2019-04-03</div>
+<div type="caption"><p>TAPTE: – Brexit var ein dårleg idé som Theresa May fekk ansvar for å gjennomføre, meiner BT. Statsministeren har tapt tre avstemmingar om brexitavtalen hennar med EU. Foto: Mark Duffy, TT NYHETSBYRÅN</p></div>
+</body></document>

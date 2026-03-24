@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190611-dronning-sonja-er-sy.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/MR9yRr/Dronning-Sonja-er-sykemeldt" frk="86 0 0 549 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-11 13:16"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dronning Sonja er sykemeldt</div>
+<div type="ingress">Dronning Sonja er sykmeldt ut uken på grunn av en infeksjon i høyre fot.</div>
+<div type="author">NTB</div>
+<div type="date">11. juni 2019 13:16</div>
+<div type="caption"><p>Dronning Sonja er sykemeldt ut uken som følge av en infeksjon i en fot. Foto: Tore Meek / NTB scanpix</p></div>
+<div type="text">
+<p>Det opplyser Kongehuset. Dronningen kommer derfor ikke til å delta ved statsbesøket i Sør-Korea.</p>
+<p>Sør-Koreas president Moon Jae-in besøker Norge denne uken. Det skal onsdag formiddag holdes en velkomstseremoni på slottsplassen, hvor kong Harald tar imot president Moon.</p>
+<p>Det skal også holdes gallamiddag på slottet onsdag kveld.</p></div></body></document>

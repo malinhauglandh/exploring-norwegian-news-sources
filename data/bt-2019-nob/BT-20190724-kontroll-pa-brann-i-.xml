@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-kontroll-pa-brann-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/LAm099/Kontroll-pa-brann-i-traler-utenfor-Alesund" frk="35 9 2 221 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 13:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kontroll på brann i tråler utenfor Ålesund</div>
+<div type="ingress">Nødetater rykket ut etter en maydaymelding om brann i en tråler utenfor Ålesund. Brannvesenet fikk kort tid senere kontroll. Ingen av de 22 om bord ble skadd.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

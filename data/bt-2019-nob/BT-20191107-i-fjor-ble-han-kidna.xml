@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191107-i-fjor-ble-han-kidna.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/rAObke/I-fjor-ble-han-kidnappet-Na-er-seks-personer-domt" frk="40 0 0 222 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-07 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I fjor ble han kidnappet. Nå er seks personer dømt.</div>
+<div type="ingress">– Jeg trodde jeg skulle dø den kvelden, fortalte offeret i retten. Nå er fire menn og to kvinner dømt. Samlet straff: Fengsel i seks år og ti måneder.</div>
+<div type="author"></div>
+<div type="date">2019-11-07</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191128-monica-40-kvittet-se.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/701qJW/I-lopet-av-atte-ar-har-Monica-40-kvittet-seg-med-800-plagg" frk="26 28 5 176 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-28 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Monica (40) kvittet seg med 800 plagg. Nå stenger hun butikken i Black Friday-protest.</div>
+<div type="ingress">Fredag holder hun nettbutikken sin stengt i protest mot Black Friday.</div>
+<div type="author"></div>
+<div type="date">2019-11-28</div>
+<div type="caption"></div>
+</body></document>

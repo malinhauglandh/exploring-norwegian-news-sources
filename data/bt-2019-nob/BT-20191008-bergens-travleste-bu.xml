@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191008-bergens-travleste-bu.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GG8B7V/Forst-ferdig-neste-sommer" frk="26 25 4 157 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-08 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergens travleste bussgate blir ikke klar til 17. mai</div>
+<div type="ingress">Gravingen i Olav Kyrres gate skulle vært ferdig til 17. mai, men det blir den ikke.</div>
+<div type="author"></div>
+<div type="date">2019-10-08</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190709-barn-fra-bergen-har-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/qLVx3o/Barn-fra-Bergen-har-lese-tre-millionar-sider-pa-ein-manad" frk="35 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-09 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Barn frå Bergen har lese tre millionar sider på ein månad</div>
+<div type="ingress">Barn som les om sommaren får høgare lesekompetanse enn andre barn. Ein nasjonal kampanje skal sørgje for at dei held fram med lesinga.</div>
+<div type="author"></div>
+<div type="date">2019-07-09</div>
+<div type="caption"></div>
+</body></document>

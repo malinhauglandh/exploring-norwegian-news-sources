@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190102-ble-oppringt-pa-hytt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/ka9AwA/Ble-oppringt-pa-hytten--Huset-ditt-brenner" frk="40 0 0 253 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-02 06:52"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Eiendom,Brann,Byutvikling,Bolig"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ble oppringt på hytten: – Huset ditt brenner</div>
+<div type="ingress">Kjetil Bergiton Svåsand hadde planer om å gjøre gamle Kaland skole om til bolig.</div>
+<div type="author"></div>
+<div type="date">2019-01-02</div>
+<div type="caption"><p>UTBRENT: Slik så gamle Kaland skole ut dagen etter brannen hadde herjet med bygningen. FOTO: Marita Aarekol</p></div>
+</body></document>

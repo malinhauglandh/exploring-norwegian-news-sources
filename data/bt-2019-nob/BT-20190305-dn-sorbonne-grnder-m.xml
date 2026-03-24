@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190305-dn-sorbonne-grnder-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/kaA6n9/DN-Sorbonne-grnder-mistenkt-for-a-ha-lurt-til-seg-banklan" frk="52 5 2 346 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-05 11:04"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Bergen kommune,Eirik Bysheim Hokstad,Pareto,Dagens Næringsliv,Sorbonne-saka"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">DN: Sorbonne-gründer mistenkt for å ha lurt til seg banklån</div>
+<div type="ingress">Eiendomsinvestor Eirik Bysheim Hokstad etterforskes for å ha brukt falske dokumenter for å få et lån på 40 millioner kroner, melder Dagens Næringsliv.</div>
+<div type="author"></div>
+<div type="date">2019-03-05</div>
+<div type="caption"><p>ARREST: Pareto Bank har tatt arrest i villaen til Eirik Bysheim Hokstad, melder Dagens Næringsliv. FOTO: Rune Sævig</p></div>
+</body></document>

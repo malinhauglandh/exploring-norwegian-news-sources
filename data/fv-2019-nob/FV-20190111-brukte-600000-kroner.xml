@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190111-brukte-600000-kroner.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/RxMGLA/Brukte-600000-kroner-pa-trafikkfarlig-lysregulering" frk="48 16 6 355 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-01-11 12:05"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brukte 600.000 kroner på trafikkfarlig lysregulering</div>
+<div type="ingress">Statens vegvesen monterte lysregulering for å gi busser fri bane i Kjoskrysset. Etterpå vurderte de trafikksikkerheten, noe som resulterer i at anlegget demonteres på grunn av trafikkfare.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Lysene knyttet til lysreguleringen i Kjoskrysset er dekket med plast. FOTO: Tormod Flem Vegge</p></div>
+</body></document>

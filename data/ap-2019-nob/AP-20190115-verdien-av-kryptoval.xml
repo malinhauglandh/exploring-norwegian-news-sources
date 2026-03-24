@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190115-verdien-av-kryptoval.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/L0z9dq/Verdien-av-kryptovalutaen-monero-har-falt-siden-forsvinningssaken-ble-kjent" frk="799 8 45 5158"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-15 17:49"/>
+<attribute name="author" value="Per Byhring (multimedia)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="krim,datakriminalitet,kryptovaluta,etterforskning,monero,forsvinningssaken på lørenskog"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Verdien av kryptovalutaen monero har falt siden forsvinningssaken ble kjent</div>
+<div type="ingress">Monero-verdien har falt rundt 20 prosent siden den antatte bortføringen i Lørenskog ble kjent. Det vil si at totalverdien er redusert med over én milliard kroner.</div>
+<div type="author">Per Byhring (multimedia)</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: Per Byhring Kryptovalutaen monero er i nyhetsbildet etter at det ble kjent at de angivelige kidnapperne på Lørenskog skal ha fremsatt løsepengekravet i denne valutaen. Nå faller verdien.</p> <p>Anne-Elisabeth Hagen har vært borte siden 31. oktober. I huset ble det funnet et brev skrevet på gebrokkent norsk der det ble fremsatt trusler og krav om løsepenger.</p> <p>Politiet opplyser at kontakten som har vært med de angivelige kidnapperne, har foregått via en annen «krevende, digital kanal» som også bruker kryptovaluta som betalingsmiddel.</p> <p>Slik fungerer teknologien bak kryptovaluta Minere og blokkjeder.</p></div>
+<div type="text">
+<p>De som angivelig skal ha bortført Anne-Elisabeth Hagen fra sitt hjem på Fjellhamar 31. oktober, skal ha krevd løsepenger tilsvarende 88 millioner norske kroner utbetalt i kryptovalutaen monero.</p>
+<p>Den siste uken har kursen på monero falt rundt 20 prosent:</p>
+<p>Onsdag 9. januar, den dagen forsvinningssaken ble kjent for offentligheten, var kursen på det høyeste oppe i 54,55 amerikanske dollar.</p>
+<p>Tirsdag 14. januar var kursen nede i 42,85 dollar – en nedgang på 22 prosent.</p>
+<p>Det har vært en generell nedgang i kryptovalutakursene i perioden, men monero ser ut til å ha vært rammet ekstra hardt.</p>
+<p>Totalverdien av alle monero i verden ble redusert fra 7,5 milliarder norske kroner den 9. januar til 6,1 milliarder kroner 13. januar.</p>
+<p>I slutten av oktober, da løsepengekravet ble fremsatt, var én monero verdt 103 dollar.</p></div>
+<div type="title" level="3">Monero-ledelsen: – Svært vanskelig å skaffe så mye monero</div>
+<div type="text">
+<p>Ledelsen i Monero, selskapet bak kryptovalutaen med samme navn, kommenterer ikke kursfallet spesielt, men sier de er godt kjent med forsvinningssaken i Norge.</p>
+<p>– Vi kjenner til saken, men ønsker ikke å kommentere den, i og med at den fortsatt er under etterforskning av norsk politi, opplyser talsperson og utvikler i Monero, Francesco Cabañas, til Aftenposten.</p>
+<p>Cabañas bekrefter at løsepengekravet de angivelige kidnapperne skal ha fremmet vil være svært vanskelig å skaffe til veie eller å løse inn i vanlige penger.</p>
+<p>I dag sirkulerer det nesten 17 millioner monero – tallet øker stadig fordi det utvinnes nye. Løsepengekravet utgjør nå 0,6 prosent av det totale antallet monero.</p>
+<p>– Jeg tviler sterkt på at det er mulig. Å kjøpe inn nærmere én prosent av en valuta på kort tid, vil være svært vanskelig. Det samme ville gjelde alle former for verdier, i hvert fall uten å gå på et signifikant tap. Det at denne saken har fått så stor internasjonal oppmerksomhet, gjør det ikke enklere, påpeker Cabañas.</p>
+<p>– De få meglerhusene som kan forhandle så store mengder monero, har svært strenge regler for sine transaksjoner. Når politiet i Norge har frarådet å betale løsepengene, er det desto mindre sannsynlig at børsene vil være villig til å utføre transaksjonene, sier han.</p>
+<p>Den samme innstillingen kommer frem i flere av kryptovaluta-forumene Aftenposten følger. Mange uttrykker at tilliten til monero er svekket etter at Lørenskog-saken ble kjent i forrige uke. Kryptovalutablogger skriver om hvordan saken skader moneros omdømme.</p></div>
+<div type="title" level="3">Fakta: Slik skjules transaksjoner med monero</div>
+<div type="text">
+<p>En transaksjon mellom to bitcoin-kontoer er synlig i blokkjeden til evig tid. Kryptovalutaen monero tar derimot i bruk flere teknikker for å skjule hvem transaksjonene går mellom:</p>
+<p>Monero bruker kodede adresser for å skjule hvilke kontoer som overfører penger til hverandre.</p>
+<p>Betalinger deles også opp i mindre overføringer for å skjule spor, og de blandes med hverandre for ytterligere hemmelighold.</p>
+<p>I praksis ser kun avsender og mottager hvilke kontoer betalingene egentlig går mellom.</p>
+<p>Jan Tomas Espedal</p>
+<p>Vidar Ruud / NTB scanpix</p></div>
+<div type="title" level="3">Forsker: Monero er nå den mest brukte kryptovalutaen blant kriminelle</div>
+<div type="text">
+<p>En fersk forskningsrapport fra Universitetet i Madrid anslår at monero er den mest populære kryptovalutaen blant cyberkriminelle for tiden. Fra 2017 har denne valutaen overtatt «tronen» fra andre valutaer, som bitcoin.</p>
+<p>Forskerne har studert forum og transaksjoner på det mørke nettet og anslår at kriminelle i fjor kjøpte monero tilsvarende 57 millioner amerikanske dollar. Det utgjør 4,3 prosent av all monero som er i omløp.</p>
+<p>Informatikkprofessor Guillermo Suarez de Tangil, en av dem som står bak rapporten, har ikke hørt om noen andre saker der kidnappere har krevd løsepenger utbetalt i monero, men påpeker at vi ikke har full oversikt over det.</p>
+<p>– Selv om blokkjeder er offentlige, er hovedpoenget at moneros anonymiserte krypteringer holder transaksjoner skjult. Derfor vil vi ikke vite fullt ut om det har vært tilsvarende betalinger eller transaksjoner tidligere.</p>
+<p>Monero-talsmann Francesco Cabañas avviser koblingen mellom kriminelle miljøer og monero. Han hevder at det aller meste av kriminaliteten på det mørke nettet skjer via stjålet identitet og falske kredittkort.</p>
+<p>– For å motarbeide kriminalitet, er det viktig ikke bare å behandle symptomene. Monero bidrar til å redusere kriminaliteten, ikke øke den, skriver Cabañas i en e-post til Aftenposten.</p></div></body></document>

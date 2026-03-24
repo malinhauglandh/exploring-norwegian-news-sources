@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190619-huseklepp-god-trekni.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/K3ap7y/Folg-Europa-League-trekningen-direkte-med-Ballspark" frk="19 0 0 124 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-19 22:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Ballspark,SK Brann"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Huseklepp: - God trekning for Brann</div>
+<div type="ingress">Brann skal til Kypros eller Litauen hvis de tar seg videre i Europa.</div>
+<div type="author"></div>
+<div type="date">2019-06-19</div>
+<div type="caption"></div>
+</body></document>

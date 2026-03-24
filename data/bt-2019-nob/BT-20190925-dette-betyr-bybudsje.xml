@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190925-dette-betyr-bybudsje.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Wbd2kG/Ove-har-to-biler-i-boligsoneparkeringen-Det-kan-bli-mye-dyrere-neste-ar" frk="29 0 0 196 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-25 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette betyr bybudsjettet for deg</div>
+<div type="ingress">Ove Gunnarsjå og andre med boligsoneparkering må belage seg på ti prosent økning. Også eiendomsskatten kan bli dyrere for dem med billig bolig.</div>
+<div type="author"></div>
+<div type="date">2019-09-25</div>
+<div type="caption"></div>
+</body></document>

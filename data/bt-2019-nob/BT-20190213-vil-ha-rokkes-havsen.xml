@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190213-vil-ha-rokkes-havsen.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/VRAJA4/Vil-ha-Rokkes-skyskraper-til-Bergen" frk="54 6 2 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-13 05:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Nina Jensen,Arkitektur,Byutvikling"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vil ha Røkkes havsenter til Bergen</div>
+<div type="ingress">Bærum sa nei til det 64 etasjer høye bygget. Nå jobber flere aktører med å få det til Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-02-13</div>
+<div type="caption"><p>HØYT OG BLÅTT: Slik er modellen av skyskraperen «Det store blå», som Kjell Inge Røkke ville bygge som et verdensledende havsenter på Fornebu. FOTO: Heiko Junge, NTB scanpix</p></div>
+</body></document>

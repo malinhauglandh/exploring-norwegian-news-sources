@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190929-dette-skjer-i-vm-i-d.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/wPX7VG/Dette-skjer-i-VM-i-dag" frk="36 62 12 191 ## %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-09-29 09:11"/>
+<attribute name="author" value="Bernhard Veland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette skjer i VM i dag</div>
+<div type="ingress">VM DAG TRE: Verdens raskeste menn og kvinner blir å se i Doha.</div>
+<div type="author">Bernhard Veland</div>
+<div type="date">29.sep.2019 09:11</div>
+<div type="caption"><p>Lynkjappe Noah Lyles har løpt 200 meter på 19,50 i år. FOTO: DENIS BALIBOUSE / X90072</p></div>
+</body></document>

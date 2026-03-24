@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191207-mener-avinor-ofrer-p.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50vaem/Mener-Avinor-ofrer-passasjersikkerhet-for-a-sikre-kostnadskutt" frk="31 0 0 210 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-07 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mener Avinor ofrer passasjersikkerhet for å sikre kostnadskutt</div>
+<div type="ingress">Seks ganger på én måned har Flesland manglet en brannmann på jobb. Fredag førte det til at et Norwegian-fly landet i Haugesund.</div>
+<div type="author"></div>
+<div type="date">2019-12-07</div>
+<div type="caption"></div>
+</body></document>

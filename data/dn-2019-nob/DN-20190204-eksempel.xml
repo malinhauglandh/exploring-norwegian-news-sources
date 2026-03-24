@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190204-eksempel.xml"/>
+<attribute name="url" value="http://www.dn.no/politikk/eksempel/2-1-535384" frk="37 0 0 233 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-04 18:52"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="politikk"/>
+<attribute name="class2" value="Meninger,Politikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Eksempel</div>
+<div type="ingress">Mímir Kristjánsson slutter som nyhetssjef i Klassekampen og flytter hjem til Stavanger for å stille til valg for Rødt i håp om å bli ordfører. I Aftenposten oppfordrer han andre til å følge hans eksempel.</div>
+<div type="author"></div>
+<div type="date">2019-02-04 18:52</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

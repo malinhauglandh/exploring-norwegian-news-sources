@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190628-vestlig-etterretning.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/verden/vestlig-etterretning-skal-ha-hacket-russisk-sokemotor-1.1546419" frk="223 4 7 1536"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-06-28 20:48"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vestlig etterretning skal ha hacket russisk søkemotor</div>
+<div type="ingress">Vestlig etterretning hacket i fjor den russiske søkemotoren Yandex og plantet et program som spionerer på brukerne, melder Reuters.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Russlands president Vladimir Putin under et besøk ved søkomotoren Yandex' hovedkvarter i Moskva i 2017.</p></div>
+<div type="text">
+<p>Det opplyser fire kilder med kjennskap til hackingen til nyhetsbyrået .</p>
+<p>Skadeprogrammet, som kalles Regin, benyttes av etterretningstjenestene i USA, Storbritannia, Australia, New Zealand og Canada, som har et samarbeid gjennom den såkalte UKUSA-avtalen.</p>
+<p>Ingen av de fem etterretningstjenestene ønsker overfor Reuters å kommentere opplysningene om hackingen av Yandex, og det er derfor uklart hvem av dem som står bak.</p>
+<p>Dataangrepet mot den russiske søkemotoren fant ifølge nyhetsbyråets kilder sted mellom oktober og november i fjor.</p>
+<p>Følg Dagsavisen på Facebook og Twitter!</p>
+<p>En talsmann for Yandex bekrefter at de er kjent med hackingen, men ønsker ikke å gi flere detaljer.</p>
+<p>– Dette angrepet ble oppdaget av sikkerhetsteamet til Yandex på et svært tidlig stadium. Det ble fullstendig nøytralisert før det rakk å utrette skade, sier talsmannen Ilja Grabovskij.</p>
+<p>– Ingen data om Yandex-brukere kom på avveie, ifølge ham.</p>
+<p>Yandex er kjent som Russlands svar på Google og opplyser å ha over 108 millioner månedlige brukere. Selskapet opererer også i Hviterussland, Kasakhstan og Tyrkia.</p>
+<p>Eksistensen av Regin, og vestlige etterretningstjenesters bruk av skadeprogrammet, ble først avslørt av den amerikanske avhopperen Edward Snowden.</p></div></body></document>

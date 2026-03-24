@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191128-ligger-an-til-torres.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/xPz9vl/Ligger-an-til-torreste-november-pa-98-ar-i-Bergen_-tredje-torreste-noen-gang" frk="47 17 5 288 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-28 23:33"/>
+
+<attribute name="author" value="Ingvild Nave Erlend Langeland Haugen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ligger an til tørreste november på 98 år i Bergen, tredje tørreste noen gang</div>
+<div type="ingress">Ny «tørkerekord» for november på værstasjonen på Florida.</div>
+<div type="author">Ingvild Nave Erlend Langeland Haugen</div>
+<div type="date">Publisert 28. november 2019 23:33</div>
+<div type="caption"><p>TØRT: Så langt i november har det falt 51,1 millimeter nedbør i Bergen. Bare to ganger tidligere har det vært målt mindre. Rune Sævig</p></div>
+</body></document>

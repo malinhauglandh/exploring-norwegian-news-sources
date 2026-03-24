@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190620-brannmelding-pa-grne.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/i/xPVgln/Brannmelding-pa-Grnerlokka-var-fyring-i-peis" frk="66 9 4 423 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-06-20 08:12"/>
+<attribute name="author" value="Henning Carr Ekroll"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="osloby"/>
+<attribute name="class2" value="oslo,grünerløkka,brann"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brannmelding på Grünerløkka var fyring i peis</div>
+<div type="ingress">Nødetatene rykket ut til melding om brennende bygning, men situasjonen var udramatisk.</div>
+<div type="author">Henning Carr Ekroll</div>
+<div type="date">8 timer siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>Politiet meldte først om hendelsen ved Olaf Ryes plass klokken 10.11, og kort tid etter ble det gjengitt at det kom røyk fra bygningen og at brannalarmen gikk.</p>
+<p>Det viste seg kort tid senere at røykutviklingen skyldes fyring i peis og «røyknedslag som følge av lavtrykk».</p></div></body></document>

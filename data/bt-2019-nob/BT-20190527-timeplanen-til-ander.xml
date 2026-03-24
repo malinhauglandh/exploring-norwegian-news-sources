@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190527-timeplanen-til-ander.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/9v8Kl9/Timeplanen-til-Anders-Beyer-er-sa-lang-at-han-trenger-en-personlig-assistent-for-a-komme-gjennom-den" frk="26 0 0 169 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-27 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Timeplanen til Anders Beyer er så lang at han har en assistent for å klare den</div>
+<div type="ingress">Vi fulgte festspilldirektøren fra morgen til kveld under Festspillene.</div>
+<div type="author"></div>
+<div type="date">2019-05-27</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190921-folg-brann-haugesund.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/1nwX3J/Folg-Brann---Haugesund-og-chat-med-Doddo" frk="28 10 2 195 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-21 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg Brann - Haugesund og chat med Doddo</div>
+<div type="ingress">Vi følger vestlandsoppgjøret på Stadion fra klokken 18.</div>
+<div type="author"></div>
+<div type="date">2019-09-21</div>
+<div type="caption"><p>Doddo følger Brann - FK Haugesund lørdag kveld. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

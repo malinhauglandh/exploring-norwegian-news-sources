@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190310-stanser-muligheten-f.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/lokalt/i/vmq6wp/Stanser-muligheten-for-privat-innlogging-pa-Chromebook" frk="724 2 10 4534"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-10 19:23:27"/>
+<attribute name="author" value="Camilla Bjørheim"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="mobbing,sandnes kommune"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stanser muligheten for privat innlogging på Chromebook</div>
+<div type="ingress">Tidligere kunne elever i Sandnes logge seg på Chromebook-ene med private Google-kontoer. Nå fjernes denne muligheten.</div>
+<div type="author">Camilla Bjørheim</div>
+<div type="date">2019-03-10 19:23:27</div>
+<div type="caption"><p>Tidligere var det mulig for elever i Sandnes å logge seg på med private Google-brukere på skolens Chromebook. Pål Christensen</p></div>
+<div type="text">
+<p>I februar skrev Aftenbladet om en far som oppdaget at nettsider med pornografisk innhold lå lett tilgjengelig barnas Chromebook. Barna hans er elever i Sandnes-skolen, og har i likhet med de fleste elever i distriktet fått utdelt hver sin Chromebook.</p>
+<p>LES MER:</p>
+<p>For å forsøke å begrense elevenes mulighet til å finne fram til uheldig innhold på nettet, er elevens skolekontoer satt opp med så kalt «Sikkert søk».</p>
+<p>Det betyr at ikke-barnevennlig innhold, som for eksempel porno, skal filtreres bort. I tillegg har kommunens nettverk brannmur som også filtrere uheldig innhold. Men ingen av disse tiltakene gir en garanti.</p>
+<p>«Sikkert søk» vil virke også når Chromebooken brukes hjemme, så lenge eleven er pålogget sin skolekonto.</p>
+<p>Utfordringen har imidlertid vært at elevene har hatt mulighet til å logge seg på sine private Google-kontoer på Chromebook-en. Da navigerer de unna «Sikkert søk».</p></div>
+<div type="title" level="3">Slutt på private kontoer</div>
+<div type="text">
+<p>Denne muligheten har kommunen nå fjernet.</p>
+<p>– Vi har gjort en ny vurdering på bakgrunn av innspill om at elever har funnet fram til uheldig innhold på nettet. Endringen skyldes også at vi får tilbakemelding om at særlig eldre elever har lastet ned en del app-er på sine private brukere. Noen av app-ene har vært brukt i mobbing, sier Robert Wilford, skolefaglig rådgiver i Sandnes kommune.</p>
+<p>I forrige bystyre ba politikerne om en redegjørelse på hvilke sikkerhetsvurderinger som er tatt i forbindelse med at alle elever nå har tatt i bruk Chromebook. Det er i denne anledning administrasjonen har gjort en ny vurdering og altså fjerner muligheten for å kunne logge seg på private Google-kontoer på Chromebook.</p>
+<p>– Vi så at selv om elevene har fått retningslinjer som sier at de ikke skal logge seg på med privat bruker, så eskalerte dette. Ved å fjerne denne muligheten håper vi å kunne forhindre en del av mobbingen, sier Wilford.</p>
+<p>Heller ikke i Stavanger har elevene mulighet til å logge seg på sine private kontoer på Chromebooken utdelt av skolen.</p></div>
+<div type="title" level="3">Fakta: 8 kjappe om Chromebook i Sandnes</div>
+<div type="text">
+<p>1. Hvem er administrator for elevens Chromebook?</p>
+<p>Alle Chromebookene blir administrert og styrt av sandnesskolen.no, men det er en god del innstillinger som elevene kan styre selv.</p>
+<p>2. Hva har skolen/kommunen gjort for å forebygge at elevene går inn på uheldige nettsider, som porno?</p>
+<p>Elevene sine Google-kontoer er satt opp med «Sikkert søk». Det betyr at ikke-barnevennlig innhold skal filtreres bort, for eksempel pornografi. I tillegg har kommunens nettverk brannmur som også filtrere uheldig innhold. (Men ingen av disse tiltakene gir en garanti)</p>
+<p>3. Virker «Sikkert søk» og kommunens brannmur når elevene logger seg på hjemme?</p>
+<p>Kommunens brannmur virker ikke hjemme (se punkt 7). «Sikkert søk» er imidlertid knyttet til elevens Google-bruker, og vil virke også hjemme.</p>
+<p>4. Kan elevene opprette private brukere på Chromebooken?</p>
+<p>Hvis de har en privat Google-konto, kunne elevene tidligere logge seg på med den på Chromebooken . Denne muligheten er nå fjernet.</p>
+<p>5. Virker brannmur knyttet til det kommunale nettverket og «Sikkert søk» hvis elevene logger seg på med en privat bruker på skolen?</p>
+<p>På skolen vil brannmuren på det kommunale nettverket virke - men «Sikkert søk» - som er knyttet til skolebrukeren, vil ikke virke.</p>
+<p>6. Virker brannmur knyttet til det kommunale nettverket og «Sikkert søk» hvis elevene logger seg på med en privat bruker hjemme?</p>
+<p>Brannmuren i det kommunale nettverket vil aldri virke hjemme. Når det gjelder «Sikkert søk» vil dette virke så lenge eleven er pålogget med sin skolebruker.</p>
+<p>7. Hva kan foreldre gjøre for å unngå at barna kommer seg på nettsider for voksne?</p>
+<p>Det viktigste er å lære barna nettvett. Sekundert kan man legge inn filter på sin trådløse router hjemme. Hvordan dette gjøres, vil avhenge av hvilken løsning og leverandør den enkelte har hjemme. Men ingen filter garanterer at alt uheldig innhold filtreres.</p>
+<p>8. Kan skole/kommune overvåke elevenes aktivitet?</p>
+<p>Vi har ingen overvåking av elevenes aktivitet på nett og har heller ingen rett til å snoke. Det finnes et verktøy for overvåkning i Google, men dette har Sandnes kommune ikke skrudd på. Barn har også et personvern.</p>
+<p>Det er kommunaldirektør Pål Larsson og skolefaglig rådgiver Robert Wilford som har svart på spørsmålene.</p></div></body></document>

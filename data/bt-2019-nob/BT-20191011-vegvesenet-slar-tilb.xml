@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191011-vegvesenet-slar-tilb.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/vQynOL/Vegvesenet-slar-tilbake-mot-bro-slakt" frk="28 10 2 197 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vegvesenet slår tilbake mot bro-slakt</div>
+<div type="ingress">Statens vegvesen går til angrep på statsselskapet Nye Veier, som vil bygge ny, «billig» E39 via Fusa. – Helt urealistisk, mener Vegvesenet.</div>
+<div type="author"></div>
+<div type="date">2019-10-11</div>
+<div type="caption"></div>
+</body></document>

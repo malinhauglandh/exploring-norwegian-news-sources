@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191212-kommunen-lekker-inge.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJPldX/Kommunen-lekker-ingeniorer" frk="29 19 4 202 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-12 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kommunen lekker ingeniører</div>
+<div type="ingress">Hver femte ingeniør hos vann- og avløpsetaten sluttet i 2019. Dette er en av hovedårsakene til at fornyingen av kommunens vannrør går tregere enn planlagt.</div>
+<div type="author"></div>
+<div type="date">2019-12-12</div>
+<div type="caption"></div>
+</body></document>

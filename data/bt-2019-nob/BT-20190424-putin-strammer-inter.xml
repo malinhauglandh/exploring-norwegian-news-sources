@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190424-putin-strammer-inter.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/RR5GPa/Putin-strammer-internjet" frk="48 22 9 397 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-24 05:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="FSB,Russisk politikk,Digital,Datasikkerhet,Vladimir Putin"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Putin strammer «internjet»</div>
+<div type="ingress">Russiske politikere strammer kontrollen over den russiske internettilgangen, men i 2019 forventer russerne rask tilgang til omverdenen. Derfor protesterer de mot lovforslaget.</div>
+<div type="author"></div>
+<div type="date">2019-04-24</div>
+<div type="caption"><p>UPOPULÆRT: Russerne liker internett og misliker sterkt Putins innstrammingslov. Demonstrasjoner mot lovforslaget har samlet mange unge russere. FOTO: SHAMIL ZHUMATOV / X00499</p></div>
+</body></document>

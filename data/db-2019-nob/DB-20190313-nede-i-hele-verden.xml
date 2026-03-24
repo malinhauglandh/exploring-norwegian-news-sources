@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190313-nede-i-hele-verden.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/nede-i-hele-verden/70869556" frk="275 0 0 1775"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-13 17:15"/>
+<attribute name="author" value="Jesper Nordahl Finsveen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="utenriks,sosiale medier,nyheter,instagram,facebook"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nede i hele verden</div>
+<div type="ingress">Nettgiganten Facebook er nede eller opplever problemer i store deler av verden.</div>
+<div type="author">Jesper Nordahl Finsveen</div>
+<div type="date">2019-03-13</div>
+<div type="caption"><p>TRØBBEL: På Østkysten av USA og i sentrale deler av Europa og i Storbritannia opplever Facebook-brukere nå store problemer med det sosiale mediet, ifølge Downdetector. Skjermdump: Downdetector.com</p></div>
+<div type="text">
+<p>Facebook og deres bildedelingstjeneste Instagram opplever onsdag ettermiddag norsk tid store problemer.</p>
+<p>De to tjenestene er nede eller opplever store problemer i store deler av verden.</p>
+<p>Aller verst ser det ut til å være USA, ifølge tjenesten Downdetector.com, hvor man i realtid kan se hvor i verden det populære nettsamfunnet opplever problemer.</p></div>
+<div type="title" level="3">- Vedlikehold</div>
+<div type="text">
+<p>Den britiske avisa Independent melder at Facebook selv skriver at nedetida er et resultat av vedlikehold.</p>
+<p>Men Facebooks sider for utviklere skal ikke nevne noe om planlagt vedlikehold i dag, så spekulasjonene raser nå om det kan være andre årsaker til problemene.</p>
+<p>For visse brukere i Storbritannia får man opp følgende melding hvis man er rammet av Facebook-problemene:</p>
+<p>«Facebook er nede som følge av nødvendig vedlikehold akkurat nå, men du bør være i stand til å komme tilbake i løpet av noen minutter.»</p></div>
+<div type="title" level="3">Europa, Amerika og Asia</div>
+<div type="text">
+<p>Downdetector viser at de største problemene er på østkysten i USA, og ellers i landet. Også i Sør-Amerika skal problemene være store, og de største er i Brasil.</p>
+<p>I Europa er det Storbritannia og Benelux-landene som opplever de største problemene, i tillegg til Polen, Italia og Frankrike.</p>
+<p>Men problemene rammer hele Europa, inkludert Norge. Her hjemme skal problemene imidlertid være mindre enn i Storbritannia.</p>
+<p>I Asia er det på Filippinene de største problemene befinner seg, men også på dette kontinentet er det få land som er fri for Facebook- og Instagram-problemer.</p></div></body></document>

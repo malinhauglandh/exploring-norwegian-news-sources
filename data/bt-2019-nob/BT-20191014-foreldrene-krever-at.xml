@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191014-foreldrene-krever-at.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LAd1EP/Foreldrene-krever-at-staten-betaler-for-hjelp-til-Nora-i-USA" frk="33 14 3 214 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-14 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Foreldrene krever at staten betaler for hjelp til Nora i USA</div>
+<div type="ingress">Livslang pleie av Nora vil i USA koste 120 millioner kroner, viser overslag. Foreldrene krever at den norske staten dekker utgiftene.</div>
+<div type="author"></div>
+<div type="date">2019-10-14</div>
+<div type="caption"></div>
+</body></document>

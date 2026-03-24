@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190130-hvilken-akebakke-er-.xml"/>
+<attribute name="url" value="http://junior.bt.no/dyr_natur/i/bK0kRq/Hvilken-akebakke-er-den-beste" frk="40 8 2 239 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-30 12:22"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="dyr_natur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hvilken akebakke er den beste?</div>
+<div type="ingress">Si oss din mening!</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">30.jan.2019 12:22</div>
+<div type="caption"><p>HVOR AKER DU? Hvor pleier du å sette utfor på rattkjelken din?</p> <p>Se noen av tipsene vi har fått på Snapchat</p> <p>JUNIORREPORTER: Hermine (11) skal være med og teste akebakkene.</p></div>
+</body></document>

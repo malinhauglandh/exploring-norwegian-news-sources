@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190208-problemet-lost-snart.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/problemet-lost-snart-flytrafikk-inn-og-ut-av-norge-som-normalt/70745636" frk="385 5 13 2366"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-08 04:28"/>
+<attribute name="author" value="Vegard Kristiansen Kvaale, Halldor Hustadnes, Amanda Nordhagen Walnum"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="luftfart,avinor,nyheter,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Problemet løst, snart flytrafikk inn og ut av Norge som normalt</div>
+<div type="ingress">Datanettverket til Avinors samarbeidspartner var nede på morgenkvisten på grunn av feil i England.</div>
+<div type="author">Vegard Kristiansen Kvaale, Halldor Hustadnes, Amanda Nordhagen Walnum</div>
+<div type="date">2019-02-08</div>
+<div type="caption"><p>STANS: Full stans i flytrafikken inn og ut av Norge. Foto: Paul Kleiven / NTB scanpix</p></div>
+<div type="text">
+<p>Det internasjonale datanettverket som gir Avinors systemer informasjon om flyginger som skal trafikkere i norsk luftrom har vært nede, men problemene er løst klokka 06.20.</p>
+<p>«De tekniske problemene som førte til full stans i flytrafikken i morgentimene er nå løst. Trafikken går etter hvert som normalt, men det vil bli noen følgeforsinkelser utover dagen», heter det i en melding fra Avinor.</p></div>
+<div type="title" level="3">Forsinkelser</div>
+<div type="text">
+<p>Feilen lå utenfor Norge og medførte en svært begrenset kapasitet i flytrafikken. Alle avganger og ankomster ble stanset inntil videre.</p>
+<p>Klokka 06.40 sier kommunikasjonssjef i Avinor, Gurli Ulverud, til Dagbladet at hun ikke har registrert henvendelser fra reisende som har fått problemer på grunn av de tekniske problemene.</p>
+<p>- Det er veldig få flyginger før klokka seks, sier hun og legger til at det derfor - forhåpentligvis - ikke er mange berørte av feilene som nå er løst.</p>
+<p>Klokka 07.15 forteller Ulverud til Dagbladet at det fortsatt er noen forsinkelser, men at de regner med å normalisere trafikken i løpet av en time eller to.</p></div>
+<div type="title" level="3">Avkrefter hacking</div>
+<div type="text">
+<p>- Vi jobber på spreng med å få løst feilen, som ligger i England, opplyste Ulverud til Dagbladet tidlig på morgenen.</p>
+<p>Feilen hadde oppstått i løpet av natta, og at Avinor begynte å varsle om situasjonen klokka 4.</p>
+<p>- Det var nok en nedetid på rundt tre timer, sier Ulverud.</p>
+<p>Hun forklarer at de bruker et felles europeisk telenettverksytem som leverer informasjon om flyginger, og det var en underleverandør til dette systemet som hadde en teknisk feil.</p>
+<p>Ulverud avkrefter at Avinor frykter årsaken er hacking.</p>
+<p>- Det er for tidlig å si noe om årsak. På generelt grunnlag kan jeg si at det er selvfølgelig noe alle selskaper frykter, men det er ingen grunn til å tro at dette har noe med hacking å gjøre.</p></div>
+<div type="title" level="3">Bare Norge</div>
+<div type="text">
+<p>Avinor har forhørt seg om dette også gjaldt andre land, men beskjeden var at det bare var Norge som ble rammet.</p>
+<p>Avinor vil komme med løpende oppdateringer om hendelsen, og hvilke konsekvenser den får på avinor.no.</p>
+<p>- Vi ber passasjerer forholde seg til denne informasjonen samt informasjon de får fra sitt flyselskap, opplyser Avinor.</p></div></body></document>

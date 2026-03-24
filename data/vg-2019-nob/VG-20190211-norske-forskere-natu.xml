@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190211-norske-forskere-natu.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/helse/i/3jAegd/norske-forskere-naturlige-stoffer-kan-stoppe-utviklingen-av-alzheimer" frk="50 0 0 330"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-02-11 23:57"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,helse"/>
+<attribute name="class2" value="Medisin, DNA, Bioteknologi, Forskning og vitenskap, Genetikk, Bioteknologirådet, Universitetet i Oslo, Sykdom, Demens, Biologi, Forbruker, Helse"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske forskere: Naturlige stoffer kan stoppe utviklingen av Alzheimer</div>
+<div type="ingress">Forskere ved UiO har påvist at tilsetting av visse stoffer kan bremse eller til og med stoppe utviklingen av Alzheimer i celle- og dyremodeller. Den andre gode nyheten er at stoffene finnes i naturlig form og har ingen kjente bivirkninger.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

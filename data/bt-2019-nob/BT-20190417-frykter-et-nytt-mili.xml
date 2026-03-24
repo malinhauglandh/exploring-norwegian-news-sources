@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190417-frykter-et-nytt-mili.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/8mGJaA/Frykter-et-nytt-militardiktatur" frk="52 0 0 347 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-17 20:53"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Frykter et nytt militærdiktatur</div>
+<div type="ingress">Demonstrantene i Sudan frykter at det gamle militærdiktaturet bare er byttet ut med et nytt.</div>
+<div type="author"></div>
+<div type="date">2019-04-17</div>
+<div type="caption"><p>FEMINISTISK FRIHETSSYMBOL: Alaa Salah er på kort tid blitt et feministisk frihetssymbol for de demonstrerende i Sudan. Hun forlanger at de militære viker plassen for en sivil ledelse i landet. FOTO: AFP</p></div>
+</body></document>

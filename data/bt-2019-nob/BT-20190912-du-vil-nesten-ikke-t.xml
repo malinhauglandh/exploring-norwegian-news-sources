@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190912-du-vil-nesten-ikke-t.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/1nw7xq/Du-vil-nesten-ikke-tro-at-denne-Netflix-serien-er-sann" frk="22 0 0 150 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-12 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Du vil nesten ikke tro at denne Netflix-serien er sann</div>
+<div type="ingress">«Unbelievable» er en sterk fortelling. Hvorfor trodde ingen på Marie Adler?</div>
+<div type="author"></div>
+<div type="date">2019-09-12</div>
+<div type="caption"></div>
+</body></document>

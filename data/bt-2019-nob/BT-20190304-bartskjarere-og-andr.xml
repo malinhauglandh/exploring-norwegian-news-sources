@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190304-bartskjarere-og-andr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P3bdQ6/Bartskjarere-og-andre-knivskarpe-personer" frk="46 24 8 322 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-04 09:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Medisin,Lokalhistorie,Bergen,Helse,Middelalderen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bartskjærere og andre knivskarpe personer</div>
+<div type="ingress">Hva ville du sagt hvis du oppdaget at kirurgen som opererte deg egentlig var barberer?</div>
+<div type="author"></div>
+<div type="date">2019-03-04</div>
+<div type="caption"><p>ANATOMI: Rembrandts verdenskjente bilde fra 1632 viser den hollandske legen dr. Tulp, som har en forelesning i anatomi på begynnelsen av 1600-tallet. FOTO: Wikimedia commons</p></div>
+</body></document>

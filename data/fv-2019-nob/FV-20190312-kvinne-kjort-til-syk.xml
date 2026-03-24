@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190312-kvinne-kjort-til-syk.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/ddxMA1/Bil-har-krasjet-i-tre" frk="50 20 6 291 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-12 08:39"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kvinne kjørt til sykehus etter trafikkulykke</div>
+<div type="ingress">En kvinne er fraktet til sykehus etter å ha kjørt utfor veien og krasjet i et tre på fylkesvei 420 i Lillesand.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En bil har kjørt utfor veien og krasjet i et tre på fylkesvei 420 ved Viadukten i Lillesand. FOTO: Morten Boswarva</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190611-disse-konsertene-ma-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/XgzAgg/Disse-konsertene-ma-du-fa-med-deg-pa-Bergenfest" frk="31 0 0 179 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-11 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Disse konsertene må du få med deg på Bergenfest</div>
+<div type="ingress">Gamle og nye indiehelter, svensk pop og en punkdronning er noe av det du bør få med deg under årets Bergenfest.</div>
+<div type="author"></div>
+<div type="date">2019-06-11</div>
+<div type="caption"></div>
+</body></document>

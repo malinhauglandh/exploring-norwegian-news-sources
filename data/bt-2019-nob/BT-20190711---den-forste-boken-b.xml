@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190711---den-forste-boken-b.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/xPV6jQ/Varg-Veum-spilles-inn-under-Puddefjordsbroen" frk="44 0 0 255 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-11 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Den første boken ble spilt inn på østnorsk i et studio i Trondheim. Det var jo ikke helt slik det skulle være.</div>
+<div type="ingress">I et mørkt studio på Møhlenpris lager Bjørn Willberg Andersen og Gunnar Staalesen lydbok av fem Varg Veum-bøker på rappen.</div>
+<div type="author"></div>
+<div type="date">2019-07-11</div>
+<div type="caption"></div>
+</body></document>

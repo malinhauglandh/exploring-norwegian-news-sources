@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190801-buss-har-havnet-i-gr.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/vQ811j/Buss-har-havnet-i-groft" frk="49 0 0 292 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-01 11:36"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Buss har havnet i grøft</div>
+<div type="ingress">Onsdag formiddag har en buss havnet i en grøft på Jærnesheia. Sjåføren er ved bevissthet, og skal ha vært alene i bussen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ingen personer skal ha blitt alvorlig skadet da en buss kjørte ut i grøfta på Jærnesheia onsdag formiddag. FOTO: Fvn.no tipser</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190123-vet-ikke-hvor-mange-.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/xRvdJl/vet-ikke-hvor-mange-som-legges-i-belter" frk="30 0 0 213 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-23 12:26"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vet ikke hvor mange som legges i belter</div>
+<div type="ingress">TRONDHEIM/OSLO (VG) Hver dag blir et titalls pasienter bundet fast ved norske sykehus. Hvert fjerde tilfelle blir aldri rapportert til helsemyndighetene.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

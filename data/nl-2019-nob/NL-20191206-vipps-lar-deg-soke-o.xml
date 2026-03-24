@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191206-vipps-lar-deg-soke-o.xml"/>
+<attribute name="url" value="http://www.nordlys.no/vipps/datatilsynet/nettavisen/vipps-lar-deg-soke-opp-eier-av-nummer-som-er-skjult-i-opplysningstjenestene/s/5-67-967694" frk="599 2 9 3738"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-12-06 13:04"/>
+<attribute name="author" value="Magnus Blaker"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vipps lar deg søke opp eier av nummer som er skjult i opplysningstjenestene</div>
+<div type="ingress">Nå endrer de brukervilkårene etter Nettavisen-spørsmål.</div>
+<div type="author">Av Magnus Blaker</div>
+<div type="date">06. desember 2019, kl. 13:04</div>
+<div type="caption"><p>Mens eieren av et nummer er skjult fra opplysningstjenestene, kan du enkelt søke opp eieren gjennom Vipps. Foto: Nettavisen</p></div>
+<div type="text">
+<p>(Moss Avis) Har du noen gang søkt opp et telefonnummer du ikke kjenner, for bare å bli møtt med beskjed om at nummeret er reservert mot nummeropplysning?</p>
+<p>Eller har du kanskje selv reservert deg mot tjenestene?</p>
+<p>En rekke Nettavisen-lesere har den siste tiden tipset om at en ved å bruke Vipps kan gå rundt hele ordningen med nummerreservering. For hvis tjenester som 1881, Gule Sider eller 180.no gir deg beskjed om at et nummer er skjult, kan du i de fleste tilfeller taste nummeret inn i Vipps og få opp eieren til nummeret.</p></div>
+<div type="title" level="3">Henter informasjon rett fra Folkeregistrert</div>
+<div type="text">
+<p>Hanne Kjærnes i Vipps bekrefter at det fungerer slik – med noen unntak:</p>
+<p>– Vi henter ut informasjon fra Folkeregisteret, og får da tilbake fornavn, etternavn og eventuelt mellomnavn dersom man har det, sier Kjærnes til Nettavisen.</p>
+<p>Det er derimot et par forbehold.</p>
+<p>Informasjon som er registrert som strengt fortrolig i Folkeregisteret deles ikke.</p>
+<p>Nummeret må være registrert Vipps-bruker</p>
+<p>Disse forbeholdene er forholdsvis smale, siden Vipps er en de facto standard betalingsordning som brukes på tvers av alle banker.</p>
+<p>Å få en strengt fortrolig oppføring i Folkeregisteret er på sin side noe du ikke selv kan velge å få, men som innvilges etter søknad til Kripos.</p></div>
+<div type="title" level="3">Nkom reagerer</div>
+<div type="text">
+<p>Nkom, tidligere kjent som Post- og teletilsynet, tar umiddelbart grep når Nettavisen stiller spørsmål om saken:</p>
+<p>– Betalingstjenesten Vipps faller utenfor området for ekomregelverket og inn under regelverket for betalingstjenester. Vi kan likevel gi noen overordnede kommentarer. Vipps baserer seg på informasjon som brukerne selv oppgir og som sjekkes mot Folkeregisteret. Det er ikke teleselskapene som gir informasjonen til Vipps. Tjenesten kan, slik vi forstår det, ikke tas i bruk før vilkår er godtatt. Tjenesten baserer seg på åpne telefonnummer. Navn vil, etter det vi forstår, også fremgå i bankenes kontoutskrifter, sier seniorrådgiver Johannes Valleverd til Nettavisen.</p>
+<p>– Det fremgår også i Vipps sine vilkår punkt 2.2 at tjenesten ikke støtter skjerming av hemmelig nummer. Av hensyn til transparens har vi i dag anmodet Vipps om også å innta at tjenesten heller ikke støtter skjerming av mobilnummer som er reservert mot utlevering til nummeropplysningstjenester, sier Valleverd.</p></div>
+<div type="title" level="3">Datatilsynet: Det er nok mange som ikke er klar over at det er mulig</div>
+<div type="text">
+<p>Datatilsynet opplyser til Nettavisen at de ikke har vurdert saken juridisk, men at det er viktig at Vipps er åpne om funksjonaliteten:</p>
+<p>– Det er viktig at Vipps opplyser om denne muligheten ovenfor sine kunder, slik at kundene er klar over at det vil være mulig for andre brukere av Vipps å slå opp telefonnummeret deres i Vipps, til tross for at kunden har reservert seg mot å stå oppført i nummeropplysningstjenester. Det er nok mange som ikke er klar over at det er mulig å bruke Vipps som et oppslagsverktøy for telefonnummer, sier seksjonssjef Ylva Marrable til Nettavisen.</p></div>
+<div type="title" level="3">Endrer brukervilkårene</div>
+<div type="text">
+<p>Etter at Nkom tok kontakt med Vipps, melder Hanne Kjærnes at Vipps nå vil endre brukervilkårene:</p>
+<p>– Nkom tok kontakt med oss etter at dere hadde vært i kontakt med dem. På bakgrunn av det gjøres en endring i våre vilkår:</p>
+<p>«Du må ha en mobiltelefon med et norsk telefonnummer. Tjenesten støtter ikke skjerming av hemmelig nummer. Dersom du har hemmelig nummer, kan du ikke bruke Vipps. Tilsvarende gjelder hvis du har reservert deg hos en teletilbyder om reservasjon mot visning av eget nummer.»</p>
+<p>Endringen vil rulles ut i neste oppdatering av brukervilkårene.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190928-mysteriet-bjorn.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/e8mwGy/Mysteriet-Bjorn" frk="77 0 0 453 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-28 11:59"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="folkets hus,alf prøysen,sang,bjørn eidsvåg,jesus,sauda"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Mysteriet Bjørn</div>
+<div type="ingress">Bjørn Eidsvåg leter etter sannheten i forsøket på å være et godt menneske. Han har vært snill og arrogant, flink og feilbarlig. Derfor utforsker han mørket og mysteriet i sjelen, troen og tvilen. Og skriver bok om hva han finner.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dette er Bjørn Eidsvågs livserfaring: Vi er ikke feilfrie. Vi kommer til å såre noen, vi vil glede andre. Ingen er perfekt. Vi må hjelpe hverandre til å leve som feilbarlige. Finn E. Våga</p></div>
+</body></document>

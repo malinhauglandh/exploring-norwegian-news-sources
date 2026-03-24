@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190514-genbank-matte-kaste-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/K3GMRM/Genbank-matte-kaste-halvparten-av-fangsten" frk="62 4 2 465 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-14 21:20"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Havforskningsinstituttet,Laks,Oppdrettsnæring"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Genbank måtte kaste halvparten av fangsten</div>
+<div type="ingress">Nesten halvparten av all innsamlet laks til Genbank Hardangerfjord ble i fjor kastet, fordi fisken var innblandet med oppdrettsfisk.</div>
+<div type="author"></div>
+<div type="date">2019-05-14</div>
+<div type="caption"><p>REDNINGSAKSJON: Sven-Helge Pedersen i Hardangerfjord Villfisklag og den aktive fiskeren Arild Alvsåker jobber med rogn i Steinsdalselva . Til sammen 22 bestander skal få plass i genbanken. Overskuddsmatarialet settes tilbake i elvene. FOTO: ARKIVFOTO: ROAR CHRISTIANSEN</p></div>
+</body></document>

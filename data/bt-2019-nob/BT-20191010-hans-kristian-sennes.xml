@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010-hans-kristian-sennes.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/VbL1kJ/Hans-Kristian-Senneseth-fikk-opplysninger-om-et-barn-som-ikke-er-hans" frk="19 0 0 138 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hans Kristian Senneseth fikk opplysninger om et barn som ikke er hans</div>
+<div type="ingress">Firebarnsfaren er kritisk til skoleappen Vigilo.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

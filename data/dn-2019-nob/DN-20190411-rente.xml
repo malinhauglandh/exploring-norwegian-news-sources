@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190411-rente.xml"/>
+<attribute name="url" value="http://www.dn.no/borskommentar/rente/2-1-586734" frk="40 22 6 262 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-11 17:52"/>
+<attribute name="author" value="Nicolay Steensen / TDN Direkt"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="borskommentar"/>
+<attribute name="class2" value="Børs,Børskommentar"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rente</div>
+<div type="ingress">Kjerneinflasjonen i Sverige kom inn på 1,5 prosent for mars, mot en ventet økning på 1,4 prosent. Selv om inflasjonen kom inn marginalt høyere enn konsensus av økonomer, er inflasjonen fortsatt lavere enn Riksbankens mål på 2,0 prosent.</div>
+<div type="author">Nicolay Steensen / TDN Direkt</div>
+<div type="date">2019-04-11 17:52</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190703-bankid-problemer-los.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/norgeogverden/i/qLVdeE/BankID-problemer-lost" frk="56 4 2 411 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-03 15:23"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,norgeogverden"/>
+<attribute name="class2" value="nyheter,norgeogverden"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">BankID-problemer løst</div>
+<div type="ingress">BankID opplevde onsdag innloggingsproblemer for kunder som bruker Telenor som operatør. I løpet av ettermiddagen var problemene løst.</div>
+<div type="author">NTB</div>
+<div type="date">03.jul.2019 15:23</div>
+<div type="caption"><p>FOTO: NTB scanpix</p></div>
+<div type="text">
+<p>– Tjenesten fungerer som normalt, opplyser kommunikasjonssjef Hanne Kjærnes i BankID til NTB like over klokka 15.</p>
+<p>Problemet gjaldt kun BankID på mobil for Telenor-kunder, mens resten av tjenesten fungerte som normalt.</p></div></body></document>

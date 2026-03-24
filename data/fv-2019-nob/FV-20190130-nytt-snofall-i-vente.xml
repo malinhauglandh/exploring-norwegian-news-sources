@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190130-nytt-snofall-i-vente.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/a2zv3A/Nytt-snofall-i-vente---Ikke-legg-vekk-snoskuffa" frk="53 0 0 327 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-01-30 12:43"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nytt snøfall i vente: - Ikke legg vekk snøskuffa</div>
+<div type="ingress">Synes du det har kommet nok snø? Da må meteorologen skuffe deg. De neste dagene kan det komme over en halvmeter til.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det er ventet en god porsjon hvit nedbør både torsdag og fredag. Meteorologen anbefaler å ha snøskuffa lett tilgjengelig. FOTO: Jacob Buchard</p></div>
+</body></document>

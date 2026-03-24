@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190814-tunnelen.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/GG64qV/Tunnelen" frk="25 14 2 136 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-14 08:47"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="hodepine-quiz,hodepine-quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tunnelen</div>
+<div type="ingress">Hodepine 37: Dette er en av mine favoritter. Det kan bety at noen av dere har løst den før. Men det får gå.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

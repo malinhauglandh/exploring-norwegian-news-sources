@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190319-15-aringer-rakjorte-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/9myQGM/15-aringer-rakjorte-og-filmet-for-ulykken-pa-Osteroy" frk="34 34 7 204 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-19 21:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Osterøy,Trafikkulykker,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">15-åringer råkjørte og filmet før ulykken på Osterøy</div>
+<div type="ingress">De to 15-åringene som var innblandet i en trafikkulykke på Osterøy skal ha holdt en fart på over 140 km/t og filmet mens de kjørte.</div>
+<div type="author"></div>
+<div type="date">2019-03-19</div>
+<div type="caption"></div>
+</body></document>

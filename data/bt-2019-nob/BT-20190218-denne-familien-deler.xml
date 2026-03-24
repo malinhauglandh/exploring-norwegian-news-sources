@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190218-denne-familien-deler.xml"/>
+<attribute name="url" value="http://junior.bt.no/vitenskap_data/i/zLpdz1/Denne-familien-deler-livet-sitt-pa-Youtube" frk="24 0 0 140 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-18 14:46"/>
+
+<attribute name="author" value="Severin Tøkje, Journalist"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="vitenskap_data"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne familien deler livet sitt på Youtube</div>
+<div type="ingress">– Vi lever ikke akkurat et vanlig liv, sier de.</div>
+<div type="author">Severin Tøkje, Journalist</div>
+<div type="date">18.feb.2019 14:46</div>
+<div type="caption"><p>Hva deler de med hele verden?</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191005-hongkong-politiet-vi.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/qLE1oo/Politiet-vil-ha-unntakstilstand" frk="21 0 0 159 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-05 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hongkong: Politiet vil ha unntakstilstand</div>
+<div type="ingress">Politimenn i Hongkong sier de trenger ekstra handlingsrom for å kunne håndtere den økende volden.</div>
+<div type="author"></div>
+<div type="date">2019-10-05</div>
+<div type="caption"></div>
+</body></document>

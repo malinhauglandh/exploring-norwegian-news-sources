@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190122-sensor-fikk-ikke-apn.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/sensor-fikk-ikke-apnet-word-filene-ga-studentene-stryk/70669246" frk="371 1 4 2306"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-22 07:01"/>
+<attribute name="author" value="Madeleine Hatlo"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="studenter,eksamen,innenriks,lærerutdanning,ntnu,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sensor fikk ikke åpnet word-filene. Ga studentene stryk</div>
+<div type="ingress">NTNU sier de vil gi ny sensur så raskt som mulig.</div>
+<div type="author">Madeleine Hatlo</div>
+<div type="date">2019-01-22</div>
+<div type="caption"><p>STRYK: Store deler av klassen ved lærerutdanningen på NTNU fikk stryk på høsten hjemmeeksamen. Så viste det seg at sensor ikke hadde fått åpnet besvarelsene. Foto: Shutterstock / NTB Scanpix</p></div>
+<div type="text">
+<p>Da studentene på lærerutdanningen ved NTNU fikk tilbake eksamensresultatene sine torsdag forrige uke, var det flere som fikk seg en real overraskelse.</p>
+<p>Pugging og hard innsats til tross - på hjemmeeksamen i faget vitenskapsteori og metode for høstsemesteret, fikk 18 av de 49 studentene strykkarakter.</p>
+<p>Allerede fredag morgen kunne de imidlertid puste lettet ut - i hvert fall for en stund. Da fikk de beskjed fra instituttet om at det hadde skjedd en feil. Sensor hadde ikke klart å åpne word-dokumentene med de innleverte besvarelsene, og valgte derfor å sette strykkarakter på samtlige.</p></div>
+<div type="title" level="3">Menneskelig glipp</div>
+<div type="text">
+<p>Kontorsjef for institutt for lærerutdanning, Øyvind Wormdal, forklarer Dagbladet hva som har skjedd. Han sier at kimen til problemet ligger i innleveringsplattformen Inspera, som brukes ved hele NTNU.</p>
+<p>- Plattformen har en egenskap i systemet som gjør at besvarelsene må være levert i PDF-format, og ikke Word, dersom besvarelsene skal kunne åpnes når de lastes ned samlet.</p>
+<p>Besvarelsene som er gjort i Word-format må lastes ned én og én. Dette skal være en kjent sak for sensor, men i dette tilfellet har det skjedd en glipp, forteller han.</p></div>
+<div type="title" level="3">- Skal ikke skje</div>
+<div type="text">
+<p>Wormdal sier at det hører til sjeldenhetene at hendelser som dette skjer. I de aller fleste tilfeller får studentene rett sensur med en gang.</p>
+<p>- Vår absolutte innstilling er å finne den gode og riktige løsningen for studentene i slike saker. Vi ønsker ikke at dette skal skje, sier han.</p>
+<p>- Vi kan muligens forbedre internkommunikasjon for å hindre at dette skjer, men vi har til og med en dedikert veileder som jobber dedikert med innleveringssystemet. I dette tilfellet skjedde det en uheldig og beklagelig glipp likevel.</p>
+<p>Han understreker at studentene ble gjort oppmerksomme på feilen dagen etter at sensuren falt, og så vidt han vet har de ikke fått inn noen klager fra studentene. De vil få ny sensur seinest om tre uker, men instituttet har allerede gjennomført sensuren, og etterstreber å få den levert så snart som mulig.</p></div></body></document>

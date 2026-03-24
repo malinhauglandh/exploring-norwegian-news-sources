@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190621-netflix-jakter-etter.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/P9a4OX/Netflix-jakter-etter-talenter-pa-Vestlandet" frk="36 0 0 223 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-21 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Netflix jakter etter talenter på Vestlandet</div>
+<div type="ingress">– Vi visste at Bergen og Fjord-Norge var vakkert fra før, men nå er vi enda ivrigere etter å få laget serier eller filmer her, sier Netflix-sjef Lina Brouneus.</div>
+<div type="author"></div>
+<div type="date">2019-06-21</div>
+<div type="caption"></div>
+</body></document>

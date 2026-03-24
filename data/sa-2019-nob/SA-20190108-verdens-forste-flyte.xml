@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190108-verdens-forste-flyte.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/WLPv5L/Verdens-forste-flytende-vindturbin-far-forlenget-liv-" frk="55 15 6 385 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-08 11:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="offshore,havvind,energi,innovasjon,karmøy,infrastruktur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Verdens første flytende vindturbin får forlenget liv</div>
+<div type="ingress">Equinor og Unitech Offshore er enige: Unitech Offshore overtar eierskap og drift av «Hywind Demo».</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Slepebåter tauer den flytende havvindmølla Hywind mot sin posisjon 10 kilometer sørvest for Karmøy i 2009. Nå skal Unitech Offshore overta eierskap og drift av den flytende vindturbinen Hywind Demo. Fredrik Refvem</p></div>
+</body></document>

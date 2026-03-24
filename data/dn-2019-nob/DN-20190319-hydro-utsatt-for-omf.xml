@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190319-hydro-utsatt-for-omf.xml"/>
+<attribute name="url" value="http://www.dn.no/industri/hydro-utsatt-for-cyber-angrep/2-1-568538" frk="377 1 3 2362"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-19 08:58"/>
+<attribute name="author" value="Jonas Christensen,Christian Bjerknes"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="industri"/>
+<attribute name="class2" value="Nyheter,Industri"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro utsatt for omfattende cyber-angrep</div>
+<div type="ingress">Driften i flere av Hydros forretningsområder er påvirket. Driften i flere av Hydros forretningsområder er påvirket.</div>
+<div type="author">Jonas Christensen,Christian Bjerknes</div>
+<div type="date">2019-03-19 08:58</div>
+<div type="caption">Hydro-sjef Svein Richard Brandtzæg. (Foto: Jeff Gilbert) </div>
+<div type="text">
+<p>I en melding tirsdag skriver Hydro at selskapet natt til tirsdag ble utsatt for et omfattende cyber-angrep som påvirker driften i flere av selskapets forretningsområder.</p>
+<p>Hydro skifter til manuell drift så langt det er mulig. Selskapet arbeider for å nøytralisere angrepet, men kjenner hittil ikke det fulle omfanget av situasjonen.</p></div>
+<div type="title" level="3">Flere anlegg er stengt</div>
+<div type="text">
+<p>– Angrepet ble først oppdaget i natt norsk tid. Våre IT-folk oppdaget at det var noe mistenkelig aktivitet på våre serverer, og problemet spredte seg etter hvert til flere deler av organisasjonen. Vi så oss derfor nødt til å varsle markedet, sier informasjonssjef Erik Brynildsbakken i Hydro.</p>
+<p>Selskapets nettsider er for tiden ikke tilgjengelige.</p>
+<p>– Er dette et resultat av angrepet, eller har dere gjort det selv i et forsøk på å stoppe angrepet?</p>
+<p>– Vi jobber med å få oversikt, og jeg kan ikke svare på dette nå. Våre IT-folk jobber med å å løse problemet, sier Brynildsbakken.</p>
+<p>Til TDN Direkt sier informasjonsdirektør Halvor Molland at noen anlegg er stengt som følge av anlegget og at noen kjøres manuelt, blant annet metallverkene på Vestlandet som er berørt av angrepet.</p>
+<p>Hydro-aksjen faller 2,65 prosent på børs.</p></div>
+<div type="title" level="3">Mener Hydro var tidlig ute</div>
+<div type="text">
+<p>Hans Christian Pretorius er leder for Nasjonal sikkerhetsmyndighets (NSM) cybersikkerhetsavdeling og kjenner ikke til at andre selskaper er rammet av angrepet. Pretorius sier at det så langt ikke virker som angrepet skiller seg fra andre cyberangrep.</p>
+<p>(NSM) bistår nå Hydro med håndtering av hendelsen.</p>
+<p>– Så langt ser det ut som den følger et helt standard hendelsesforløp og tidslinjen viser at Hydro har vært tidlig på. Det er helt naturlig at man ved en så tidlig fase ikke har en komplett oversikt. Her kan det se ut som Hydro har vært veldig tidlig på, sier han.</p>
+<p>Pretorius sier at alle store norske selskaper blir forsøkt angrepet fra tid til annen med alt fra målrettet epost med skadevare til konstant skanning av sårbarheter i brannmur. Og hvordan selskapene håndterer sikkerhetstrusler er veldig ulikt.</p>
+<p>– Det er nok et stort skille mellom de største norske selskapene og særlig de mellomstore og små bedriftene, sier han.</p></div></body></document>

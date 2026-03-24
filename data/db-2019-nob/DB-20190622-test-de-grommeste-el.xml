@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190622-test-de-grommeste-el.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-de-grommeste-elbilene-akkurat-na/71212242" frk="79 0 0 482 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-22 19:58"/>
+<attribute name="author" value="Knut Moberg / Autofil"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test: De grommeste elbilene akkurat nå</div>
+<div type="ingress">De tre utfordrerne til Tesla Model X møtes til en durabelig trekamp, og vi kårer en vinner i premiumkampen mellom Mercedes EQC, Audi E-tron og Jaguar I-Pace.</div>
+<div type="author">Knut Moberg / Autofil</div>
+<div type="date">2019-06-22</div>
+<div type="caption"><p>PREMIUM EL-DORADO: Her snakker vi skikkelig gromtest; Mercedes-Benz EQC (foran) i stortest mot Audi E-tron (t.v) og Jaguar I-Pace. Er det mulig å skille dem i kvalitet, og hvilken er i så fall det beste kjøpet? Autofil gir deg alle svarene her. Foto: Espen Stensrud</p></div>
+</body></document>

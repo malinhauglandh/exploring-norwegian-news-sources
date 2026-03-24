@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190718-brann-utenfor-konser.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/8mjpGE/Brann-utenfor-Konserthuset" frk="57 17 8 453 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-18 21:00:51"/>
+<attribute name="author" value="Janne Hagen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brann utenfor Konserthuset</div>
+<div type="ingress">Ingen personskader, og ingen bygningsskader, opplyser politiet.</div>
+<div type="author">Janne Hagen</div>
+<div type="date">2019-07-18 21:00:51</div>
+<div type="caption"></div>
+<div type="text">
+<p>STAVANGER: Klokken 22.12 kjørte utrykningsetatene ut etter melding om røykutvikling ved Stavanger konserthus.</p>
+<p>Det brenner i en container ved Konserthuset, opplyser operasjonsleder i politiet. Ingen trenger å evakueres.</p>
+<p>Klokken 22.43 er brannen er slokket.</p>
+<p>Det er ingen personskader og ingen bygningsskader opplyser politiet som oppretter sak.</p></div></body></document>

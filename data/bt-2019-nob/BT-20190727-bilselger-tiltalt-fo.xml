@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190727-bilselger-tiltalt-fo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/XgEzXW/Bilselger-tiltalt-for-millionunderslag-og-bedrageri" frk="17 0 0 123 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-27 16:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bedrageri"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bilselger tiltalt for millionunderslag og bedrageri</div>
+<div type="ingress">Skal ha solgt kundenes biler uten å gi dem pengene.</div>
+<div type="author"></div>
+<div type="date">2019-07-27</div>
+<div type="caption"></div>
+</body></document>

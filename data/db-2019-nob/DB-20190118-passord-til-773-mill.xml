@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190118-passord-til-773-mill.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/passord-til-773-mill-e-postadresser-lekket/70672420" frk="481 17 56 3160"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-18 04:57"/>
+<attribute name="author" value="Frode Andresen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,lekkasje,utenriks,passord"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Passord til 773 mill. e-postadresser lekket</div>
+<div type="ingress">Det kan være på tide å bytte passord.</div>
+<div type="author">Frode Andresen</div>
+<div type="date">2019-01-18</div>
+<div type="caption"><p>MASSIV LEKKASJE: Sikkerhetsekspert Troy Hunt advarer mot en gigantisk lekkasje av e-postadresser og tilhørende passord. FOTO: Shutterstock / NTB Scanpix</p></div>
+<div type="text">
+<p>Sikkerhetsekspert advarer om at en massiv lekkasje som inneholder over 700 millioner e-postadresser og tilhørende passord er blitt oppdaget. Teknologimagasinet Wired omtaler det som den største enkeltlekkasjen i internettets historie.</p>
+<p>Den massive databasen, kjent som «Collection #1», har sirkulert åpent på nettet siden den først ble observert på fildelingstjenesten MEGA forrige uke. Databasen er 87 gigabyte stor, ifølge Wired.</p>
+<p>Den er nå blitt fjernet fra MEGA, men sirkulerer fortsatt på forum som ofte brukes av hackere.</p></div>
+<div type="title" level="3">Over 700 mill.</div>
+<div type="text">
+<p>Databasen inneholder hele 773 millioner e-postadresser og 21 millioner passord. Grunnen til at det er færre passord en antall e-postadresser, er at mennesker generelt sett velger passord med dårlig sikkerhet.</p>
+<p>Mange mennesker benytter seg av de samme passordene, hvorav «123456», «password» og «123456789» er de mest brukte passordene i verden.</p>
+<p>Troy Hunt står blant annet bak nettsida Have I Been Pwned? - en database som enkelt kan fortelle deg om passordet ditt har blitt lekket i den nye lekkasjen, eller tidligere lekkasjer.</p>
+<p>På sin egen hjemmeside forteller Hunt at 140 millioner av de lekkede e-postadressene ikke har forekommet i hans database tidligere. Det betyr at selv om du ikke har blitt rammet av en lekkasje før, så kan du ha blitt det nå.</p>
+<p>Lekkasjen kan også ha rammet personer som tidligere har fått e-postadressen og passordet sitt lekket, og seinere har byttet passord.</p></div>
+<div type="title" level="3">Rammet norske samfunnstopper</div>
+<div type="text">
+<p>I oktober i fjor omtalte Dagbladet en lekkasje av 1,4 milliarder passord, som rammet en rekke norske samfunnstopper. Samlingen ble publisert på nettstedet Reddit i desember 2017, og Dagbladets gjennomgang viste at minst 573 000 norske e-postkontoer var berørt.</p>
+<p>Undersøkelsene viste også at det var lekket passord til 166 e-postadresser tilknyttet Stortinget. I tillegg var samme informasjon lekket om 739 forskjellige e-postadresser fra departementene og 342 fra politiet.</p>
+<p>Det var Aftenposten som først omtalte at flere norske samfunnstopper var blitt rammet av lekkasjen.</p>
+<p>De kunne stadfeste at passord brukt av statsminister Erna Solberg, Telenor-sjef Sigve Brekke, DnB-sjef Rune Bjerke og utviklingsminister Nikolai Astrup, var blitt lagt ut åpent på nettet.</p></div>
+<div type="title" level="3">Nye og gamle lekkasjer</div>
+<div type="text">
+<p>Avisa skrev at stikkprøver viste at norske toppolitikere og næringslivsledere tyr til svært åpenbare fraser når de skal lage sine passord. De hevdet at i mange tilfeller brukes navnet til kona, barn eller hunder, i kombinasjon med fødselsår eller andre tall.</p>
+<p>Noen av passordlekkasjene fant sted for flere år siden, og har sirkulert på nettet en stund. Det gjør ikke informasjonen mindre nyttig for kriminelle, skriver Forbes.</p>
+<p>For folk har for vane å resirkulere egne passord, eller bruke liknende versjoner av passordet seinere. Det er også mange som ikke reagerer raskt nok på passordlekkasjer, noe som kan føre til at flere av disse passordene fortsatt er i bruk.</p></div></body></document>

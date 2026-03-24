@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190625-hoy-temperatur-pa-fo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/xPVMBR/Hoy-temperatur-pa-folkemote-pa-Askoy" frk="51 8 3 342 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-25 20:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Folkehelseinstituttet,Askøy kommune,Askøy,Vann og avløp"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Høy temperatur på folkemøte på Askøy</div>
+<div type="ingress">Rundt 100 askøyværinger kom på åpent folkemøte på Askøy mandag kveld. Ikke alle var fornøyde med svarene kommunen kunne gi.</div>
+<div type="author"></div>
+<div type="date">2019-06-25</div>
+<div type="caption"><p>OPPRØRT: Morten Jakobsen stilte kritiske spørsmål til ordfører Terje Mathiassen og varaordfører Bård Espelid (til h.) både under og etter møtet. FOTO: Rune Sævig</p></div>
+</body></document>

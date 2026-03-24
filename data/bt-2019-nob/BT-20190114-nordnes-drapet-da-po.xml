@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190114-nordnes-drapet-da-po.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1karal/Nordnes-drapet-Da-politiet-kom_-sto-samboeren-rolig-i-gangen-og-pekte-ut-leiligheten" frk="39 0 0 281 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-14 15:21"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen fengsel,Vest politidistrikt,Drap,Sverige,Psykisk helse,Etterforskning,Vold,Nordnes"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nordnes-drapet: Da politiet kom, sto samboeren rolig i gangen og pekte ut leiligheten</div>
+<div type="ingress">Tilsto allerede i telefonsamtalen med politiet.</div>
+<div type="author"></div>
+<div type="date">2019-01-14</div>
+<div type="caption"><p>ÅSTEDET: Kvinnen bodde i denne leiligheten i Sjøfarendes Aldershjem i Bergen, ikke langt unna Nykirken. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

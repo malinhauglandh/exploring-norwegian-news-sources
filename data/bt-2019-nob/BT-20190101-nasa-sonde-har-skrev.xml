@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190101-nasa-sonde-har-skrev.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/J19VJR/NASA-sonde-har-skrevet-romfartshistorie" frk="369 13 30 2303" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-01 17:38"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Pluto,NASA"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">NASA-sonde har skrevet romfartshistorie</div>
+<div type="ingress">NASA-sonden New Horizons har passert det fjerneste objektet i vårt solsystem. Passeringen foregikk uten problemer, opplyser NASA.</div>
+<div type="author">NTB</div>
+<div type="date">1. jan. 2019 17:38</div>
+<div type="caption"><p>LANGT HJEMMEFRA: Illustrasjon av romsonden New Horizons. FOTO: NASA / AP / NTB scanpix</p></div>
+<div type="text">
+<p>NASA opplyser at New Horizons har sendt signaler tilbake til Jorden etter at den tirsdag passerte stein- og isklumpen Ultima Thule, det fjerneste objektet som noen gang er forsøkt utforsket i vårt solsystem.</p>
+<p>Sonden passerte Ultima Thule klokken 06.33 norsk tid første nyttårsdag, opplyser Alice Bowman, prosjektleder for New Horizons-ekspedisjonen.</p>
+<p>De første signalene som ble sendt fra sonden, brukte om lag ti timer på å nå frem til NASAs kontrollsenter i Tampa i Florida. De første bildene og annen informasjon fra New Horizons var ventet å komme frem til NASA-senteret seinere på tirsdagen.</p>
+<p>– Dette er vitenskap som kan hjelpe oss til å forstå opprinnelsen av solsystemet vårt, sier Bowman.</p></div>
+<div type="title" level="3">Kuiperbelte</div>
+<div type="text">
+<p>New Horizons passerte Ultima Thule om lag 6,4 milliarder kilometer fra Jorden. Objektet har det offisielle navnet 2014 MU69, og er rundt 30 kilometer i diameter.</p>
+<p>Det ble funnet av Hubble-teleskopet for fire år siden og var dermed ikke engang oppdaget da New Horizons ble skutt opp fra Cape Canaveral i januar 2006.</p>
+<p>New Horizons var allerede sikret en plass i historien etter at den sommeren 2015 fløy forbi Pluto og sendte hjem de aller første nærbildene av den fjerne dvergplaneten.</p>
+<p>Sonden er nå inne i det såkalte Kuiperbeltet, et fjerntliggende område som strekker seg fra Neptuns bane og utover. Det første tegnet på at noe befant seg der, var oppdagelsen av Pluto i 1930.</p></div>
+<div type="title" level="3">Myldrer i det fjerne</div>
+<div type="text">
+<p>Siden er mer enn 1000 blitt observert, og forskerne regner med at det finnes mange fler.</p>
+<p>– Det myldrer, det er bokstavelig talt av milliarder av kometer, millioner av objekter som Ultima, som kalles planetesimaler, og en håndfull dvergplaneter på størrelse med kontinenter, som Pluto, sa New Horizons sjefforsker Alan Stern i forrige uke.</p>
+<p>– Dette er viktig for forskningen fordi denne regionen av solsystemet, som ligger svært langt fra solen, har beholdt de originale forholdene fra opprinnelsen for fire og en halv milliarder år siden. Når vi flyr forbi Ultima, vil vi se hvordan tingene var helt i starten, la han til.</p></div></body></document>

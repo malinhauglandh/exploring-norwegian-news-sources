@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190723-en-hel-nasjon-ble-ha.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/en-hel-nasjon-ble-hacket/71423363" frk="669 7 34 4457"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-23 03:09"/>
+<attribute name="author" value="Frode Andresen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">En hel nasjon ble hacket</div>
+<div type="ingress">Bulgarias statsminister Boyko Borissov omtaler den siktede som en «trollmann», og mener at landet bør ansette liknende personer med «unike hjerner».</div>
+<div type="author">Frode Andresen</div>
+<div type="date">2019-07-23</div>
+<div type="caption"><p>HACKET: Nærmest hver eneste sysselsatte person i Bulgaria ble rammet av et hackerangrep mot landets skattemyndigheter i juni. Foto: Boyan Georgiev Georgiev / Shutterstock / NTB Scanpix</p> <p>SKRYTEVIDEO: En hacker har lastet opp denne skrytevideoen av hvordan han utnytter hull i sikkerhetssystemer til å stjele penger fra kredittkort.</p></div>
+<div type="text">
+<p>Forrige uke ble sensitiv informasjon om fem millioner innbyggere i Bulgaria lekket etter et hackerangrep mot landets skattemyndigheter. Med et totalt innbyggertall på sju millioner, betyr det at nærmest hver eneste sysselsatte person ble rammet, melder CNN.</p>
+<p>Hackerangrepet ble utført i juni, og gjerningsmannen fikk fatt på både bank-, lønns- og forsikringsdetaljer.</p></div>
+<div type="title" level="3">20-åring pågrepet</div>
+<div type="text">
+<p>Angrepet sparket i gang en omfattende etterforskning, som tirsdag forrige uke førte til at politiet raidet hjemmet til en 20 år gammel mann, som har arbeidet med myndighetenes datasikkerhet, ifølge Reuters.</p>
+<p>I mannens hjem i hovedstaden Sofia, tok politiet beslag i datamaskiner med kryptert materiale.</p>
+<p>Onsdag uttalte politiet at 20-åringen er siktet for datakriminalitet.</p>
+<p>- Funn i den innledende etterforskningen tyder på at den mistenkte har tilknytning til angrepet, sa leder for politiets avdeling for datakriminalitet, Yavor Kolev.</p>
+<p>I tillegg til å ha jobbet med å forhindre hackerangrep, har han også utført kriminelle handlinger tidligere.</p>
+<p>- I løpet av livet har han vært på begge sider av loven, sa Kolev.</p></div>
+<div type="title" level="3">«Trollmann»</div>
+<div type="text">
+<p>Tidligere har politiet imidlertid uttalt at mye tyder på at angrepet ble utført utenlands. Kolev understreket at etterforskningen er på et tidlig stadium, og at de ikke utelukker at flere kan ha vært involvert.</p>
+<p>Også statsminister Boyko Borissov uttalte seg på pressekonferansen. Der beskrev han den mistenkte som en «trollmann», og sa at landet bør ansette liknende personer med «unike hjerner» til å jobber for myndighetene.</p>
+<p>Angrepet har sparket i gang en debatt om landets datasikkerhet. Eksperter på området som har undersøkt det stjålne materialet mener at teknikkene som ble brukt under angrepet er relativt grunnleggende.</p>
+<p>- Årsaken til at angrepet var vellykket i så stor grad, virker ikke å dreie seg om hvor sofistikert hackeren var, men heller hvor dårlige sikkerhetsrutinener de har i skatteetaten, sier daglig leder i datasikkerhetsfirmaet LogSentinel, Bozhidar Bozhanov.</p></div>
+<div type="title" level="3">Forbannet</div>
+<div type="text">
+<p>Den siktede 20-åringen risikerer opptil åtte års fengsel dersom han blir dømt. I tillegg risikerer skattemyndighetene å motta en bot på opptil 20 millioner euro, ifølge Bulgarias datatilsyn.</p>
+<p>Blogger og politisk analytiker, Asen Genov, er forbannet.</p>
+<p>- Vi bør alle være sinte. Informasjonen er nå tilgjengelig for alle. Veldig, veldig mange personer i Bulgaria sitter allerede på datafilen, og jeg tror at det ikke bare er folk i Bulgaria som har den, sier han til CNN.</p></div>
+<div type="title" level="3">Gullgruve</div>
+<div type="text">
+<p>Myndighetenes databaser betegnes som gullgruver for hackere. De inneholder informasjon som kan være nyttig i flere år, ifølge eksperter.</p>
+<p>- Man kan gjøre passordet sitt sterkere, men informasjonen myndighetene sitter på er ting som ikke kommer til å endre seg, sier teknologisjef ved datasikkerhetsselskapet Clearswift, Guy Bunker.</p>
+<p>- Fødselsdatoen din kommer ikke til å endre seg, og du kommer ikke til å flytte i morgen. Mye av informasjonen som ble stjålet i går, gjelder også i dag, og vil sannsynligvis være gjeldende for et stort antall mennesker i de neste 10 til 20 åra.</p></div>
+<div type="title" level="3">Norske passord lekket</div>
+<div type="text">
+<p>Også nordmenn har tidligere blitt rammet av hackerangrep:</p>
+<p>I januar ble det advart om «den største passordlekkasjen i internettets historie». Lekkasjen omfattet en 87 GB stor database med e-postadresser og tilhørende passord.</p>
+<p>Dagbladets undersøkelser viste at dette anslaget bare var én tiendedel av den totale databasen. Åpent på nettet fant vi totalt sju samlinger med lekkasjer som omfattet en database på 847 GB.</p>
+<p>Det dreide seg om flere gamle passordlekkasjer, hvorav de eldste var opptil flere år gamle. Og det som verre var;</p>
+<p>I databasen fant Dagbladet minst 1,5 millioner norske e-postadresser og tilhørende passord.</p>
+<p>Databasen inneholdte blant annet 3322 e-postadresser tilknyttet domenet til UiO, 282 tilknyttet politiet, fem tilknyttet PST, over 100 tilknyttet Stortinget og minst 437 som er tilknyttet domenene til de forskjellige departementene.</p></div></body></document>

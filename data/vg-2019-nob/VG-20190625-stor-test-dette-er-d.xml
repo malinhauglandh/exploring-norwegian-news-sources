@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190625-stor-test-dette-er-d.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/livsstil/i/GG5MbJ/stor-test-dette-er-de-beste-myggproduktene" frk="23 0 0 157 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-06-25 17:39"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,livsstil"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor test: Dette er de beste myggproduktene</div>
+<div type="ingress">Vi har testet elleve hjelpemidler for en myggfri aften, fra dyre apparater til billige oljer.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

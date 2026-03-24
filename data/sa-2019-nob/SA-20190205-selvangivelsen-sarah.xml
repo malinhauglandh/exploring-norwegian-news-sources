@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190205-selvangivelsen-sarah.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/worBn/Selvangivelsen-Sarah-Louise-Rung" frk="33 8 2 226 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-05 16:41"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="svømming,selvangivelsen"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Selvangivelsen: Sarah Louise Rung</div>
+<div type="ingress">Svømmestjernen Sarah Louise Rung spiser to frokoster hver dag. Barndomsheltene var Pippi og Matilda.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Sarah Louise Rung har vunnet 24 medaljer i EM, VM og OL Jon Ingemundsen</p></div>
+</body></document>

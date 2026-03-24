@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190629-digitaliseringen-for.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kronikk/i/e8667l/Digitaliseringen-forsterker-kjonnsgapet--Camilla-AC-Tepfers-og-Hakon-Haugli" frk="896 6 36 5996"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-06-29 19:00"/>
+<attribute name="author" value="Håkon Haugli"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kronikk"/>
+<attribute name="class2" value="kronikk,automatisering,ansiktsgjenkjenning,debatt,kjønn,digitalisering,teknologi,alexa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Digitaliseringen forsterker kjønnsgapet | Camilla AC Tepfers og Håkon Haugli</div>
+<div type="ingress">Norge trenger digital spisskompetanse, og den sitter i hovedsak i mannlige hoder.</div>
+<div type="author">Håkon Haugli</div>
+<div type="date">29. juni 2019 21:00</div>
+<div type="caption"><p>FOTO: Illustrasjonsfoto: Shutterstock/NTB scanpix Menn og kvinner får ulik kvalitet på digitale tjenester, skriver kronikkforfatterne. Amazons ansiktsgjenkjenning gjør nær ingen feil i å kategorisere menn. Hver femte kvinne derimot, feilkategoriseres av algoritmen.</p> <p>Camilla AC Tepfers og Håkon Haugli.</p> <p>Når det ene kjønnet dominerer så markant, ender man opp med ulik kvalitet på digitale tjenester for kvinner og menn, skriver kronikkforfatterne.</p></div>
+<div type="text">
+<p>Hver tredje jobb i Norge forventes å bli sterkt berørt av automatisering, ifølge en OECD-rapport. Norge trenger digital spisskompetanse for å komme godt gjennom denne transformasjonen. Det er en spisskompetanse vi generelt har lite av i Norge, og den sitter i hovedsak i mannlige hoder.</p>
+<p>Digitaliseringen forsterker kjønnsgapet. Det er et dilemma når alle hjørner av arbeids-, nærings- og samfunnsliv blir berørt av teknologi.</p>
+<p>3rd-party-bio</p></div>
+<div type="title" level="3"> Skjevfordeling</div>
+<div type="text">
+<p>Vi trenger markedsførere og forretningsutviklere, men vi trenger også dybdeforståelse for tung og kompleks teknologi dersom vi skal kunne konkurrere med fremragende digitale giganter. Denne dybdeforståelsen er meget skjevfordelt mellom kjønnene.</p>
+<p>Blant dem som uteksamineres med mastergrad er 57 prosent kvinner i Norge. Likevel utgjør kvinner kun snaue 26 prosent av dem som tar mastergrad i data. Ser vi på bachelornivået er skjevfordelingen enda større, med en kvinneandel på 64 prosent av studentene totalt og kun 13 prosent innen data, viser OECD-tall. I tillegg ender en betydelig andel kvinner som faktisk tar naturfagsutdanning opp med å jobbe med noe annet.</p>
+<p>Mens 71 prosent av naturfagsmennene jobber med fysikk, matematikk eller ingeniørfag, gjør kun 43 prosent av deres kvinnelige motstykker det samme.</p></div>
+<div type="title" level="3">Toleranse for ufine spørsmål</div>
+<div type="text">
+<p>En så skjev kjønnsbalanse har gitt en rekke problematiske utslag. Kvinnetrakassering på nett er en kjent sak. Medgründeren i Twitter, Evan Williams, mener at dersom flere kvinner hadde vært med på å utvikle tjenesten, så ville det problemet vært mye mindre. Trakassering er alvorlig, men mannsdominansen handler i større grad om ubetenksomhet enn bevisst kvinnediskriminering. For eksempel har FN nylig utgitt en rapport som viser hvordan digitale assistenter som Siri, Alexa og Cortana forsterker kjønnsstereotypier.</p>
+<p>Blant annet viser assistentene en større toleranse for ufine spørsmål dersom de kommer fra menn enn fra kvinner. Verre er det at den ubetenksomheten som lett kan oppstå når det ene kjønnet dominerer så markant, ender opp i ulik kvalitet på digitale tjenester for kvinner og menn.</p>
+<p>Amazons ansiktsgjenkjenning, for eksempel, gjør nær ingen feil i å kategorisere menn. Hver femte kvinne derimot, feilkategoriseres av algoritmen. Google på sin side har utviklet talegjenkjenning som med 70 prosent større sannsynlighet forstår en mann som snakker, enn en kvinne.</p>
+<p>Illustrasjonsfoto: Shutterstock/NTB scanpix</p></div>
+<div type="title" level="3"> Kjønn i motvind og medvind</div>
+<div type="text">
+<p>Det har vist seg krevende å gjøre noe med dette, noe den siste tidens opphetede debatt om kjønnspoeng i høyere utdanning viser. Både kvinner og menn føler seg diskriminerte og kan ikke fatte hvor den andre parten får det fra. Forskningen kan gi oss svar. Det viser seg at vi systematisk feiltolker den motvind og medvind vi opplever i livet. Vi overdriver det første og underdriver det siste. Motvinden som menn opplever i overgangen fra privilegert til mindre privilegert kjennes dermed som diskriminering for dem.</p>
+<p>Mens medvinden som kvinner nyter godt av i ulike tiltak for likere kjønnsbalanse, oppleves kun som nødvendige grep mot diskrimineringen de ellers utsettes for. Digitalisering kan forsterke kjønnsgapet, men det kan også avdekke fakta som nyanserer og rydder i dette politiserte temaet.</p></div>
+<div type="title" level="3"> 740 millioner Uber-turer</div>
+<div type="text">
+<p>Digitalisering åpner for store, datadrevne analyser og kvantitative metoder som i større grad er skjermet for forskernes egne forutinntatte holdninger.</p>
+<p>La oss ta to eksempler:</p>
+<p>1. Hva kan forklare lønnsgapet mellom kjønnene?</p>
+<p>Problemstillingen er komplisert, og svaret kan ikke gis med en enkeltstudie. En stordataanalyse gjennomført av forskere ved Stanford byr likevel på interessante perspektiver. De har studert 740 millioner kjøreturer på Uber-plattformen.</p>
+<p>Til tross for at plattformen ikke kjønnsdiskriminerer, ble det likevel avdekket et lønnsgap på 7 prosent. Adferdsforskjeller mellom kvinner og menn er årsaken til dette gapet. Menn kjører mer enn kvinner på Uber-plattformen, de lærer seg dermed mer og blir mer produktive sjåfører.</p>
+<p>Dersom det er systematiske kjønnsforskjeller i hvordan læring med påfølgende produktivitetsforbedringer foretas på arbeidsplassen, hvordan kan vi da best legge til rette for at slik læring kan bli mest mulig effektiv for alle?</p>
+<p>2. Hvem forteller våre historier?</p>
+<p>Vi har lenge visst at filmer har flere mannlige produsenter, regissører og hovedrolleinnehavere. Ved hjelp av stordataanalyser kan vi imidlertid gå langt dypere enn bare å telle disse nøkkelrollene. Hver og en av filmkarakterene kan kartlegges, og deres viktighet og posisjon i fortellingen kan analyseres.</p>
+<p>Amerikanske forskere har ved hjelp av dataanalyse studert 1000 filmmanus og 7000 karakterer. De avdekker at kjønnsskjevheten er stor ikke bare i nøkkelrollene. Det er 2.5 ganger flere menn enn kvinner i filmene, og de snakker 2.5 ganger mer enn kvinner gjør. De kvinnene som er med, er i snitt vesentlig mindre sentrale enn mennene, og de kan lettere kuttes helt ut fra historien, uten at den forringes.</p></div>
+<div type="title" level="3">Nakne fakta på bordet</div>
+<div type="text">
+<p>Disse to studiene eksemplifiserer at digitalisering hjelper oss til å få nakne fakta på bordet. Fakta gir mindre rom for feilslutningen vi alle sammen gjør om den medvind og motvind vi opplever. Digitalisering kan forsterke kjønnsgapet, men det kan også bidra til å lukke det.</p>
+<p>Kronikken er den sjette i en serie om digitale dilemmaer. De fem første finner du her:</p></div></body></document>

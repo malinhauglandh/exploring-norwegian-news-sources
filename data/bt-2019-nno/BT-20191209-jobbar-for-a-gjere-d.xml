@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191209-jobbar-for-a-gjere-d.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/vQdRaj/Eit-nytt-selskap-skal-jobba-for-hydrogenveg-over-Haukeli" frk="35 0 0 220 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-09 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Jobbar for å gjere det enkelt å køyra mellom Bergen og Oslo med hydrogenbil</div>
+<div type="ingress">Tre kommunar stiftar eit nytt selskap. Hydrogenvegen AS skal gjera det enkelt å køyra mellom Oslo og Bergen med hydrogenbil.</div>
+<div type="author"></div>
+<div type="date">2019-12-09</div>
+<div type="caption"></div>
+</body></document>

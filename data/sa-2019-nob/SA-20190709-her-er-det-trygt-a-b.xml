@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190709-her-er-det-trygt-a-b.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/kJBx06/Her-er-det-trygt-a-bade-i-sommer" frk="42 0 0 295 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-09 09:06"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger,jåttåvågen,bading,sandnes,sola"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er det trygt å bade i sommer</div>
+<div type="ingress">Stavanger, Sola og Sandnes kommune måler vannkvaliteten ved badeplassene sine med jevne mellomrom gjennom sommeren. Resultatene viser store forskjeller.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det er ikke alle badeplasser som er like trygge, viser nylige vannprøver. Tommy Ellingsen</p></div>
+</body></document>

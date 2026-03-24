@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191009-folg-brann-asane-dir.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/kJ1ma6/Folg-Brann---Asane-direkte" frk="28 0 0 192 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg Brann - Åsane direkte</div>
+<div type="ingress">Det er bergensduell på Stadion onsdag.</div>
+<div type="author"></div>
+<div type="date">2019-10-09</div>
+<div type="caption"><p>KAMP: Branns Ruben Yttegård Jenssen (til v.) og Azar Karadas møter Åsane til treningskamp. FOTO: Tor Høvik</p></div>
+</body></document>

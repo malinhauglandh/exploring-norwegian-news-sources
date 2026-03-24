@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190112-duell-kan-kias-raske.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/motor/duell-kan-kias-raskeste-bil-sla-volvos-ratass/70640546" frk="64 7 3 386 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-12 20:55"/>
+<attribute name="author" value="Rune Nesheim"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="motor"/>
+<attribute name="class2" value="test,pluss_autofil,kia stinger gt,duell,4x4,volvo s90 t8,sedan,pluss,motor,pluss_motor,ladbar hybrid,kombi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Duell: Kan Kias raskeste bil slå Volvos råtass?</div>
+<div type="ingress">Kia Stinger GT og Volvo S90 T8 koster omtrent det samme, men filosofien er ganske forskjellig.</div>
+<div type="author">Rune Nesheim</div>
+<div type="date">2019-01-12</div>
+<div type="caption"><p>BREDE OG LAVE: Både Kia (t.h.) og Volvo jakter de samme kundene med sine råtøffe og spreke toppmodeller. Men når i det hele tatt Kia opp til Volvo? Autofil har testet bilene mot hverandre. Foto: Jamieson Pothecary / Autofil</p></div>
+</body></document>

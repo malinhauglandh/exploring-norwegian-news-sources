@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191102-fjellveien-i-140-ar.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/pLxAPw/Fjellveien-i-140-ar" frk="43 12 3 240 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-02 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fjellveien i 140 år</div>
+<div type="ingress">Det var i Fjellveien han måtte sønge om sin sorg, han som en aftning reiste ut i Sandviken med trikk, for å gå en rusletur fra Munkebotn til Bellevue. Det var sommerkveld og det lå romantikk i luften.</div>
+<div type="author"></div>
+<div type="date">2019-11-02</div>
+<div type="caption"></div>
+</body></document>

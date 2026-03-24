@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191205-her-er-spillernes-do.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/701z5V/Her-er-spillernes-dom-over-Brann-treneren" frk="23 0 0 170 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-05 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er spillernes dom over Brann-treneren</div>
+<div type="ingress">Nå får Brann-styret spillernes evaluering av sesongen. BT vet at den inneholder tydelig kritikk av treneren.</div>
+<div type="author"></div>
+<div type="date">2019-12-05</div>
+<div type="caption"></div>
+</body></document>

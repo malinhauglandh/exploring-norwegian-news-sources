@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190601-kaller-bent-hoie-for.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/awKXy5/Kaller-Bent-Hoie-for-hyklersk" frk="35 0 0 245 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Legemiddelindustrien,Bent Høie,WHO,Kjersti Toppe,Legemidler,Medisin"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kaller Bent Høie for hyklersk</div>
+<div type="ingress">Helsepolitikerne Kjersti Toppe (Sp) og Tuva Moflag (Ap) går til frontalangrep på helseminister Bent Høie for regjeringens syn på hemmelige priser for legemidler.</div>
+<div type="author"></div>
+<div type="date">2019-06-01</div>
+<div type="caption"><p>FOTO: Fredrik Hagen / NTB scanpix</p></div>
+</body></document>

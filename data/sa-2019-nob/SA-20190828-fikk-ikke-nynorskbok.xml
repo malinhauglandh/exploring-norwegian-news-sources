@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190828-fikk-ikke-nynorskbok.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/1nXj0K/Fikk-ikke-nynorskboker-til-skolestart" frk="37 0 0 259 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-28 10:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="skole og utdanning,skolestart,skole,nynorsk,bokmål"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fikk ikke nynorskbøker til skolestart</div>
+<div type="ingress">Heller ikke i år fikk nynorsk-elev Andrea Hebnes Tobekk pensumbøkene til undervisningstart.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Andrea Hebnes Tobekk går på Jåttå og har der opplevd at det er vanskelig å være nynorsk-elev. Carina Johansen</p></div>
+</body></document>

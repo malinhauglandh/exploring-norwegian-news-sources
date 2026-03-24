@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190323-folg-skipstrafikken-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/0OEpg/Folg-skipstrafikken-live" frk="61 0 0 456 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-23 17:18"/>
+<attribute name="author" value="Sondre Zachariassen,Atle Brandt"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Følg skipstrafikken live</div>
+<div type="ingress">Sjekk trafikken utenfor sørlandskysten.</div>
+<div type="author">Sondre Zachariassen,Atle Brandt</div>
+<div type="date">23.mar.2019 17:18</div>
+<div type="caption"></div>
+<div type="text">
+<p>Tjenesten er levert av MarineTraffic.com. Systemet er basert på AIS (Automatic Identification System).</p>
+<p>Du kan trykke på de forskjellige fartøyene for å se hastighet, kurs og annen informasjon.</p>
+<p>Fartøyets posisjon kan være opptil en time gammel eller er ufullstendig. Data er kun oppgitt som informasjon og kan under ingen omstendigheter brukes til navigasjonsopplysninger.</p></div></body></document>

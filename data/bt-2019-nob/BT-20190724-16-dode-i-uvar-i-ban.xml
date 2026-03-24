@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-16-dode-i-uvar-i-ban.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/EWm4vo/16-dode-i-uvar-i-Bangladesh" frk="22 28 4 139 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 09:29"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">16 døde i uvær i Bangladesh</div>
+<div type="ingress">Minst 16 personer er døde av lynnedslag, flom og jordskred under kraftig uvær i Bangladesh.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

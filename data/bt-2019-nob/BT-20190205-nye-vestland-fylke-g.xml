@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190205-nye-vestland-fylke-g.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/XwXe57/Nye-Vestland-fylke---Gradig-viktig-a-fa-Rogaland-med" frk="62 0 0 360 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-05 19:53"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sogn og Fjordane,Vestlandsfylket,Regionreform,Fylkestinget,Hordaland,Bergen,Politikk,Infrastruktur"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nye Vestland fylke: - Grådig viktig å få Rogaland med</div>
+<div type="ingress">Mandag kveld ble det holdt dialogmøte om nye Vestland fylke i Bergen. - Vi er her for å lytte, sier Ingrid Bakke fra Askøy.</div>
+<div type="author"></div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>KOM FOR Å LYTTE: Olav Johannes Skeie, Ingrid Bakke og Svein Steine var blant tilhørerne som kom for å høre mer om nye Vestland fylke. FOTO: Paul André Sommerfeldt</p></div>
+</body></document>

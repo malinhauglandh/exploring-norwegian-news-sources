@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190322-maktdemonstrasjon-fr.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/VbbRW3/Maktdemonstrasjon-fra-Karpe" frk="63 0 0 376 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-22 18:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Musikk,Oslo,Karpe,Bergenfest,Musikkanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Maktdemonstrasjon fra Karpe</div>
+<div type="ingress">Karpe viste Bergen hvorfor de er blant Norges aller beste liveartister.</div>
+<div type="author"></div>
+<div type="date">2019-03-22</div>
+<div type="caption"><p>KARPE-KOK: Karpe har satt opp noe som minner litt om en boksering midt på gulvet i Røkeriet på Verftet. Fra «bokseringen» på Verftet skaper de et enormt kok, og slår knockout på svært mye av det andre man kan oppleve på en scene i Norge. FOTO: Eirik Brekke</p></div>
+</body></document>

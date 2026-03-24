@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190320-hydro-har-gjort-frem.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/OnGMXl/Hydro-har-gjort-fremskritt-etter-dataangrep" frk="571 0 0 3670"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-20 04:39"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="datakriminalitet,hacking"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro har gjort fremskritt etter dataangrep</div>
+<div type="ingress">Hydro har gjort fremskritt for å sikre trygg og stabil drift i selskapet etter det omfattende cyberangrepet onsdag, varsler selskapet i en oppdatering.</div>
+<div type="author">NTB</div>
+<div type="date">12 timer siden</div>
+<div type="caption"><p>FOTO: Terje Pedersen / NTB scanpix Hydro har varslet alle sine ansatte om ikke å koble PC til nettverket før ny beskjed blir gitt.</p> <p>Bente Hoff, fungerende avdelingsdirektør for Nasjonalt cybersikkerhetsmyndighet (NSM NorCERT), sier det er for tidlig å si hvem som står bak dataangrepet.</p></div>
+<div type="text">
+<p>– Hydros tekniske team, med ekstern støtte, har lyktes med å oppdage årsaken til problemene og jobber for tiden med å validere planen og prosessen for å starte selskapets IT-systemer på en trygg og forsvarlig måte. Det er imidlertid fortsatt ikke klart hvor lang tid det kan ta å gjenopprette stabil IT-drift, heter det i pressemeldingen.</p>
+<p>Hydro ble tirsdag utsatt for et omfattende cyberangrep, med påvirkning på driften i flere av selskapets forretningsområder.</p>
+<p>Etter å ha oppdaget problemet, isolerte Hydro alle verk og operasjoner og iverksatte mer manuelle prosesser og prosedyrer. Selskapets hovedprioritet er fortsatt å sikre sikker drift og begrense driftsmessige og finansielle konsekvenser.</p></div>
+<div type="title" level="3">Ser til utlandet</div>
+<div type="text">
+<p>Sammen med PST, Europol, Kripos og E-tjenesten er Nasjonalt cybersikkerhetsmyndighet (NSM NorCERT) koblet inn i etterforskningen etter at Hydro ble rammet av et krypteringsvirus natt til tirsdag. Det er fremmet løsepengekrav for å låse opp selskapets systemer.</p>
+<p>Så langt er fokuset i etterforskningen å finne ut hva som har skjedd og begrense skadene. Blant annet dreier etterforskningen seg om å finne kjennetegn ved løsepengeviruset og om det finnes noen likheter med tidligere angrep andre steder, skriver NRK.</p>
+<p>– Det for tidlig å si om det er et mønster eller om det ligner på andre angrep, sier Bente Hoff, fungerende avdelingsdirektør i NSM NorCERT, til kanalen.</p>
+<p>Terje Pedersen / NTB scanpix</p></div>
+<div type="title" level="3">Går som normalt</div>
+<div type="text">
+<p>Viruset har slått ut Hydros globale nettverk, og nettsiden deres var nede hele tirsdag. Onsdag morgen er nettsiden fortsatt nede.</p>
+<p>Driften på Hydros aluminiumsverk i Norge går stort sett som normalt, med stabile leveranser til kunder i henhold til spesifikasjoner, med noe mer manuell drift enn normalt, ifølge Hydro.</p>
+<p>Det er ingen indikasjon på påvirkning på aluminiumsverkene utenfor Norge, og angrepet har ikke rammet energivirksomheten.</p>
+<p>– Deler av systemet vårt er deaktivert. Men selve aluminiumsproduksjonen med renseanlegg er i drift, samt tilførsel av strøm, luft og vann virker som det skal. Det blir mer manuelt arbeid, og det blir mer intensivt for enkelte, sier fabrikksjef Roar Ørsund ved Hydro Sunndal til Adresseavisen.</p>
+<p>Ørsund sier støperiet stoppet opp natt til tirsdag som følge av dataangrepet, men er nå tilbake i vanlig drift.</p></div>
+<div type="title" level="3">Rammet USA først</div>
+<div type="text">
+<p>Viruset ser ut til å ha rammet selskapets amerikanske virksomhet først.</p>
+<p>– Dette startet i en av våre fabrikker i USA. Deretter har viruset spredt seg ut i organisasjonen og rammet flere deler av virksomheten både i USA og Europa, sa Hydros finansdirektør Eivind Kallevik til NTB tirsdag.</p>
+<p>Selskapet har brukt tid på å isolere fabrikkene for å hindre ytterligere spredning av viruset.</p>
+<p>Kallevik vil ikke spekulere på hvor mye penger angriperne krever eller kommentere om selskapet vurderer å betale.</p></div>
+<div type="title" level="3">Advarer ansatte</div>
+<div type="text">
+<p>Ifølge NRK har NSM NorCERT slått fast at angriperne har brukt løsepengeviruset LockerGoga, som gjør alt innhold på datamaskinen utilgjengelig, samtidig som det foregår angrep mot selskapets bruker- og påloggingssystemer.</p>
+<p>Rundt om i Hydros kontorer i Oslo var det tirsdag satt opp lapper der de ansatte bes om å ikke koble PC-er til nettverk før det gis ny beskjed.</p></div></body></document>

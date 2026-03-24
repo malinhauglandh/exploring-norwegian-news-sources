@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190604---det-kommer-til-a-b.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/P9Op00/-Det-kommer-til-a-bli-et-helt-vanvittig-bra-show" frk="32 0 0 188 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-04 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Det kommer til å bli et helt vanvittig bra show</div>
+<div type="ingress">Det er duket for en stor folkefest på Koengen når bergenserne får ta avskjed med poplegenden Elton John tirsdag kveld.</div>
+<div type="author"></div>
+<div type="date">2019-06-04</div>
+<div type="caption"></div>
+</body></document>

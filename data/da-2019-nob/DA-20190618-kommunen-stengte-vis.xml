@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190618-kommunen-stengte-vis.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/demokraten/nyheter/kommunen-stengte-vispen-badeplass-1.1441481" frk="95 37 24 646 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-06-18 20:50"/>
+<attribute name="author" value="Demokraten"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="demokraten,nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kommunen stengte Vispen badeplass</div>
+<div type="ingress">Fredrikstad kommune stengte Vispen badeplass fratorsdag grunnet svært høye verdier på badevannsprøver som er analysert og levert kommunen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vispen badested.</p></div>
+<div type="text">
+<p>Badevannsprøver tatt i Vispen tirsdag viste 45 000 TKB (termotolerante koliforme bakterier). Tallet på Intestinale Enterokokker var større enn 100.</p>
+<p>TKB bør være under 100 for god vannkvalitet, 100 – 1000 mindre god, over 1000 er ikke akseptabel kvalitet.</p>
+<p>Forrige prøver for to uker siden viste ikke noe unormalt (TKB var 10), og kommunen vet per i dag ikke hva denne kraftige økningen skyldes.</p>
+<p>Dette skriver kommunen i en pressemelding.</p></div></body></document>

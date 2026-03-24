@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190308-rente.xml"/>
+<attribute name="url" value="http://www.dn.no/borskommentar/rente/2-1-561124" frk="35 0 0 266 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-08 19:00"/>
+<attribute name="author" value="Nicolay Steensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="borskommentar"/>
+<attribute name="class2" value="Børs,Børskommentar"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rente</div>
+<div type="ingress">Oppmerksomheten i rente- og valutamarkedet var fredag rettet mot den amerikanske arbeidsmarkedsrapporten for februar. Tallene viste den svakeste månedlige veksten i sysselsettingen på over et år, mens lønnsveksten kom inn høyere enn ventet.</div>
+<div type="author">Nicolay Steensen</div>
+<div type="date">2019-03-08 19:00</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190413-sparebanken-vest-kjo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/70p9l8/Sparebanken-Vest-kjoper-Trond-Mohn-ut-av-Jonsvollskvartalet" frk="52 0 0 357 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-13 12:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Trond Mohn,Sparebanken Vest"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sparebanken Vest kjøper Trond Mohn ut av Jonsvollskvartalet</div>
+<div type="ingress">– Jonsvollskvarteret er godt egnet for vår drift. Derfor kjøper vi ut de andre aksjonærene, sier konsernsjef Jan Erik Kjerpeseth i Sparebanken Vest.</div>
+<div type="author"></div>
+<div type="date">2019-04-13</div>
+<div type="caption"><p>MILLIARDBYGG: Signalbygget i Jonsvollsgaten blir i dag anslått til å være verdt vel en milliard kroner. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

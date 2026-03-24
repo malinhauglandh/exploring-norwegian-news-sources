@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190829-her-produseres-norge.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/8mvoGr/Her-produseres-Norges-beste-rodvin" frk="54 0 0 342 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-29 05:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Råvarer,Sogndal,Vinmonopolet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her produseres Norges beste rødvin</div>
+<div type="ingress">Vinbøndene Bjørn Bergum og Halldis Nedrebø på Slinde i Sogn er hedret for å produsere Norges beste vin.</div>
+<div type="author"></div>
+<div type="date">2019-08-29</div>
+<div type="caption"><p>KANSKJE I SALG: Vinen fra Sogn er ikke å finne på Vinmonopolets liste, men vinbøndene Haldis Nedrebø og Bjørn Bergum forbereder søknad om tillatelse til salg. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

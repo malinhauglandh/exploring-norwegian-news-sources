@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190914-laksen-er-ikkje-berr.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/e8mM1y/Laksen-er-ikkje-berre-ein-fisk" frk="23 0 0 145 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-14 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Laksen er ikkje berre ein fisk</div>
+<div type="ingress">Villaksen er ein del av kulturen vår. Derfor gir BT-journalist Lars Kvamme han ein sjanse til.</div>
+<div type="author"></div>
+<div type="date">2019-09-14</div>
+<div type="caption"></div>
+</body></document>

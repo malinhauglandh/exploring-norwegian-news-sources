@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190731-plutselig-var-kjares.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJex2Q/Plutselig-var-kjaresteparet-fanget-mellom-to-elver" frk="31 0 0 209 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-31 23:44"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vær,Førde,Sommerskredene"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Plutselig var kjæresteparet fanget mellom to elver</div>
+<div type="ingress">Karianne Dvergsdal Bøyum og Eirik Bøyum var innesperret mellom Førde og Vassenden. Til slutt berget de seg ut i grabben på en gravemaskin.</div>
+<div type="author"></div>
+<div type="date">2019-07-31</div>
+<div type="caption"></div>
+</body></document>

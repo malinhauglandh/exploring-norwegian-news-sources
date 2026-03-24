@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191007---jeg-har-en-atteari.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/lAL357/-Jeg-har-en-attearing-hjemme-Jeg-vil-se-ham-i-oynene_-si-at-jeg-gjorde-mitt" frk="39 25 6 233 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-07 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Jeg har en åtteåring hjemme. Jeg vil se ham i øynene, si at jeg gjorde mitt</div>
+<div type="ingress">Kristian B. Jørgensen (49) blir sjef i nytt stort reiselivsselskap som tenker grønt. – Dette er ikke en 50-årskrise, men 50-årsgnisten.</div>
+<div type="author"></div>
+<div type="date">2019-10-07</div>
+<div type="caption"></div>
+</body></document>

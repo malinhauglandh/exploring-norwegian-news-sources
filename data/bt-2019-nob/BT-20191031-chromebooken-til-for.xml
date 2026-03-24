@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-chromebooken-til-for.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WbX65d/Chromebooken-til-forsteklassingen-begynte-a-brenne" frk="26 5 1 189 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Chromebooken til førsteklassingen begynte å brenne</div>
+<div type="ingress">Familien satt og spiste middag på kjøkkenet. Imens begynte datamaskinen som Theodor (6) har fått fra skolen, å brenne.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

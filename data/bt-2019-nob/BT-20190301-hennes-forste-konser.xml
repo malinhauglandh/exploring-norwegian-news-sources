@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190301-hennes-forste-konser.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/A2AG2r/Hennes-forste-konsert-var-i-en-brakke-i-Arna-Na-omtales-Iris-som-et-mulig-Bylarm-stjerneskudd" frk="79 0 0 475 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Kultur,Musikk,Festival,Bergen,Bylarm"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hennes første konsert var i en brakke i Arna. Nå omtales Iris som et mulig Bylarm-stjerneskudd.</div>
+<div type="ingress">Første gang Vilde Iris Hartveit Kolltveit ble spurt om å holde konsert, hadde hun verken låter eller et band. Hun takket naturligvis ja.</div>
+<div type="author"></div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>FIKK KOMMUNEN TIL Å SPANDERE GITAR: Da Vilde Iris Hartveit Kolltveit gikk på videregående, fikk hun penger av Bergen kommune til å kjøpe elgitar. Ikke lenge etter ville de ha henne til å holde konsert. FOTO: Knut Egil Wang</p></div>
+</body></document>

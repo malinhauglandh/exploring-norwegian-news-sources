@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190419-klar-for-nok-en-nrk-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/lAn73o/Na-er-vossingen-klar-for-nok-en-NRK-satsing" frk="25 6 1 150 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-19 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Klar for nok en NRK-satsing – flytter fra Bergen</div>
+<div type="ingress">Morten Svartveit er klar for nok en NRK-satsing. Dermed må han hoppe av «Heim 2».</div>
+<div type="author"></div>
+<div type="date">2019-04-19</div>
+<div type="caption"></div>
+</body></document>

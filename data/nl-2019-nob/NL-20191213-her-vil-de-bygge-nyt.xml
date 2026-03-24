@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191213-her-vil-de-bygge-nyt.xml"/>
+<attribute name="url" value="http://www.nordlys.no/sommaroy/bolig/utvikling/her-vil-de-bygge-nytt-boligfelt-pa-sommaroy/s/5-34-1234528" frk="23 0 0 144 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-12-13 12:38"/>
+<attribute name="author" value="Marie Skonseng"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her vil de bygge nytt boligfelt på Sommarøy</div>
+<div type="ingress">Sommarøy Invest AS har fremmet et forslag om å bygge nytt boligfelt på Sommarøy.</div>
+<div type="author">Av Marie Skonseng</div>
+<div type="date">13. desember 2019, kl. 12:38</div>
+<div type="caption"></div>
+</body></document>

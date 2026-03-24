@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190326-varsler-ny-protestak.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wPgg1A/Varsler-ny-protestaksjon-pa-veiene" frk="33 8 2 224 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-26 12:58"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Trafikk,Folkeaksjonen Nei til mer Bompenger"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Varsler ny protestaksjon på veiene</div>
+<div type="ingress">Planlegger enda en «kjør sakte»-aksjon mot bompenger.</div>
+<div type="author"></div>
+<div type="date">2019-03-26</div>
+<div type="caption"><p>PROTESTERTE: Forrige aksjon ble arrangert i september i fjor. Da ble det lange køer på E39. FOTO: Bjørn Erik Larsen</p></div>
+</body></document>

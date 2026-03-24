@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190810-norsk-golfkomet-stor.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/9vXPpp/Norsk-golfkomet-storspilte-i-natt-Ventura-klatrer-i-USA-etter-kjemperunde" frk="51 0 0 342 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-10 09:20"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norsk golfkomet storspilte i natt: Ventura klatrer i USA etter kjemperunde</div>
+<div type="ingress">Kristoffer Ventura ligger på tredjeplass i golfturneringen Portland Open etter to runder, etter åtte under par og beste andrerunde av alle på fredag.</div>
+<div type="author">NTB</div>
+<div type="date">10.aug.2019 09:20</div>
+<div type="caption"><p>Kristoffer Ventura har spilte seg opp i tetkampen i Portland Open. FOTO: MARIO KNEISL / BILDBYRÅN</p></div>
+</body></document>

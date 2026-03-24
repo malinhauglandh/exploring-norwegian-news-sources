@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190610-brann-i-hytte-pa-bjo.xml"/>
+<attribute name="url" value="http://www.nordlys.no/bolig/hytte/brann/brann-i-hytte-pa-bjornfjell/s/5-34-1137842" frk="38 0 0 226 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-10 18:23"/>
+<attribute name="author" value="Stian Saur"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brann i hytte på Bjørnfjell</div>
+<div type="ingress"></div>
+<div type="author">Av Stian Saur</div>
+<div type="date">10. juni 2019, kl. 18:23</div>
+<div type="caption"></div>
+<div type="text">
+<p>Det er brann i en hytte på Ørnvatnet på Bjørnfjell.</p>
+<p>Eier av hytta er på stedet, melder politiet på Twitter.</p>
+<p>– Ingen er skadd. Brannmannskap er på tur til stedet, melder politiet.</p></div></body></document>

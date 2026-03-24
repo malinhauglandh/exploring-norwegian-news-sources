@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-sas-fjerner-tax-free.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/qL3QwE/SAS-fjerner-tax-free-varer" frk="38 0 0 258 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 20:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">SAS fjerner tax-free-varer</div>
+<div type="ingress">SAS kunngjør at de av miljøhensyn vil slutte med salg av tax-free-varer på flyginger fra høsten.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"><p>SLANKES: SAS vil av miljøhensyn vil slutte med salg av tax-free-varer på flyginger. FOTO: Heiko Junge, NTB scanpix</p></div>
+</body></document>

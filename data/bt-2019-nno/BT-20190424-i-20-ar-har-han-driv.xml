@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190424-i-20-ar-har-han-driv.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/y3l6qK/-Det-er-ikkje-normalt-at-ein-musikklubb-lever-sa-lenge" frk="28 22 4 174 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-24 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I 20 år har han drive ein klubb utanom det vanlege</div>
+<div type="ingress">Folkemusikklubben Columbi Egg fyller 20 i år. Den har vore svært viktig, meiner ekspert på folkemusikk.</div>
+<div type="author"></div>
+<div type="date">2019-04-24</div>
+<div type="caption"></div>
+</body></document>

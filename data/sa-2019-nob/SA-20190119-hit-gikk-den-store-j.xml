@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190119-hit-gikk-den-store-j.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/qnopzz/Hit-gikk-Den-store-julereisen" frk="31 36 8 218 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-19 14:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="quiz,jul"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hit gikk «Den store julereisen»</div>
+<div type="ingress">Her er fasiten til de 35 stoppestedene i Thor Bjarne Bores store reisekonkurranse «Den store julereisen 2018», som sto i Aftenbladet 22. desember.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Charlotte Helgeland</p></div>
+</body></document>

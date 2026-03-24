@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190424-mer-ekstremvar-vil-o.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/mer-ekstremvaer-vil-oke-antall-skogbranner/71006345" frk="51 12 4 333 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-24 19:54"/>
+<attribute name="author" value="Karin Madshus, Angelica Hagen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="pluss,norge,nedbør,skogbrann,klimaforskning,klima,innenriks,framtida,2019,tørke,skogbrannfare,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Mer ekstremvær vil øke antall skogbranner</div>
+<div type="ingress">DSB frykter en enda verre brannsommer i år. I framtida må vi leve med skogbranner jevnlig, tror klimaforsker.</div>
+<div type="author">Karin Madshus, Angelica Hagen</div>
+<div type="date">2019-04-24</div>
+<div type="caption"><p>OMFATTENDE: Flammene i Sokndal i Rogaland slukte store områder. Over 7000 mål ble svidd av under brannen som startet tirsdag. Foto: Lars Eivind Bones / Dagbladet</p></div>
+</body></document>

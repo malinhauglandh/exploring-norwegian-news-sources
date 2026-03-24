@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191002-storesosteren-til-dr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3J7JzL/Storesosteren-til-drapstiltalt--Han-er-en-snill_-smart-og-rolig-gutt" frk="23 11 2 170 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-02 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Storesøsteren til drapstiltalt: – Han er en snill, smart og rolig gutt</div>
+<div type="ingress">Onsdag vitnet storesøsteren til den drapstiltalte 22-åringen i Bergen tingrett.</div>
+<div type="author"></div>
+<div type="date">2019-10-02</div>
+<div type="caption"></div>
+</body></document>

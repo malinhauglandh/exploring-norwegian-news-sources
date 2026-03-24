@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190404-nytt-programvareprob.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/utenriks/i/JoOyPP/nytt-programvareproblem-oppdaget-paa-boeings-max-fly" frk="234 14 23 1577"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-04 22:02"/>
+<attribute name="author" value="Lone Lohne"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nytt programvareproblem oppdaget på Boeings Max-fly</div>
+<div type="ingress">Boeing kaller problemet «relativt lite», men kilder tett på granskingen mener det kan være kritisk for flysikkerheten.</div>
+<div type="author">Lone Lohne</div>
+<div type="date">Oppdatert: 05.04.19 kl. 00:02</div>
+<div type="caption"><p>Den foreløpige rapporten etter flystyrten i Etiopia 10. mars viser ifølge Wall Street Journal at det var anti-steile-systemet som var årsaken. Foto: AP / NTB scanpix</p></div>
+<div type="text">
+<p>Enda et problem er oppdaget på 737-Max-flyenes programvare under Boeings undersøkelser. Det skriver Washington Post.</p>
+<p>Boeing kaller problemet «relativt lite». Samtidig sier to kilder som jobber med granskningen at problemet kan anses for å være kritisk for flysikkerheten.</p>
+<p>Boeing sier at de kommer til å ha en løsning på problemet om noen få uker.</p></div>
+<div type="title" level="3">Styrtet i Etiopia</div>
+<div type="text">
+<p>157 mennesker mistet livet, deriblant norske Karoline Aadland (28), da Boeing 737 MAX 8-flyet til Ethiopian Airlines styrtet rett etter avgang fra Addis Abeba 10. mars.</p>
+<p>Den foreløpige rapporten etter flyulykken i Etiopia har konkludert med at flyets anti-steile-system ble aktivert kort tid før styrten.</p>
+<p>Mistanken ble raskt rettet mot flyets programvare som skal hindre at flyet steiler, og flyets ferdskriver og taleregistrator er sendt til Frankrike der den franske flyhavarikommisjonen analyserer innholdet.</p>
+<p>Programvarefeilen som nå er oppdaget, skal ifølge Washington Post ikke være relatert til anti-steile-systemet.</p>
+<p>I oktober i fjor mistet 189 mennesker livet da et fly av samme modell tilhørende selskapet Lion Air styrtet i Indonesia på grunn av feil med anti-steile-systemet.</p>
+<p>Alle Boeing 737 MAX 8-fly er satt på bakken verden over inntil videre.</p></div></body></document>

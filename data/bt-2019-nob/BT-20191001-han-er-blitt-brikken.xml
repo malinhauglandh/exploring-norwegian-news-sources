@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191001-han-er-blitt-brikken.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/MRWMeK/Brikken-i-Trumps-og-Putins-spill" frk="30 0 0 178 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-01 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han er blitt brikken i Trumps og Putins spill</div>
+<div type="ingress">Volodymyr Zelenskyj gjorde rent bord da han stilte til valg, men nå er han blitt en brikke i stormaktenes spill.</div>
+<div type="author"></div>
+<div type="date">2019-10-01</div>
+<div type="caption"></div>
+</body></document>

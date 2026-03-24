@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190422-slik-slar-gps-jammer.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/BRxaL7/slik-slaar-gps-jammerne-ut-i-helikoptrene" frk="465 6 18 2792"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-22 19:31"/>
+<attribute name="author" value="Andrea Rognstrand"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik slår GPS-jammerne ut i helikoptrene</div>
+<div type="ingress">Jammerne, som kan kjøpes for et par hundrelapper på nett, kan forsinke et ambulansehelikopter i utrykning kraftig. Slik slår det inn på systemene i cockpit.</div>
+<div type="author">Andrea Rognstrand</div>
+<div type="date"></div>
+<div type="caption"><p>RAMMES AV JAMMERE: Helikoptrene til Norsk Luftambulanse kan miste både kart- og terrengmodeller og autopilot når GPS-signalene blir forstyrret. Foto: Terje Mortensen, VG</p> <p>BLIR FORSTYRRET: Basesjefsflyger Bent Næss ved Luftambulasen på Lørenskog har flere ganger opplevd at flygingene blir forstyrret av GPS-jammere. Foto: Fredrik Naumann, Felix Features</p></div>
+<div type="text">
+<p>Siden begynnelsen av 2018 har Norsk Luftambulanse registrert 29 tilfeller av bortfall av GPS-signaler. De opplyser at de ikke med sikkerhet kan slå fast at det dreier seg om GPS-jamming i alle tilfellene, men sier at de ser en økning i antall hendelser.</p>
+<p>Det er hendelser som kan bli kritiske når det haster å få en pasient til sykehus.</p></div>
+<div type="title" level="3">Trenger pålitelig signal</div>
+<div type="text">
+<p>Basesjefsflyger Bent Næss ved Luftambulansen på Lørenskog har selv vært utsatt for GPS-jamming tre ganger under flyging. I Luftambulansens Airbus H135 T3- og H145 T2-helikopter er flere av systemene om bord basert på GPS-signaler. GPS-ene om bord er mer kritisk til de GPS-signalene de mottar enn det GPSen i en mobiltelefon er.</p>
+<p>– Den fly-GPSen vi har er satt opp til å si ifra med en gang dersom signalet er blitt litt upålitelig. Da skrur den seg av og sier at man ikke kan stole på den, sier Næss.</p>
+<p>Dermed mister pilotene midlertidig både kart, noen av autopilotens funksjoner og terrengmodellen. Kart- og terrengmodellen gir informasjon om blant annet høyde over bakken og avstand og posisjon i forhold til hindringer.</p>
+<p>Når signalene blir forstyrret, særlig knyttet til innflyginger, er helikopteret nødt til å klatre i høyde og forsøke en ny innflyging eller gå ned for landing et annet sted.</p>
+<p>– Det kan fort ta 10 – 20 minutter ekstra. I verste fall kan det gå ut over liv og helse for pasienten.</p></div>
+<div type="title" level="3">Bekymret for at det skal gå utover pasienter</div>
+<div type="text">
+<p>Piloten forklarer at man i dag baserer seg mer på GPS-navigering enn tidligere.</p>
+<p>– Vi flyr i dårligere vær og med mer instrumentflyging enn før. Sånn type flyging baserer seg mer på GPS-signaler.</p>
+<p>Signalene er dessuten viktige når ambulansehelikoptrene flyr inn mot sykehusene. Da følger de bestemte ruter i luften. Det gjøres ved bruk av et eget rutenettverk basert på GPS-posisjonering.</p>
+<p>– Når vi er på disse rutene flyr vi forholdsvis lavt. Det er da, og på innflygingene som baserer seg på GPS at vi er mest utsatt for å bli affektert av slik jamming, forteller piloten, og legger til:</p>
+<p>– For oss er hovedbekymringen at dette skal gå ut over en pasient. Hvis vi kommer med en kritisk syk pasient i helikopteret som vi må få til Ullevål sykehus, da kan pasientens liv være avhengig av at vi kommer oss ned raskt nok.</p></div></body></document>

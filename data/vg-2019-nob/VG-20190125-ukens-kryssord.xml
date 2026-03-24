@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190125-ukens-kryssord.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/i/VRA166/ukens-kryssord" frk="32 26 5 190 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-25 11:47"/>
+<attribute name="author" value="Vg+"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value="Kryssord, Forbruker"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ukens kryssord</div>
+<div type="ingress">Her finner du ukens kryssord for uke 4. Nye kryssord kommer hver fredag.</div>
+<div type="author">VG+</div>
+<div type="date">2019-01-25 11:47:14</div>
+<div type="caption"><p>Foto: mkallstrom / iStockphoto</p></div>
+<div type="text">
+<p>Kryssord 1 .</p>
+<p>Kryssord 2 .</p>
+<p>Kryssord 3 .</p>
+<p>Kryssord 4 .</p></div></body></document>

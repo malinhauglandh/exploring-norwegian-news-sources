@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190514-test-av-playstation-.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/forbruker/i/0EMAw6/Test-av-Playstation-Now-Netflix-for-dataspill-er-her--og-det-virker" frk="64 0 0 395 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-14 07:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value="dataspill,teknologi,strømming"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av Playstation Now: Netflix for dataspill er her – og det virker</div>
+<div type="ingress">TEST: Sony er først ute med en strømmetjeneste for dataspill. Vår test viser at det absolutt har noe for seg. Neste tirsdag følger Google etter.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Gaming over alt: Microsoft demonstrerte denne uken hvordan en vanlig mobil kan brukes til å spille avanserte originalspill fra Xbox ved hjelp av strømming. Xbox</p></div>
+</body></document>

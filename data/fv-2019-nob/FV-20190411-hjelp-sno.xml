@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190411-hjelp-sno.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/Vb60K4/Hjelp_-sno" frk="37 26 6 227 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-04-11 11:55"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hjelp, snø!</div>
+<div type="ingress">Sola fra i torsdag morgen forsvant, så kom skyene og faktisk: SNØ!</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dette bildet er tatt på fylkesvei 42 ved Bjørnekroa i Evje og Hornnes like før klokken 17.30 torsdag. FOTO: Kjell Rune Strømstad</p></div>
+</body></document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191204-telenors-mobilsvar-k.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/okonomi/i/BR41Je/Telenors-mobilsvar-kunne-hackes-og-avlyttes-i-arevis" frk="177 3 4 1102"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-04 12:38"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Telenors mobilsvar kunne hackes og avlyttes i årevis</div>
+<div type="ingress">Hvem som helst har i mange år kunnet ringe med falskt nummer, såkalt spoofing, og rett inn til Telenor-kundenes mobilsvar.</div>
+<div type="author">NTB</div>
+<div type="date">5 timer siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>Telenor bekrefter at de har vært sårbare for en kjent angrepsteknikk i minst 13 år, skriver digi.no. Fredag 22. november ble muligheten stengt, opplyser Rolv Hauge, som er ansvarlig for telekom-sikkerhet i Telenor Norge.</p>
+<p>– Metoden som ble identifisert her, omgikk logikken som krever pinkode ved anrop fra andre nett. Det har vært et smutthull som vi nå har sperret for, sier Hauge til digi.no.</p>
+<p>Sårbarheten gjaldt anrop til Telenor-kunders mobilnummer og fungerte om angriper utga seg for å ringe fra samme nummer. Man ringte da rett og slett «seg selv» og kom rett inn på talepostkassen. Telenor vet ikke hvor lenge mobilabonnentene har vært sårbare for spoofing med avlytting av mobilsvar.</p>
+<p>– Det er grunn til å tro at dette har vært mulig å gjøre i lang tid, sier Hauge.</p>
+<p>Telenors informasjonssjef Fredrik Tangeraas opplyser at det nå pågår trafikkanalyser for å identifisere eventuelle forsøk på misbruk.</p></div></body></document>

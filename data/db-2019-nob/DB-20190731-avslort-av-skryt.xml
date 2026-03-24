@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190731-avslort-av-skryt.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/avslort-av-skryt/71442204" frk="631 13 54 4061"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-31 05:18"/>
+<attribute name="author" value="Maria Caroline Skrede"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Avslørt av skryt</div>
+<div type="ingress">Over 100 millioner amerikanere og kanadiere har fått personopplysningene sine stjålet. Nå har amerikanske myndigheter siktet en kvinne, etter at hun angivelig skrøt uhemmet av sine handlinger.</div>
+<div type="author">Maria Caroline Skrede</div>
+<div type="date">2019-07-31</div>
+<div type="caption"><p>HACKET: Den amerikanske banken Capital One ble hacket og personopplysningene til 106 millioner amerikanere og kanadiere ble stjålet. Foto: Johannes EISELE / AFP</p></div>
+<div type="text">
+<p>Mer enn 100 millioner amerikanere og kanadiere har blitt frastjålet personopplysningene sine i et av de største dataangrepene mot en bank i USA noen gang. Bak det hele står en kvinne, mener amerikansk politi.</p>
+<p>Den 33 år gamle programvareingeniøren, som tidligere jobbet for Amazon, ble mandag siktet og arrestert for å ha stått bak et massivt hacker- og datainnbrudd hos den amerikanske banken Capital One – USAs tredje største kredittkortutsteder.</p>
+<p>Kvinnen skal ha stjålet rundt 140 000 amerikanske personnumre, én million kanadiske personnumre og 80 000 kontonumre. Totalt er 100 millioner amerikanere og 6 millioner kanadiere rammet, skrev banken i en pressemelding på mandag.</p>
+<p>Annen informasjon som er innhentet er blant annet adresser, telefonnumre, fødselsdatoer og lønnsopplysninger, skriver CNN.</p>
+<p>Informasjonen om de 106 millioner menneskene innhentet hun fra kredittkortsøknader som forbrukere og små bedrifter skal ha sendt inn så tidlig som i 2005, og så seint som i 2019, skriver The New York Times.</p>
+<p>- Jeg er takknemlig for at gjerningspersonen skal ha blitt tatt, men jeg beklager inderlig det som har skjedd, sa styreleder og administrerende direktør Richard D. Fairbank i en uttalelse.</p></div>
+<div type="title" level="3">Skrøt på nettet</div>
+<div type="text">
+<p>Hun skal ha skrytt uhemmet av hackingen på flere sosiale medier under kallenavnet «Erratic» (uberegnelig, journ.anm.).</p>
+<p>Hun skal angivelig ha skrytt så åpent om hackingen at andre hackere advarte henne om å være forsiktig for å unngå å havne i fengsel.</p>
+<p>Hun skal tilsynelatende ha vært klar over faren ved å skrive åpent om hackingen og skal blant annet ha skrevet: «Jeg har iført meg en bombevest ved å å innrømme dette.»</p>
+<p>I slutten av juni listet hun opp «flere selskaper, offentlige enheter og utdanningsinstitusjoner» som hun hevdet at hun potensielt kunne ha hacket, i tillegg til den amerikanske banken.</p>
+<p>Den 33 år gamle kvinnen sto også bak en gruppe, et sosialt nettverk kalt «Seattle Warez Kiddies», på det sosiale mediet Meetup. Gruppen skulle være for alle med interesse for «distribuerte systemer, programmering og hacking».</p>
+<p>Ifølge rettsdokumenter har den amerikanske sikkerhetstjenesten FBI overvåket kvinnens online-profiler over lengre tid.</p>
+<p>De brukte aktiviteten hennes på Meetup for å spore hennes andre aktiviteter. Etter hvert skal de ha lyktes med å koble henne til innlegg som beskrev datatyveriet på Twitter og meldingstjenesten Slack, skriver The New York Times.</p>
+<p>Gjennom et bilde hun selv delte av en faktura hun hadde fått fra en veterinær, klarte FBI å identifisere henne, ifølge Berlingske Tidende.</p></div>
+<div type="title" level="3">Smutthull i brannmur</div>
+<div type="text">
+<p>Kvinnen jobbet tidligere for Amazon Web Services som var vertskap for eksterne dataservere banken brukte for å lagre informasjonen.</p>
+<p>Banken skal i tillegg ha bygget en egen webapplikasjon på toppen av Amazons skydatatjeneste, slik at informasjonen de hadde kunne brukes spesifikt for deres behov.</p>
+<p>Hun fikk tilgang til sensitiv data gjennom en «feilkonfigurasjon» av en brannmur i en web-applikasjon, ifølge en FBI-etterforsker som jobbet med saken. Det tillot henne å kommunisere med serveren der Capital One lagret informasjonen og innhente enorme mengder kundefiler.</p>
+<p>Hun skal ha innhentet personopplysningene 22. og 23. mars i år, men først 17. juli ble Capital One klar over hackingen etter å ha mottatt tips om at bankens data så ut til å ha blitt «lekket».</p>
+<p>Ifølge Amazon kontrollerer kundene deres applikasjonene de bygger. Amazon sier at de ikke har funnet noe som tyder på at deres egne tjenester er blitt kompromittert.</p>
+<p>Det er antatt at kvinnen vil få en maksimumsstraff på fem års fengsel og en bot på 250 000 dollar, tilsvarende omtrent 2, 3 millioner kroner med dagens kurs. Høringen er planlagt 1. august.</p></div></body></document>

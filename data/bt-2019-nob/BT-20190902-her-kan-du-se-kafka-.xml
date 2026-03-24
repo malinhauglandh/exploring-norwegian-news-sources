@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190902-her-kan-du-se-kafka-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Opq71l/Her-kan-du-se-Kafka-fra-bade-for--og-baksiden" frk="20 0 0 140 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-02 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her kan du se Kafka fra både for- og baksiden</div>
+<div type="ingress">BIT Teatergarasjen viser en teknisk imponerende og ambisiøs samproduksjon.</div>
+<div type="author"></div>
+<div type="date">2019-09-02</div>
+<div type="caption"></div>
+</body></document>

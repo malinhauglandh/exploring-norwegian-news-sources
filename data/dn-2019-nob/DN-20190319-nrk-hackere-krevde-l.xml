@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190319-nrk-hackere-krevde-l.xml"/>
+<attribute name="url" value="http://www.dn.no/industri/nrk-hackere-krevde-losepenger-fra-hydro/2-1-568905" frk="275 0 0 1821"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-19 12:45"/>
+<attribute name="author" value="Jonas Christensen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="industri"/>
+<attribute name="class2" value="Nyheter,Industri"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NRK: Hackere krevde løsepenger fra Hydro</div>
+<div type="ingress">Hydro skal ha blitt utsatt for løsepengeviruset LockerGoga. Da det samme løsepengeviruset angrep franske Altran i januar ba det om ubetaling i bitcoin. Hydro skal ha blitt utsatt for løsepengeviruset LockerGoga. Da det samme løsepengeviruset angrep franske Altran i januar ba det om ubetaling i bitcoin.</div>
+<div type="author">Jonas Christensen</div>
+<div type="date">2019-03-19 12:45</div>
+<div type="caption">Norsk Hydro varsler alle sine ansatte om ikke å slå på pc da de er under et dataangrep. (Foto: Pedersen, Terje/NTB Scanpix) </div>
+<div type="text">
+<p>Personene bak cyberangrepet på aluminiumsgiganten Hydro skal ha krevd løsepenger for å låse opp datasystemet deres, ifølge NRK. Det skal også ha blitt gjennomført et målrettet angrep på brukerdatabasen.</p>
+<p>NRK viser til at Nasjonalt Cybersikkerhetssenter (NorCERT) har sendt ut et varsel til flere samarbeidspartnere om dataangrepet.</p>
+<p>«NorCERT varsler om at Hydro er utsatt for et ransomwareangrep (LockerGoga). Angrepet ble kombinert med et angrep mot Active Directory (AD). NorCERT ber om informasjon om andre er rammet av tilsvarende hendelser. NorCERT bistår Hydro og hendelsen regnes som pågående», heter det i varselet.</p>
+<p>LockerGoga ble også brukt i cyberangrepet mot det franske it-selskapet Altran tidligere i år, skriver Bleepingcomputer. Da fungerte viruset slik at Altran måtte betale løsepengene i kryptovalutaen bitcoin. LockerGoga er en skadelig programvare som krypterer hele eller deler av innholdet på en datamaskin eller et nettverk slik at det ikke er tilgjengelig for eieren. I dette løsepengeviruset får eieren opp en instruksjon hvor det står blant annet: «Betalingen må blir gjort i bitcoin».</p>
+<p>Kommunikasjonssjef i Hydro, Erik Brynhildsbakken, sier til DN at han ikke er kjent med at hackere skal ha bedt om løsepenger. Leder for Norcert vil ikke bekrefte overfor NRK at det dreier seg om et Active Directory-angrep.</p></div></body></document>

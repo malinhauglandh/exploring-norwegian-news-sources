@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190307-staende-pa-alle-fire.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/L084vJ/Tommy-ble-slatt-rett-i-bakken---Na-tror-jeg-at-alle-skal-ta-meg" frk="27 0 0 157 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-07 10:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Sykehus,Bergen,17. mai,Vold"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Stående på alle fire blir mannen sparket i svime i taxikøen</div>
+<div type="ingress">Offeret ble overrasket da han våknet og fikk vite at han var utsatt for vold.</div>
+<div type="author"></div>
+<div type="date">2019-03-07</div>
+<div type="caption"></div>
+</body></document>

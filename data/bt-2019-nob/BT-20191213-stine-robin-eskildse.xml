@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-stine-robin-eskildse.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/K32BWy/Stine-Robin-Eskildsen-har-publikum-i-sin-hule-hand" frk="20 0 0 136 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Stine Robin Eskildsen har publikum i sin hule hånd</div>
+<div type="ingress">Stine Robin Eskildsen er den perfekte castingen til denne rollen.</div>
+<div type="author"></div>
+<div type="date">2019-12-13</div>
+<div type="caption"></div>
+</body></document>

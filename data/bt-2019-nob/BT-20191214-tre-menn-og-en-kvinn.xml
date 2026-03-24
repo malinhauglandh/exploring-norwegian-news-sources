@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191214-tre-menn-og-en-kvinn.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Ad9dpj/Tre-menn-og-en-kvinne-satt-i-arrest" frk="16 0 0 105 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-14 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tre menn og en kvinne satt i arrest</div>
+<div type="ingress">Noen urinerte, andre fulgte ikke politiets ordre.</div>
+<div type="author"></div>
+<div type="date">2019-12-14</div>
+<div type="caption"></div>
+</body></document>

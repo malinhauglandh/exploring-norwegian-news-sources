@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190808-begge-hadde-blackout.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zGkql5/Begge-hadde-blackout-Hvem-kjorte-bilen" frk="32 0 0 202 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-08 16:13"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sogn og Fjordane,Promillekjøring,Trafikkulykker,Alkohol"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Begge hadde blackout. Hvem kjørte bilen?</div>
+<div type="ingress">Mennene drakk vodka og hevder de ikke husker hvem som kjørte.</div>
+<div type="author"></div>
+<div type="date">2019-08-08</div>
+<div type="caption"><p>UTFOR: Bilen havnet utfor veien, og to menn måtte møte i retten. FOTO: Politiet</p></div>
+</body></document>

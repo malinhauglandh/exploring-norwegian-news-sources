@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191113-alf-sto-i-doren-pa-u.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70ooxK/Alf-sto-i-doren-pa-Ugla-i-37-ar" frk="32 10 2 182 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Alf sto i døren på Ugla i 37 år</div>
+<div type="ingress">– Det ble jo en del slåssing, det ble det, sier Alf Bertelsen. Bokseren var dørvakt på legendariske Ugla danserestaurant i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-11-13</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191101-helgens-direktesport.xml"/>
+<attribute name="url" value="http://www.nordlys.no/sport/fotball/volleyball/helgens-direktesport-2-og-3-november/s/5-34-1218579" frk="103 45 38 839"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-11-01 21:53"/>
+<attribute name="author" value="Lars Eidissen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Helgens direktesport 2. og 3. november</div>
+<div type="ingress">Dette viser Nordlys direkte kommende helg.</div>
+<div type="author">Av Lars Eidissen</div>
+<div type="date">01. november 2019, kl. 21:53</div>
+<div type="caption"><p>STERKT: Tommy Horne har vunnet "Nord-Norges sterkeste mann"-konkurransen, som han selv arrangerer, hele tre ganger. Foto: Privat</p></div>
+<div type="title" level="3">Lørdag:</div>
+<div type="text">
+<p>14.00 BK Tromsø-Oslo Volley (eliteserien volleyball, kvinner) Kommentator: Vetle Ravn Viken</p>
+<p>15.45 Nord-Norges sterkeste mann (Strongman) Foto/kommentator: Ivan Ortegon og David Nyvoll</p>
+<p>16.00 Tromsø HK-Haslum 2 (2.-divisjon håndball, kvinner) - Per Chr. Johansen</p>
+<p>16.30 BK Tromsø-Askim (eliteserien volleyball, menn) Kommentator: Vetle Ravn Viken</p>
+<p>18.00 Norgescup klatring fra Bodø</p></div>
+<div type="title" level="3">Søndag:</div>
+<div type="text">
+<p>13.00 Grand Bodø-Fløya (1.-divisjon fotball, kvinner)</p>
+<p>14.00 Bravo-Nordstrand (2.-divisjon håndball, menn) Kommentator: Per Chr. Johansen</p>
+<p>16.00 Tromsø Storm-Ammerud (BLNO basketball, menn) Kommentator: Sigve Slettmo</p></div></body></document>

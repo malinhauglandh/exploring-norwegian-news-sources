@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191127-derfor-er-stromming-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/derfor-er-stromming-en-miljoversting/71857435" frk="949 6 41 6136"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-27 08:01"/>
+<attribute name="author" value="Frida Fliflet"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Derfor er strømming en miljøversting</div>
+<div type="ingress">Utslippene fra musikkonsum har økt enormt i strømmealderen, viser ny forskning.</div>
+<div type="author">Frida Fliflet</div>
+<div type="date">2019-11-27</div>
+<div type="caption"><p>TOPPER LISTENE: Drake er Spotifys - og antakelig verdens - mest strømmede artist. I 2018 ble låtene hans strømmet hele 8,2 milliarder ganger på Spotify aleine. Foto: NTB Scanpix/AFP</p> <p>OVERRASKET: Kyle Devine, førsteamanuensis ved UiO, har forsket på miljøkonsekvensene av overgang fra fysiske musikkprodukter til strømming. Foto: Terje Heiestad/Universitetet i Oslo</p> <p>MASSELAGRING: The Dalles Data center i Oregon, USA, er ett av Googles åtte gigantsentre spredt rundtom i verden. Foto: NTB Scanpix/Google</p> <p>FACEBOOK: Fra innsiden av Facebooks gigasenter i Luleå, nord i Sverige. Skandinavia er et ideelt sett for datasentre på grunn av kaldt klima og billig, stabil elektrisitet. Foto: NTB Scanpix/Jonathan Nackstrand</p> <p>AVKJØLING: En labyrint av vannrør kjøler ned Googles data i Oregon, USA. Foto: NTB Scanpix/Google</p> <p>MISFORNØYDE: Mange i publikum hadde forventet å se Frank Ocean som overraskelsesgjest på Camp Flog Gnaw Festival. Skuffelsen ble derfor stor da Drake dukket opp. Reporter: Christian Wehus. Video: Scanpix.</p></div>
+<div type="text">
+<p>Er du som nordmenn flest, strømmer du musikk mye og ofte. Faktisk er nordmenn i verdenstoppen når det gjelder Spotify-bruk - og norsk ungdom både kjøper og strømmer mer enn våre nordiske naboer.</p>
+<p>Instinktivt vil de fleste tenke at strømming av musikk er miljøvennlig - det produseres mindre fysiske produkter og dermed mindre avfall. Produksjonen av CD-er og kassetter, som i stor grad er laget av plast, har stupt. Men slik er det ikke.</p>
+<p>- Resultatene overrasket meg, sier Kyle Devine til Dagbladet. Han er førsteamanuensis ved Instituttet for Musikkvitenskap ved Universitetet i Oslo, og har forsket på miljøkonsekvensene ved musikkstrømming. Resultatene er klare: CO2-utslippene har gått kraftig opp i strømmingens tidsalder.</p>
+<p>På 1980-tallet utgjorde utslippene fra musikkonsum tilsvarende 136 millioner kg CO2. Nå er de estimert til å være mellom 200 og 350 millioner kg.</p>
+<p>- Det er en utbredt forestilling om at når ting blir digitale, blir de dematerialisert, forklarer Devine.</p>
+<p>- Men digitale filer er fysiske ting - om ikke de var det, ville harddisken på dataene våre aldri bli fulle. For å lagre og overføre disse filene rundt omkring i verden, trenger man en telekommunikativ infrastruktur som krever svært mye energi, i tillegg til all teknologien vi bruker til disse filene - smarttelefoner og PC-er, for eksempel.</p>
+<p>Devine poengterer at selv om det krever svært lite energi å streame ett og ett album, gir den ubegrensede musikktilgangen og den samlede strømmemengden store utslipp. Det kreves også store energimengder for å overføre disse digitale filene kloden rundt.</p>
+<p>- I Norge går de fleste datalagringssentrene på vannkraft, men i store deler av verden kommer elektrisiteten til denne datalagringen fra kull eller radioaktivt materiale, forklarer Devine.</p>
+<p>- Det blir ikke akkurat regnet som rein teknologi.</p></div>
+<div type="title" level="3">Enorme energimengder</div>
+<div type="text">
+<p>Strømming krever altså oppbevaring av data, som gjøres i datalagringssentre. Datalagring avgir store mengder varme, da dataserverne må drives og kjøles.</p>
+<p>På grunn av et kjølig klima og billig fornybar energi, er Norden et yndet sted for slike sentre. Facebook har blant annet et enormt senter i Luleå i Sverige, mens Apple har bygget et tilsvarende i Viborg i Danmark.</p>
+<p>Google vurderer å bygge et nytt datasenter i Skien, meldte Energi Norge i sommer. På Dale i Hordaland har det enorme datasenteret skapt stor frustrasjon blant innbyggerne.</p>
+<p>Også Microsoft har inngått en sjuårig datalagringsavtale med Equinor, ifølge Stavanger Aftenblad.</p>
+<p>Sentrene bruker enorme energimengder. Det planlagte datasenteret i Sandefjord vil for eksempel slippe ut rundt 120 millioner watt, ifølge Naturvernforbundet. Et stort datasenter kan bruke like mye energi som Bergen by til sammen, har daværende rådgiver i Bellona, Runa Haug Khoury, tidligere uttalt til VG.</p>
+<p>Selv om Devine utelukkende har forsket på strømming av musikk, gjelder det samme prinsippet for film og serier - noe Dagbladet tidligere har skrevet om.</p></div>
+<div type="title" level="3">Nekter å uttale seg</div>
+<div type="text">
+<p>Ingen av de store musikkstrømmetjenestene ville snakke med Devine. Det meste han fikk vite, var fra en anonym kilde i Tidal. Ifølge forskeren har de største strømmetjenestene gått over til å bruke Google og Amazon til å lagre data for dem. Ingen ville fortelle ham hvor de forskjellige dataene lagres.</p>
+<p>Devine tviler på at det finnes enkle løsninger på utfordringene.</p>
+<p>- Selv om man finner måter å gjøre strømming mer energieffektivt på, vil man antakelig ende opp med å strømme mer. På denne måten vil man overskygge effekten, sier Devine.</p>
+<p>Imidlertid kan det virke som at å laste ned spillelister og låter er bedre enn å strømme dem online:</p>
+<p>- Da laster du dem ned en gang på din egen harddrive, og det er det, forteller forskeren. Han tror det må en kulturell holdningsendring til for å få redusert utslippene.</p>
+<p>- Kanskje må vi endre forholdet vårt til musikk. At vi ikke lenger kan forvente ubegrenset, øyeblikkelig tilgang døgnet rundt.</p></div>
+<div type="title" level="3">Drake og Ed Sheeran topper listen</div>
+<div type="text">
+<p>Spotify, verdens største musikkstrømmetjeneste, har rundt 50 millioner sanger i biblioteket. 40.000 nye låter blir lagt til hver eneste dag - det vil si 1,2 millioner i løpet av en måned.</p>
+<p>Fjorårets strømmevinner var kanadiske Drake, med hele 8,2 milliarder avspillinger verden over i løpet av 2018, ifølge Spotify. Også hos Apple Music topper Drake listen.</p>
+<p>Den britiske popyndlingen Ed Sheeran har rekorden for verdens mest strømmede sang: «Shape of You», med sine 2 milliarder avspillinger.</p>
+<p>Kyle Devine understreker at han ikke er ute etter å få noen til å føle seg skyldige. Han vil heller skape bevissthet rundt temaet, som i tur kan føre til løsninger på problemet.</p>
+<p>- Det er viktig for folk å vite hva som faktisk skjer. At dette er et tema. Jeg er like skyldig selv, i både streaming og CD-lytting.</p>
+<p>NB: I en tidligere versjon av denne saken, stod det at strømmeutslippene fra musikkonsum utgjorde seks ganger så mye som Norges CO2-utslipp i fjor. Dette stemmer ikke. Utslippene er vesentlig lavere enn Norges samlede utslipp. Dagbladet beklager feilen.</p></div></body></document>

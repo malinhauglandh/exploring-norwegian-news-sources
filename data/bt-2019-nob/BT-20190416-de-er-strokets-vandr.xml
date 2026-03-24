@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190416-de-er-strokets-vandr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/JoO0r7/De-er-strokets-vandrende-fargeklatter" frk="57 11 4 347 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-16 18:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Søsken,Sprek,Tur,Skog"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De er strøkets vandrende fargeklatter</div>
+<div type="ingress">Det begynte med en dårlig rygg. Siden har de, bokstavelig talt, holdt det gående, de tre søstrene fra Landås.</div>
+<div type="author"></div>
+<div type="date">2019-04-16</div>
+<div type="caption"><p>NYTELSE: De var opprinnelig ti søsken. Mellom den eldste og den yngste var det 17 år. En bror (87) er den eneste gjenlevende i tillegg til søstrene. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

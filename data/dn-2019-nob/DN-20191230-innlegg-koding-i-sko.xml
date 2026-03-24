@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191230-innlegg-koding-i-sko.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/skole/utdannelse/digitalisering/innlegg-koding-i-skolen-er-bra-men-hvem-skal-undervise-i-det/2-1-721641" frk="341 0 2 2184"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-12-30 18:40"/>
+<attribute name="author" value="Marianne Aasen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="innlegg,skole,utdannelse,digitalisering"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Innlegg: Koding i skolen er bra – men hvem skal undervise i det?</div>
+<div type="ingress">Alle barn skal lære å programmere, ifølge regjeringens nye læreplaner. Nesten ingen av lærerne har kompetanse til å undervise i programmering. Det haster med å gjøre dem i stand til det. Alle barn skal lære å programmere, ifølge regjeringens nye læreplaner. Nesten ingen av lærerne har kompetanse til å undervise i programmering. Det haster med å gjøre dem i stand til det.</div>
+<div type="author">Marianne Aasen</div>
+<div type="date">2019-12-30 18:40</div>
+<div type="caption">Svært mange lærere trenger å lære de grunnleggende prinsippene for programmering, samt å få faglige opplegg som fungerer godt i klasserommet, skriver artikkelforfatteren. Her fra sommerskolens kodekurs for 3. og 4. klasse på Kampen skole i Oslo. (Foto: Gorm K. Gaare) </div>
+<div type="text">
+<p>Programmering er på full fart inn i skolen. Alle vil dermed få økt innsikt i hva en datamaskin kan gjøre og hvordan elevene selv kan instruere en datamaskin. I tillegg vil flere bli inspirert til å studere realfag eller informatikk.</p>
+<p>Mange håper og tror også at programmering kan gjøre realfagene mer spennende. Behovet for flere realister har vært stort lenge. Lærdommen etter mange realfagsstrategier fra like mange regjeringer er at ungdom velger det de liker og synes er gøy, ikke det politikere, næringslivsledere eller lærere sier de bør velge.</p>
+<p>Programmering i skolen vil trolig kunne inspirere noen flere til å velge ikt-utdannelse.</p>
+<p>I de nye læreplanene for grunnskolen og den videregående skolen nevnes programmering spesifikt i fagene matematikk, naturfag, musikk og kunst og håndverk.</p>
+<p>I matematikk skal elevene kunne bruke variabler, løkker, betingelser og funksjoner til å lage, teste og forbedre algoritmer, og de skal bruke programmering til å utforske matematiske sammenhenger, både generelt i matematikken og spesifikt knyttet til geometri, sannsynlighet og datasett.</p>
+<p>Vi på Simula applauderer dette. Samtidig ser vi umiddelbart de utfordringene dette gir skolen. Dersom man ikke er trygg på fagkunnskapen selv, er det krevende å legge til rette for utforskning og bruk av programmering i tillegg til samtale om elevens utvikling. Slik planene er nå, stilles det ekstremt høye krav til lærerne – uten en helhetlig strategi for kompetanseheving.</p></div></body></document>

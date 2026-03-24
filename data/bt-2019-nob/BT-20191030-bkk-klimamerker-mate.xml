@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-bkk-klimamerker-mate.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/RRQXLA/bkk-klimamerker-maten-i-kantinen-forsker-mener-det-er-unoedvendig-tids" frk="29 33 7 211 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:40"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">BKK klimamerker maten i kantinen. Forsker mener det er unødvendig tidsbruk.</div>
+<div type="ingress">En porsjon biff med tilbehør gir 1,09 kilo CO2-avtrykk. Til sammenlikning gir svineretten med grønnsaker 0,38 kilo.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

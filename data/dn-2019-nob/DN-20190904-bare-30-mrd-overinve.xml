@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190904-bare-30-mrd-overinve.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/bolig/boligbygging/boligskatt/bare-30-mrd-overinvestert-i-bolig/2-1-664571" frk="277 18 32 1765"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-04 17:54"/>
+<attribute name="author" value="Espen Sirnes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="innlegg,bolig,boligbygging,boligskatt"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bare 30 mrd. overinvestert i bolig</div>
+<div type="ingress">Erlend Eide Bø kommenter i DN 28. august min kronikk tidligere i august der jeg nevner hans forskning om boligskatt (DN 14. august). Han innvender at en reduksjonen i boliginvestering på 0,5 prosent av bnp, som jeg finner, blir 16 milliarder i året og utgjør 270 milliarder av eksisterende boligmasse.</div>
+<div type="author">Espen Sirnes</div>
+<div type="date">2019-09-04 17:54</div>
+<div type="caption"></div>
+<div type="text">
+<p>Erlend Eide Bø kommenter i DN 28. august min kronikk tidligere i august der jeg nevner hans forskning om boligskatt (DN 14. august). Han innvender at en reduksjonen i boliginvestering på 0,5 prosent av bnp, som jeg finner, blir 16 milliarder i året og utgjør 270 milliarder av eksisterende boligmasse.</p>
+<p>Men hele overinvesteringen er ikke tap. Skattesubsidien fører til overproduksjon fordi den er lønnsom med skattesubsidien, men ulønnsom uten. Differansen mellom kostnad og nytte kan derfor ikke være høyere enn selve subsidien. Vanlig tilbud-etterspørselsbetraktning tilsier at for noe av overproduksjonen vil tapet være nært null.</p>
+<p>En grei antagelse er dermed at tapet i gjennomsnitt ligger midt i mellom subsidien på 22 prosent (dagens kapitalskattesats) og null – det vil si 11 prosent.</p>
+<p>I så fall er det totale akkumulerte tapet på 30 milliarder. Årlig blir tapet snaue to milliarder eller seks promille av bnp per år. I tillegg kommer at estimatene er heftet med stor usikkerhet. Bare 13 prosent av variasjonen i min modell forklares av skatter. Denne usikkerheten tilsier en enda lavere nåverdi av tiltaket.</p>
+<p>Modellen har imidlertid et problem ved at det kan være aktiviteten i byggenæringen som påvirker skatteinngangen, og ikke motsatt. Standard fremgangsmåte er da å bruke en opplagt uavhengig variabel som «instrument». Jeg har brukt laveste skattesats til dette, og resultatet ble omtrent det samme.</p></div></body></document>

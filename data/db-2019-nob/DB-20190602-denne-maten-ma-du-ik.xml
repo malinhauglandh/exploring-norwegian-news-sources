@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190602-denne-maten-ma-du-ik.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/denne-maten-ma-du-ikke-blande-med-medisiner/71112517" frk="57 0 0 374 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-02 19:57"/>
+<attribute name="author" value="Jorun Gaarder"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="kosthold,interaksjoner,helse,bivirkninger,nyheter,medisiner,pluss,legemidler,mat"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Denne maten må du ikke blande med medisiner</div>
+<div type="ingress">Maten du spiser kan gjøre at medisinen ikke virker, eller at den virker for godt. Dette er medisinene og maten du bør passe på.</div>
+<div type="author">Jorun Gaarder</div>
+<div type="date">2019-06-02</div>
+<div type="caption"><p>PÅVIRKER: Grapefruktjuice påvirker effekten av omtrent halvparten av legemidlene vi bruker. Du bør lese pakningsvedlegget for medisinen din nøye, råder farmasøyten. Foto: NTB Scanpix</p></div>
+</body></document>

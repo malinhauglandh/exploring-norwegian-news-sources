@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190905-advarer-mot-dodelig-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/xPbL7n/Advarer-mot-dodelig-hundesykdom" frk="35 0 0 240 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-05 13:20"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger kommune,dyr,mattilsynet,sykdom,hund"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Advarer mot dødelig hundesykdom</div>
+<div type="ingress">Flere veterinærer i Oslo-området har de siste dagene fått inn hunder med alvorlig og i noen tilfeller dødelig diaré. I Stavanger er det blitt vurdert å stenge lufteområder.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Pål Christensen</p></div>
+</body></document>

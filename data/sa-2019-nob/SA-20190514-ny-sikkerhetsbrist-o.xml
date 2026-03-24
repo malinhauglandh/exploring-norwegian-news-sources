@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190514-ny-sikkerhetsbrist-o.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/utenriks/i/BRw6vv/Ny-sikkerhetsbrist-oppdaget-i-Intel-maskinvare" frk="170 3 4 1179"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-14 20:02:42"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny sikkerhetsbrist oppdaget i Intel-maskinvare</div>
+<div type="ingress">Intel har avdekket nok et datasikkerhetshull som kan ramme millioner av mikroprosessorer verden over.</div>
+<div type="author">NTB</div>
+<div type="date">2019-05-14 20:02:42</div>
+<div type="caption"><p>En ny svakhet er oppdaget i databrikker fra amerikanske Intel. Foto: Richard Drew / AP / NTB scanpix</p></div>
+<div type="text">
+<p>Den amerikanske databrikkeprodusenten sier det ikke er noen bevis for at noen har utnyttet feilen.</p>
+<p>Programfeilen er forankret i datamaskinvarens konstruksjon og kan ifølge Intel gjøre angripere i stand til å se lekket data. Men det er vanskelig å utnytte bristen utenfor et laboratorium, ifølge selskapet.</p>
+<p>Intel sier de allerede har håndtert problemet i sine nyeste mikroprosessorer etter å ha jobbet i månedsvis med forretningspartnere og uavhengige granskere.</p>
+<p>Svakheten har fått navnet «ZombieLoad» og ligner på «Meltdown» og «Spectre», som skapte panikk i IT-industrien i fjor og rammer databrikkene som utgjør «hjernen» i smarttelefoner og datamaskiner. Nesten alle mikrobrikker fra Intel som er levert etter 2011, rammes av mangelen, ifølge TechCrunch.</p>
+<p>Intel har produsert prosessorer i flere tiår og er blant verdens største leverandører av såkalte halvledere og databrikker, også kalt mikroprosessorer.</p></div></body></document>

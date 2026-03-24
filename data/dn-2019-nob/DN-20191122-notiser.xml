@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191122-notiser.xml"/>
+<attribute name="url" value="http://www.dn.no/notiser/2-1-711811" frk="163 3 4 1030"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-11-22 18:50"/>
+<attribute name="author" value="Harald Barstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Notiser</div>
+<div type="ingress">Trump: En avtale med Kina er nær</div>
+<div type="author">Harald Barstad</div>
+<div type="date">2019-11-22 18:50</div>
+<div type="caption"></div>
+<div type="title" level="3">Trump: En avtale med Kina er nær</div>
+<div type="text">
+<p>Donald Trump sier et intervju med Fox News fredag at en avtale med Kina er nær, melder Bloomberg News. Han sier videre det er en "svært god mulighet" for å få gjennomført en avtale. (DN investor)</p></div>
+<div type="title" level="3">Tesla-aksjen faller bratt</div>
+<div type="text">
+<p>Aksjekursen i den amerikanske bil- og batteriprodusenten Tesla faller nesten sju prosent etter lanseringen av en ny elektrisk pickup natt til fredag. Ekspertene, og åpnebart også investorene, er lite fornøyd med den nye bilen, spesielt med utseendet. Se også side 22-23 (DN investor)</p></div>
+<div type="title" level="3">Ledelsen går i inkassoseskapet Intrum</div>
+<div type="text">
+<p>Hele den svenske ledelsen går i inkassoselskapet Intrum, skriver avisen Dagens Industri. Det skjer mens hovedeieren Nordic Capital har skjerpet lønnsomhetsmålene til selskapet. (DN investor)</p></div>
+<div type="title" level="3">DN retter</div>
+<div type="text">
+<p>I fredagens utgave av DN ble det benyttet feil bilde av Kristoffer Olsen i Jotunfjell Partners. Den avbildede personen med samme navn har ikke noe med den aktuelle saken å gjøre. DN beklager.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190307-slik-er-solskjars-av.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/fotball/Slik-er-Solskjars-avtale-med-Molde-270288b.html" frk="29 5 1 200 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-07 06:13"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="Manchester United,Ole Gunnar Solskjær,Molde FK"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik er Solskjærs avtale med Molde</div>
+<div type="ingress">Skapte forvirring med uttalelser.</div>
+<div type="author"></div>
+<div type="date">2019-03-07</div>
+<div type="caption"><p>Ole Gunnar Solskjær og styreleder Odd Ivar Moen da den nye kontrakten ble signert 3. desember. FOTO: MOLDEFK.NO</p></div>
+</body></document>

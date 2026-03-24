@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191214-det-blir-spennende-a.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/y30LoE/Det-blir-spennende-a-folge-med-pa-artisten-Steffen-Kvidahl" frk="23 0 0 160 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-14 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Det blir spennende å følge med på artisten Steffen Kvidahl</div>
+<div type="ingress">Les om blant andre Steffen Kvidahl, Vilnes og Verdensrommet i ukens musikkspalte.</div>
+<div type="author"></div>
+<div type="date">2019-12-14</div>
+<div type="caption"></div>
+</body></document>

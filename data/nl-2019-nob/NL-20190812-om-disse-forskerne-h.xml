@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190812-om-disse-forskerne-h.xml"/>
+<attribute name="url" value="http://www.nordlys.no/motor/elbil/industri/om-disse-forskerne-har-rett-vil-det-fa-store-konsekvenser-i-elbil-bransjen/s/5-34-1174667" frk="763 2 14 5259"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-08-12 08:55"/>
+<attribute name="author" value="Lars Wærstad, Nettavisen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Om disse forskerne har rett, vil det få store konsekvenser i elbil-bransjen</div>
+<div type="ingress">Teslas forskningspartner innen Li-ion-batterier har gjort en spennende oppdagelse.</div>
+<div type="author">Av Lars Wærstad, Nettavisen</div>
+<div type="date">12. august 2019, kl. 08:55</div>
+<div type="caption"><p>REKKEVIDDE: Jo mer energitette batteriene er, jo mindre blir batteripakken i elbilene. Det vil spare både miljø og penger. Alternativt kan elbilene få enorm rekkevidde. Forskningsmiljøet rundt Tesla hevder de kan gjøre dagens batteriteknologi vesentlig mer energieffektive.</p></div>
+<div type="text">
+<p>Norge er elbillandet framfor noe, men også her plages både eksisterende og potensielle elbileiere av tanken på bilens rekkevidde og ladetid.</p>
+<p>I de fleste elbiler sitter det en pakke med litiumionebatterier. Det er en uomtvistelig sannhet at en batteripakke av litt størrelse som gir dugelig rekkevidde tar tid å lade.</p>
+<p>Mens en bensin- eller dieselbil kan fylle tanken på få minutter, flyr kvarterene når en elbil skal toppes. Ladetid fra nesten tomt batteri til nesten fullt kan komme opp i en time.</p>
+<p>En del hevder såkalte faststoffbatterier (solid state) kan løse utfordringen.</p>
+<p>Faststoffbatterier er nærmest en hellig gral i batteriindustrien. Utviklingen av litiumionebatterier har stått omtrent stille, mens den nye batteritypen kan være et sjumilssteg framover med mange ganger energitettheten, lading på minutter og nærmest ingen brannfare.</p>
+<p>Problemet er at ingen så langt har klart å skape en metode for billig masseproduksjon av faststoffbatterier slik at de kan konkurrere med litiumionebatterier.</p>
+<p>Nå peker Teslas forskningspartner innen batteriteknologi på en løsning som kan skifte fokuset bort fra faststoffbatterier.</p>
+<p>I en artikkel publisert i tidsskriftet «Nature» mener forskerne at det kan finnes en måte å gjøre litiumionebatterier mer energitette på.</p>
+<p>Arbeidet ledes av Jeff Dahn, som regnes som en pioner innen utviklingen av li-ion-batterier. Han krediteres med å ha hjulpet til med å forlenge levetiden til battericellene i en slik grad at batteriene ble kommersielt interessante, skriver elbilbloggen Electrek.</p>
+<p>I 2016 avsluttet Dahn sitt 20 år lange samarbeid med 3M og innledet et samarbeid med Tesla. Siden da har Tesla og Dahns team registrert en rekke patenter som forbedrer den eksisterende batteriteknologien.</p>
+<p>I artikkelen i «Nature» skisseres en ytterligere forbedring av dagens batterier, og forskerne hevder at løsningen gir faststoffbatterier solid konkurranse.</p>
+<p>I sammendraget av artikkelen skriver forskerne at de har løst problemet som følger med å erstatte den konvensjonelle grafittanoden med litiummetall uten å måtte bruke faststoffelektrolytter.</p>
+<p>Les faktaboksen under for å lese sammendraget av forskningen:</p></div>
+<div type="title" level="3">Les forskernes sammendrag (på engelsk)</div>
+<div type="text">
+<p>Cells with lithium-metal anodes are viewed as the most viable future technology, with higher energy density than existing lithium-ion batteries. Many researchers believe that for lithium-metal cells, the typical liquid electrolyte used in lithium-ion batteries must be replaced with a solid-state electrolyte to maintain the flat, dendrite-free lithium morphologies necessary for long-term stable cycling.</p>
+<p>Here, we show that anode-free lithium-metal pouch cells with a dual-salt LiDFOB/LiBF4 liquid electrolyte have 80% capacity remaining after 90 charge – discharge cycles, which is the longest life demonstrated to date for cells with zero excess lithium.</p>
+<p>The liquid electrolyte enables smooth dendrite-free lithium morphology comprised of densely packed columns even after 50 charge – discharge cycles. NMR measurements reveal that the electrolyte salts responsible for the excellent lithium morphology are slowly consumed during cycling.</p>
+<p>Mange forskere og bilprodusenter mener faststoffelektrolytter er den beste løsningen i fremtiden. Dahn og hans team er imidlertid ikke overbevist.</p>
+<p>Et utfordring med slike batterier er at det dannes krystaller, spisse nåler kalt dendriter, i cellene når litiumionene beveger seg gjennom elektrolytten mellom anoden og katoden.</p>
+<p>Om du ikke skjønner bæret av akkurat dette, er problemet at disse dendritene kan kortslutte hele batteriet.</p>
+<p>Forskerne skriver:</p>
+<p>«Faststoffelektrolytter har ikke lyktes med å eliminere dendriter fullstendig, og det er uklart hvor kompatible disse teknologiene vil være med eksisterende litium-ion-produserende infrastruktur, hvor det er investert milliarder av dollar. Hvis flytende elektrolytter kan brukes til å lage sikre litium-metallceller med lang levetid, kan eksisterende produksjonsutstyr brukes til å raskt kommersialisere celler med høy energitetthet.»</p>
+<p>Magnus Blaker er Nettavisens motorekspert. Han mener forskernes funn er interessante, men tror det vil ta tid før en eventuelt ser resultater.</p>
+<p>– Det høres ut som om forskerne her kan være inne på et interessant spor, men langt ifra er i mål. Det har kommet mange interessante påstander de siste årene, men de fleste har noen utfordringer før de får det helt til, forklarer Blaker.</p>
+<p>Han mener samtidig at utviklingen er lovende.</p>
+<p>– Men hvis man på en enkelt måte kan forbedre kapasiteten på dagens batterier uten å gå direkte mot «solid state»-løsninger, vil det være gode nyheter på mellomlang sikt. Det er stor bekymring for at verdens batteribehov langt overstiger de tilgjengelige naturressursene. Kan man klare seg med mindre batterier for å komme like langt, vil det være gode nyheter for alle.</p></div></body></document>

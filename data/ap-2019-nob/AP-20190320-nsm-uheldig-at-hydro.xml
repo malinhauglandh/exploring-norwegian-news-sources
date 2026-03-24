@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190320-nsm-uheldig-at-hydro.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/XwxleE/NSM-Uheldig-at-Hydro-hadde-koblet-seg-fra-varslingssystem-for-dataangrep" frk="722 4 21 4565"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-20 17:26"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="norsk hydro"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NSM: Uheldig at Hydro hadde koblet seg fra varslingssystem for dataangrep</div>
+<div type="ingress">Hydro hadde koblet seg fra overvåkingsnettverket til Nasjonal sikkerhetsmyndighet (NSM) under hackingangrepet de ble utsatt for. Kripos etterforsker angrepet.</div>
+<div type="author">NTB</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>Politiadvokat Knut Jostein Sætnan i Kripos sier de vil samle relevant informasjon også fra utlandet i etterforskningen av dataangrepet på Hydro. – Vi er kjent med at sånne saker er vanskelige. Vi går på med friskt mot. Informasjonsdeling er nøkkelen i alle sånne saker, sa han på en pressekonferanse onsdag. Foto: Trygve Indrelid / NTB scanpix</p> <p>Seksjonsleder for Norges nasjonale cybersenter Håkon Bergsjø sier Hydro hadde koblet seg av det nasjonale varslingssystemet som overvåker nettverkene til samfunnskritiske norske virksomheter, da de ble utsatt for et omfattende dataangrep. Foto: Heiko Junge / NTB scanpix</p> <p>Hydros finansdirektør Eivind Kallevik bekrefter at selskapet er blitt rammet av en type virus som gjør at data blir kryptert. Angriperne vil så kreve løsepenger for å «låse opp» informasjonene igjen, men Kallevik sier de ikke har mottatt krav om noen konkret sum. Foto: Cornelius Poppe / NTB scanpix</p></div>
+<div type="text">
+<p>Norsk Hydro er til vanlig tilkoblet NSMs varslingssystem for digital infrastruktur (VDI), som overvåker nettverkene til samfunnskritiske norske virksomheter og bedrifter, og som har som jobb å varsle dersom nettverkene blir utsatt for angrep.</p>
+<p>Under det omfattende dataangrepet natt til tirsdag 19. mars, var imidlertid Hydros sensor ikke påkoblet, opplyser Håkon Bergsjø, leder for NSMs cybersenter NorCERT, til NTB.</p>
+<p>Han mener avkoblingen er «uheldig».</p>
+<p>– Kunne angrepet blitt stoppet tidligere, hvis sensoren hadde vært påkoblet?</p>
+<p>– Det vil jeg ikke spekulere på. Vi må analysere hendelsen, og det er ikke alt vi ser heller, det er vi helt åpne om, vi har en lagdeling. Vår viktigste oppgave er å holde oversikt på tvers av samfunnet, sier Bergsjø.</p></div>
+<div type="title" level="3">5.000 trusler</div>
+<div type="text">
+<p>I operasjonssentralen til NorCERT overvåkes datastrømmen inn til Norge, og direkte inn i en rekke bedrifter og virksomheter som anses som samfunnskritiske for Norge. I et sensornettverk kan NSM måle angrep eller forsøk på innbrudd hos bedrifter som forvalter eller eier kritisk informasjon eller kunnskap i Norge.</p>
+<p>I 2017 avslørte sensorene i systemet 20.000 mistenkelige datastrømmer. Etter sjekk var det 5.000 varsler som ble fulgt opp som en ekte trussel.</p>
+<p>Hydros finansdirektør Eyvind Kallevik mener det er umulig å si hvilken effekt frakoblingen hadde hatt.</p>
+<p>– Dette var en bevisst handling og vi var dekket av annet overvåkingsutstyr i denne perioden, sa Kallevig på en pressekonferanse onsdag.</p>
+<p>Han sier det er for tidlig å konkludere i spørsmålet om hackerne kan ha trengt inn i datasystemet lenge før selskapet fikk dataproblemer tirsdag.</p>
+<p>– Nå får politiet gjøre ferdig sin etterforskning og vi skal konkludere våre interne undersøkelser. Dette skal vi selvsagt se på, sier han til NTB.</p></div>
+<div type="title" level="3">Ikke fått konkret krav</div>
+<div type="text">
+<p>Hydro tror foreløpig angrepet er et «klassisk» løsepengevirus og at hackerne ikke har vært ute etter å stjele informasjon, ifølge Kallevik. Foreløpig har selskapet ikke fått noe krav om et spesifikt beløp i løsepenger og Kallevik sier selskapet heller ikke har vært i kontakt med dem som står bak.</p>
+<p>– Det er et bevisst valg, bekrefter han, ifølge nettavisen E24.</p>
+<p>Kripos åpnet onsdag etterforskning av dataangrepet. De går gang med å samle inn all relevant informasjon, noe som også inkluderer informasjon fra utlandet, opplyser politiadvokat Knut Jostein Sætnan.</p>
+<p>– Vi vil også undersøke om tilsvarende hendelser har skjedd i andre land og dra veksler på erfaringer fra dem, sier han.</p>
+<p>Politiadvokaten kan ikke si noe om hvor angrepet hadde sin opprinnelse, ei heller motivet.</p>
+<p>– Vi er ikke kjent med noe krav. Motivet må vi undersøke nærmere. Det er det altfor tidlig å si noe om, sier han.</p>
+<p>Det er ikke noen grunn til å si at det at Hydro hadde koblet seg fra overvåkingssystemet vil få negative følger for etterforskningen, ifølge politiadvokaten.</p></div>
+<div type="title" level="3">Trolig ikke statlig aktør</div>
+<div type="text">
+<p>PST-sjef Benedicte Bjørnland sier til NTB at det så langt ikke er noe som tyder på at det er noen statlig aktør som står bak dataangrepet mot Hydro. Av den grunn er det Kripos og ikke PST som tar hånd om etterforskningen.</p>
+<p>– Enn så lenge er vurderingen at dette er en sak for Kripos, men vi har jo tett daglig kontakt med både Kripos, E-tjenesten og NSM, sier Bjørnland til NTB.</p>
+<p>Den internasjonale aluminiumsleverandøren strever med konsekvensene etter dataangrepet, men opplyser at selskapet har funnet årsaken og jobber med å gjenopprette driften.</p></div></body></document>

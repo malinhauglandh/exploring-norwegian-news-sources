@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190410-produksjonen-pa-aast.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/pLBybj/Produksjonen-pa-Aasta-Hansteen-stanset-grunnet-lekkasje" frk="37 0 0 301 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-10 07:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="aasta hansteen,norsk sokkel,equinor,aasta hansteen-feltet,olje og gass,oljeproduksjon"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Produksjonen på Aasta Hansteen stanset grunnet lekkasje</div>
+<div type="ingress">Gassproduksjonen på Aasta Hansteen-feltet er stanset grunnet en gasslekkasje mandag ettermiddag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Produksjonen på Aasta Hansteen-feltet i Norskehavet startet produksjon like før jul. Nå er produksjonen stanset. Marie von Krogh</p></div>
+</body></document>

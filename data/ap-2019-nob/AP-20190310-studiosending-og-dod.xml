@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190310-studiosending-og-dod.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/Studiosending-og-Doddo-chat-Folg-Brann--Rosenborg-med-Ballspark-270395b.html" frk="24 21 4 188 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-10 13:05"/>
+<attribute name="author" value="Mads Bøyum"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="ballspark,brann,doddo,erik huseklepp,ballspark"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Studiosending og Doddo-chat: Følg Brann – Rosenborg med Ballspark</div>
+<div type="ingress">Få med deg vår studiosending fra klokken 17.45.</div>
+<div type="author">Mads Bøyum</div>
+<div type="date">10.mar.2019 14:05</div>
+<div type="caption"><p>Ballspark: Brann - Rosenborg Vi følger treningskampen.</p></div>
+</body></document>

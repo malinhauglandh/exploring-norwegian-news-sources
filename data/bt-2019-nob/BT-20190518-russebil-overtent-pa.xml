@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190518-russebil-overtent-pa.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5Q655/Russebuss-overtent-pa-ett-minutt" frk="43 29 8 274 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-18 06:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,Bil,Brann,17. mai,Russetid"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Russebil overtent på ett minutt</div>
+<div type="ingress">17. mai-festen ble brått avsluttet da russebilen tok fyr. – Døren virket ikke. Det kunne gått mye verre, sier en av passasjerene.</div>
+<div type="author"></div>
+<div type="date">2019-05-18</div>
+<div type="caption"><p>ØDELAGT: Russebilen på Voss ble helt ødelagt i brannen som oppsto 17. mai. FOTO: 2211-tipser</p></div>
+</body></document>

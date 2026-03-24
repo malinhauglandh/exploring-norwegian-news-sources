@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191217-norge-domt-i-to-barn.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/dO0wkB/Norge-domt-i-to-barnevernssaker-i-Strasbourg" frk="44 0 0 313 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-17 10:02"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Norge dømt i to barnevernssaker i Strasbourg</div>
+<div type="ingress">Menneskerettsdomstolen har dømt Norge for brudd i to nye barnevernssaker. Det er viktig å jobbe med kvaliteten i barnevernet, sier statsminister Erna Solberg.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 17. desember 2019 10:02</div>
+<div type="caption"><p>EMD: Menneskerettsdomstolen i Strasbourg. Foto: Violetta Kuhn / DPA / NTB scanpix (arkiv)</p></div>
+</body></document>

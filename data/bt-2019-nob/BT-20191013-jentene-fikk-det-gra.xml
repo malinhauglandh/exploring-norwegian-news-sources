@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013-jentene-fikk-det-gra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qLE36e/Jentene-fikk-det-gratis-For-Mons-og-Gaute-vil-det-koste-over-8000-kroner-a-fa-HPV-vaksiner" frk="30 21 4 189 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Jentene fikk det gratis. For Mons og Gaute vil det koste over 8000 kroner å få HPV-vaksiner.</div>
+<div type="ingress">– Dette handler både om likestilling og klasseskille, sier Lene Sælen Vonli.</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

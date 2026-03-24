@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-disse-artistene-blir.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/VbLPXd/disse-artistene-blir-bergenserne-aldri-lei-av" frk="26 17 3 167 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:45"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Disse artistene blir bergenserne aldri lei av</div>
+<div type="ingress">Vamp har spilt i Bergen cirka 120 ganger. De er blitt en av flere gjengangere på byens konsertscener.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

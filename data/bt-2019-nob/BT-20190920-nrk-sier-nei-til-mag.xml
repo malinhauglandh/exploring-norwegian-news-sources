@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190920-nrk-sier-nei-til-mag.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/b5WeKd/NRK-sier-nei-til-Magnus-2" frk="26 44 7 159 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-20 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">NRK sier nei til «Magnus 2»</div>
+<div type="ingress">– Vi hadde i snitt 500.000 seere i Norge, men tallene var dalende, sier serieskaper og komiker Vidar Magnussen.</div>
+<div type="author"></div>
+<div type="date">2019-09-20</div>
+<div type="caption"></div>
+</body></document>

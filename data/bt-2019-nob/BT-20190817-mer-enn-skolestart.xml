@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190817-mer-enn-skolestart.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/mReXMg/Mer-enn-skolestart" frk="58 26 9 336 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-17 12:05"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Skolestart,Skole,Lokalhistorie,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mer enn skolestart</div>
+<div type="ingress">En gang i tiden gikk vi på skoleveien i Fanajakker og knestrømper.</div>
+<div type="author"></div>
+<div type="date">2019-08-17</div>
+<div type="caption"><p>KJUAGUTTER: Et klassebilde fra Landås skole i 1960. Slik så kjuaguttene ut den gang. Mange av guttene på bildet begynte på Fridalen skole i 1953, men ble etter et par år flyttet til Landås skole, som da sto ferdig. Klassen er 7GA.</p></div>
+</body></document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-bankid-problemer-ga-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/BRexj0/BankID-problemer-ga-trobbel-for-nettbankene" frk="105 9 7 716" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 18:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">BankID-problemer ga trøbbel for nettbankene</div>
+<div type="ingress">BankID-problemene hos Telenor som skapte innloggingsproblemer for bankkunder over hele landet, er løst.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+<div type="text">
+<p>Oppdatert for mindre enn 2 timer siden</p>
+<p>NTB</p>
+<p>Klokken 13.48 opplyste Telenor at feilen skal være rettet, ifølge Bergensavisen.</p>
+<p>– Problemene med BankID er nå løst, og alt fungerer som normalt, sier kommunikasjonssjef Hanne Kjærnes i BankID.</p>
+<p>Torsdag like før klokken 11 fikk Nets, som leverer betalingsløsninger til mange tjenester og selskaper, de første meldingene om problemer.</p>
+<p>Sparebanken Vest opplyste til Bergensavisen at det var trøbbel med BankID, og at det traff alle bankene likt. Også DNB meldte om tilsvarende problemer, men da kun på mobil.</p></div></body></document>

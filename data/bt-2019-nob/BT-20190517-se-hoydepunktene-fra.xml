@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190517-se-hoydepunktene-fra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0nWXp0/Folg-var-17-mai-dekning-direkte" frk="22 24 4 165 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-17 05:18"/>
+
+<attribute name="author" value="Rune Stølås"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="17. mai"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se høydepunktene fra 17. mai i Bergen</div>
+<div type="ingress">Varmerekorden trakk et folkehav til sentrum.</div>
+<div type="author">Rune Stølås</div>
+<div type="date">17. mai 2019 05:18</div>
+<div type="caption"><p>17. mai-høydepunktene Se intervjuene fra folkefesten i Bergen.</p></div>
+</body></document>

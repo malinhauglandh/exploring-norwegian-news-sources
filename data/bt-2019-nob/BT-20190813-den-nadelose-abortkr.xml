@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190813-den-nadelose-abortkr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/Jo30K6/Den-nadelose-abortkrigen" frk="31 0 0 232 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-13 09:43"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Abort,USA"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Den nådeløse abortkrigen</div>
+<div type="ingress">I Mississippi finnes det bare én abortklinikk igjen. Hver dag blir fortauet foran inngangspartiet til en kampplass, der våpnene er dundrende musikk, fargerike uniformer og aggressive rop.</div>
+<div type="author"></div>
+<div type="date">2019-08-13</div>
+<div type="caption"></div>
+</body></document>

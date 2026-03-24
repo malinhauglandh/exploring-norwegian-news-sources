@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191204-henlegger-sak-mot-os.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Op11wE/Henlegger-sak-mot-Osteroy-kommune" frk="18 0 0 148 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-04 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Henlegger sak mot Osterøy kommune</div>
+<div type="ingress">Statsadvokaten har henlagt rassaken mot Osterøy kommune som «intet straffbart forhold bevist».</div>
+<div type="author"></div>
+<div type="date">2019-12-04</div>
+<div type="caption"></div>
+</body></document>

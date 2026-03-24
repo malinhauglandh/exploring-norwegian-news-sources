@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190813-rekordunderskudd-i-b.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/OpmGz3/Rekordunderskudd-i-Bergen-Naringsrad" frk="48 0 0 322 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-13 11:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Bergen Næringsråd,Årsrapport,Næringsliv,Økonomi"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rekordunderskudd i Bergen Næringsråd</div>
+<div type="ingress">Aldri tidligere har Bergen Næringsråd rapportert så stort underskudd som i fjor.</div>
+<div type="author"></div>
+<div type="date">2019-08-13</div>
+<div type="caption"><p>FINANSBYEN BERGEN: – Dette er penger som skal stå i fond i mange år, og avkastningen vil svinge, sier Marit Warncke som er administrerende direktør i Bergen Næringsråd. FOTO: Tor Høvik</p></div>
+</body></document>

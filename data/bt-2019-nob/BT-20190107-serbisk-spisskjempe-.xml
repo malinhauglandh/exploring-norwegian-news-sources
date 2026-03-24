@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190107-serbisk-spisskjempe-.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/fotball/Serbisk-spisskjempe-er-hoyaktuell-for-Brann-267036b.html" frk="41 20 5 240 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-07 12:09"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="Eliteserien,SK Brann"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Serbisk spisskjempe er høyaktuell for Brann</div>
+<div type="ingress">En 2,03 meter høy angriper kan bli Lars Arne Nilsens nye våpen.</div>
+<div type="author"></div>
+<div type="date">2019-01-07</div>
+<div type="caption"><p>AKTUELL: Fejsal Mulic (24) fra Serbia er spiss og mer enn to meter høy. Nå er han aktuell for Brann. FOTO: imago</p></div>
+</body></document>

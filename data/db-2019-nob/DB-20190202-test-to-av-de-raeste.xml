@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190202-test-to-av-de-raeste.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/motor/test-to-av-de-raeste-familiebilene-adrenalinet-kjennes-i-hele-kroppen/70660428" frk="71 19 9 451 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-02 20:55"/>
+<attribute name="author" value="Rune Nesheim"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="motor"/>
+<attribute name="class2" value="mercedes amg gt,ladbar hybrid,v8,hybrid,porsche panamera turbo s-e hybrid,duell,autofil,4x4,test,pluss,pluss_motor,pluss_autofil,motor"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test: To av de råeste familiebilene. Adrenalinet kjennes i hele kroppen</div>
+<div type="ingress">Den ene har 680 hester, den andre har 640 hk. Vi testet Mercedes AMG GT 63 S 4Matic og Porsche Panamera Turbo S E-Hybrid Active Tourer mot hverandre på dragrace-stripa.</div>
+<div type="author">Rune Nesheim</div>
+<div type="date">2019-02-02</div>
+<div type="caption"><p>SINNATAGGER: Endelig fikk vi anledning til å kjøre den brutale AMG GT med fire dører (t.h). Den eneste naturlig konkurrenten er Porsche Panamera i sterkeste versjon. Foto: Jamieson Pothecary</p></div>
+</body></document>

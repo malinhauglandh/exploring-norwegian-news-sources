@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-a-legge-ned-bergen-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8m1JV1/A-legge-ned-Bergen-Frp-kan-koste-partiet-dyrt" frk="30 0 0 166 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Å legge ned Bergen Frp kan koste partiet dyrt</div>
+<div type="ingress">Frp mister statsstøtte om dei legg ned Bergen Frp. Det er leiinga villig til å ofre for å rydde opp.</div>
+<div type="author"></div>
+<div type="date">2019-12-19</div>
+<div type="caption"></div>
+</body></document>

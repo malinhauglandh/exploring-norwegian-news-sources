@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191122-mann-domt-til-ett-ar.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/701Kpo/Mann-domt-til-ett-ars-fengsel-for-vold-mot-samboeren" frk="35 0 0 198 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-22 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann dømt til ett års fengsel for vold mot samboeren</div>
+<div type="ingress">I halvannet år skal kvinnen ha blitt utsatt for et trusselregime av sin norske kjæreste, som nå er dømt til fengsel i ett år.</div>
+<div type="author"></div>
+<div type="date">2019-11-22</div>
+<div type="caption"></div>
+</body></document>

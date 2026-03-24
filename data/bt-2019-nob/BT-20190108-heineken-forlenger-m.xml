@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190108-heineken-forlenger-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/BJaxRG/-Heineken-forlenger-milliardkontrakt-med-Hansa-Borg" frk="37 0 0 281 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-08 12:17"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Hansa Borg Bryggerier,Bryggerier,Nøgne Ø,Heineken,Arbeidsliv,Christianssands Bryggeri,Økonomi,Nedbemanning"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Heineken forlenger milliardkontrakt med Hansa Borg</div>
+<div type="ingress">Tross ny storkontrakt mister mange ansatte i Hansa Borg jobbene sine.</div>
+<div type="author"></div>
+<div type="date">2019-01-08</div>
+<div type="caption"><p>NEDBEMANNER: Lars Giil, administrerende direktør i Hansa Borg, forteller at bryggeriet må nedbemanne tross ny storkontrakt. FOTO: Hansa Borg</p></div>
+</body></document>

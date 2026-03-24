@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191231-restaurantanmeldelse.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/sulten/i/VbrpK6/Restaurantanmeldelse-Deilig-svipptur-til-Delhi" frk="110 2 2 696"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-31 10:00"/>
+<attribute name="author" value="Dagobert"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="osloby,sulten"/>
+<attribute name="class2" value="mat og drikke,restaurant,restaurantanmeldelse,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Restaurantanmeldelse: Deilig svipptur til Delhi</div>
+<div type="ingress">Delhi Tandoori har muligens et av byens stussligste lokaler. Men maten er det ingenting i veien med.</div>
+<div type="author">Dagobert</div>
+<div type="date">31.des.2019 11:00</div>
+<div type="caption"><p>FOTO: TOMM CHRISTIANSEN Delhi tandoori har en behagelig atmosfære når det ikke er fullt av gjester.</p></div>
+<div type="text">
+<p>– Det er like trangt som alltid, sier Spisevennen. – Men det ser ut til at det jeg husker som en av byens sureste servitører, ikke er her i kveld. Det lover godt.</p>
+<p>Aftenpostens har tre faste matanmeldere som anmelder tre restauranter i uken. Alle anmeldelsene kan du lese på restaurantguiden.osloby.no hvor du også finner over 60 matguider til alt fra beste pizza og burgere til thailandske godbiter og søndagsåpne restauranter.</p></div></body></document>

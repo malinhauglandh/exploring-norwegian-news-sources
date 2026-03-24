@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190219-ekstremt-vondt-a-hor.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/ekstremt-vondt-a-hore-at-det-tegnes-et-bilde-av-selvmord/70786634" frk="57 17 6 345 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-19 20:52"/>
+<attribute name="author" value="Audun Hageskal"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="pluss,nyheter,kriminalitet,innenriks,drap,anne linell sundt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">- Ekstremt vondt å høre at det tegnes et bilde av selvmord</div>
+<div type="ingress">To unge gutter sitter igjen uten sin mor. I lagmannsretten sitter stefaren, tiltalt for å ha tatt livet av henne.</div>
+<div type="author">Audun Hageskal</div>
+<div type="date">2019-02-19</div>
+<div type="caption"><p>DØDE: Anne Linell Sundt (39) mistet livet i desember 2014. I dag møter hennes samboer i Borgarting lagmannsrett, tiltalt for uaktsomt drap. Foto: Privat</p></div>
+</body></document>

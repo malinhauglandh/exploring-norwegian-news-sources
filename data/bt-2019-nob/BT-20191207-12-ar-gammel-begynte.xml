@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191207-12-ar-gammel-begynte.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JeL2A/Gikk-pa-sjokrigsskolen-12-ar-gammel" frk="35 32 8 245 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-07 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">12 år gammel begynte denne bergenseren på sjøkrigsskolen</div>
+<div type="ingress">En vårdag i 1808 begynte den 12 år gamle bergenseren Thomas Konow sin utdannelse ved «Det Kongelig Danske Søecadet Academie». Her er hans eksamensoppgave om krigføring.</div>
+<div type="author"></div>
+<div type="date">2019-12-07</div>
+<div type="caption"></div>
+</body></document>

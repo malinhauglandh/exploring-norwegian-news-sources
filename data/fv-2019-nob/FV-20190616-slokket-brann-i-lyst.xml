@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190616-slokket-brann-i-lyst.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/BR67WQ/Slokket-brann-i-lysthus" frk="39 0 0 240 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-06-16 17:11"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slokket brann i lysthus</div>
+<div type="ingress">Ingen personer ble skadet da det brøt ut brann i en utestue i Kvinesdal søndag morgen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Søndag morgen rykket brannvesenet ut til Hamrevegen i Kvinesdal for å slokke brann i et lysthus. FOTO: Tipser</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190907-han-kommer-til-berge.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/2GJWrR/Han-kommer-til-Bergen-med-later-nesten-ingen-har-hort-for" frk="23 0 0 141 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-07 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han kommer til Bergen med låter nesten ingen har hørt før</div>
+<div type="ingress">Lørdag kommer Wilco til Bergen med et uutgitt album i bagasjen.</div>
+<div type="author"></div>
+<div type="date">2019-09-07</div>
+<div type="caption"></div>
+</body></document>

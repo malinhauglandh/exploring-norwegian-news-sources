@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191209-meteorologen-melder-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qL8qzo/Meteorologen-melder-liten-storm-og-20-millimeter-nedbor" frk="83 25 14 548 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-09 10:10"/>
+
+<attribute name="author" value="Per Lindberg Reidun Drægebø Hilde Heian"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Meteorologen melder liten storm og 20 millimeter nedbør</div>
+<div type="ingress">Gult farevarsel for hele Vestlandet tirsdag.</div>
+<div type="author">Per Lindberg Reidun Drægebø Hilde Heian</div>
+<div type="date">Publisert 9. desember 2019 10:10</div>
+<div type="caption"><p>MYE VÆR: Satellittbildet viser skyer over Sør-Norge mandag. Foto: Meteorologisk institutt</p> <p>STENGT: Slik så det ut ved Hestavollen på Vikafjell ved 12.00-tiden mandag. Foto: Statens vegvesens webkamera</p> <p>TATT AV VINDEN: Tilhengeren skal ha blitt tatt av et vindkast og truffet en annen bil. Foto: Bård Bøe</p> <p>ÅPEN: Sotrabrua åpnet klokken 10.30 for fri ferdsel etter at en tilhenger blåste inn i en bil ved 10.00-tiden. Foto: Bård Bøe</p></div>
+</body></document>

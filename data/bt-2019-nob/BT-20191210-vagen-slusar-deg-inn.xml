@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191210-vagen-slusar-deg-inn.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WbyO6a/Vagen-slusar-deg-inn-Han-er-porten-og-gatedora" frk="25 12 2 160 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-10 05:27"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vågen slusar deg inn. Han er porten og gatedøra.</div>
+<div type="ingress">Dag 10: Vågen.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 10. desember 2019 05:27</div>
+<div type="caption"><p>JULEKALENDER: Det finst mange gode grunnar til å elske Bergen og Vestlandet.</p></div>
+</body></document>

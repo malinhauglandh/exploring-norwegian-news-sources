@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191205-mann-meget-alvorlig-.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/GGJ9WQ/mann-meget-alvorlig-skadd-etter-aa-ha-blitt-skutt-i-trondheim" frk="44 7 2 268 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-05 20:43"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann meget alvorlig skadd etter å ha blitt skutt i Trondheim</div>
+<div type="ingress">Politiet leter etter en gjerningsperson etter at en mann i 30-årene ble skutt i Trondheim torsdag kveld.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 5. desember 2019 20:43</div>
+<div type="caption"><p>En mann ble skutt i Trondheim sentrum torsdag kveld. Foto: Ned Alley / NTB scanpix</p></div>
+</body></document>

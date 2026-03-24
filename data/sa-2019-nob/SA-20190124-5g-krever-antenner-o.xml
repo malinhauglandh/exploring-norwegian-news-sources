@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190124-5g-krever-antenner-o.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/innenriks/i/ngoXXx/5G-krever-antenner-overalt-Smartby-sjefen-i-Stavanger-forberedt-pa-konflikter" frk="1379 8 74 8987"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-24 08:43:11"/>
+<attribute name="author" value="Ingeborg Eliassen, Investigate Europe"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value="nasjonal sikkerhetsmyndighet,stråling,eøs,telenor,mobiltelefoni,5g,teknologi,smartby,bredbånd,5g - det nye mobilnettet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">5G krever antenner overalt: Smartby-sjefen i Stavanger forberedt på konflikter</div>
+<div type="ingress">5G kan bety små antenner plassert i lyktestolper og nabolag med svært kort avstand. Smartby-sjefen i Stavanger forbereder seg på konflikter.</div>
+<div type="author">Ingeborg Eliassen, Investigate Europe</div>
+<div type="date">2019-01-24 08:43:11</div>
+<div type="caption"><p>Hvis 5G skal innfri løftene, trengs antenner som står tettest mulig - kanskje i lyktestolper. – Jeg ser for meg store diskusjoner om utplassering av antenner og basestasjoner, sier Gunnar Edwin Crawford, smartby-sjef i Stavanger. Fredrik Refvem</p> <p>Hvis 5G skal innfri løftene, trengs antenner som står tettest mulig - kanskje i lyktestolper. – Jeg ser for meg store diskusjoner om utplassering av antenner og basestasjoner, sier Gunnar Edwin Crawford, smartby-sjef i Stavanger.</p> <p>Kommunene bør gi utbyggerne rask og enkel tilgang til master og annet - og holde gebyrene nede, skrev daværende samferdselsminister Ketil Solvik-Olsen i et brev i fjor.</p></div>
+<div type="text">
+<p>Framtiden er “konnekta”, sier mobilindustrien. Det de ikke snakker like høyt om, er hva som må til for at supernettet 5G skal innfri hastighetene og stabiliteten som teknologien lover.</p></div>
+<div type="title" level="3">Fakta: Fakta</div>
+<div type="text">
+<p>5G: Femte generasjon mobilteknologi. Mye raskere nett med enorm kapasitet og minimale forsinkelser. Legger til rette for en million ting koplet til nettet per kvadratkilometer. Tingenes internett: Systemet vi gradvis er på vei inn i, der tingene våre er koplet til internett og kan gjøre hverdagen enklere og mer komplisert på samme tid. Også overalt ellers i samfunnet vil maskiner, kjøretøy og andre objekter få en IP-adresse og blir i stand til å overføre data over et nettverk.</p>
+<p>Det trengs et mye tettere nettverk av basestasjoner. Hvor tett? Det jobber Telenor og andre mobiloperatører med å finne ut av. Hvor? Kanskje i lyktestolper, kanskje hver 100. meter.</p>
+<p>I Stavanger spår smartby-sjef Gunnar Edwin Crawford konflikter.</p>
+<p>– Lenger nede i veien ser jeg for meg store diskusjoner om utplassering av antenner og basestasjoner. Hvis 5G skal gi fullverdig kapasitet til brukerne, må antennene stå tettest mulig. Og jo flere folk som skal betjenes, dess flere antenner trengs, sier han.</p>
+<p>I dag står basestasjonene i tettbygde strøk med 300-400 meters avstand. På landet og langs hovedveiene er det derimot ofte en mil mellom dem. 5G-utbyggingen skal gi ti ganger raskere mobilt bredbånd, og om noen flere år kanskje 100 ganger raskere.</p>
+<p>Dette krever flere radiofrekvenser. Det meste som er ledig og har stor nok kapasitet, er høyere frekvensbånd, forklarer Stein Erik Paulsen i Telenor. Han er konsernets sjefsarkitekt for radionett.</p></div>
+<div type="title" level="3">Antenner hver 100 meter</div>
+<div type="text">
+<p>Ulempen er at signalene fra høye frekvenser rekker kortere enn signalene fra lave frekvenser. Dermed må antennene stå tettere. I USA er selskapene i full gang med å teste det høyfrekvente såkalte millimeterbåndet, 26 GHz (gigahertz), som ikke har vært brukt til mobilteknologi før. Signalene på så høye frekvenser krever helt fri sikt; de stoppes av trær og bygninger. Det krever små antenner per 100 meter, ifølge Stein Erik Paulsen.</p>
+<p>– Dette båndet er interessant hvis 5G i framtiden skal kunne levere kanskje 100 ganger kapasiteten av i dag, sier han.</p></div>
+<div type="title" level="3">Telenor tester ekstrembånd i byer</div>
+<div type="text">
+<p>I fjor fikk Telenor tillatelse til å teste dette båndet i gitte områder: I Kongsberg, på Fornebu og Nesodden og i farvannet mellom, innenfor Ring 2 i Oslo - og i Trondheim kommune. Selskapet vil sette opp millimeterbølgesendere på steder med spesielt stort kapasitetsbehov, for eksempel Egertorget i Oslo, der mange turister laster opp bilder og video samtidig.</p>
+<p>Myndighetene følger EUs bratte ambisjoner for 5G, der 26 GHz-båndet er blinket ut som et av de aktuelle europeiske “pioner-båndene”. Her i landet legger Nasjonal sikkerhetsmyndighet opp til at 26 GHz-båndet skal kunne auksjoneres til operatører i 2020. - Det gjør vi hvis det er etterspørsel, sier fagsjef Espen Slette. Han tror også det etter hvert blir behov for mange flere og tettere plasserte antenner enn i dag - kanskje på lyktestolper.</p>
+<p>Det vil bli behov for “svært mange nye basestasjoner (spesielt i byene), både innendørs og utendørs”, het det også i et brev daværende samferdselsminister Ketil Solvik-Olsen sendte kommuneorganisasjonen KS i fjor.</p>
+<p>LES NEDERST I SAKEN:</p>
+<p>Regjeringen ber kommunene være kjappe i saksbehandlingen av nye antenner.</p>
+<p>Amerikanske byer går til sak mot 5G-vilkår.</p>
+<p>Aftenbladets artikkelserier om 5G:</p>
+<p>Overgangen til femte generasjon mobilteknologi er en revolusjon, hevder mobilselskapene.</p>
+<p>Fredrik Refvem</p></div>
+<div type="title" level="3">Strålespørsmål</div>
+<div type="text">
+<p>Kommunene bør forberede seg på å svare på henvendelser fra publikum om antenner og stråling, varslet Solvik-Olsen i brevet.</p>
+<p>Crawford tror den største diskusjonen rundt 5G nettopp kommer til å bli om elektromagnetiske felt og stråling. - Teknologien er såpass ny at vi ikke kan forutse langtidsvirkningene. Det ser vi ikke før vi har levd noen år med det. Her må myndighetene på banen, sier han.</p>
+<p>Men Telenor beroliger. De ser ikke for seg noen skog av antenner i norske nabolag med det første, ifølge Paulsen. Selskapet satser på å få lisens til å bruke 3500 MHz-båndet (megahertz-båndet), som har nesten dobbel kapasitet av dagens. Signalene derfra når også kortere, men ikke så kort som i millimeterbåndet.</p>
+<p>– Det blir for dyrt å ha så mange sendere. Vi vil oppgradere og modernisere senderne vi har. Å bygge veldig mange nye er siste utvei, sier Stein Erik Paulsen. Hva som vil skje etterhvert, kan han likevel ikke garantere. - Om 15 år kan alt være forandret, sier Telenors sjefsarkitekt for radionett.</p></div>
+<div type="title" level="3">Fakta: Investigate Europe</div>
+<div type="text">
+<p>Investigate Europe er en gruppe journalister fra ni land som samarbeider om tema som er aktuelle over hele Europa. Sakene publiseres på tvers av kontinentet. Gruppen har pengestøtte fra Fritt Ord og andre stiftelser, men har også støtte fra lesere.</p>
+<p>Øvrige mediepartnere for 5G-prosjektet er blant andre Newsweek (Polen), Diario de Noticias (Portugal), Il Fatto Quotidiano (Italia), De Groene Amsterdammer (Nederland), Efsyn (Hellas), Falter (Østerrike) og Tagesspiegel (Tyskland).</p>
+<p>Tidligere Aftenbladet-journalist Ingeborg Eliassen er norsk medlem i Investigate Europe. De andre medvirkende er Crina Boros, Wojciech Ciesla, Juliet Ferguson, Nikolas Leontopoulos, Maria Maggiore, Leila Minano, Paulo Pena, Jef Poortmans, Harald Schumann og Elisa Simantke.</p></div>
+<div type="title" level="3"> Kommunal saksbehandling får ikke sinke 5G-satsing</div>
+<div type="text">
+<p>Hagen, Fredrik / NTB scanpix</p>
+<p>Regjeringen ber kommunene holde gebyrene nede og raske på når de behandler søknader om plassering av antenner i 5G-utbyggingen.</p>
+<p>Ambisjonene om å bli først og best med 5G i verden og i Europa, forplanter seg fra EU-nivå via nasjonale myndigheter til hver kommune i Europa.</p>
+<p>Nordiske regjeringssjefer vil gjøre Norden til verdensledende på 5G. Sammen med sine statsminister-kolleger forpliktet Erna Solberg seg i fjor til å fjerne hindringer for utbyggingen, særlig for utplassering av basestasjoner og antenner. Hvis dette skal gå, må kommunene må med på laget.</p>
+<p>Kommunene bør legge aktivt til rette for utbyggerne så de får enkel tilgang til master, bygninger, antennetårn og stolper, skrev daværende samferdselsminister Ketil Solvik-Olsen i et brev til kommuneorganisasjonen KS i fjor. Gebyrene bør være moderate og saksbehandlingen rask, anbefalte ministeren.</p>
+<p>Kommunene vil behandle saker så fort de har kapasitet til, svarer spesialrådgiver Anne Mette Dørum i KS.</p>
+<p>- Men vi kan jo ikke saksbehandle raskere enn det som er lovlig.</p>
+<p>I Stavanger stemmer smartby-sjef Gunnar Edwin Crawford i.</p>
+<p>- Vi skal være framoverlent, men dette skal ikke bli et frislipp, sier han.</p></div>
+<div type="title" level="3">Amerikanske byer til sak mot 5G-vilkår </div>
+<div type="text">
+<p>24 byer har saksøkt amerikanske myndigheter i protest mot nye regler som skal sette fart i utbyggingen av 5G-nettet i USA.</p>
+<p>Reglene tvinger kommuner til å subsidiere mobilindustrien, hevder ordføreren i San José. Nå har industrien ingen plikt til å betjene 35 millioner mennesker som har lav inntekt eller bor på landsbygda og som befinner seg på feil side av det “digitale klasseskillet”, ifølge Sam Liccardo.</p>
+<p>Han var bare en av ordførere over hele USA som ble opprørt da myndighetene i fjor begrenset kommunenes muligheter til å påvirke hvordan 5G-utbyggingen skal foregå lokalt.</p>
+<p>Den mektige Federal Communications Commission (FCC) satte tak for hvor mye kommuner kan kreve betalt fra operatørselskap som vil sette opp 5G-antenner på lysstolper og annen offentlig eiendom, og for hvor lang behandlingstiden for søknader for å installere teknologien får være.</p>
+<p>Dagens gjennomsnittspris er rundt 500 dollar per antenne, mens selskapene nå skal betale 270 dollar – og det vil bli mange flere antenner enn før. Selskapene kan bli spart for 2 milliarder dollar ved dette grepet, ifølge FCC. Kommunene har maks 60 dager på seg til å behandle søknader om antenne-installasjon, ifølge teknologi-nettstedet Statescoop.</p>
+<p>– I stedet for å samarbeide med kommunene for å vinne det globale 5G-kappløpet, tvinger FCC byer til å kappes til domstolene for å forsvare grunnleggende lokale rettigheter, sa Tom Cochran, leder for US Conference of Mayors.</p>
+<p>Nettsted: https://www.investigate-europe.eu/</p></div></body></document>

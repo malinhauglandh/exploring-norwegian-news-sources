@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190422-beinhard-rivaliserin.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/beinhard-rivalisering-la-bak-tragediene-med-boeing-737-max/70989162" frk="1199 11 81 7197"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-22 14:33"/>
+<attribute name="author" value="Halldor Hustadnes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">- Beinhard rivalisering lå bak tragediene med Boeing 737 MAX</div>
+<div type="ingress">Oppgradering av en gammel flytype sparte tid og penger - men fikk en potensielt dødelig bieffekt.</div>
+<div type="author">Halldor Hustadnes</div>
+<div type="date">2019-04-22</div>
+<div type="caption"><p>FLYTRAGEDIE: Slik så det ut etter ulykken med Ethiopian Airlines Flight 302 den 10. mars i år, nær byen Bishoftu ved Addis Ababa i Etiopia. Ulykken er en av to som settes i forbindelse med dataprogrammet MCAS som brukes på Boeings flytype 737 MAX. 157 mennesker mistet livet i ulykken. Foto: NTB Scanpix/Reuters/Baz Ratner</p> <p>FLYEKSPERT: - MAX-affæren kommer til å koste Boeing store beløp i tapte inntekter, utsatte inntekter, og kompensasjon til flyselskaper som må sette flyene på bakken, sier Hans Jørgen Elnæs i selskapet Winair. Her er han i 2016, da han var salgs- og markedssjef for Ryanair i Skandinavia og Baltikum. Robin Kiely og David O'Brien (t.h.) i bakgrunnen. Foto: Vegard Wivestad Grøtt / NTB scanpix</p> <p>- VIL ELIMINERE MCAS-ULYKKER: I tillegg til trening og nytt opplæringsmateriell vil oppdateringen eliminere risikoen for utilsiktet MCAS-aktivering og vil forhindre at det skjer MCAS-relaterte ulykker i framtida, sa Boeing-sjef Dennis Muilenburg nylig. Foto: NTB Scanpix/Reuters/Jaime R. Carrero</p></div>
+<div type="text">
+<p>To flykatastrofer, med Lion Air i Indonesia den 29. oktober og Ethiopian Airlines den 10. mars, har satt Boeings nye flytype 737 MAX på bakken verden over på ubestemt tid. I den første mistet 189 mennesker livet, i den andre var tallet 157.</p>
+<p>Nå forklarer nettstedet Vox katastrofene med beinhard rivalisering mellom flyprodusentene Boeing og Airbus, med henholdsvis 38 og 28 prosent av markedet ifølge tall fra 2016.</p></div>
+<div type="title" level="3">- To timers iPad-kurs</div>
+<div type="text">
+<p>- Problemet begynte med selskapets kappløp for å konkurrere med rivalen. Det drev dem til å late som om deres nye fly oppførte seg akkurat som det gamle - selv når det ikke gjorde det, sier stemmen på nettstedets video.</p>
+<p>Ifølge Vox førte dette til sviktende opplæring i et dataprogram - MCAS - som skal motvirke den nye flytypens tendens til å steile under gitte omstendigheter.</p>
+<p>- Fordi Boeing solgte 737 MAX som omtrent samme fly som 737, fokuserte de ikke på det nye MCAS-systemet. Mange piloter fikk bare et to-timers iPad-kurs før de kom inn i cockpiten for første gang, sier stemmen på Vox.</p>
+<p>Så beskriver videoen forløpet på ulykkesflyene - med MCAS i en hovedrolle.</p>
+<p>Norske Hans Jørgen Elnæs, flyanalytiker i selskapet WinAir, er enig i at kappløpet med rivalen Airbus kan ha bidratt til de to katastrofene .</p></div>
+<div type="title" level="3">Skummel bieffekt</div>
+<div type="text">
+<p>I likhet med Vox påpeker Elnæs at det sparte opplæringstid - og dermed også penger - at 737 MAX er en oppgradering fra Boeings 737-fly, og ikke en helt ny flytype.</p>
+<p>- Pilotene skal kunne sjekkes ut uten å ha behov for omfattende konvertering til det nye flyet. Det skulle være lett å gå fra å fly 737 til å fly 737-MAX, sier han til Dagbladet.</p>
+<p>Ifølge Elnæs har Boeing de siste årene blitt hengende etter i konkurransen med Airbus' flytyper A321LR og A320neo. Fordi det ville ha tatt for lang tid å utvikle en helt ny flytype, befant selskapet seg i ei klemme.</p>
+<p>Så fikk noen en idé.</p>
+<p>- Det Boeing gjorde, var å modifisere Boeing 737, og bruke store motorer av en ny type, som gjorde det mulig å bruke mindre drivstoff og fly lengre, sier Elnæs til Dagbladet.</p>
+<p>Men heller ikke det var ukomplisert: For at de nye, store motorene ikke skulle komme for nær bakken, måtte de flyttes høyere opp på vingen.</p>
+<p>En bieffekt av dette var at flyene under gitte omstendigheter kunne få en tilbøyelighet til å steile.</p></div>
+<div type="title" level="3">- Bare i nødstilfeller</div>
+<div type="text">
+<p>Løsningen ble et spesialutviklet dataprogram: MCAS (Maneuvering Characteristics Augmentation System) skulle holde nesa nede i spesielle situasjoner.</p>
+<p>Det er dette programmet som skal ha bidratt sterkt til katastrofene med Lion Airs og Ethiopian Airlines' fly, fordi det tvang nesa ned så mye at flyene til slutt ble umulige å holde i lufta.</p>
+<p>Pilotene skal ha manglet kunnskap eller informasjon om hvordan de skulle slå av programmet, spesielt i den første ulykken i Indonesia med Lion Air.</p>
+<p>At pilotene fikk så liten opplæring i bruken av MCAS, tror Elnæs skyldes at programmet bare skulle slå inn i nødstilfeller.</p>
+<p>- Jeg tror at det i utgangspunktet var antatt at MCAS ikke kom til å slå inn hvis ikke flyet var nesten ute av kontroll. Og da behøver du egentlig ikke vite om det, for du skal egentlig ikke komme i den situasjonen, sier Elnæs.</p></div>
+<div type="title" level="3">Vil koste dem dyrt</div>
+<div type="text">
+<p>Han synes dette er formildende for at pilotene ikke har fått bedre opplæring i hvordan MCAS skal kobles ut - selv om han ikke synes det unnskylder det.</p>
+<p>- Slik jeg har forstått det, skulle ikke MCAS slå inn før det var nesten «point of no return», sier han til Dagbladet.</p>
+<p>Selv om Elnæs betoner hvor alvorlige de to flystyrtene med MAX var - i form av hundrevis av tapte menneskeliv - tror han ikke nødvendigvis de vil ødelegge Boeings markedsandel.</p>
+<p>- Markedsandelen behøver ikke bli påvirket, for Airbus har ikke kapasitet til å levere så mange flere fly enn det de gjør i dag, sier han.</p>
+<p>Likevel vil de to katastrofene koste Boeing dyrt, etter at selskapet nå har levert cirka 370 av en total ordrereserve på 5200 fly. Nå står alle flyene inntil videre på bakken.</p></div>
+<div type="title" level="3">- Markedet glemmer fort</div>
+<div type="text">
+<p>- MAX-affæren kommer til å koste Boeing store beløp i tapte inntekter, utsatte inntekter, og kompensasjon til flyselskaper som må sette flyene på bakken, sier Elnæs.</p>
+<p>Han legger til at de kanskje også vil måtte gi noen kjøpere rabatter fordi flyenes rykte har blitt dårligere.</p>
+<p>At selskapet vil bli «stuck» med flyene som ikke er levert, tror han heller ikke.</p>
+<p>- De blir «stuck» med dem hvis Boeing 737 MAX blir satt på bakken til evig tid, og hvis kundene ikke vil reise med dem, men det historien viser er at markedet glemmer på veldig kort tid, sier han.</p>
+<p>- Hvor raskt tror du flyene igjen vil tas i bruk i Norge og Europa?</p>
+<p>- I løpet av sommeren. 6-8-uker, men dette avhenger av at de sentrale luftfartstilsynene rundt om i verden godkjenner raskt, etter at Federal Aviation Authority (FAA) i USA har godkjent Boeing 737 MAX, sier Hans Jørgen Elnæs.</p></div>
+<div type="title" level="3">- Vil eliminere risikoen</div>
+<div type="text">
+<p>I forbindelse med at den etiopiske havarikommisjonen for to uker siden la fram sin rapport, uttalte Boeing-sjef Dennis Muilenburg seg om ulykken.</p>
+<p>I etterkant av dette gikk Boeing ut med en video hvor Muilenburg sier at feilaktivering av MCAS kan gi mer arbeidsbelastning i en cockpit som allerede er et «high workload environment». Han sier at luftfartshistorien viser at de fleste ulykker skyldes en hendelseskjede, og at det også var tilfelle i Air Ethiopia-saken.</p>
+<p>- Vi tar oss tid for å forsikre oss at softwareoppdateringen blir gjort riktig. I tillegg til trening og nytt opplæringsmateriell vil oppdateringen eliminere risikoen for utilsiktet MCAS-aktivering og vil forhindre at det skjer MCAS-relaterte ulykker i framtida, sier Muilenburg i videoen.</p>
+<p>For ei uke siden holdt også Muilenburg en tale der han gjorde det klart at flyselskapet må gjenvinne offentlighetens tillit.</p>
+<p>- Vi vet at alle som går om bord i et av våre fly setter deres lit til oss. Vi vil gjøre alt for å fortjene den tilliten i ukene og månedene framover. Vi skal ta ansvar for å bygge og levere fly som er trygge å fly for alle de profesjonelle og dedikerte pilotene rundt omkring i verden, sa han ifølge Business Insider.</p></div></body></document>

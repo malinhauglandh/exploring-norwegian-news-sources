@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190125-lettlest-om-raude-ro.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/jP57Xn/Lettlest-om-raude-Rosa" frk="17 0 0 131 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-25 06:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Anders Behring Breivik,Martin Tranmæl,Tyskland,Bokanmeldelse,Mímir Kristjánsson,Biografi,Berlin,Menneskerettigheter,Demokrati"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lettlest om raude-Rosa</div>
+<div type="ingress">Biografien om Rosa Luxemburg er eit innlegg i debatten om venstresidas ideologiske kurs.</div>
+<div type="author"></div>
+<div type="date">2019-01-25</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191105-menn-ma-bli-kulturkj.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/magasinet/menn-ma-bli-kulturkjerringer/71773302" frk="61 5 2 347 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-05 20:52"/>
+<attribute name="author" value="Kjartan Brügger Bjånesøy"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="magasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Menn må bli kulturkjerringer</div>
+<div type="ingress">Kjartan er lei av å sitte i sofaen og kjefte på TV-en.</div>
+<div type="author">Kjartan Brügger Bjånesøy</div>
+<div type="date">2019-11-05</div>
+<div type="caption"><p>FORFALLET: Jeg skulle vært mann fram til 50 år. Så kvinne resten av livet. De er mer nysgjerrige og sosiale, ser lysere på livet, mens vi menn sitter hjemme og kjefter på tv-en, sier artikkelforfatteren. Som er redd for å bli værende i sofaen.</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190117-adams-matkasse-legge.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/L0zd3q/Adams-matkasse-legger-ned-kontoret-i-Bergen" frk="39 16 4 240 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-17 11:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Adams Matkasse,Brandhub,Matkasser"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Adams matkasse legger ned kontoret i Bergen</div>
+<div type="ingress">De ansatte vil få tilbud om jobb ved hovedkontoret i Oslo.</div>
+<div type="author"></div>
+<div type="date">2019-01-17</div>
+<div type="caption"><p>GRÜNDERNE: Lasse Smedsvig, Adam Bjerck og Harald Aalvik sto bak da Adams matkasse startet opp i 2013. FOTO: Tor Høvik</p></div>
+</body></document>

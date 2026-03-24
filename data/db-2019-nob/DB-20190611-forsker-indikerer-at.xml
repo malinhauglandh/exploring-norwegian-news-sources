@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190611-forsker-indikerer-at.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/forsker---indikerer-at-me-kan-vaere-en-fysisk-sykdom/71172283" frk="75 0 0 519 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-11 19:53"/>
+<attribute name="author" value="Jorun Gaarder"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,cfs,pluss,me,kronisk_utmattelsessyndrom"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forsker: - Indikerer at ME kan være en fysisk sykdom</div>
+<div type="ingress">- At du finner kroppslige reaksjoner, betyr ikke nødvendigvis at sykdommen ikke er psykisk, kontrer seniorforsker Signe Flottorp ved Folkehelseinstituttet.</div>
+<div type="author">Jorun Gaarder</div>
+<div type="date">2019-06-11</div>
+<div type="caption"><p>BLIR VERRE AV ANSTRENGELSE: ME-syke blir verre dagen etter de har gjort en aktivitet. - Det er ingen grunn til å betvile at de føler aktivitet forsterker plagene, men vi vet at inaktivitet har fysiske og psykiske konsekvenser, sier professor Vegard Bruun Bratholm Wyller. Foto: NTB Scanpix.</p></div>
+</body></document>

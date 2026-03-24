@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190614-bt-sender-88-lag-dir.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/vQ9qal/BT-sender-44-kamper-direkte-i-Voss-cup" frk="19 47 6 126 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-14 20:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Voss Cup,Webview,Breddefotball"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">BT sender 88 lag direkte i Voss cup</div>
+<div type="ingress">Vi kommenterer kamper fra klokken 17.30 fredag til søndag ettermiddag.</div>
+<div type="author"></div>
+<div type="date">2019-06-14</div>
+<div type="caption"></div>
+</body></document>

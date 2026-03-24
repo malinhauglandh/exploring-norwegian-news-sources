@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190319-nrk-dataangripere-kr.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/nrk-dataangripere-krevde-losepenger-av-hydro-for-a-lase-opp-datasystemet-deres-1.1450761" frk="472 0 0 3055"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-03-19 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NRK: Dataangripere krevde løsepenger av Hydro for å «låse opp» datasystemet deres</div>
+<div type="ingress">Hydro er rammet av et løsepengevirus, bekrefter selskapets finansdirektør Eivind Kallevik. Han beskriver situasjonen som svært alvorlig.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Norsk Hydro varsler alle sine ansatte om ikke å slå på pc da de er under et dataangrep.</p></div>
+<div type="text">
+<p>– Rundt midnatt norsk tid oppdaget våre IT-eksperter uvanlig aktivitet på serverne i våre globale IT-systemer. Det viste seg at Hydro var rammet av et alvorlig dataangrep, sa Kallevik på en pressekonferanse tirsdag ettermiddag, hvor også Nasjonal sikkerhetsmyndighet var til stede.</p></div>
+<div type="title" level="3">Løsepenge-virus</div>
+<div type="text">
+<p>Kallevik bekrefter at det dreier seg om et såkalt krypteringsvirus, også kjent som ransomware eller løsepengevirus.</p>
+<p>Tidligere tirsdag meldte NRK at dataangriperne skal ha krevd løsepenger av Hydro.</p>
+<p>Nasjonalt Cybersikkerhetssenter (NorCERT) har sendt ut et varsel til en rekke samarbeidspartnere om dataangrepet på Hydro.</p>
+<p>Ifølge varselet gjengitt av NRK , skal dataangriperne ha brukt et såkalt løsepengevirus kalt «LockerGoga», som gjør alt innhold på datamaskinen utilgjengelig, samtidig som det foregår angrep mot selskapets bruker- og påloggingssystemer.</p></div>
+<div type="title" level="3"> – Alvorlig hendelse</div>
+<div type="text">
+<p>– Etter angrepet har vi arbeidet med å isolere og nøytralisere viruset. Alle anlegg er isolert, og det ser ikke ut til å ha rammet anlegg utenfor Norge, sier Kallevik.</p>
+<p>Ifølge finansdirektøren har det ikke vært noen «sikkerhetsrelaterte hendelser» i etterkant av viruset, men han sier det vanskeliggjør både administrasjon og produksjon fordi det globale nettverket er slått ut.</p>
+<p>– La meg være tydelig, dette er en alvorlig hendelse for Hydro, sier Kallevik.</p>
+<p>– Det mest kritiske nå er å finne en kur mot viruset slik at vi kan komme tilbake til normal drift, sier han, og understreker at det blir jobbet døgnet rundt for å løse problemene.</p>
+<p>Hydro har ennå ikke anmeldt saken, men jobber sammen med Nasjonal sikkerhetsmyndighet for å løse problemene.</p>
+<p>– Vår rolle er å støtte Hydro, få en oversikt over situasjonen og redusere skade, sier Bente Hoff i Nasjonal sikkerhetsmyndighet. Hun legger til at både PST, Kripos og E-tjenesten er koblet inn i etterforskningen.</p>
+<p>Ifølge Kallevik har angrepet så langt ikke ført til store økonomiske tap.</p></div>
+<div type="title" level="3">Midlertidig stanset produksjon</div>
+<div type="text">
+<p>Aluminiumsverkene i Norge går som normalt, men med høyere grad av manuell drift. Det er ingen indikasjon på påvirkning på aluminiumsverkene utenfor Norge.</p>
+<p>Innenfor feltene «Extruded Solutions» og «Rolled Products» er det produksjonsutfordringer og midlertidig stopp ved flere anlegg, opplyser selskapet.</p>
+<p>På flere av Hydros anlegg er det hengt opp lapper hvor det står at de ansatte ikke skal koble PC-er til nettverk eller logge seg på Hydros datasystemer. Nettsidene til Hydro har også vært nede hele tirsdag.</p>
+<p>Det er fremdeles usikkert hvor lang tid det vil ta å løse problemene, og Hydro vet heller ikke hvem som står bak. Ifølge Kallevik er det ikke et tema å etterkomme eventuelle krav om løsepenger.</p>
+<p>– Strategien er å bruke back-up-data for å få systemene opp å gå igjen, sier han.</p></div></body></document>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190303-politiet-ovde-pa-ove.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/0E13EA/Politiet-ovde-pa-overvaking-i-Oslos-gater-I-jakten-pa-vare-mobiltelefoner-gikk-politiet-over-streken-" frk="1261 4 42 8645"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-03 06:16"/>
+<attribute name="author" value="Andreas Bakke Foss"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="personvern,overvåking,politiet,data"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet øvde på overvåking i Oslos gater. I jakten på våre mobiltelefoner gikk politiet over streken.</div>
+<div type="ingress">Politiet satte opp falske basestasjoner i Oslo for å øve seg på overvåking. Deretter ble dataene om tilfeldige mobilbrukere lagret i ett år uten lov.</div>
+<div type="author">Andreas Bakke Foss</div>
+<div type="date">11 timer siden</div>
+<div type="caption"><p>FOTO: Espedal, Jan Tomas Da politiet øvde seg i mobilovervåking i Oslo med falske basestasjoner, ble data om tilfeldige mobilbrukere lagret i et år. Dette er ikke lov, slår Kontrollutvalget for kommunikasjonskontroll fast.</p> <p>Mobilspionasje forklart: Slik fungerer en IMSI-catcher En IMSI-catcher er en falsk basestasjon, som kan overvåke mobilbrukere i nærheten.</p> <p>Bildet er fra en politipatrulje i desember 2016. Bruken av falske basestasjoner har økt kraftig de siste årene. Nå får politiet kritikk for å lagre data uten lov av tilfeldig passerende mobilbrukere.</p> <p>Området rundt Oslo S og Bjørvika er et av områdene i Oslo hvor Aftenposten avslørte spor etter mobilovervåking i 2014. Nå får politiet kritikk for å ha lagret data om tilfeldige mobilbrukere i Oslo etter øvelser med falske basestasjoner. Dette er ikke lov, slår Kontrollutvalget for kommunikasjonskontroll fast. Illustrasjonsbilde.</p> <p>En politibil med blålys på oppdrag i Oslo i november 2017. Nå får Oslo-politiet kritikk fra Kontrollutvalget for kommunikasjonskontroll for å å lagre data om utenforstående mobilbrukere etter å ha øvet på overvåking med falske basestasjoner i Oslo.</p> <p>Oslo-politiet bruker stadig oftere falske basestasjoner under operasjoner i hovedstaden. Nå får politiet kritikk for å ha lagret personopplysninger om tilfeldige mobilbrukere innhentet under øvelser med falske basestasjoner i Oslo.</p> <p>Slik viser produsenten av en av de vanligste IMSI-catcherne, Stingray, hvordan utstyret fungerer. Boksen er koblet til sendere, som sender ut signaler som later som om de er en ekte basestasjon. Det fører til at mobiltelefonene kobler seg til og gir fra seg informasjon.</p></div>
+<div type="text">
+<p>Det skjer minst en gang i uken i Oslos gater, og det skjer stadig oftere.</p>
+<p>Først setter politiet opp en falsk basestasjon, som later som om den er en ekte basestasjon fra for eksempel Telenor eller Telia.</p>
+<p>Deretter skrur politiet opp signalstyrken, slik at mobiltelefonene i nabolaget lokkes til å koble seg til politiets falske basestasjon uten at mobileierne skjønner hva som skjer.</p>
+<p>Dermed kan politiet ta ut informasjon fra mobilene som gjør det mulig å finne ut hvem som eier telefonen.</p>
+<p>Etter straffeprosessloven skal slik overvåking bare skje når politiet har grunn til å mistenke alvorlig kriminalitet.</p>
+<p>Dokumenter Aftenposten har fått innsyn i, viser at Oslo-politiet i flere år har lagret mobildata fra helt tilfeldige mobilbrukere etter øvelser eller trening med falske basestasjoner, uten noen som helst mistanke.</p>
+<p>Dataene er blitt lagret i ett år.</p></div>
+<div type="title" level="3">Fakta: Hva er basestasjon, IMSI og falske basestasjoner?</div>
+<div type="text">
+<p>Basestasjon: En radiosender som er bindeleddet for trafikk mellom mobiltelefonene og telefonnettet.</p>
+<p>IMSI-nummer: Et unikt, globalt nummer for hvert mobilabonnement. Dette identifiserer den enkelte bruker. IMSI står for International Mobile Subscriber Identity og er på opptil 15 sifre.</p>
+<p>Falsk basestasjon: Kalles også IMSI-catcher eller IMSI-fanger, og brukes til å overvåke mobiltrafikk. Opptrer som en falsk basestasjon mellom mobilbrukere og de ekte basestasjonene. Ved å skru opp signalstyrken, lokkes mobiltelefonene til å knytte seg til de falske basestasjonene.</p>
+<p>Brukes til både avlytting, jamming, kartlegging eller hacking.</p></div>
+<div type="title" level="3">Kontrollutvalget: - Uten lovhjemmel</div>
+<div type="text">
+<p>Kontrollutvalget for kommunikasjonskontroll (KK-utvalget), som på vegne av regjeringen skal kontrollere at politiet følger loven, mener praksisen til Oslo-politiet ikke er lovlig.</p>
+<p>«Kontrollutvalget for kommunikasjonskontroll kan ikke se at den lagringen som er beskrevet har lovhjemmel», konkluderer lederen i kontrollutvalget, lagdommer Ingvild Mestad, i et brev til Oslo politidistrikt og Justisdepartementet.</p>
+<p>Politiet har blant annet lagret IMSI-numre, som er et globalt nummer som identifiserer hvem som eier sim-kortet.</p>
+<p>Utvalget mener politiet ikke har lov til å lagre slik informasjon bare fordi politifolk øver seg på å bruke overvåkingsutstyr i Oslos gater.</p>
+<p>KK-utvalget stilte spørsmål ved praksisen allerede i mars 2018, men politiet avviste at dette var et problem og fortsatte lagringen.</p>
+<p>Junge, Heiko / NTB scanpix</p></div>
+<div type="title" level="3">Fakta: Utvalget for kommunikasjonskontroll</div>
+<div type="text">
+<p>Har ansvar for å kontrollere at politiets og påtalemyndighetens bruk av kommunikasjonskontroll, romavlytting og dataovervåking skjer innenfor rammen av lov og instrukser.</p>
+<p>Skal kontrollere at informasjonen som hentes inn ved disse metodene bare blir brukt på lovlig måte, og at lovens regler om taushetsplikt, oppbevaring og tilintetgjøring blir fulgt.</p>
+<p>Utvalget kontrollerer ikke etterretnings-, overvåknings- og sikkerhetstjenesten.</p>
+<p>Består av fire medlemmer plukket ut av regjeringen og oppnevnt av Kongen i statsråd.</p></div>
+<div type="title" level="3">Politiet: - Marginalt inngrep </div>
+<div type="text">
+<p>«Inngrepet anses så marginalt overfor den enkelte borger at det verken er følbart, eller medfører noen risiko for misbruk», svarte Oslo politidistrikt i et brev.</p>
+<p>Oslo-politiet mente også at dataene fra øvelsene med falske basestasjoner måtte lagres for at Nasjonal kommunikasjonsmyndighet (Nkom) skulle kunne føre tilsyn.</p>
+<p>– Inntil Kontrollutvalget reiste spørsmålet har Oslo politidistrikt også vært av den klare oppfatning at dette ikke var å regne som kommunikasjonskontroll, svarer visepolitimester Bjørn Vandvik i en epost til Aftenposten.</p>
+<p>Han viser til at lagringen har «foregått i treningsøyemed og ikke er knyttet til etterforsking», og at det derfor ikke var et inngrep som krevde hjemmel i lov.</p>
+<p>– Etter at Kontrollutvalget problematiserte praksisen med lagring, har det vært dialog med Nkom med tanke på å avklare deres behov for lagring og om kravet om lagring fra deres side kunne endres. Det har av ulike årsaker vært vanskelig å få til et møte med Nkom, skriver Vandvik.</p>
+<p>Bjørge, Stein / Andreas Bakke Foss</p></div>
+<div type="title" level="3"> – Et ikke ubetydelig inngrep i personlig integritet</div>
+<div type="text">
+<p>Kontrollutvalget avviser at lagring av personopplysninger med falske basestasjoner er et «marginalt inngrep», men tvert i mot «et ikke ubetydelig inngrep i den personlige integriteten»:</p>
+<p>Lagring av personopplysninger etter overvåking med falske basestasjoner etter straffeprosessloven paragraf 216 krever at det er mistanke om noe kriminelt og at det foreligger tillatelse fra domstol.</p>
+<p>Utvalget viser dessuten til at Grunnlovens paragraf 102 og 113 krever at «lagring av informasjon fra kommunikasjonskontroll har hjemmel i lov».</p>
+<p>I tillegg mener utvalget at praksisen ikke har vært i samsvar med den europeiske menneskerettighetskonvensjonen.</p>
+<p>«KK-utvalget finner etter dette grunn til å kritisere Oslo politidistrikt for å ha lagret informasjon om utenforstående tredjepersoner uten lovhjemmel», lyder konklusjonen.</p>
+<p>Johansen, Erik / NTB scanpix</p></div>
+<div type="title" level="3">Vil ikke si hvor mange mennesker som ble berørt</div>
+<div type="text">
+<p>Hvor mange mennesker politiet har lagret IMSI-numrene til etter øvelsene med falske basestasjoner, vil verken Oslo politidistrikt eller Kontrollutvalget opplyse til Aftenposten.</p>
+<p>– Dette kan vi ikke uttale oss om, svarer KK-utvalgets leder lngvild Mestad.</p>
+<p>Oslo-politiet svarer heller ikke på spørsmål om hvor mange år denne praksisen har pågått.</p>
+<p>Politiet fikk også i fjor hard kritikk «systematisk brudd» på reglene om å slette e data fra telefonavlytting og annen kommunikasjonskontroll.</p>
+<p>Espedal, Jan Tomas</p></div>
+<div type="title" level="3">Så ofte bruker politiet og PST falske basestasjoner</div>
+<div type="text">
+<p>Bruken av falske basestasjoner i Norge var ukjent for de fleste, inntil Aftenposten i 2014 gjorde omfattende målinger i Oslo med kontraspionasjeutstyr.</p>
+<p>Målingene viste at falske basestasjoner med stor sannsynlighet var i bruk en rekke steder i Oslo, noe Politiets sikkerhetstjeneste og politiet benektet kategorisk.</p>
+<p>Saken førte til at norske kontrollmyndigheter anskaffet tilsvarende utstyr som Aftenposten benyttet for å kunne avsløre mobilspionasje.</p>
+<p>Siden den gang har den offisielle, rapporterte bruken av falske basestasjoner gått rett til værs fra en gang i året i 2015 til 107 saker i 2017.</p>
+<p>En av de mest brukte falske basestasjoner i politiet, er amerikanskprodusert og kalles Stingray. Overvåkingsutstyret kan også avlytte flere samtaler på en gang.</p>
+<p>Skjermdump fra manuel for Stingray fra Intercept</p></div>
+<div type="title" level="3">Lover nå å stoppe lagringen</div>
+<div type="text">
+<p>Avsløringen fører til at Oslo-politiet nå lover å stoppe lagringen av mobiltelefon-dataene fra øvelser og trening.</p>
+<p>– Oslo politidistrikt har for egen del verken ønske eller behov for å lagre opplysningene, skriver visepolitimester Bjørn Vandvik.</p>
+<p>– Oslo politidistrikt vil derfor ikke lenger lagre slike opplysninger fra trening i tråd med anbefalingene fra Kontrollutvalget.</p></div></body></document>

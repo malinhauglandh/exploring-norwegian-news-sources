@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190413-slik-sa-bergen-ut-et.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EWx7wj/Slik-sa-Bergen-ut-etter-katastrofen" frk="41 6 2 308 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-13 10:22"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Statsarkivet,Andre verdenskrig,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik så Bergen ut etter katastrofen</div>
+<div type="ingress">– Det var bloddryppende mennesker overalt.</div>
+<div type="author"></div>
+<div type="date">2019-04-13</div>
+<div type="caption"><p>SLAGMARK ETTER EKSPLOSJONEN: Den tyske fotografen Franz Guthausen skulle dokumentere festlighetene i Håkonshallen på Hitlers 55-årsdag. Med seg i kofferten hadde han filmer med fargedias. FOTO: Franz Guthausen</p></div>
+</body></document>

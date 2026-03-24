@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190806-ikke-sa-enkelt-som-d.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/ikke-sa-enkelt-som-du-tror/71462071" frk="671 15 63 4116"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-08-06 03:50"/>
+<attribute name="author" value="Ralf Lofstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ikke så enkelt som du tror</div>
+<div type="ingress">Matteoppgave fikk Twitter til å ta av.</div>
+<div type="author">Ralf Lofstad</div>
+<div type="date">2019-08-06</div>
+<div type="caption"><p>HARD NØTT: Regnestykket har skapt betydelig hodebry på Twitter den siste uka. Grafikk: Ralf Lofstad / Dagbladet</p> <p>HVA ER SVARET?: Også politikeren Paul Ryan har en klar mening om hvilket ord han mener er riktig. Hva hører du? Video: CNN / Ingrid Cogorno</p></div>
+<div type="text">
+<p>Regnestykket 8 : 2(2 + 2) = ? skulle da være enkelt nok? Men nei. De siste dagene har sosiale medier, spesielt Twitter, nærmest kokt over av folk som i hovedsak får ett av to resultater: 1 og 16. Hvilket er riktig?</p></div>
+<div type="title" level="3">Ny Yanny vs. Laurel</div>
+<div type="text">
+<p>Det hele begynte ifølge New York Times' skribent og matteprofessor Steven Strogatz mandag 28. juli, da «et troll på fritida» postet problemet, som er blitt sammenliknet med fenomenet der noen hørte «Yanny» istedenfor «Laurel».</p>
+<p>Wait... https://t.co/0xaE4dJuTz pic.twitter.com/9DwOQSzqq5</p>
+<p>— LUZZZ (@celestiallight_) July 30, 2019</p>
+<p>Debatten ble tidvis amper. «Noen av dere strøk i matte, og det synes», skriver en Twitter-bruker - og får svar på tiltale: «Jeg har aldri sett noen så selvsikker på grunn av et galt svar».</p>
+<p>Men det var kanskje ikke så enkelt? En bruker postet et bilde av to kalkulatorer som kommer til henholdsvis 1 og 16.</p>
+<p>- Den vanligvis så betryggende matteverdenen, hvor rett og galt fins, og logikken seirer, begynte å se forstyrrende - kanskje lovende - flytende ut, skriver Strogatz.</p></div>
+<div type="title" level="3">Rekkefølgen kritisk</div>
+<div type="text">
+<p>Det hele koker ned til i hvilken rekkefølge man utfører regneoperasjonene. De fleste kan enes om at parentesen (2 + 2) må summeres først. Men hva man deretter gjør, er kritisk for utfallet.</p>
+<p>Dersom man ganger parentesen (til sammen 4), med 2 først, blir regnestykket 8 : 8 = 1. Men dersom man derimot først deler 8 på 2 og så ganger med parentesen, får vi 4 · 4 = 16. I begge tilfellene står vi overfor regnestykket 8 : 2 · 4.</p>
+<p>Problemet er om divisjonen eller multiplikasjonen skal ha forrang over den andre. Og det fins faktisk et definitivt svar.</p>
+<p>Regnerekkefølgen forteller oss at parenteser kommer først; deretter potenser og røtter; så multiplikasjon og divisjon; og til slutt addisjon og subtraksjon. På engelsk har dette pedagogisk nok fått navnet PEMDAS (Parantheses, Exponents, Multiplication and Division, Addition and Subtraction) eller BODMAS (Brackets, Orders, Division and Multiplication, Addition and Subtraction).</p></div>
+<div type="title" level="3">Begynner fra venstre</div>
+<div type="text">
+<p>Og her kommer det avgjørende punkt: Reglene slår fast at divisjon og multiplikasjon, som addisjon og subtraksjon, er likeverdige, MEN at vi begynner fra venstre.</p>
+<p>Dermed må vi først dividere 8 med 2 før vi multipliserer kvotienten (divisjonsresultatet) med 4. 16 er altså det riktige svaret, ifølge PEMDAS.</p>
+<p>For diskusjon av hvorvidt PEMDAS gjelder, se nederst i artikkelen.</p>
+<p>Professor Strogatz priser PEMDAS/BODMAS som rettesnorer og konvensjoner i virkeligheten, på linje med å kjøre på høyre/venstre side av veien; de fungerer så lenge folk er enige om å følge dem.</p>
+<p>- De er den doble gule linja langs midten av veien - et uendelig er-lik-tegn - en overenskomst om å forstå hverandre, jobbe sammen og unngå å frontkollidere, skriver matematikeren.</p>
+<p>Han framholder også at 8 : 2(2 + 2) = ? nok er laget for nettopp å fyre opp sosiale medier, framfor å understreke et poeng.</p>
+<p>- Det er som å skrive «Eats shoots and leaves» [fra vits om tegnsetting, tilsvarende «drep ham, ikke vent til jeg kommer»] og trekke slutningen at språket er lunefullt. Vel, i fraværet av tegnsetting stemmer det; det er grunnen til at vi oppfant tegnsettingen.</p></div>
+<div type="title" level="3">Likevel forrang?</div>
+<div type="text">
+<p>Etter mange reaksjoner på sin artikkel presiserer Strogatz at noen matematikere bruker såkalt implisitt multiplikasjon, hvor fraværet av multiplikasjonstegn foran parentesen indikerer at 2(2 + 2) må løses før man tar for seg resten av stykket; i så fall blir svaret 1, fordi 8 : 8.</p>
+<p>Professoren presiserer likevel at denne oppfatningen ikke er universell, og at Google og WolframAlphas kalkulatorer ikke skiller mellom hvorvidt det står et multiplikasjonstegn foran parentesen eller ei.</p>
+<p>- De tolker 8 : 2(2 + 2) som 8 : 2 · (2 + 2) og kommer derfor til 16, skriver Strogantz og stadfester at det også er tolkningen han velger.</p></div></body></document>

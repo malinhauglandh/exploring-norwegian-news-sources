@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191216-frost-2-folger-sukse.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/awdWLd/Frost-2-folger-suksessoppskriften" frk="15 7 1 139 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-16 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Frost 2» følger suksessoppskriften.</div>
+<div type="ingress">Det musikalske høydepunktet i denne Disney-oppfølgeren er Auroras lokkende stemme.</div>
+<div type="author"></div>
+<div type="date">2019-12-16</div>
+<div type="caption"></div>
+</body></document>

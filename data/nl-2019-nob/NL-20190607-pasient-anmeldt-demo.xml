@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190607-pasient-anmeldt-demo.xml"/>
+<attribute name="url" value="http://www.nordlys.no/helse/krim/politi/pasient-anmeldt-demonterte-blodtrykksapparat-og-putta-det-i-buksa/s/5-34-1136396" frk="30 0 0 212 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-07 10:37"/>
+<attribute name="author" value="Stine Ljungquist Knudsen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Pasient anmeldt: Demonterte blodtrykksapparat og putta det i buksa</div>
+<div type="ingress">Da den ansatte på legevakta forlot skadestua for å hente mat, demonterte pasienten blodtrykksapparatet og la det ned i buksa.</div>
+<div type="author">Av Stine Ljungquist Knudsen</div>
+<div type="date">07. juni 2019, kl. 10:37</div>
+<div type="caption"></div>
+</body></document>

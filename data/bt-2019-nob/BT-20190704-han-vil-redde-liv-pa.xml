@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190704-han-vil-redde-liv-pa.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/8mx9KQ/Han-vil-redde-liv-pa-sjoen-med-ny-app" frk="52 0 0 326 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-04 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Redningsselskapet,Teknologi,Bergen,Båt"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han vil redde liv på sjøen med ny app</div>
+<div type="ingress">Ein ny app skal varsle båteigarar om ting ikkje er som dei skal med båten. Mannen bak har fått Redningsselskapet og eit forsikringsselskap med på laget.</div>
+<div type="author"></div>
+<div type="date">2019-07-04</div>
+<div type="caption"><p>GRÜNDER: Paal Kaperdal har fått Redningsselskapet og eit forsikringsselskap med på laget. FOTO: Geir Martin Strande</p></div>
+</body></document>

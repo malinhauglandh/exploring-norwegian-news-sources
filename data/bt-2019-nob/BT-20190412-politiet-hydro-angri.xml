@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190412-politiet-hydro-angri.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/1noB2J/Politiet-Hydro-angripere-opprettet-brukere-i-Hydro-nettverk" frk="106 8 6 711" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-12 16:36"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet: Hydro-angripere opprettet brukere i Hydro-nettverk</div>
+<div type="ingress">Gjerningspersonene bak dataangrepet mot Hydro i mars er fortsatt ikke funnet. Politiet har avdekket at angriperne hadde opprettet brukere i nettverket.</div>
+<div type="author">NTB</div>
+<div type="date">12. april 2019 16:36</div>
+<div type="caption"><p>Dette var beskjeden til Hydro-ansatte da de kom på jobb 19. mars. Foto: Terje Pedersen / NTB scanpix</p></div>
+<div type="text">
+<p>– Hvor lenge angriperne har hatt tilgang, og hvordan de har fått tilgang til Hydros systemer, er sentrale spørsmål som man ønsker at etterforskningen skal avklare, sier politiadvokat Knut Jostein Sætnan i Kripos til E24.</p>
+<p>Dataangrepet mot Hydro skjedde 19. mars. Selskapet opplyser nå at produksjonen går som normalt på nesten alle områder, men med høyere grad av manuell drift.</p></div></body></document>

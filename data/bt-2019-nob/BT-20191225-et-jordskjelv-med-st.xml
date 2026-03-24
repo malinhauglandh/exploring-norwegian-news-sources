@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191225-et-jordskjelv-med-st.xml"/>
+<attribute name="url" value="https://www.bt.no/utenriks/i/Ad9J2M/et-jordskjelv-med-styrke-63-rystet-vestkysten-av-canada" frk="32 22 5 226 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-25 07:12"/>
+
+<attribute name="author" value="NTB-AP-DPA"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Et jordskjelv med styrke 6,3 rystet vestkysten av Canada</div>
+<div type="ingress">Skjelvets episenter var 182 kilometer vest for den vesle byen Port Hardy i British Columbia i Canada, melder det amerikanske jordskjelvsenteret USGS.</div>
+<div type="author">NTB-AP-DPA</div>
+<div type="date">Publisert 25. desember 2019 07:12</div>
+<div type="caption"></div>
+</body></document>

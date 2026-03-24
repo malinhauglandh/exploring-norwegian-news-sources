@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190524-dette-sier-byradet-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GGORmQ/Dette-sier-byradet-forelopig-nei-til" frk="68 10 5 460 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-24 12:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Eiendom,Arkitektur,Byutvikling"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette sier byrådet foreløpig nei til</div>
+<div type="ingress">Tre aktører planlegger 28.000 kvadratmeter med kontorer og næring like ved Puddefjordsbroen. For høyt, tett og for lav kvalitet, mener byrådet.</div>
+<div type="author"></div>
+<div type="date">2019-05-24</div>
+<div type="caption"><p>STORE PLANER: På denne illustrasjonen sees alle tre tomtene som er planlagt bebygd. Tegningen viser høyder og volum, men ikke nødvendigvis utseende på de planlagte byggene. De to buehallene i front (gamle SABB), er vernet som industriminner. FOTO: Asplan Viak</p></div>
+</body></document>

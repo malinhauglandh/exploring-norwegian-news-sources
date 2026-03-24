@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20191101-forsker-mener-mange-.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/helse/i/kJ1xQv/forsker-mener-mange-med-astma-kan-ha-annen-diagnose" frk="30 0 0 199 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-11-01 03:24"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,helse"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forsker: Mener mange med astma kan ha annen diagnose</div>
+<div type="ingress">Mange nordmenn diagnostisert med astma, lider egentlig av en annen tilstand, mener forskere. Her er symptomene du må se etter.</div>
+<div type="author"></div>
+<div type="date">For mindre enn 10 minutter siden</div>
+<div type="caption"></div>
+</body></document>

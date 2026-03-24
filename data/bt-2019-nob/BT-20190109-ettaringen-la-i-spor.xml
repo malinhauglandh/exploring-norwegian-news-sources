@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190109-ettaringen-la-i-spor.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P3QRqX/Ettaringen-la-i-sportsvogn-uten-bag-da-ulykken-skjedde" frk="31 0 0 239 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-09 14:24"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Førerkort,Ulykker,Etterforskning"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ettåringen lå i sportsvogn inne da ulykken skjedde</div>
+<div type="ingress">Guttens tilstand er fremdeles kritisk, opplyser politiet.</div>
+<div type="author"></div>
+<div type="date">2019-01-09</div>
+<div type="caption"><p>KRITISK SKADET: Seks dager etter hendelsen er guttens tilstand fremdeles kritisk skadet. FOTO: Alice Bratshaug</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190620-synger-sommeren-inn.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/y39kX2/Synger-sommeren-inn" frk="45 14 4 280 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-20 19:25"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="musikk,pål mangor kvammen"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Synger sommeren inn</div>
+<div type="ingress">Hvem som har skrevet flest sommersanger, er ikke godt å si. Leif Nilsen er i hvert fall kompis med sommeren.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Leif &amp; Kompisane anno 2019 er fra venstre Inge Enoksen, Kurt Lisø, Alexander Flotve, Øyvind Grong og Leif Nilsen. Garry Thomson</p></div>
+</body></document>

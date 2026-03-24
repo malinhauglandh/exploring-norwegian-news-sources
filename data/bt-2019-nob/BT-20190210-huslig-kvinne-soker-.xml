@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190210-huslig-kvinne-soker-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/G1WqqB/-Huslig-kvinne-soker-edruelig-mann" frk="51 32 10 304 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-10 08:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Språk,Match,Ekteskap,Likestilling,Kjønnsroller,Møteplassen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Huslig kvinne søker edruelig mann»</div>
+<div type="ingress">«Bergenser i fast kommunalt arbeide, 36 år, ønsker bekj. med kjekk dame, 30 – 36 år. Ikke dans og fyll. Foto.»</div>
+<div type="author"></div>
+<div type="date">2019-02-10</div>
+<div type="caption"><p>HÅP: Forsiden på Alle Kvinners blad på ettervinteren 1946 ga godt håp for alle av bladets lesere som søkte en partner på livets landevei.</p></div>
+</body></document>

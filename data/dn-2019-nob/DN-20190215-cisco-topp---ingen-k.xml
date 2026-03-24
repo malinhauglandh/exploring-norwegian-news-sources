@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190215-cisco-topp---ingen-k.xml"/>
+<attribute name="url" value="http://www.dn.no/telekom/sikkerhet/mobilnett/huawei/cisco-topp-ingen-kan-garantere-kundene-100-prosent-sikkerhet/2-1-542276" frk="774 6 31 4915"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-15 07:19"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="telekom,sikkerhet,mobilnett,huawei"/>
+<attribute name="class2" value="Nyheter,Telekom"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Cisco-topp: – Ingen kan garantere kundene 100 prosent sikkerhet</div>
+<div type="ingress">Det finnes hverken nettverk eller programvare som er 100 prosent sikre, fastslår eksperter. Og Kina er ikke de eneste som driver etterretning. Det finnes hverken nettverk eller programvare som er 100 prosent sikre, fastslår eksperter. Og Kina er ikke de eneste som driver etterretning.</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-02-15 07:19</div>
+<div type="caption">Vanja Svajcer, sikkerhetsekspert og teknisk sjef i Cisco Talos har selv opplevd at arbeidsgiveren har blitt utnyttet av en etterretningstjeneste. Han sier sikkerhet handler om mye mer enn leverandørens nasjonalitet. (Foto: Per Ståle Bugjerde) Professor Stig Frode Mjølsnes ved Institutt for informasjonsteknologi og kommunikasjonsteknologi ved NTNU. (Foto: NTNU/Kai T. Dragland) Sikkerhetsdirektør Hanne Tangen Nilsen i Telenor. (Foto: Linda Næsfeldt) </div>
+<div type="text">
+<p>– Min personlige oppfatning er at det i større grad er et politisk enn teknologisk spørsmål hvem man skal handle fra. Løsningen er ikke å peke på enkeltaktører, sier Vanja Svajcer, teknologisjef i Cisco Talos, som har forsket på it-sikkerhet og trusler i over 15 år til DN.</p>
+<p>Han besøkte selskapets kontor på Lysaker denne uken.</p>
+<p>I 2014, da den tidligere ansatte Edward Snowden lekket en rekke interne dokumenter fra amerikanske etterretningstjenester, kom det for en dag at National Security Agency (NSA) hadde plantet såkalte bakdører i en rekke rutere fra Cisco siden 2012.</p>
+<p>Amerikanske Cisco er et av verdens største teknologiselskaper og de sier selv at rundt 80 prosent av verdens nettrafikk passerer gjennom en eller flere av deres produkter. Deres sikkerhetssenter blokkerer over 20 milliarder forsøk på ulike former for datakriminalitet i døgnet og de sikrer i dag noen av verdens mest kritiske systemer.</p>
+<p>Ifølge de lekkede dokumentene fanget NSA opp forsendelser på vei ut til Ciscos kunder, åpnet dem, manipulerte dem, forseglet dem igjen og sendte dem videre. Bakdøren de la inn lot dem snappe opp trafikken som passerte gjennom nettverkskomponentene.</p></div>
+<div type="title" level="3">Garanterer ikke 100 prosent sikkerhet</div>
+<div type="text">
+<p>Den siste tiden har det vært mye diskusjon, i Norge og internasjonalt, rundt mobilnett-leverandøren Huawei. Det kinesiske selskapet har møtt mistanke og blitt utestengt fra å levere komponenter til mobilnett i flere land. I Norge har blant annet PST tatt til orde for at man bør være skeptiske til Huawei.</p>
+<p>– Vi har sagt at man bør være oppmerksom på Huawei som aktør i forbindelse med 5G-nettet som skal bygges ut. Ikke fordi vi tror at det er noe galt med Huawei og menneskene som jobber i Norge, men Huawei som selskap har antagelig ganske tette bånd til kinesiske myndigheter, sier PST-sjef Benedicte Bjørnland til NRK.</p>
+<p>Cisco-topp Svajcer minner om et kjent faktum i it- og sikkerhetsbransjen.</p>
+<p>– Ingen kan garantere kundene 100 prosent sikkerhet, sier Svajcer.</p>
+<p>Han tror imidlertid ikke at noen leverandører ønsker å bidra bevisst til spionasje.</p>
+<p>– Jeg kan bare snakke for Cisco, men jeg tror alle leverandører ønsker å levere det de har lovet kundene og bevare kundens integritet. Men det er en stor verdikjede, så ingen kan gi absolutte garantier, uansett hvem de er og hvor de er basert, sier Svajcer.</p>
+<p>Han understreker at det fysiske utstyret bare er en del av sikkerhetsutfordringen. Hvordan man setter opp et mobilnett og designer systemene har mye å si for hvor god kontroll man har.</p>
+<p>– Man får stadig flere verktøy i kassen for å oppdage trusler og avvik. I tillegg er det viktig med hvilke rutiner man har når avvik oppdages, sier Svajcer.</p></div>
+<div type="title" level="3">Komplisert oppgave</div>
+<div type="text">
+<p>Cisco får støtte av NTNU-professor Stig Frode Mjølsnes ved Institutt for informatikk og kommunikasjonsteknologi.</p>
+<p>– Historien med Cisco er et eksempel på at det ikke nødvendigvis er leverandøren som er problemet. Det finnes ikke feilfri programvare, så det vil alltid være en risiko for sikkerhetshull som kan utnyttes uten leverandørens og operatørens kjennskap. Det er nok også lettere enn å få en produsent til å bevisst legge inn bakdører, sier Mjølsnes til DN.</p>
+<p>Han mener basestasjoner, som er det Huawei har levert i Norge, er spesielt svake punkt – uansett hvem som leverer dem.</p>
+<p>– Et godt eksempel er oppdateringer. Mobiloperatøren har ansvar for sikkerhet og stabilitet i nettene sine, men er avhengige av oppdateringer fra produsentene underveis, enten for å tette sikkerhetshull eller legge til ny funksjonalitet. Denne muligheten er et sårbart punkt fordi det betyr at komponentene må kunne nås utenfra, sier Mjølsnes.</p>
+<p>Dette kan utnyttes av uvedkommende.</p>
+<p>– Dersom en basestasjon først er kompromittert kan den for eksempel sende ut etterretningsinformasjon gjennom telefonene som er koblet til den. Dette er vanskelig å oppdage fordi det vil se ut som en vanlig mobildataforbindelse. Et mobilnett er stort og komplisert, og å avdekke alle avvik er enklere i teori enn praksis, sier Mjølsnes, som understreker at de kommende 5G-nettene vil bli enda mer kompliserte og ha enda flere sårbarhetspunkter enn dagens mobilnett.</p></div></body></document>

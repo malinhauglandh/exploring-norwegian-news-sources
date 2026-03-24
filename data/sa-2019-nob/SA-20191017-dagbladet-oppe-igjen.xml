@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191017-dagbladet-oppe-igjen.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/article/sa-50k4je.html" frk="244 6 10 1532"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-17 16:19:47"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="article"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagbladet oppe igjen etter mulig hackerangrep</div>
+<div type="ingress">Politiet etterforsker et mulig hackerangrep mot Dagbladet.no. Hendelsen førte til at Dagbladet og fire andre nettsteder ble stengt ned.</div>
+<div type="author">NTB</div>
+<div type="date">2019-10-17 16:19:47</div>
+<div type="caption"><p>Dagbladets nyhetsredaktør Frode Hansen. Foto: Terje Bendiksby / NTB scanpix</p></div>
+<div type="text">
+<p>Nettsidene til Dagbladet, Se og Hør, Din Side, KK og SOL ble tatt ned klokka 17.50, skriver Dagbladet.</p>
+<p>Årsaken var at flere artikler som ble publisert torsdag ettermiddag, ble endret, og det ble lagt inn grove, falske utsagn. Blant annet fikk en sak tittelen «Erna Solberg sier det er greit» og ingressen «Pedofili er greit så lenge man ikke får sæd på barnet».</p>
+<p>– Vi jobber teknisk og prøver å finne ut hvem som står bak dette, sier seksjonssjef for finans- og spesialetterforskning i Oslo politidistrikt Rune Skjold til NTB.</p>
+<p>Han opplyser at de er i gang med å sikre bevis.</p>
+<p>Rundt klokka 21.15 var alle nettstedene oppe igjen. Dagbladet skriver at en IP-adresse er blitt overlevert til politiet i Oslo.</p>
+<p>– Vi mistenker et hackerangrep. Vi fikk innhold på våre redaksjonelle plattformer som vi ikke har laget. Derfor valgte vi å stenge ned flere av sidene våre i noen få timer, sier Aller Medias konsernsjef Dag B. Sørsdahl til avisen.</p>
+<p>Statssekretær Rune Alstadsæter ved Statsministerens kontor sier til Medier24 at de har vært i kontakt med Dagbladet om saken.</p>
+<p>– Det er svært alvorlig at så grove og feilaktige beskyldninger rettes mot statsministeren på ett av Norges mest leste nettsteder, sier statssekretær Rune Alstadsæter ved Statsministerens kontor.</p></div></body></document>

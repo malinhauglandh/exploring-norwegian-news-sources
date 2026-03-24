@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191011-politiet-fant-konvol.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/vQyV4m/Politiet-fant-konvolutt-med-209000-kroner" frk="20 37 6 158 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet fant konvolutt med 209.000 kroner</div>
+<div type="ingress">Mannen spilte poker og hadde aksjeutbytte, men retten mener pengene stammer fra narkoomsetning.</div>
+<div type="author"></div>
+<div type="date">2019-10-11</div>
+<div type="caption"></div>
+</body></document>

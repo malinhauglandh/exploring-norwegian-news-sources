@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190326-lun-revy-til-a-humre.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/lAww9k/Lun-revy-til-a-humre-av" frk="42 0 0 262 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-26 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Anmeldelse,Scene,Revy,Teateranmeldelse,Skolerevy"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lun revy til å humre av</div>
+<div type="ingress">Bandet alene gjør det verdt å se årets revy på Bergen Katedralskole.</div>
+<div type="author"></div>
+<div type="date">2019-03-26</div>
+<div type="caption"><p>PÅ SCENEN: Guro Kambestad, Johanne Svendsen, Lisa Moshagen, Ingrid Volle Haanæs og Vilja Vidnes Seip er blant aktørene i revyen. FOTO: Marita Aarekol</p></div>
+</body></document>

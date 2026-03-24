@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190206-aurora-filmen-stoppe.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/wEl45P/Aurora-filmen-stoppes-av-konkurs" frk="55 0 0 357 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-06 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Rettigheter,TV 2,Maverix,Økonomi,Konkurs,Pandora,NRK,TV"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Aurora-filmen stoppes av konkurs</div>
+<div type="ingress">Dokumentaren «En gang Aurora» skulle vises på den internasjonale filmfestivalen i Berlin denne uken. Nå er visningene stoppet på grunn av konkursen til Flimmer Film.</div>
+<div type="author"></div>
+<div type="date">2019-02-06</div>
+<div type="caption"><p>BERLIN: Aurora skal til Berlin for å synge på en stor filmfest lørdag, men hun kan ikke promotere filmen om sin karriere. FOTO: Rune Sævig</p></div>
+</body></document>

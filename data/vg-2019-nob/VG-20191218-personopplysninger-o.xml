@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20191218-personopplysninger-o.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/teknologi/i/zG3Oz9/personopplysninger-om-flere-tusen-skatteetaten-ansatte-paa-avveie" frk="398 6 18 2810"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-12-18 11:48"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,teknologi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Personopplysninger om flere tusen Skatteetaten-ansatte på avveie</div>
+<div type="ingress">Via EVRY har Ukraina-ansatte fått tilgang på persondata fra 9000 personer ansatt i Skatteetaten.</div>
+<div type="author"></div>
+<div type="date">Nå nettopp</div>
+<div type="caption"><p>SKATTEDIREKTØR: Hans Christian Holte. Foto: Photographer: Baard Brinchmann Loevvig</p></div>
+<div type="text">
+<p>Navn, brukeridentitet, epostadresseer og informasjon om nærmeste sjef og avdeling har potensielt vært på avveie. Dagens Næringsliv omtalte saken først.</p>
+<p>Overfor VG avviser Skatteetaten at det er snakk om datalekkasje.</p>
+<p>– Etter en rutinekontroll hos EVRY i oktober ble det oppdaget at enkelte ansatte i deres datterselskap i Ukraina, har hatt tilganger som kunne gitt mulighet for å lese kontaktopplysninger for alle ansatte i Skatteetaten, sier IT-direktør Jørn Leonhardsen til VG.</p>
+<p>– Avviket omfatter også innleide konsulenter, de kommunale skatteoppkreverne og alminnelige namsmenn. Det er undersøkt og bekreftet at kontaktopplysningene ikke er lest eller lastet ned. Skatteetaten tar likevel saken alvorlig og EVRY har beklaget på det sterkeste. Tiltak er iverksatt for å hindre at noe lignende vil skje igjen, sier IT-direktør Jørn Leonhardsen til VG.</p>
+<p>Han understreker avviket ikke har rammet Skatteetatens eksterne brukere.</p>
+<p>Leonhardsen svarer slik på spørsmålet om hvordan dette kan ha skjedd.</p>
+<p>– EVRY benytter ServiceNow som sitt saksbehandlingsverktøy for brukerstøtte. 25. juni 2019 ble kontaktopplysninger for brukere av Skatteetatens brukerstøtte lastet inn i dette verktøyet. Dette som del av forberedelsene til at EVRY skulle overta førstelinje brukerstøtte for Skatteetaten. Personopplysningene blir brukt til å effektivisere saksregistrering hos brukerstøtte.</p>
+<p>14 medarbeidere i EVRYs ukrainske datterselskap Infopuls hadde administrative rettigheter til EVRYs saksbehandlingsverktøy, ServiceNow. Dette kunne gitt de tilgang til å lese kontaktopplysningene fra Ukraina. Selv om slik tilgang ikke ble benyttet, er dette i strid med EVRYs databehandleravtale med Skatteetaten.</p>
+<p>– Kan ansatte være sikre på at informasjonen ikke blir misbrukt?</p>
+<p>– Ja. Det er i forbindelse med avviksbehandlingen verifisert at ingen av de ukrainske medarbeiderne på noe tidspunkt benyttet tilgangsrettighetene de var tildelt. Personopplysningene ble med andre ord ikke lest av uvedkommende, og tilgangene til de aktuelle medarbeiderne i Ukraina ble stengt så snart avviket ble oppdaget.</p>
+<p>EVRY oppdaget avviket 21. oktober og iverksatte tiltak straks. Sårbarheten ble ifølge Skatteetaten lukket 24. oktober.</p>
+<p>EVRY beklager tabben og sier det er svikt i rutinene.</p>
+<p>– Vi tar personvern og sikkerhet på høyeste alvor. I forbindelse med oppstart av leveranse for Skattetaten oppsto en svikt i våre interne rutiner, noe som medførte at 14 ukrainske medarbeidere fikk tilgang til data som de ikke skulle hatt, sier fagansvarlig i Evry Jon Bremnes til Dagens Næringsliv.</p></div></body></document>

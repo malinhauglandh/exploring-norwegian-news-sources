@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190717-her-er-maneformorkel.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/zGkrPr/Her-er-maneformorkelsen-sett-fra-Odderoya" frk="35 0 0 262 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-17 09:10"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er måneformørkelsen sett fra Odderøya</div>
+<div type="ingress">Hobbyfotograf Torgeir Fiskvik Sørensen har satt opp stativ med kamera for å få med seg begivenheten.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Hobbyfotograf Fiskvik Sørensen tok dette blinkskuddet tirsdag kveld. FOTO: Torgeir Fiskvik Sørensen</p></div>
+</body></document>

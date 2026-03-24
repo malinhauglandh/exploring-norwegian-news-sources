@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190520-de-nye-selvkjorende-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/i/vQx5JV/De-nye-selvkjorende-bussene-gar-i-rute-fra-mandag" frk="772 4 20 4707"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-20 05:10"/>
+<attribute name="author" value="Marthe Øvergård"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="osloby"/>
+<attribute name="class2" value="ruter,kollektivtransport,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">De nye selvkjørende bussene går i rute fra mandag</div>
+<div type="ingress">Fra mandag blir selvkjørende busser en del av Ruters rutetilbud.</div>
+<div type="author">Marthe Øvergård</div>
+<div type="date">11 timer siden</div>
+<div type="caption"><p>FOTO: Siri Øverland Eriksen Oda er en av to selvkjørende busser som i første omgang skal kjøre ruten mellom Vippetangen og Rådhusplassen.</p> <p>Her er den første selvkjørende rutebussen</p> <p>I bussen er det plass til ti passasjerer pluss en vert. Verten kan overstyre bussen både via et skjermbrett og spillkontroll.</p> <p>Oda tiltrekker seg oppmerksomhet der hun kjører blant cruiseturister. Flere stoppet opp og tok frem kameraet da hun passerte.</p></div>
+<div type="text">
+<p>På bussholdeplassen Vippetangen står en elektrisk leddbuss til lading. Rett bak står en mye mindre buss, uten førersete.</p>
+<p>Oda, navnet Ruter har gitt den selvkjørende bussen, står klar til å teste den nye 35-ruten mellom Vippetangen og Rådhusplassen. Fra mandag ble hun og Mads en del av rutetilbudet til Ruter. Begge er førerløse busser.</p>
+<p>I august får også Ormøya en rute med selvkjørende busser. Og i løpet av 2019 blir tilbudet utvidet til Akershus, men det er ennå ikke klart hvor ruten kommer.</p>
+<p>Aftenposten testet den førerløse bussen tidligere i mai. Her kan du se hvordan det gikk da en bil snek seg inn foran kjøretøyet.</p></div>
+<div type="title" level="3">Maksfart: 18 km/t</div>
+<div type="text">
+<p>Aftenposten var med på en av de første testturene Oda hadde langs Akershusstranda.</p>
+<p>Den første delen av strekningen er uten de store hindrene. Oda bringer oss nærmest sømløst gjennom parkeringsplassen og til det første veikrysset. Hun bremser rolig ned mot fotgjengerfeltet og venter til kryssende trafikk har passert.</p>
+<p>Deretter fortsetter hun langs kaia mot cruiseskipet som ligger til havn. Farten er 18 kilometer i timen i 30-sonen. Det er maksfarten hun har lov til å kjøre i. En svart bil kommer opp på siden av Oda, kjører forbi og legger seg inn foran henne. Oda reagerer raskt.</p>
+<p>Ifølge algoritmene, som bestemmer hvordan Oda skal kjøre, legger bilen seg inn for tidlig, og da er hun programmert til å tilpasse avstanden hurtig.</p>
+<p>– I testperioden er det viktig at andre trafikanter også lærer hvordan de skal samhandle med det nye kjøretøyet, sier Vibeke Harlem, som er ansvarlig for prosjektet i Ruter.</p>
+<p>For å unngå at Oda eller Mads oppfatter situasjonen som farlig, må andre trafikanter holde den avstanden som ellers også er forsvarlig.</p>
+<p>Siri Øverland Eriksen</p></div>
+<div type="title" level="3">Sikkerhet først</div>
+<div type="text">
+<p>Oda har sensorer rundt hele seg, og det er definert hvordan hun skal reagere på situasjoner.</p>
+<p>Traseen mellom Vippetangen og Rådhuset er nøye kartlagt. Hver centimeter er forhåndsdefinert.</p>
+<p>Nedenfor Akershus festning har det samlet seg en stor gruppe, midt i den avgrensede ruten til Oda. Hun har ikke mulighet til å kjøre rundt dem, men må tute og vente til den delen av veien hun er programmert til å kjøre på, er fri.</p>
+<p>Johan Larsen er teknisk ansvarlig i Autonomous Mobility, selskapet som opererer de selvkjørende bussene for Ruter. Han forteller at de kontinuerlig jobber med å utvikle ruten.</p>
+<p>– Vi tenker «better safe than sorry», men vi kan justere underveis. For eksempel at bussene kan vike litt fra den forhåndsdefinerte ruten for å passere hindringer i veien, sier Larsen.</p>
+<p>Ruten er testet mange ganger frem til lanseringsdatoen. I tillegg til at de justerer innstillingene underveis, kan vertene overstyre systemet ved behov.</p>
+<p>Siri Øverland Eriksen</p></div>
+<div type="title" level="3">Fakta: Aftenpostens byutviklingskveld «Den bilfrie byen»</div>
+<div type="text">
+<p>22. mai kl. 18 på Folketeateret</p>
+<p>Er det selvkjørende busser, el-sparkesykler og kilometervis med nye sykkelveier som skal stå for vårt fremtidige transportbehov? Eller er det egentlig realistisk at vi noen gang vil få et bilfritt sentrum?</p>
+<p>Hvordan vil fraværet av biler endre Oslo som by?</p>
+<p>Blir byrommene flere?</p>
+<p>Og hvem er vinnerne når bilene blir borte? Er det kun astmatikerne, eller kan også næringslivet spille på lag med den bilfrie byen?</p>
+<p>Les mer på event.aftenposten.no</p></div>
+<div type="title" level="3">Tilrettelagt for rullestol</div>
+<div type="text">
+<p>Inne i bussen er det elleve sitteplasser, ti til passasjerer og én til bussverten. I startfasen vil det til enhver tid være en vert om bord, som vil være tilgjengelig for spørsmål og fungere som en ekstra sikkerhet for passasjerene.</p>
+<p>I første omgang er det tenkt at bussen skal kjøre hvert 15. minutt. Men Ruter vil justere tilbudet hvis det er behov for det.</p>
+<p>Rute 35 vil være synlig i ruteplanleggeren fra og med mandag og passasjerer må ha ordinær billett for å bruke den.</p>
+<p>Bussen tilrettelagt for rullestolbrukere. En knapp med rullestolsymbol er plassert både inni og utenpå bussen. Trykker man på den, vil dørene gå opp og en rampe komme frem.</p>
+<p>– Formålet er å øke mobiliteten for alle, sier Benjamin Øveraas, kommunikasjonsrådgiver i Ruter.</p>
+<p>Og det er ikke uten grunn at den første ruten er lagt langs Akershusstranda.</p>
+<p>– Det er et område vi vil gjøre mer tilgjengelig også for dem uten bil, sier Harlem.</p></div></body></document>

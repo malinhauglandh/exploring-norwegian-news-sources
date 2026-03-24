@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190620-fa-med-deg-fotballgl.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/pLVPGR/Fa-med-deg-fotballgleden-Her-ser-du-206-Voss-cup-mal" frk="22 19 3 152 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-20 23:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Voss Cup"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Få med deg fotballgleden: Her ser du 206 Voss cup-mål</div>
+<div type="ingress">Brassespark, frisparkperler og klyngemål. Se og nyt høydepunkter fra Voss cup!</div>
+<div type="author"></div>
+<div type="date">2019-06-20</div>
+<div type="caption"></div>
+</body></document>

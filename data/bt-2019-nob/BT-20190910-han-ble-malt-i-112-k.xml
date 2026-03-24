@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190910-han-ble-malt-i-112-k.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P9mrPb/Han-ble-malt-i-112-kmt-ved-Danmarks-plass-og-mistet-lappen-Det-likte-han-darlig" frk="48 29 8 273 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-10 22:34"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Førerkort,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han ble målt i 112 km/t ved Danmarks plass og mistet lappen. Det likte han dårlig.</div>
+<div type="ingress">Mannen hevdet han holdt fartsgrensen på stedet.</div>
+<div type="author"></div>
+<div type="date">2019-09-10</div>
+<div type="caption"><p>FORT: I desember i fjor ble en mann stoppet av politiet etter å ha kjørt i 112 km/t i 50-sonen. FOTO: Eirik Brekke (arkiv)</p></div>
+</body></document>

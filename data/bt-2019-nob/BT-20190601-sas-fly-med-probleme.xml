@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190601-sas-fly-med-probleme.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GG6QOx/SAS-fly-pa-vei-til-Bergen-fikk-problemer" frk="150 14 14 937" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-01 11:39"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Flytrafikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">SAS-fly med problemer landet trygt på Gardermoen</div>
+<div type="ingress">Et SAS-fly på vei til Bergen fikk lørdag formiddag problemer med hydraulikken. Flyet måtte snu og landet på Oslo lufthavn, som økte beredskapen.</div>
+<div type="author">NTB</div>
+<div type="date">1. juni 2019 11:39</div>
+<div type="caption"><p>MÅTTE SNU: Flyet sirklet over Flesland før det snudde og returnerte til Oslo. FOTO: Flightradar</p></div>
+<div type="text">
+<p>SAS-flyet SK257 var på vei til Flesland i Bergen da det fikk problemer og måtte snu. Ifølge NRK hadde flyet problemer med hydraulikken og klarte ikke å få ned hjulene da det skulle gå inn for landing.</p>
+<p>Ifølge data fra Flightradar24 tok flyet av fra Oslo klokken 9.53, sirkulerte litt over Bergen, og snudde tilbake mot Gardermoen.</p>
+<p>Like før klokken 12 melder SAS at flyet har landet trygt på Oslo lufthavn Gardermoen. Selskapet opplyser at det ble gjort en sikkerhetslanding uten problemer og at alle passasjerene er blitt booket om til en annen flygning.</p>
+<p>Planlagt ankomsttid i Bergen for flygingen var opprinnelig klokken 10.40.</p></div></body></document>

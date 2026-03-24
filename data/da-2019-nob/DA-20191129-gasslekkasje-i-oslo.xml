@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191129-gasslekkasje-i-oslo.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/oslo/gasslekkasje-i-oslo-1.1625651" frk="92 4 3 625 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-11-29 20:48"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="oslo"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Gasslekkasje i Oslo</div>
+<div type="ingress">Brannvesenet rykket fredag formiddag ut til melding om gasslekkasje på Franzefoss Gjenvinning på Haraldrud i Oslo.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Illustrasjonsfoto.</p></div>
+<div type="text">
+<p>Brannvesenet mistenker at det er snakk om lekkasje fra propantanker.</p>
+<p>De første meldingene gikk ut på at det var en større gasslekkasje. Det ble derfor innført en 300 meters sikkerhetssone.</p>
+<p>Da brannvesenet ankom stedet fant de ut at lekkasjen var betydelig mindre enn de først trodde, opplyser operasjonsleder Vidar Pedersen i Oslo politidistrikt til NTB.</p>
+<p>– Sikkerhetssonen er nå opphevet, og det er ikke behov for evakuering av området, sier Pedersen.</p></div></body></document>

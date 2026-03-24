@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191018-test-av-matpriser-he.xml"/>
+<attribute name="url" value="http://www.nordlys.no/mat/butikk/okonomi/test-av-matpriser-her-er-varene-du-ikke-ma-handle-pa-10-kronersmarked/s/5-34-1213040" frk="36 8 2 239 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-10-18 19:32"/>
+<attribute name="author" value="Halvor Ripegutu"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av matpriser: Her er varene du ikke må handle på 10-kronersmarked</div>
+<div type="ingress">Mange butikkkjeder kjører tikronersmarked igjen i disse dager. Noen «tilbud» bør du holde seg langt unna, mens andre er megakupp. Se oversikten her.</div>
+<div type="author">Av Halvor Ripegutu</div>
+<div type="date">18. oktober 2019, kl. 19:32</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190224-da-sandviken-fikk-en.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/oRqW4B/Da-Sandviken-fikk-en-sauna-med-sjel" frk="43 0 0 296 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-24 10:12"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Da Sandviken fikk en sauna med sjel</div>
+<div type="ingress">Med furu fra Fløyen bygget arkitektstudenter en sauna til toppkarakter – til stor glede for badeklubben «Lørdagspikene» i Sandviken.</div>
+<div type="author"></div>
+<div type="date">2019-02-24</div>
+<div type="caption"><p>MØBEL: Arkitektstudentene ville at saunaen nærmest skulle være som et møbel i nærmiljøet. FOTO: Ørjan Deisz</p></div>
+</body></document>

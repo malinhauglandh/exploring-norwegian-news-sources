@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190119-norsk-direktor-svare.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/norsk-direktor-svarer-pa-spionasjeanklagene/70664277" frk="892 2 12 5797"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-19 12:22"/>
+<attribute name="author" value="Jesper Nordahl Finsveen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="huawei,innenriks,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norsk direktør svarer på spionasjeanklagene</div>
+<div type="ingress">De er bannlyst fra å bidra til USAs telenett. Norge vurderer å utestenge dem. Nå vil de berolige myndighetene ved å åpne testsenter.</div>
+<div type="author">Jesper Nordahl Finsveen</div>
+<div type="date">2019-01-19</div>
+<div type="caption"><p>TESTSENTER: Huawei har satt i gang PR-apparatet for å tilbakevise anklager om at selskapets løsninger kan være en sikkerhetsrisiko. Nå vil de åpne testsenter i Norge. Foto: AP/Andy Wong/NTB scanpix</p> <p>SIKKERHETSDIREKTØR: Tore Larsen Ordreløkken i Huawei. Foto: Huawei</p></div>
+<div type="text">
+<p>Mens Norge vurderer å nekte Huawei å bidra i utbyggingen av det kommende 5G-nettet, forsøker det kinesiske selskapet å berolige norske myndigheter ved å bygge et testsenter for cybersikkerhet i Norge.</p>
+<p>Flere land, deriblant USA, Australia og Japan, har bannlyst den kinesiske telegiganten fra å levere produkter til sine mobilnett. De mener selskapet kan utgjøre en sikkerhetsrisiko.</p>
+<p>- Norge deler USAs bekymring og er bekymret for at private og statlige aktører i Norge er utsatt for spionasje, sa justisminister Tor Mikkel Wara (Frp) til nyhetsbyrået Reuters i forrige uke.</p>
+<p>Frykten er at det kinesiske selskapet er for tett knyttet opp mot den kinesiske staten og kinesiske etterretningsorganisasjoner.</p></div>
+<div type="title" level="3">PST bekymret</div>
+<div type="text">
+<p>Huaweis planer ble kjent gjennom en pressemelding som kom i dag. I går gikk PST ut og anbefalte at selskaper fra land Norge ikke har et sikkerhetspolitisk samarbeid med, ikke før få jobbe med utbyggingen av 5G-nettet, ifølge E24.</p>
+<p>Norge har ikke et slikt samarbeid med Kina.</p>
+<p>- Vi er bekymret for at det kan føre til at vi ikke har full kontroll på norske e-kommunikasjonsnett, som er kritisk infrastruktur, sa PSTs informasjonsdirektør Martin Bernsen til E24.</p>
+<p>Han gjentar budskapet overfor Dagbladet.</p>
+<p>- Vi synes det er problematisk at firmaer som Huawei bidrar til å bygge ut 5G-nettet.</p></div>
+<div type="title" level="3">Forstår skepsisen</div>
+<div type="text">
+<p>Huawei i Norge har siden i fjor sommer vurdert å åpne et testsenter for cybersikkerhet, ifølge sikkerhetsdirektør Tore Larsen Ordreløkken. Fra før har det kinesiske selskapet slike sentre i Europa, deriblant i Storbritannia.</p>
+<p>Målet med senteret er å være «så åpne og transparente som mulig», ifølge sikkerhetsdirektør Ordreløkken.</p>
+<p>- Testsenteret skal vise at våre produkter holder sikkerhetsmessige standarder, sier Ordreløkken til Dagbladet.</p>
+<p>- Har du forståelse for at Norge og andre land har betenkeligheter ved å la Huawei delta i utbyggingen av 5G-nett?</p>
+<p>- Det har vi forståelse for, men dette senteret skal ikke bare være et testsenter for produkter fra vår telekommunikasjonsavdeling. Vi har kunder i mange segmenter, og det er et behov for også andre kunder å kunne teste våre produkter.</p>
+<p>I pressemeldingen fra selskapet presiserer de at de «aldri» vil gi «noen lands myndigheter tilgang til informasjon» som fanges opp av deres produkter. Overfor Dagbladet gjentar sikkerhetsdirektør Ordreløkken det samme budskapet.</p>
+<p>Men å overtale vestlige lands myndigheter og media er vanskelig. Kinas etterretningslov fra 2017 sier nemlig at kinesiske «organisasjoner og borgere skal, i henhold til loven, gi støtte til, samarbeide med og bidra til det nasjonale etterretningsarbeidet», hvis det er behov for det, ifølge Reuters.</p>
+<p>Huawei er uenig i at de som følge av loven potensielt kan være nødt til å la kinesiske myndigheter installere komponenter i deres produkter som muliggjør overvåkning.</p>
+<p>- Vi har fått vurderinger av et advokatfirma i Kina, et advokatfirma i England og et i Norge. Slik vi tolker regelverket, på bakgrunn av deres vurderinger, kan ikke kinesiske myndigheter oppføre seg sånn overfor vår virksomhet utenfor Kina, sier Ordreløkken.</p></div>
+<div type="title" level="3">«Krevende» tid</div>
+<div type="text">
+<p>Han beskriver det nåværende klimaet, med den åpne mistenkeliggjøringen av hans arbeidsgiver, som «vanskelig» og «krevende».</p>
+<p>- Vi er i en svært krevende tid nå. Det har mye med at vi som selskap blir pekt på uten at man legger ved bevis og faktainformasjon. Vi forsøker å møte dette med åpenhet, men det er vanskelig for oss å bli pekt på spesifikt av myndigheter og sikkerhetstjenester, sier Ordreløkken.</p>
+<p>I pressemeldingen, og overfor Dagbladet, presiserer Ordreløkken at Huawei er et privateid selskap.</p>
+<p>- Vi eies av de ansatte, og vårt forhold til kinesiske myndigheter, er likt andre private selskapers forhold i andre land. Sånn som selskaper i Norge.</p>
+<p>- Men Kina og kinesiske myndigheter er ikke som norske eller europeiske myndigheter. Kan du forstå at man stiller spørsmål ved ditt selskaps bindinger til kinesiske myndigheter?</p>
+<p>- Jeg sier som vår ledelse: Vi har aldri blitt bedt om, og vil aldri la noen lands myndigheter, installere noe i våre komponenter. Det inntrykket er veldig uheldig.</p>
+<p>- Hva tror du PST vil si om dette?</p>
+<p>- Det ønsker jeg ikke å ha noen formening om per nå. Vi ønsker å ha en god dialog med myndighetene i landene vi opererer i, og å være åpne og transparente.</p></div>
+<div type="title" level="3">Flere funksjoner</div>
+<div type="text">
+<p>Ordreløkken forteller at de har orientert norske sikkerhetsmyndigheter, ved NSM (Nasjonal sikkerhetsmyndighet), om sine planer.</p>
+<p>Videre har de invitert myndighetene til dialog og samarbeid.</p>
+<p>- Testsentrene har flere funksjoner. Å gi uavhengige aktører en plattform til å verifisere at våre produkter holder de kravene kundene stiller, slik at tilliten til oss opprettholdes. I tillegg vil det gi oss et enda bedre samarbeid med kundene våre.</p>
+<p>Huawei ser nå etter egnede lokaler i nærheten av</p></div>
+<div type="title" level="3">Avviste anklagene</div>
+<div type="text">
+<p>Huawei-grunnlegger Ren Zhengfei har gått offentlig ut og sagt at selskapet vil avvise forespørsler fra den kinesiske regjeringen om å avsløre fortrolige opplysninger om kunder.</p>
+<p>Da Zhengfei møtte pressen i Huaweis hovedkontor, forsøkte han å roe ned vestlig bekymring for at selskapet utgjør en sikkerhetsrisiko.</p>
+<p>Under møtet ble han spurt om hvordan Huawei vil svare dersom kinesiske myndigheter ber om konfidensiell informasjon om utenlandske kunder eller deres nettverk.</p>
+<p>- Vi ville definitivt si nei til en slik forespørsel, sa Zhengfei.</p></div></body></document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190506-du-tror-du-har-fri-v.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kommentar/i/8mP3ww/Du-tror-du-har-fri-vilje_-men-pa-internett-er-det-en-illusjon" frk="632 0 1 3668"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-06 07:47"/>
+<attribute name="author" value="Eirik H. Winsnes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kommentar"/>
+<attribute name="class2" value="silicon valley,personvern,netflix,digitalisering,teknologi,kunstig intelligens,digital,facebook,data"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">«Du tror du har fri vilje, men på internett er det en illusjon»</div>
+<div type="ingress">Men må det nødvendigvis være negativt? spør utviklingsredaktør Eirik Hammersmark Winsnes.</div>
+<div type="author">Eirik H. Winsnes</div>
+<div type="date">6. mai 2019 09:47</div>
+<div type="caption"><p>FOTO: Marcio Jose Sanchez / TT NYHETSBYRÅN Selv om vi betaler med noe av vår frie vilje, hjelper algoritmer oss med å finne riktig innhold i et digitalt univers med overveldende mye informasjon og data, skriver utviklingsredaktør i Aftenposten, Eirik Hammersmark Winsnes. Facebook, her representert ved toppsjef Mark Zuckerberg, er en plattform som ved hjelp av sofistikerte algoritmer har opplevd enorm vekst.</p></div>
+<div type="text">
+<p>Hvor skal vi dra på ferie? Hvilken bok skal jeg lese? Hvilken gave vil glede ettåringen? Hva skal vi se på tv? Hva skal jeg være opptatt av og bruke tiden min på?</p>
+<p>Det er spørsmål vi liker å tro vi styrer helt selv, men mange av oss er i algoritmenes vold. Vi tar valg i et digitalt univers med overflod av informasjon og data. Der er det avanserte matematiske formler utviklet i California som ofte legger premissene for våre valg som forbrukere:</p>
+<p>3rd-party-bio</p>
+<p>Du leter deg neppe igjennom alle kategoriene med innhold på Netflix, men ser heller filmer og serier som Netflix anbefaler deg basert på det du har sett før.</p>
+<p>Du har kanskje endt besøket hos Amazon med langt flere bøker enn du i utgangspunktet hadde tenkt etter vennlige påminnelser om at de har “flere bøker vi tror du vil like”.</p>
+<p>Sannsynligvis har du brukt mye mer tid i Facebooks nyhetsstrøm enn først planlagt. Strømmen er resultatet av en avansert algoritme bygd på din aktivitet, ditt nettverk og det du har vist at du setter mest pris på.</p>
+<p>Målet for Netflix, Amazon og Facebook er det samme: å kapre en størst mulig andel av din tid og din lommebok. Og det virker. Eksemplene over er effektive algoritmer i praksis.</p></div>
+<div type="title" level="3">Mange misforståelser om algoritmene</div>
+<div type="text">
+<p>Man kan bli nedstemt av tanken på at våre liv i så stor grad påvirkes av valg ingeniører og teknologer i Silicon Valley tar på vegne av oss. Men må det nødvendigvis være negativt?</p>
+<p>Den offentlige samtalen om algoritmer preges av misforståelser og ulike begreper som ofte blandes sammen. Når mange snakker om algoritmer, mener de egentlig personalisering; algoritmer som basert på det du har lest, sett og satt pris på sørger for at du serveres mer av det samme.</p>
+<p>En algoritme er imidlertid i seg selv nøytral. Det er i bunn og grunn kun en matematisk oppskrift som angir hvordan en oppgave skal løses. De som utvikler algoritmer kan programmere dem til å gjøre det de ønsker.</p>
+<p>Algoritmer gjør fantastiske ting i våre hverdagsliv: De kan knytte oss til dem vi er glade i og det innholdet som betyr mest for oss. Eller de hjelper deg å finne din neste favorittserie eller bok. Dette er mulig fordi algoritmer kan oppdage mønster og kjennetegn i store datamengder et vanlig menneske ikke har forutsetninger for å oppdage.</p></div>
+<div type="title" level="3">Kan også opplyse og utfordre</div>
+<div type="text">
+<p>Også i Aftenposten har vi tatt i bruk algoritmer i våre digitale produkter. Vi ønsker å bruke teknologien til å sørge for at flere lesere får med seg de beste sakene vi lager. Vår algoritme kan for eksempel vite at jeg har gått glipp av en viktig avsløring, og sørge for at jeg får se denne neste gang jeg besøker Aftenposten. Den kan også vise frem saker som er helt ulike fra de jeg pleier å lese.</p>
+<p>Slik kan algoritmen bidra til å opplyse og utfordre, i stedet for å begrense og avsondre.</p>
+<p>Selv om vi betaler med noe av vår frie vilje, hjelper algoritmer oss med å finne riktig innhold i et digitalt univers med overveldende mye informasjon og data.</p>
+<p>Kanskje trenger du derfor ikke bli så irritert neste gang en algoritme foreslår Kroatia som årets feriemål, bankebrett til ettåringen eller After Life som serien du MÅ se.</p></div></body></document>

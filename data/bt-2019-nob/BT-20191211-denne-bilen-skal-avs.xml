@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191211-denne-bilen-skal-avs.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/dOQykJ/Denne-bilen-skal-avslore-parkeringssyndere-i-Bergen" frk="22 0 0 168 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne bilen skal avsløre parkeringssyndere i Bergen</div>
+<div type="ingress">Onsdag får to nye områder i byen boligsoneparkering. En høyteknologisk bil skal overvåke bilene.</div>
+<div type="author"></div>
+<div type="date">2019-12-11</div>
+<div type="caption"></div>
+</body></document>

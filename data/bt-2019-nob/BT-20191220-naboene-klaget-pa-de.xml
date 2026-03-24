@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191220-naboene-klaget-pa-de.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJL8KQ/Naboene-klaget-pa-dette-kontorbygget-Byradet-sier-ja" frk="19 29 4 134 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-20 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Naboene klaget på dette kontorbygget. Byrådet sier ja.</div>
+<div type="ingress">Grønt lys for over 6000 kvadratmeter med kontor på Fantoft.</div>
+<div type="author"></div>
+<div type="date">2019-12-20</div>
+<div type="caption"></div>
+</body></document>

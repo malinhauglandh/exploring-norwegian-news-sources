@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190310-bli-med-pa-innsiden-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/rLBP8a/Bli-med-pa-innsiden-av-Naturhistorisk-museum" frk="45 0 0 301 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-10 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Museum,Fugl,Kunst,Dyr"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bli med på innsiden av Naturhistorisk museum</div>
+<div type="ingress">De ansatte på Naturhistorisk museum i Bergen jobber på spreng for å få museet klart til åpningsdagen etter sommeren.</div>
+<div type="author"></div>
+<div type="date">2019-03-10</div>
+<div type="caption"><p>DYRESAMLING: Antoine L´Hoste pakker her ut en øgle i et mellomlager på Naturhistorisk museum. FOTO: Geir Martin Strande</p></div>
+</body></document>

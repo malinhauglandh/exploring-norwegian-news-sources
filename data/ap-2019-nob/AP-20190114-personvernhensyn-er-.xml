@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190114-personvernhensyn-er-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/debatt/i/6na53L/Personvernhensyn-er-ikke-til-hinder-i-mange-av-eksemplene-i-debatten-om-pasientsikkerhet--Camilla-Nervik-og-Bjorn-Erik-Thon" frk="790 1 9 5360"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-14 20:00"/>
+<attribute name="author" value="Bjørn Erik Thon"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,debatt"/>
+<attribute name="class2" value="datatilsynet,personvern,velferdsteknologi,taushetsplikt,teknologi,helsepolitikk,data"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Personvernhensyn er ikke til hinder i mange av eksemplene i debatten om pasientsikkerhet | Camilla Nervik og Bjørn Erik Thon</div>
+<div type="ingress">Digitaliseringen av helsetjenesten tvinger frem en annen måte å tenke risiko og personopplysningsvern på.</div>
+<div type="author">Bjørn Erik Thon</div>
+<div type="date">21 timer siden</div>
+<div type="caption"><p>FOTO: Shutterstock / NTB scanpix Tiden er kommet til å krabbe opp av skyttergravene i diskusjonen om pasientsikkerhet og personvern. Vårt mål er å finne gode løsninger. Tar helsesektoren utfordringen? spør ledelsen i Datatilsynet.</p> <p>Camilla Nervik, fagdirektør i Datatilsynet</p> <p>Bjørn Erik Thon, direktør i Datatilsynet</p></div>
+<div type="text">
+<p>Datatilsynet har fulgt debatten den siste tiden om hvordan «personvernet» stanser nødvendig og effektiv helsehjelp. Diskusjonene tar for seg mange eksempler. Det nevnes helseregistre, ny teknologi og utstyr for overvåking og behandling, mulighet for å sende journaldata, bilder og EKG-data elektronisk, manglende tilgang på tvers av virksomhetsgrenser, samtykkekrav, adgang til å publisere forskningsdata og forskjellene mellom hva som er tillatt i Norge og i andre land.</p>
+<p>Datatilsynet</p>
+<p>Eksemplene viser etter vår oppfatning at dette i hovedsak er diskusjoner som først må avklares internt i Oslo universitetssykehus. Saken blir ekstra komplisert av at helsesektoren er sammensatt og regulert av ulike lover, blant annet om taushetsplikt og samtykke. Men vi går gjerne i dialog om hva personvern faktisk er.</p>
+<p>3rd-party-bio</p></div>
+<div type="title" level="3">Forståelsen av begrepet «personvern»</div>
+<div type="text">
+<p>Derfor har vi også takket ja til å delta på flere møter relatert til saken, og vi ønsker å bidra til at personvernregelverket forstås på en riktig måte av alle de berørte i denne saken.</p>
+<p>Mariam Butt / NTB scanpix</p>
+<p>En fellesnevner i diskusjonene er at personvernet er til hinder for nødvendig og effektiv oppfølging av pasienter, og pasienter dør som følge av personvernet.</p>
+<p>Vi opplever at diskusjonsdeltagerne ikke er klare på hva de legger i sin forståelse av begrepet «personvern». Deler av diskusjonen dreier seg faktisk ikke engang om personvernregelverket, men om fortolkninger av helsepersonell-lovens unntak fra den lovpålagte taushetsplikten, og teknisk infrastruktur som ikke er god nok.</p></div>
+<div type="title" level="3">Vid bruk av personopplysninger</div>
+<div type="text">
+<p>Personvernregelverket er ikke nødvendigvis til hinder i mange av de eksemplene som har vært trukket frem under debatten. Både personvernforordningen (GDPR) og den norske særreguleringen legger opp til vid bruk av personopplysninger, så lenge det gjøres på en sikker og lovlig måte, altså med personopplysningssikkerhet og innenfor rammene av taushetsplikt. Som vi skrev i en kronikk i 2012: Datatilsynet er for et faksfritt helsevesen, for innovasjon, for bruk av mer og bedre IKT, for deling av pasientinformasjon og for samhandling i helsesektoren.</p>
+<p>Tradisjonelt tror vi helsesektoren har vært mest opptatt av å snakke om ivaretagelse av taushetsplikten eller konfidensialitet som personvern. I debatten trekkes det frem at konfidensialitetsbrudd ikke ses på som så alvorlig av pasientens pårørende, for eksempel at blodsukkerverdier til barn eller treningsdata lekker ut.</p></div>
+<div type="title" level="3">Vi skal stole på dataene</div>
+<div type="text">
+<p>Personopplysningsvern er sikkerhet ved behandling av personopplysninger. Det innebærer at konfidensialiteten skal ivaretas, dataene skal være tilgjengelige for dem som har tjenstlig behov og er autorisert for det, og integriteten skal ivaretas. Integritet betyr at systemer og teknologi skal sikre at vi kan stole på at de dataene vi behandler er korrekte.</p>
+<p>Digitaliseringen av helsetjenesten tvinger derfor frem en annen måte å tenke risiko og personopplysningsvern på. Et eksempel fra sektoren som kan ha rokket ved konfidensialitet, integritet og tilgjengelighet, er datainnbruddet hos Helse Sør-Øst som ble avdekket for omtrent et år siden.</p>
+<p>Integritetsbrudd skjer for eksempel når uautoriserte hacker seg inn i sykehusets systemer og endrer algoritmer eller persondata. Dette kan få store konsekvenser også for pasientsikkerheten til den det gjelder.</p></div>
+<div type="title" level="3">Tilgjengelighet</div>
+<div type="text">
+<p>Brudd på tilgjengelighet er også meget alvorlig innen helsetjenesten. Angrepet «Wannacry» i 2017 lammet eksempelvis store deler av det britiske helsevesenet over flere dager, fordi journalsystemene ikke var tilgjengelige.</p>
+<p>All teknologi er avhengig av å bli styrt, justert og tilpasset. Velferdsteknologi, implantat og kroppsnær teknologi skjer ofte via trådløs kommunikasjon. En kommunikasjon som pasienten skal være trygg på at bare er tilgjengelig for dem som trenger den.</p>
+<p>Vi vet at ikke bare profesjonelle hackere kan manipulere teknologi som kan nås via trådløs kommunikasjon. Oppskrifter og fremgangsmetoder for hacking ligger åpent tilgjengelig på internett, og man kan bestille teknologisk bistand eller et angrep til en helt overkommelig pris. Vi må ta høyde for slike scenarioer, og vi må sikre oss at ikke utstyr sender feil signaler, blir skrudd av eller manipulert med konsekvenser for helsehjelpen vi får.</p></div>
+<div type="title" level="3">Opp av skyttergravene</div>
+<div type="text">
+<p>Vi fastholder at digital pasientsikkerhet avhenger av at behandlingen av data skjer på en sikker måte. Det er mulig at pårørende også tenker litt annerledes om viktigheten av personvern når de kjenner til alle disse sikkerhetskravene.</p>
+<p>Og da er det kanskje også mer tydelig hva Datatilsynet mener – at interessekonflikten ikke nødvendigvis er så stor. Tiden er kommet til å krabbe opp av skyttergravene, og vi ser frem til videre diskusjon. Vårt mål er å finne gode løsninger. Tar sektoren utfordringen?</p></div></body></document>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191130-data-er-den-nye-rava.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kronikk/i/rA45eK/Data-er-den-nye-ravaren-Hvordan-skal-vi-forvalte-den--Hans-Christian-Holte" frk="937 1 6 5851"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-11-30 19:00"/>
+<attribute name="author" value="Hans Christian Holte"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kronikk"/>
+<attribute name="class2" value="digitalisering,hans christian holte,personvern,skatteetaten,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Data er den nye råvaren. Hvordan skal vi forvalte den? | Hans Christian Holte</div>
+<div type="ingress">Da olje piplet opp fra bakken, tok det lang tid før noen forsto at den hadde en verdi og måtte forvaltes. Nå må data vurderes på lignende måte.</div>
+<div type="author">Hans Christian Holte</div>
+<div type="date">30. nov. 2019 20:00</div>
+<div type="caption"><p>FOTO: Reuters / NTB scanpix Selskapene Amazon, Apple, Facebook og Google er blant dem som samler inn verdifulle data om norske brukere.</p> <p>Skattedirektør Hans Christian Holte.</p> <p>Ville du ha gentestet barnet ditt?</p></div>
+<div type="text">
+<p>En skotsk kjemiker som het James Young, hadde lagt merke at det piplet råolje opp fra bakken i Alfreton i England. Han tenkte at den kunne brukes til noe nyttig.</p>
+<p>I 1847 klarte han å lage en tynn olje av den som han brant i lamper. Det tykkere materialet brukte han som smøreolje til maskiner. Han gjorde stor suksess med sine oppfinnelser.</p>
+<p>3rd-party-bio</p>
+<p>Det er mange paralleller mellom olje og data. Hvor lenge kunne James Young bare hente råvaren gratis? Når ble det erkjent at oppfinnelsene og verdikjeden til James begynte med en råvare som hadde verdi i seg selv, også før den ble viderebehandlet?</p>
+<p>Baard Brinchmann Loevvig / Skatt</p>
+<p>For oljens del skjøt verdien først virkelig fart da forbrenningsmotoren ble populær. Med data står vi kanskje nå på randen av det samme gjennombruddet.</p></div>
+<div type="title" level="3">Skattlegging av verdien av data</div>
+<div type="text">
+<p>«Internet of things», med sensorer overalt, 5G som gjør at mye større volum data kan sendes, stordata-teknologi og ikke minst kunstig intelligens, vil gjøre at verdien på data vil skyte fart. Det gjelder både nye datakilder og eksisterende kilder som får ny verdi. Som helseregistre, værdata fra YR og Skatteetatens inntektsopplysninger.</p>
+<p>Den vanligste måten samfunnet tar tilbake noe av den private verdiskapningen på, er gjennom skatt på overskuddet. Da selskaper som Facebook og Google raskt ble suksessfulle med sine innovative forretningsmodeller, hvor innhenting og foredling av data er sentrale bærebjelker, ble det gjennomført på en måte som det internasjonale skattesystemet ikke var designet for å håndtere.</p>
+<p>Med svært lite behov for fysisk tilstedeværelse kunne verdiene enkelt flyttes, og det var mulig å planlegge seg til en svært lav skatt. Helt lovlig.</p></div>
+<div type="title" level="3">Samarbeid på tvers av nasjoner</div>
+<div type="text">
+<p>Vi får dermed lite skatteinntekter fra verdien av data i dag. Det krever et internasjonalt samarbeid for å få til endringer som både er effektive og forutsigbare.</p>
+<p>I OECD jobbes det nå med flere forslag for å modernisere skattesystemet slik at disse forretningsmodellene ikke unndrar seg beskatning på et signifikant nivå. Det vurderes blant annet om det skal være et minstenivå på hvor mye skatt de kan betale og det jobbes med forslag til hvordan overskuddet skal fordeles mellom landene på en annen måte enn i dag, slik at landene hvor data er innhentet (markedsstatene) kan beskatte deler av overskuddet.</p>
+<p>Vi har tro på at dette samarbeidet er veien å gå for å sikre en riktigere beskatning av disse verdiene.</p></div>
+<div type="title" level="3">Hvem styrer våre viktigste data?</div>
+<div type="text">
+<p>Norsk forvaltning av olje handler ikke bare om å sikre at verdiene kommer samfunnet til gode, men om demokratisk kontroll over et viktig område. Hvordan sikrer vi fellesskapets interesser i data som er viktige for Norge fremover?</p>
+<p>Data som samles inn og bearbeides av internasjonale selskaper, kan ha betydning for grunnleggende nasjonale funksjoner.</p>
+<p>Skatteetaten forvalter Folkeregisteret – en samling med data som er helt avgjørende for det velfungerende, moderne norske samfunnet. Vår forvaltning av Folkeregisteret er underlagt en sterk demokratisk kontroll og egen lovregulering, med en formålsparagraf som slår fast at data skal kunne brukes til myndighetsoppgaver og offentlig forvaltning, forskning, statistikk og til å ivareta grunnleggende samfunnsbehov.</p>
+<p>De store teknologiselskapene har ikke tilsvarende begrensninger eller krav til å ivareta samfunnsbehov. Det offentlige har i utgangspunktet en plikt til å dele sine data gratis, men det finnes ikke en tilsvarende plikt om å dele tilbake.</p></div>
+<div type="title" level="3">Hvordan sikre demokratisk kontroll?</div>
+<div type="text">
+<p>Da Folkeregisteret ble etablert, var en av hovedhensiktene å ha en samlet oversikt over hvem som bodde i Norge. I dag er nok tjenester som Google Maps og operativsystemet Android de mest oppdaterte kildene til hvem som faktisk oppholder seg i Norge til enhver tid.</p>
+<p>Sett at det lanseres en populær app hvor folk må gi fra seg bilde, lokasjonsdata og noen opplysninger man ellers bare finner i Folkeregisteret, og at denne tjenesten blir svært utbredt. Da kan det raskt etableres et register som nærmer seg et parallelt, privat folkeregister, uten at vi har samme demokratiske kontroll på hva opplysningene brukes til.</p>
+<p>Er det greit, selv om alle enkeltpersonene frivillig har gitt fra seg dataene sine? Hva om det er en fremmed statsmakt som står bak?</p>
+<p>Hverken det offentlige eller offentlige datakilder er skjermet fra konkurranse eller disrupsjon. Vi kan ikke ukritisk dele offentlige data uten samtidig å ha en tanke for hvordan vi skal sikre fellesskapets interesser, og behovet til grunnleggende samfunnsfunksjoner i de nye datakildene som etableres. Vi som nasjon bør vurdere hvilke typer data det er viktig at vi beholder under offentlig kontroll, og hvilke muligheter vi har for å beskytte dem.</p></div>
+<div type="title" level="3">Norge er godt posisjonert </div>
+<div type="text">
+<p>Norge er et av verdens mest digitaliserte land. Vi både produserer mer data og har bedre kompetansemessige forutsetninger enn mange andre land for å utnytte verdiene i data.</p>
+<p>I Norge i dag er data allerede er en viktig forutsetning for å sørge for velsmurte offentlige og private tjenester. Samtidig er vi et høykostland som må ta i bruk de fordeler og verdier vi besitter for å sørge for en videre effektivisering og forbedring av samfunnet.</p>
+<p>Norge er godt posisjonert for å ta grep nå for å unngå at noen få aktører får eksklusivt eierskap til data, for å sikre kontroll med data som er nødvendig for grunnleggende nasjonale funksjoner og at fellesskapets interesser ivaretas.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191115-stengte-deler-av-klo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EWXVM2/Stengte-deler-av-Klostergarasjen-pa-dagen--Soylene-slar-sprekker" frk="23 0 0 161 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-15 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Stengte deler av Klostergarasjen på dagen: – Søylene slår sprekker</div>
+<div type="ingress">Søylene som held oppe andre etasje i parkeringsanlegget er ikkje gode nok.</div>
+<div type="author"></div>
+<div type="date">2019-11-15</div>
+<div type="caption"></div>
+</body></document>

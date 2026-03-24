@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191023-ola-moe-har-kjopt-ti.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/9v08zW/Ola-Moe-har-kjopt-tilbake-historisk-hotell--av-seg-selv" frk="36 0 0 214 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-23 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ola Moe har kjøpt tilbake historisk hotell – av seg selv</div>
+<div type="ingress">Flere historiske hotell har stått i sentrum av en eierskapskonflikt. Blant dem er Hotel Mundal, som Moe nå har kjøpt tilbake av seg selv.</div>
+<div type="author"></div>
+<div type="date">2019-10-23</div>
+<div type="caption"></div>
+</body></document>

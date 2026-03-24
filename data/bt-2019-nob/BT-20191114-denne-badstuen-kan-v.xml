@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191114-denne-badstuen-kan-v.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/OpX52O/Badstue-blant-ni-nominerte-til-byformingspris" frk="22 0 0 156 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-14 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne badstuen kan vinne pris</div>
+<div type="ingress">Ved Elsero i Sandviken står et byggverk som er blitt nominert til kommunens arkitektur- og byformingspris.</div>
+<div type="author"></div>
+<div type="date">2019-11-14</div>
+<div type="caption"></div>
+</body></document>

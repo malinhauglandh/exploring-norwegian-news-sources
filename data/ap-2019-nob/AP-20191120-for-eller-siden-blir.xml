@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191120-for-eller-siden-blir.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kommentar/i/P9mMP5/For-eller-siden-blir-du-syk-Kan-data-redde-deg-Joacim-Lund" frk="123 2 2 820"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-11-20 17:00"/>
+<attribute name="author" value="Joacim Lund"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kommentar"/>
+<attribute name="class2" value="data,digitalisering,google,helse- og omsorgsdepartementet,kommentar joacim lund,nærings- og fiskeridepartementet,roche,teknologi,wall street journal,helseteknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Før eller siden blir du syk. Kan data redde deg? Joacim Lund</div>
+<div type="ingress">Google har samlet helsedata i det stille. Nå står det om livet – og fryktelig mye penger.</div>
+<div type="author">Joacim Lund</div>
+<div type="date">20.nov.2019 18:00</div>
+<div type="caption"><p>FOTO: Gorm Kallestad / NTB scanpix Nedsyltede, norske helsedata kan bokstavelig talt redde liv – dersom de tilgjengeliggjøres.</p></div>
+<div type="text">
+<p>I forrige uke boblet enda en IT-helseskandale til overflaten. Googles Project Nightingale har ved hjelp av den kolossale, amerikanske helsetilbyderen Ascension i det stille samlet inn helseopplysninger om det Wall Street Journal anslår til 50 millioner amerikanere.</p>
+<p>Hvor sensitive disse dataene egentlig er, er usikkert. Slike ting har en tendens til å bli overdrevet. En liten, anonymisert dataflik fra en pasientjournal har lett for å bli til «intime detaljer fra pasientens personlige helseopplysninger» eller lignende.</p></div></body></document>

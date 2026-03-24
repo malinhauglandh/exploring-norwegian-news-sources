@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190727-kvinne-71-kjorte-med.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/P9EeWz/Kvinne-71-kjorte-med-over-to-i-promille" frk="22 14 2 134 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-27 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Bil,Rus,Trafikkulykker,Alkohol"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kvinne (71) kjørte med over to i promille</div>
+<div type="ingress">Den eldre kvinnen ble stanset to ganger av politiet. Nå har dommen falt.</div>
+<div type="author"></div>
+<div type="date">2019-07-27</div>
+<div type="caption"></div>
+</body></document>

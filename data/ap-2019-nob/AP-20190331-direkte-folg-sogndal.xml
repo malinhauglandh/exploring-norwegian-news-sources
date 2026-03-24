@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190331-direkte-folg-sogndal.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/DIREKTE-Folg-Sogndal-Sandnes-Ulf-og-chat-med-var-reporter-271669b.html" frk="26 21 4 183 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-31 14:04"/>
+<attribute name="author" value="Egil Naerland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="sandnes ulf"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">DIREKTE: Følg Sogndal-Sandnes Ulf og chat med vår reporter</div>
+<div type="ingress">Vi følger hvert spark på ballen fra klokken 18.00.</div>
+<div type="author">Egil Naerland</div>
+<div type="date">31.mar.2019 16:04</div>
+<div type="caption"><p>FOTO: Anders Minge Sandnes Ulf-trener Bengt Sæternes.</p></div>
+</body></document>

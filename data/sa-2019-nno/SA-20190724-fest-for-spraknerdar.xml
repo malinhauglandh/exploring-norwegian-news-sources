@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190724-fest-for-spraknerdar.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/kultur/i/a253oO/Fest-for-spraknerdar" frk="25 0 0 183 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-24 10:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="litteratur,anmeldelse,språk,innvandring,bokanmeldelse,nynorsk,bokmål"/>
+<attribute name="language" value="nno"/>
+</header>
+<body>
+<div type="title" level="1">Fest for språknerdar</div>
+<div type="ingress">SAKPROSA: Ei språkbok med kunnskap og humor i herleg blanding.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Pål Kristian Eriksen driv med språkleg folkeopplysning. Resultatet er ein fest!</p></div>
+</body></document>

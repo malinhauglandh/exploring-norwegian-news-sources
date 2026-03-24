@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191125-trafikkulykke-med-to.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/LAQl2q/Trafikkulykke-med-to-biler" frk="39 8 2 243 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-25 12:09"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyheter,nyhetsdognet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Trafikkulykke med to biler</div>
+<div type="ingress">Nødetatene rykket ved 13-tiden mandag ut til trafikkulykke på Vesterveien i Arendal.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Utfra bildet ser det ut som om den hvite Mini Morissen har kjørt inn i siden på den eldre Volvoen. FOTO: Tipser</p></div>
+</body></document>

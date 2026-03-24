@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013-sirdals-siste-langhu.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/1n8doB/Kjopte-Sirdals-siste-langhus-Sauefjoset-er-blitt-stue_-kufjoset-er-tekjokken" frk="25 23 4 172 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Sirdals siste langhus: Sauefjøset er blitt stue, kufjøset er tekjøkken</div>
+<div type="ingress">I ein av Sirdals stillaste krokar fann Anne og Snorre Haukali langhuset frå 1830.</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

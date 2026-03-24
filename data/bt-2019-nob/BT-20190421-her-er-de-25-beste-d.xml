@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190421-her-er-de-25-beste-d.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/fotball/Her-er-de-25-beste-damespillerne-i-Hordaland-272511b.html" frk="24 37 6 160 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-21 19:11"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="Kvinnefotball,Webview"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er de 25 beste damespillerne i Hordaland</div>
+<div type="ingress">Se BTs liste over de fremste fotballspillerne i Hordaland i 2019.</div>
+<div type="author"></div>
+<div type="date">2019-04-21</div>
+<div type="caption"><p>FOTO: Endre Lilletvedt (ill.)</p></div>
+</body></document>

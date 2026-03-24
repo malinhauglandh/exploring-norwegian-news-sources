@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191107-elev-alvorlig-skadet.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/VbXXql/Elev-alvorlig-skadet-etter-bading-pa-skoletur" frk="39 0 0 254 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-07 13:48"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Elev alvorlig skadet etter bading på skoletur</div>
+<div type="ingress">En elev fra Bildøy bibelskole er alvorlig skadet i en ulykke i Israel.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>INTERNATSKOLE: En elev ved Bildøy bibelskole er innlagt på sykehus i Israel etter en alvorlig badeulykke. Ørjan Deisz</p></div>
+</body></document>

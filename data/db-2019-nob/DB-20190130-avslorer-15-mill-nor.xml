@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190130-avslorer-15-mill-nor.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/avslorer-15-mill-norske-passord-lekket/70683499" frk="818 7 38 5285"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-30 07:52"/>
+<attribute name="author" value="Frode Andresen, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="lekkasje,passord,nyheter,e-post,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Avslører: 1,5 mill. norske passord lekket</div>
+<div type="ingress">Dersom din egen e-postadresse er berørt, bør du endre passord snarest mulig, advarer ekspert.</div>
+<div type="author">Frode Andresen, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-01-30</div>
+<div type="caption"><p>PASSORDLEKKASJE: Tidligere i januar ble det meldt om en gigantisk passordlekkasje. Dagbladets undersøkelser viser at den er omtrent ti ganger større enn først antatt. FOTO: Shutterstock / NTB Scanpix</p></div>
+<div type="text">
+<p>Tidligere i januar ble det advart om «den største passordlekkasjen i internettets historie». Lekkasjen omfattet en 87 GB stor database med e-postadresser og tilhørende passord.</p>
+<p>Dagbladets undersøkelser viser at dette anslaget bare er én tiendedel av den totale databasen. Åpent på nettet fant vi totalt sju samlinger med lekkasjer som omfatter en database på 847 GB.</p>
+<p>Det dreier seg om flere gamle passordlekkasjer, hvorav de eldste er opptil flere år gamle. Og det som verre er;</p>
+<p>I databasen fant Dagbladet minst 1,5 millioner norske e-postadresser og tilhørende passord.</p></div>
+<div type="title" level="3">Antallet tredoblet</div>
+<div type="text">
+<p>Også i oktober ble en liknende lekkasje bredt omtalt i norske medier. Da skrev Aftenposten at passord som er blitt brukt av statsminister Erna Solberg, digitaliseringsminister Nikolai Astrup, Telenor-sjef Sigve Brekke, DnB-sjef Rune Bjerke, lå åpent på nettet.</p>
+<p>- Det var jo en vekker om at passord kan komme på avveie. Det var heldigvis ikke et passord jeg hadde brukt på mange år. Det er viktig å bytte passord ofte, sa Astrup til Dagbladet like etter at han tirsdag ble Norges første digitalminister .</p>
+<p>Den gang viste Dagbladets undersøkelser at 573 000 norske e-postadresser var berørt. Dagbladets undersøkelser av den nylig offentliggjorte databasen viser at 1,5 mill. norske e-postadresser er berørt.</p>
+<p>Informasjonssjef i Nasjonal sikkerhetsmyndighet (NSM), Trond Øvstedal, bekrefter at de kjenner til de tidligere passordlekkasjene.</p>
+<p>- Vi er kjent med disse dumpene, og ser at det absolutt er grunn til å følge anbefalingene vi har gitt tidligere, sier Øvstedal til Dagbladet, og viser til NSMs passordanbefalinger.</p></div>
+<div type="title" level="3">Mørketall</div>
+<div type="text">
+<p>Det finnes sannsynligvis langt flere norske e-postadresser som er blitt rammet, siden mange nordmenn også har kontoer på domener som gmail.com, msn.com og hotmail.com.</p>
+<p>- Det er nok fryktelig store mørketall, sier sikkerhetsekspert og forsker ved NTNU og SINTEF, Maria Bartnes, til Dagbladet.</p>
+<p>Databasen inneholder blant annet 3322 e-postadresser tilknyttet domenet til UiO, 282 tilknyttet politiet, fem tilknyttet PST, over 100 tilknyttet Stortinget og minst 437 som er tilknyttet domenene til de forskjellige departementene.</p>
+<p>- Har vi sett en liknende samling tidligere?</p>
+<p>- Nei, ikke som har blitt lekket offentlig slik at alle kan leke seg med det. Den er nok den første av den størrelsen, sier sikkerhetsekspert Per Thorsheim til Dagbladet.</p></div>
+<div type="title" level="3">- Har mistet verdi</div>
+<div type="text">
+<p>Thorsheim poengterer at det finnes undergrunnsforum hvor man kan finne mange mindre lekkasjer, som til sammen kan bli større enn den Dagbladet har fått tak i.</p>
+<p>- Vet man hva man leter etter, kan man finne både nyere og farligere lekkasjer.</p>
+<p>- Denne samlingen mistet sin verdi i dét den ble offentliggjort. Man kan ikke lenger selge den, og derfor gis den ut slik at andre kan leke seg med den, sier Thorsheim.</p>
+<p>Sikkerhetseksperten anslår at to tredjedel av de 1,5 mill. lekkede e-postadressene kan være fra helt ubetydelige tjenester som nordmenn ikke benytter seg av lenger, eller ikke utgjør noe fare. Han anslår også at det ikke er mer enn 100 000 kombinasjoner av e-postadresser og passord som fungerer den dag i dag.</p>
+<p>- Men vi vet samtidig at veldig mange bruker de samme passordene på andre tjenester også, sier han.</p></div>
+<div type="title" level="3">Identitetstyveri</div>
+<div type="text">
+<p>Dersom noen sitter på e-postadressen din og tilhørende passord, kan man i ytterste konsekvens bli utsatt for identitetstyveri, ifølge Maria Bartnes.</p>
+<p>- Dersom en angriper sitter på passordet ditt, kan vedkommende kjapt ta kontroll over alle andre kontoer. Konsekvensen kan være at noen kan bruke penger i ditt navn ved å bestille varer eller tjenester, sier Bartnes til Dagbladet.</p>
+<p>Med kontroll over e-postkontoen din, kan en angriper enkelt trykke på «glemt passord»-knappen på alle andre tjenester som er tilknyttet kontoen din - og på den måten overta dem også.</p>
+<p>- Det setter eier av e-postkontoen i en ekstremt vanskelig situasjon, for det er veldig vanskelig å bevise at vedkommende er den han sier han er.</p></div>
+<div type="title" level="3">Ekspertenes beste tips</div>
+<div type="text">
+<p>- Hvis du finner din egen e-postadresse i databasen, bør du snarest mulig endre passord på alle tjenester hvor du har brukt det, sier Bartnes.</p>
+<p>Hennes beste tips for å unngå å bli hacket, er å bruke egne passord for de viktigste tjenestene, f.eks. e-postkontoen din og innloggingen på arbeidsstedet ditt.</p>
+<p>Det andre Bartnes anbefaler er å bruke lange passord.</p>
+<p>- Et godt passord er langt, og kan gjerne være en setning. «Jegluftethundenigår» er for eksempel bedre enn et kort passord med kombinasjoner av tall og store og små bokstaver.</p>
+<p>Både Bartnes og Thorsheim anbefaler også å ta i bruk tofaktorautentisering - også kalt totrinnsbekreftelse - dersom tjenesten tillater det.</p>
+<p>God sikkerhet er ikke bare brukerens ansvar, mener Bartnes.</p>
+<p>- Et godt råd til virksomhetene er å sørge for å håndtere og lagre passord på en tilfredsstillende måte. Selv om det ikke gjelder flertallet lenger, er det mange virksomheter som gir passord i klartekst dersom man trykker på «glemt passord»-knappen.</p></div></body></document>

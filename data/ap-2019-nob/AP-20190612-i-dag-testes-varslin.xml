@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190612-i-dag-testes-varslin.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/OplVMA/I-dag-testes-varslingsanlegg-over-hele-landet" frk="227 5 8 1513"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-06-12 08:14"/>
+<attribute name="author" value="Eirik Husøy"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="beredskap,varsling,sivilforsvaret"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">I dag testes varslingsanlegg over hele landet</div>
+<div type="ingress">Sivilforsvaret tester tyfonene klokken 12 onsdag 12. juni.</div>
+<div type="author">Eirik Husøy</div>
+<div type="date">8 timer siden</div>
+<div type="caption"><p>FOTO: Odd Skarbomyr, DSB Rundt om i landet er det varslingsanlegg med sirener som skal varsle befolkningen ved akutt fare. Signalene testes to ganger i året.</p></div>
+<div type="text">
+<p>Over halvparten av befolkningen hører onsdag sirener fra Sivilforsvarets tyfoner.</p>
+<p>Signalet sendes i tre serier med ett minutts opphold mellom seriene.</p></div>
+<div type="title" level="3">Derfor uler det</div>
+<div type="text">
+<p>Signalet som høres er «Viktig melding – lytt til radio», som ikke er det samme som flyalarmen. Flyalarmen er en serie med kortere signaler, mens dette signalet har lengre signaler.</p>
+<p>På Sivilforsvarets hjemmesider kan du høre forskjellen på de ulike signalene.</p>
+<p>«Viktig melding»-signalet betyr i praksis at du skal søke informasjon i for eksempel radio, TV, kriseinfo.no, tradisjonelle medier og sosiale medier.</p>
+<p>– I fredstid kan varslingsanleggene blant annet brukes ved industriulykker med påfølgende utslipp av giftige eller farlige stoffer. Mens i krig kan anleggene brukes ved fare for flyangrep, sier direktør Cecilie Daae i DSB.</p></div>
+<div type="title" level="3">Derfor gjør de det</div>
+<div type="text">
+<p>Sivilforsvaret har rundt 1250 sireneanlegg (tyfoner) over hele landet for varsling til befolkningen ved akutt fare.</p>
+<p>Varslingsanlegget testes to ganger i året – i januar og juni. Hensikten er å sjekke om tyfonene virker og eventuelt kunne reparere dem som ikke fungerer.</p>
+<p>Sivilforsvaret har ansvaret for å etablere, vedlikeholde og drifte varslingsanleggene. Politiet har ansvaret for å utløse varsling i fredstid.</p></div></body></document>

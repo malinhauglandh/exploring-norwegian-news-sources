@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191003-siste-nytt-fra-bt-sp.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/EWLRml/Siste-nytt-fra-BT-sporten" frk="13 0 0 98 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-03 20:31"/>
+
+<attribute name="author" value="BT-Sporten"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Siste nytt fra BT-sporten</div>
+<div type="ingress">Bli oppdatert på det som skjer i hordalandsidretten.</div>
+<div type="author">BT-sporten</div>
+<div type="date">2019-10-03</div>
+<div type="caption"></div>
+</body></document>

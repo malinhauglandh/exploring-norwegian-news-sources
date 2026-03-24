@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20190111-var-nye-boligrobot-g.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/trondelag/2019/01/11/V%C3%A5r-nye-boligrobot-gj%C3%B8r-at-du-kan-lese-flere-boligsaker-p%C3%A5-adressa.no-18226685.ece" frk="704 1 7 4386"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-01-11 13:53"/>
+<attribute name="author" value="Ann-Inger Borstad"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter,trondelag"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vår nye boligrobot gjør at du kan lese flere boligsaker på adressa.no</div>
+<div type="ingress">Adresseavisens boligrobot vil skrive flere tusen artikler dette året.</div>
+<div type="author">Ann-Inger Borstad</div>
+<div type="date">11.01.2019 13:53</div>
+<div type="caption"><p>Espen Rasmussen og Agne Ødegaard jobber med å utvikle Adresseavisens boligrobot. Foto: ESPEN BAKKEN</p> <p>Utviklingsredaktør Christer S. Johnsen tror boligroboten kan frigjøre tid til at reporterne kan lage enda bedre journalistikk. Foto: Espen Bakken</p></div>
+<div type="text">
+<p>De siste ukene har roboten jobbet med å skrive saker om boligsalg i Midt-Norge. Roboten leser tinglysninger av solgte boliger i Midt-Norge. Slike opplysninger har du kunnet lese som ei liste i papiravisa og på adressa.no tidligere.</p>
+<p>- Den baserer seg på de samme opplysningene. Men i stedet for at de presenteres i en listeform, får du artikler. Det tror vi gir en bedre service til leserne, forklarer Espen Rasmussen og Agne Ødegaard, som begge jobber i redaksjonens utviklingsavdeling.</p></div>
+<div type="title" level="3">Roboten lærer stadig mer</div>
+<div type="text">
+<p>Roboten velger bare ordinære boligsalg, ikke boliger som er overdratt som arv. Den lager artikler basert på boligens adresse, kjøper, selger og salgssum. Dersom det finnes tidligere salgshistorikk på boligen, blir dette også inkludert.</p>
+<p>Her kan du lese et eksempel på en slik artikkel: Jarveien 6 solgt for første gang på 49 år</p>
+<p>- Roboten setter sammen opplysningene til en kort artikkel. Bildene av boligene hentes fra Google street view. Dersom det ikke finnes et bilde, bruker vi et flyfoto fra det aktuelle området. Når roboten skriver om salg i nybygg, kan det for eksempel være at det ikke finnes bilder av bygget ennå. Vi jobber med å gjøre roboten i stand til å vurdere kvaliteten på bildet og eventuelt bytte det ut med et annet bilde, forklarer Espen Rasmussen.</p>
+<p>- Vi har forsøkt å lære roboten å lage varierte titler til sakene, basert på hva som framstår som de beste poengene som er tilgjengelig i våre opplysninger. Vi jobber fortløpende med å gjør roboten flinkere til dette, sier Rasmussen.</p></div>
+<div type="title" level="3">Søk på ditt postnummer</div>
+<div type="text">
+<p>Under hver artikkel har du mulighet til å søke på valgfritt postnummer. Siden roboten foreløpig har arbeidet i noen få uker, er det ikke registrert sak på alle postnumrene i Midt-Norge ennå. Men dette vil bli oppdatert jevnlig.</p>
+<p>Her kan du søke på postnummer</p>
+<p>- Hvordan kom dere på å lage denne roboten?</p>
+<p>- Vi ble inspirert av det svenske mediekonsernet Mittmedias boligrobot og forsøkte å lage en egen løsning tilpasset norske forhold. Vi jobber også videre med å skaffe flere opplysninger som roboten kan tygge på, sier Rasmussen.</p>
+<p>Mittmedia eier blant annet avisene Östersunds-Posten og Sundsvalls Tidning. I Sverige har denne typen artikler blitt svært populære blant abonnentene.</p>
+<p>- Hvor mange artikler kan roboten skrive?</p>
+<p>- Den kan skrive så mange saker som den får opplysninger om, så det er antall boligsalg som er begrensingen. Foreløpig ser det ut til at roboten vil skrive noen tusen artikler i året, sier Ødegaard.</p></div>
+<div type="title" level="3">Boligjournalistikk fenger leserne</div>
+<div type="text">
+<p>Adresseavisen har i «alle år» har hatt eiendomsoverdragelser på trykk i papiravisen. Dette er et første steg i å ta oversikten ut i digital drakt, med bilder, lenker og informasjon som brukerne forventer å kunne dykke dypere i på nettet.</p>
+<p>- Betyr dette at reporterne ikke skal skrive boligsaker lenger?</p>
+<p>- Roboten er på ingen måte laget for å «stjele» jobben til journalister. Vi har et overordnet mål om å gjøre færre manuelle oppgaver som kan automatiseres. Jeg tror roboten heller vil bidra til at vi får enda bedre journalistikk i Adresseavisen, ved at våre reportere kan bruke tiden sin til mer grundig og krevende journalistikk, sier utviklingsredaktør Christer S. Johnsen.</p>
+<p>- Robotjournalistikk er i vinden, hvorfor valgte dere akkurat boligsalg?</p>
+<p>- Boligjournalistikk og salg er noe som fenger våre lesere. Vi så tidlig på løsningen som er laget i Sverige, men datagrunnlaget er litt annerledes på andre siden av grensen. Derfor valgte vi å lage en pilot selv, sier Johnsen.</p>
+<p>Adresseavisen vil jobbe videre med å tilby dette innholdet slik at det treffer leserne best mulig.</p>
+<p>- Tidligere har vi hatt en kartoversikt, samt liste, med siste boligsalg. Svært mange boliger omsettes hver måned i Midt-Norge, noe som gjør at roboten også skriver svært mange artikler. Her har vi en jobb å gjøre for å tilby riktig artikkel til riktige leser, slik at det superlokale innholdet oppleves som viktig og relevant.</p>
+<p>Glad i å lese om interiør og bolig? Dette var de mest populære hjemmene i 2018.</p></div></body></document>

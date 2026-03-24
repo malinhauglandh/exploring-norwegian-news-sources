@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190129-john-fredriksen-apne.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/john-fredriksen-apner-lommeboken-for-norwegian/2-1-529942" frk="86 0 0 678 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-29 08:30"/>
+<attribute name="author" value="Fredrick Chr. Ekeseth"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">John Fredriksen åpner lommeboken for Norwegian</div>
+<div type="ingress">Skipsrederen og investoren legger til luftfart til sin stadig voksende investeringsportefølje. Skipsrederen og investoren legger til luftfart til sin stadig voksende investeringsportefølje.</div>
+<div type="author">Fredrick Chr. Ekeseth</div>
+<div type="date">2019-01-29 08:30</div>
+<div type="caption">Konsernsjef Bjørn Kjos i Norwegian og John Fredriksen (innfelt). (Foto: Gorm K. Gaare og Elin Høyland) </div>
+<div type="text">
+<p>Flyselskapet Norwegian henter tre milliarder kroner i en fortrinnsrettet og garantert emisjon, ifølge en melding tirsdag.</p>
+<p>Blant garantistene som deltar er skipsreder John Fredriksen gjennom Sterna Finance Ltd. Dermed tar den suksessrike investoren steget fra shipping, oljeservice, lakseoppdrett, eiendom til luftfart.</p></div></body></document>

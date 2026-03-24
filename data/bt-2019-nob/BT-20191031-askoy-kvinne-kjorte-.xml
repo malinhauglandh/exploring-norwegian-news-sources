@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-askoy-kvinne-kjorte-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/AdBvb3/Askoy-kvinne-kjorte-til-handlesenteret-med-2_26-i-promille" frk="32 25 5 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Askøy-kvinne kjørte til handlesenteret med 2,26 i promille</div>
+<div type="ingress">En 55 år gammel kvinne fra Askøy har i Bergen tingrett tilstått at hun i mars i år kjørte bil i påvirket tilstand.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

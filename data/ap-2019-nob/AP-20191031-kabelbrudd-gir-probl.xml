@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191031-kabelbrudd-gir-probl.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/K3X8nX/Kabelbrudd-gir-problemer-med-kortbetalingen" frk="238 0 0 1521"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-10-31 12:50"/>
+<attribute name="author" value="May Synnøve Rogne"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="mastercard,nets,visa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kabelbrudd gir problemer med kortbetalingen</div>
+<div type="ingress">I dag har mange kunder opplevd problemer når de skal betale med kort i butikk.</div>
+<div type="author">May Synnøve Rogne</div>
+<div type="date">4 timer siden</div>
+<div type="caption"><p>FOTO: Knut Falch / SCANPIX</p></div>
+<div type="text">
+<p>Leverandøren har nå rettet feilen, og normal drift er gjenopprettet, melder Nets.</p>
+<p>Nets er selskapet som har ansvar for kortlesere i blant annet butikker over hele Norden og Baltikum. De tilbyr betalingsløsninger både online og via mobil.</p>
+<p>Tidligere i dag meldte de om problemer med betalingsløsningen:</p>
+<p>«Det oppleves for øyeblikket driftsforstyrrelser som påvirker kortbetalinger. Vi er i gang med undersøke dette og vil komme tilbake med oppdatert status når dette foreligger.»</p></div>
+<div type="title" level="3">Kabelbrudd er synderen</div>
+<div type="text">
+<p>– Det stemmer at vi har vært berørt av problemene. En nettverksleverandør har hatt et kabelbrudd. Det har ført til at noen av Nets betalingsterminaler er berørt. Problemene har vært utenfor vår kontroll, forteller pressesjef for Nets i Norge, Stein-Arne Tjore.</p>
+<p>Leverandøren har nå rettet feilen, og normal drift er gjenopprettet, melder Nets.</p>
+<p>– Noen terminaler har fungert fint, mens andre terminaler har hatt brudd. De fleste kort har i dag bankaksept og terminalen går da over til en reserveløsning, sier Tjore.</p></div>
+<div type="title" level="3">Rammer også BankID</div>
+<div type="text">
+<p>Tidligere i dag meldte også BankID at de har problemer, og at det treffer alle bankene likt. Årsaken er det samme: kabelbrudd. Det rammet også Telenor, hvor BankID på mobil ikke fungerte.</p>
+<p>– Det jobbes med å få rettet opp feilen så raskt som mulig, sier kommunikasjonssjef Fredrik Tangeraas i Telenor til Bergensavisen.</p></div></body></document>

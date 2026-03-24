@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191004-statens-vegvesen-har.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70Jd7v/Statens-vegvesen-har-funnet-ut-av-arsaken-til-tunneldramaet" frk="30 30 6 197 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-04 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Statens vegvesen har funnet ut av årsaken til tunneldramaet</div>
+<div type="ingress">Utstyret sviktet i noen sekunder. Det førte til at mellom 350 og 400 kilo betong falt fra taket i Fløyfjellstunnelen.</div>
+<div type="author"></div>
+<div type="date">2019-10-04</div>
+<div type="caption"></div>
+</body></document>

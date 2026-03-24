@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191207-beskjeden-redningsma.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/mRExol/Beskjeden-redningsmann" frk="42 0 0 280 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-07 14:09"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="bjarne berntsen,farmen,figgjo,fotball,gunnar sønsteby,viking"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Beskjeden redningsmann</div>
+<div type="ingress">Dette er livets lunefulle paradoks: Bjarne Berntsen liker helst å være alene, er svært beskjeden – men skal lede et fotballag til seier.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Bjarne Berntsen, dypt i egne tanker. Og selvsagt tenker han på fotball. Nesten alltid. Jarle Aasland</p></div>
+</body></document>

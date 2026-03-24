@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190127-jeg-bruker-rundt-ett.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/jeg-bruker-rundt-ett-minutt-pa-a-apne-en-hotellsafe-uten-kode/70703552" frk="55 0 0 333 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-27 20:47"/>
+<attribute name="author" value="Mathilde Lea"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="den ultimate agent,top1,spionasje,pluss,nrk,mathilde lea,martin giæver,kultur,tv"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">- Jeg bruker rundt ett minutt på å åpne en hotellsafe uten kode</div>
+<div type="ingress">- På jobb tør jeg alt, sier programleder Martin Giæver.</div>
+<div type="author">Mathilde Lea</div>
+<div type="date">2019-01-27</div>
+<div type="caption"><p>AGENT: Martin Giæver er programleder for «Den ultimate agent» på NRK. Under innspilling har han blant annet lært seg å avsløre løgn, og åpne hotellsafer uten kode. Foto: Nina Hansen / Dagbladet</p></div>
+</body></document>

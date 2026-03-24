@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190316-her-heises-en-av-de-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/J1VR7X/Her-heises-en-av-de-storste-suitene-pa-plass-i-det-nye-hotellet-pa-Voss" frk="33 0 0 195 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-16 21:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,Granvin,Arkitektur,Hotell"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her heises en av de største suitene på plass i det nye hotellet på Voss</div>
+<div type="ingress">Ferdige hotellrom er fraktet fra Estland til Granvin med skip og fra Granvin til Voss med semitrailere.</div>
+<div type="author"></div>
+<div type="date">2019-03-16</div>
+<div type="caption"></div>
+</body></document>

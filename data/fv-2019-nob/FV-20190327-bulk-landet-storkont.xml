@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190327-bulk-landet-storkont.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/8mqaPw/Bulk-landet-storkontrakt-med-Amazon" frk="56 0 0 358 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-27 13:52"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bulk landet storkontrakt med Amazon</div>
+<div type="ingress">Peder Nærbø og hans Bulk Infrastructure på Støleheia har signert kontrakt med amerikanske Amazon om bruk av fiberkabelen Havfrue mellom USA og Norge.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Peder Nærbø, grunnlegger og eier av Bulk Infrastructure, sier det er stort å flagge at Amazon Web Services er blitt en av deres kunder. FOTO: Siv Dolmen</p></div>
+</body></document>

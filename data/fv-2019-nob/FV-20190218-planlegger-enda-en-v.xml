@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190218-planlegger-enda-en-v.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/0ERMd0/Planlegger-enda-en-vindpark" frk="38 6 2 302 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-02-18 20:03"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Planlegger enda en vindpark</div>
+<div type="ingress">Fred. Olsen Renewables planlegger vindpark på opptil 20 vindmøller.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kjell Rune Nakkestad, lokal representant for Fred. Olsen Renewables, presenterte vindmølle-planer for formannskapet og interesserte innbyggere på Evje i forrige uke. FOTO: Kjetil Nygaard</p></div>
+</body></document>

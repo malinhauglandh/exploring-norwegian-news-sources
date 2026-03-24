@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190801-rente.xml"/>
+<attribute name="url" value="http://www.dn.no/rente/2-1-647753" frk="30 12 3 241 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-08-01 17:44"/>
+<attribute name="author" value="Lars Kjøllesdal"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Børs"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rente</div>
+<div type="ingress">Den britiske sentralbanken (BoE) holdt som ventet renten uendret på 0,75 prosent torsdag. Samtidig ser banken undertrykket underliggende produksjonsvekst på kort sikt, som reflekterer større usikkerhet rundt brexit.</div>
+<div type="author">Lars Kjøllesdal</div>
+<div type="date">2019-08-01 17:44</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

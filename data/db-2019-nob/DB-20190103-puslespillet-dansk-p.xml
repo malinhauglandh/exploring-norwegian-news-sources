@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190103-puslespillet-dansk-p.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/puslespillet-dansk-politi-matte-lose/70619890" frk="59 23 9 391 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-03 20:51"/>
+<attribute name="author" value="Audun Hageskal"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="dødsulykke,kripos,nyheter,åstaulykken,pluss,politi,storebælt,togulykke,togulykken i danmark,utenriks,krim"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Puslespillet dansk politi måtte løse</div>
+<div type="ingress">Da 19 personer mistet livet under Åsta-ulykken, var den danske ID-gruppa på plass for å lære. 19 år seinere skal de selv identifisere ofre etter Danmarks verste togulykke siden 1988.</div>
+<div type="author">Audun Hageskal</div>
+<div type="date">2019-01-03</div>
+<div type="caption"><p>DØDSULYKKE: Åtte av de som var om bord på passasjertoget mistet livet i ulykken på Storebæltsbroen 2. januar. Foto: Mads Claus Rasmussen/Ritzau Scanpix</p></div>
+</body></document>

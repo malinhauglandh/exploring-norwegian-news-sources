@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191029-se-video-fra-brannen.xml"/>
+<attribute name="url" value="http://www.nordlys.no/brann/finnsnes/legevakt/se-video-fra-brannen-pa-legevakta/s/5-34-1218019" frk="21 0 0 143 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-10-29 21:01"/>
+<attribute name="author" value="Tobias Kvalvik Henriksen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Se video fra brannen på legevakta på Finnsnes</div>
+<div type="ingress">Tirsdag kveld fikk politiet melding om åpne flammer på legevakta på Finnsnes.</div>
+<div type="author">Av Tobias Kvalvik Henriksen</div>
+<div type="date">29. oktober 2019, kl. 21:01</div>
+<div type="caption"></div>
+</body></document>

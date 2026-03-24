@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190115-vi-trenger-et-sentra.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/debatt/i/WLPJ2G/Vi-trenger-et-sentralt-pacemakerregister--Eivind-S-Platou" frk="523 4 17 3474"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-15 18:30"/>
+<attribute name="author" value="Eivind S. Platou"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,debatt"/>
+<attribute name="class2" value="datatilsynet,debatt,personvern,oslo universitetssykehus (ous),implantater,implantert"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vi trenger et sentralt pacemakerregister | Eivind S. Platou</div>
+<div type="ingress">Håpet er at helseminister Høie og departementet åpner for en kopi av det danske pacemakerregisteret.</div>
+<div type="author">Eivind S. Platou</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: Tor G. Stenersen Flere eksperter har uttalt at det «nye» pacemakerregisteret OUS har holdt på med i seks år, er uegnet, skriver innleggsforfatteren. Bildet viser en kombinert pacemaker og hjertestarter.</p> <p>Eivind S. Platou</p></div>
+<div type="text">
+<p>Da det gamle pacemakerregisteret ble laget for 20 år siden, var et sentralt register ikke teknisk mulig, ei heller lovlig. Registeret kunne importere data fra andre sykehus for å kunne fungere som en sentral backup. Denne muligheten ble imidlertid stoppet fra Datatilsynet.</p>
+<p>Våre naboland kunne utvikle sine registre videre som sentrale registre med den sikkerhet det innebar for pasientene.</p>
+<p>3rd-party-bio</p></div>
+<div type="title" level="3">Datatilsynet skjønner ikke</div>
+<div type="text">
+<p>Datatilsynet, ved Bjørn Erik Thon og Camilla Nervik, (Aftenposten 27. desember) demonstrerer at de ikke skjønner problemstillingen: «Et register skal være kilde til informasjon om alle med pacemakere i landet, med det formål å formidle kritisk informasjon. Da må sikkerheten være absolutt, og det er viktig å vurdere hva som kan gå galt, for eksempel dersom registeret blir utsatt for cyberangrep.»</p>
+<p>Hva som kan gå galt? Ingen ting.</p>
+<p>Hackerne kan få en rekke tabeller med tekniske data som ikke gir mening om det ikke leses i selve registerprogrammet. Selv da vil de ikke finne følsomme data.</p>
+<p>Videre: «når hjertestarteren svikter eller kommuniserer feil som følge av angrep utenfra (...), da skulle vi ønske at IT-systemet hadde vært like sikkert som Fort Knox».</p>
+<p>En hjertestarter er ikke på nett, så uttalelsen er svært hypotetisk, men kanskje interessant for en thrillerforfatter. Ledelsen i Datatilsynet burde holde seg unna slike oppkonstruerte skrekkscenarioer!</p>
+<p>Og Datatilsynet legger terskelen så høyt at de ikke tillater et sentralt register ...</p></div>
+<div type="title" level="3">Det tapte svensk-norske registeret</div>
+<div type="text">
+<p>I 2008 fikk vi en kopi av det svenske pacemakerregisteret. Det måtte tilpasses norske forhold og ble finansiert av Norsk Cardiologisk Selskap (forening for norske hjertespesialister) som eide det gamle pacemakerregisteret og overdro registeret vederlagsfritt til Oslo universitetssykehus (OUS), Medisinsk klinikk, i mars 2012.</p>
+<p>Den norske varianten ble et semi-sentralt register. Arbeidet med tilpasningen ble gjort i samarbeid med personvernombudet. I 2013, da registeret var klart til å lanseres, fikk vi beskjed fra Stab IKT (inklusive personvernombudet) om at de og Sykehuspartner nektet å serve det nye registeret, og at man måtte begynne på nytt med Ereg, et lokalt utviklet databaseregisterverktøy. Utviklingskostnaden på en million kroner, betalt av Norsk Cardiologisk Selskap, var tapt.</p></div>
+<div type="title" level="3">Status i dag</div>
+<div type="text">
+<p>Det gamle pacemakerregisteret brukes på alle pacemakersentrene fremdeles. Registeret eies og driftes fra OUS med undertegnede som dataansvarlig. Det «nye» registeret som OUS har holdt på med i seks år i Ereg, vil ikke bli et sentralt register og lages som et lokalt register (hvis det noen gang blir ferdig).</p>
+<p>De øvrige pacemakersentrene i Norge vil ikke få noe tilbud. Flere eksperter har uttalt at Ereg er uegnet for å lage et slikt behandlingsregister, det mangler for mange vesentlige funksjoner. Utviklingen har vist at de har rett.</p>
+<p>Håpet er at helseminister Høie og departementet nå innser at vi trenger et sentralt register og åpner for en kopi av det danske registeret.</p>
+<p>Innleggsforfatteren er tidligere leder av Norsk Pacemakerregister</p></div></body></document>

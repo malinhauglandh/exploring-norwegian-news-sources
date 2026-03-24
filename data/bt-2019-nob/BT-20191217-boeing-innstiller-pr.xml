@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191217-boeing-innstiller-pr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/1nzOmG/Boeing-innstiller-produksjonen-av-MAX-flyene" frk="67 14 6 408 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-17 05:52"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boeing innstiller produksjonen av MAX-flyene</div>
+<div type="ingress">Boeing stanser i januar midlertidig produksjonen av 737 MAX-fly. Alle fly av denne typen verden over er satt på bakken etter to ulykker.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 17. desember 2019 05:52</div>
+<div type="caption"><p>STOPP: Et Boeing 737 MAX tar av på en prøveflyging ved Seattle mandag. Boeing stanser produksjonen av fly i januar inntil flyet igjen får tillatelse til å fly. Foto: Ted S. Warren / AP / NTB scanpix (arkiv)</p></div>
+</body></document>

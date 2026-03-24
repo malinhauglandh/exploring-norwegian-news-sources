@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190809-her-er-norges-forste.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/XgEVOn/Her-er-Norges-forste-aprikosbonde" frk="37 0 0 235 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-09 13:13"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Lærdal,Klima,Høst"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er Norges første aprikosbonde</div>
+<div type="ingress">Kari Sigrun Lysne leverer i år rundt to tonn av den silkemyke, guloransje frukten som normalt hører hjemme i varmere strøk. Aprikos kan bli et nytt eventyr for bønder på Vestlandet.</div>
+<div type="author"></div>
+<div type="date">2019-08-09</div>
+<div type="caption"></div>
+</body></document>

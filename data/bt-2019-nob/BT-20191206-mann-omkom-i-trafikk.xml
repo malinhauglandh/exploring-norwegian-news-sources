@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191206-mann-omkom-i-trafikk.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/BR4aB0/mann-omkom-i-trafikkulykke-paa-randaberg-i-rogaland" frk="54 18 6 323 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-06 21:23"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann omkom i trafikkulykke på Randaberg i Rogaland</div>
+<div type="ingress">En mann i 70-årene omkom da han ble påkjørt på E39 i Randaberg i Rogaland fredag kveld. Vedkommende ble erklært død på stedet.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 6. desember 2019 21:23</div>
+<div type="caption"><p>En mann omkom i en påkjørsel på E39 i Randaberg i Rogaland fredag kveld. Foto: Foto: Statens vegvesen webkamera / NTB scanpix</p></div>
+</body></document>

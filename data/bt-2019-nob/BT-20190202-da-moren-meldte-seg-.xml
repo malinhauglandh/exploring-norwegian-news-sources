@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190202-da-moren-meldte-seg-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/vmR9jp/Da-moren-meldte-seg-for-politiet_-var-hennes-tre-barn-i-barnehagen" frk="45 0 0 271 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-02 18:23"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Barn,Etterforskning,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Da moren meldte seg for politiet, var hennes tre barn i barnehagen</div>
+<div type="ingress">Kvinnen som er siktet for drapsforsøk på sine tre barn skal avhøres så fort det lar seg gjøre.</div>
+<div type="author"></div>
+<div type="date">2019-02-02</div>
+<div type="caption"><p>AVHØRT: Barna til den drapssiktede moren er avhørt på Barnehuset. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

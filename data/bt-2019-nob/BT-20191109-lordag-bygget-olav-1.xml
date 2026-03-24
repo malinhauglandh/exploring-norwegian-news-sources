@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191109-lordag-bygget-olav-1.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/OpXBpw/Hundrevis-av-barn-i-Lego-turnering" frk="33 21 4 188 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lørdag bygget Olav (13) og Tim (15) Lego i verdens største konkurranse av sitt slag</div>
+<div type="ingress">Det holder ikke å være flink til å bygge hus av Lego for vinne å denne konkurransen.</div>
+<div type="author"></div>
+<div type="date">2019-11-09</div>
+<div type="caption"></div>
+</body></document>

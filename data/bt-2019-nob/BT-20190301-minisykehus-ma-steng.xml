@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190301-minisykehus-ma-steng.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EoVjGa/Minisykehus-ma-stenge" frk="43 0 0 293 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-01 23:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Helse Bergen,Medisin"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Minisykehus må stenge</div>
+<div type="ingress">Kommunal sengepost mangler leger, må stenge hele neste uke.</div>
+<div type="author"></div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>STENGES: Den kommunale sengeposten for øyeblikkelig hjelp ligger i samme hus som legevakten. Torsdag var det fire pasienter innlagt der, de skrives ut i morgen. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

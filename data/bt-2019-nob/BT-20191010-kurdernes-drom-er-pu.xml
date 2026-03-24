@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010-kurdernes-drom-er-pu.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/QoK9J8/Kurdernes-drom-er-punktert" frk="31 20 4 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kurdernes drøm er punktert</div>
+<div type="ingress">30 amerikanske soldater har flyttet på seg. Kun 30. Det fører til at det nordøstlige Syria blir truet av en eksplosjon av vold og regelrett krig.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

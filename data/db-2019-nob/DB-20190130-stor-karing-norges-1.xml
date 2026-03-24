@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190130-stor-karing-norges-1.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/sport/stor-karing-norges-100-beste-langrennslopere-av-begge-kjonn/70708879" frk="50 17 6 352 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-30 20:55"/>
+<attribute name="author" value="Esten O. Sæther"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="pluss,sport,ski,therese johaug,johannes høsflot klæbo,norges 100 beste langrennsløpere,langrenn"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor kåring: Norges 100 beste langrennsløpere av begge kjønn</div>
+<div type="ingress">I dag starter Ski-NM. Dagbladet har kåret vinterens sterkeste langrennsløpere.</div>
+<div type="author">Esten O. Sæther</div>
+<div type="date">2019-01-30</div>
+<div type="caption"><p>PÅ LISTA: Therese Johaug har vært sterk fra sesongens første konkurranse. Hun er på Dagbladets kåring over Norges 100 beste langrennsløpere, av begge kjønn. FOTO: Terje Pedersen / NTB scanpix.</p></div>
+</body></document>

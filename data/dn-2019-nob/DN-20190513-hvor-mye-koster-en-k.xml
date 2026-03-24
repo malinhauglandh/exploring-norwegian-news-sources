@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190513-hvor-mye-koster-en-k.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/bompenger/skatt/okonomi/hvor-mye-koster-en-krone/2-1-602481" frk="485 0 0 2978"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-13 17:56"/>
+<attribute name="author" value="Michael Hoel"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="innlegg,bompenger,skatt,okonomi"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hvor mye koster en krone?</div>
+<div type="ingress">Hva koster det samfunnet å kreve inn én krone mer i skatt for å finansiere offentlige utgifter?</div>
+<div type="author">Michael Hoel</div>
+<div type="date">2019-05-13 17:56</div>
+<div type="caption"></div>
+<div type="text">
+<p>Hva koster det samfunnet å kreve inn én krone mer i skatt for å finansiere offentlige utgifter?</p>
+<p>Det konvensjonelle svaret fra økonomer er at det koster mer enn én krone, siden skatteinnkrevning gir et effektivitetstap i økonomien i tillegg til selve kronen som blir trukket inn i skatt.</p>
+<p>I sin kronikk i DN sist helg argumenterer Victor D. Norman for at det konvensjonelle synet er feil, og at én krone økt skatt bare koster én krone. Argumentet til Norman er følgende: Med et optimalt utformet skattesystem – hensynet til både effektivitet og fordeling tatt i betraktning – ville det ikke spille noen rolle hvordan en ekstra krone skatt ble krevet inn. Alle muligheter ville være like gode, ellers kunne ikke skattesystemet vært optimalt i utgangspunktet.</p>
+<p>En av mulighetene er å kreve samme kronebeløp i skatt per hode. Dette er en skatteform som ikke gir noe effektivitetstap, siden skatten ikke kan bli påvirket av skattyternes adferd. Ergo blir kostnaden av én krone økt skatt nettopp én krone.</p>
+<p>Resonnementet virker umiddelbart tilforlatelig.</p>
+<p>Men vent litt: Siden alle mulige måter å trekke inn skatt på er like gode, må alternativet med å øke inntektsskatten for alle med samme prosentpoeng også være en like god måte å øke skatten på som å øke skatten med samme beløp per hode. Men det er velkjent at en inntektsskatt har en kostnad i form av et effektivitetstap. Så da er vi tilbake til det konvensjonelle synet, nemlig at én krone økt skatt koster samfunnet mer enn én krone.</p>
+<p>Hvordan kan samme type resonnement gi to ulike resultater?</p>
+<p>For å forstå dette må vi forstå hvorfor vi i det hele tatt har skatter som gir et effektivitetstap. Hvorfor ikke la all skatt som kreves inn ganske enkelt være et likt kronebeløp på samtlige av Norges innbyggere, siden dette ikke vil gi noe effektivitetstap? Årsaken er opplagt: Dette ville gitt en kraftig forsterkning av allerede eksisterende inntektsforskjeller mellom innbyggerne. Derfor velger vi stedet et skattesystem som innebærer at samlet skatt som en person betaler er høyere jo høyere inntekt vedkommende har, selv om det er et effektivitetstap knyttet til denne skatteformen.</p>
+<p>En av komponentene i et slikt skattesystem kan gjerne være et likt kronebeløp i skatt for alle. Isolert sett har denne komponenten et «fordelingstap», siden den isolert sett bidrar til skjevere inntektsfordeling. I et optimal skattesystem er – som Norman også påpeker – alle elementene i skattesystemet satt sammen slik at tapet er likt for alle komponenter (på marginen). Spesielt vil fordelingstapet av den kronelike delen av skattesystemet måtte være likt med effektivitetstapet av den delen av skattesystemet som gir et effektivitetstap.</p>
+<p>Dessverre er derfor konklusjonen til Norman feil. Én krone økt skatt koster mer enn en krone, enten i form av et effektivitetstap eller i form av et fordelingstap.</p></div></body></document>

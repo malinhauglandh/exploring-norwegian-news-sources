@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190412-hacket-hydro-til-uts.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/hydro/svein-richard-brandtzag/hacking/hacket-hydro-til-utsettelse/2-1-587921" frk="236 8 15 1686"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-12 16:21"/>
+<attribute name="author" value="Kenneth Lund"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked,hydro,svein-richard-brandtzag,hacking"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hacket Hydro til utsettelse</div>
+<div type="ingress">Aluminiumsgiganten Hydro utsetter sin kvartalsrapporten i mer enn én hel måned, etter dataangrepet som har rammet selskapet. Aluminiumsgiganten Hydro utsetter sin kvartalsrapporten i mer enn én hel måned, etter dataangrepet som har rammet selskapet.</div>
+<div type="author">Kenneth Lund</div>
+<div type="date">2019-04-12 16:21</div>
+<div type="caption">Konsernsjef Svein Richard Brandtzæg (til venstre) og finansdirektør Eivind Kallevik under Hydros siste kvartalspresentasjon. (Foto: Mikaela Berg) </div>
+<div type="text">
+<p>Ifølge en melding etter børsslutt fredag før påske, fremgår det at Hydro ikke vil presentere rapporten for årets tre første måneder som planlagt 30. april men først offentliggjør den 5. juni.</p>
+<p>«Den forsinkede rapporteringsdatoen for første kvartal er et resultat av det tidligere kommuniserte cyberangrepet, som påvirker tilgjengeligheten av visse systemer og data for å produsere kvartalsrapporten», skriver selskapet.</p>
+<p>Hydro tar også et forbehold om den utsatte datoen for rapporten.</p>
+<p>«Den reviderte datoen er betinget av den planlagte tidslinjen for gjenoppretting av drifts- og rapporteringssystemer».</p>
+<p>Pressekontakt Halvor Molland i Hydro sier selskapet ennå ikke har fått opp å gå alle rapporteringssystemene som gir grunnlagsmateriale for å produsere tall til kvartalsrapporten.</p>
+<p>– Endel administrative støttesystemer er fortsatt ute av drift, sier Molland.</p>
+<p>Han sier det dreier seg om ulike typer data, som for eksempel lagertall og lignende.</p>
+<p>Molland sier at fire av fem forretningsområder nå produserer som nprmalt igjen, mens det for det femte forretningsområdet - Extruded Solutions - produseres på 85-90 prosent av normalt.</p>
+<p>Cyberangrepet 19. mars har kostet Hydro 300-350 millioner kroner. Det er ikke kjent hvem som stod bak hackingen.</p></div></body></document>

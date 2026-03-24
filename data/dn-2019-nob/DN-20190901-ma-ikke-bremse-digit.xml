@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190901-ma-ikke-bremse-digit.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/digitalisering/arv/testamente/ma-ikke-bremse-digitaliseringen/2-1-661947" frk="352 1 4 2181"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-01 16:53"/>
+<attribute name="author" value="Tom Staavi"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="innlegg,digitalisering,arv,testamente"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Må ikke bremse digitaliseringen</div>
+<div type="ingress">I sin lederartikkel 26. august går DN inn for å bremse utbredelsen av digital signering. Foranledningen til debatten er en diskusjon som oppsto i etterkant av at Arvelovutvalget gikk imot digital signering av testamenter. Da loven ble vedtatt, ble det likevel gitt en forskriftshjemmel som åpner for digital signering, ikke en forskrift slik DN later til å tro. Forutsetningen for at det gis en slik forskrift er at det finnes et tilstrekkelig sikkert system. Eller som det står i loven: «Kongen kan i forskrift gi regler om at testamenter kan opprettes digitalt, og om hvilke krav som i så fall må være oppfylt for at slike testamenter skal være gyldige».</div>
+<div type="author">Tom Staavi</div>
+<div type="date">2019-09-01 16:53</div>
+<div type="caption"></div>
+<div type="text">
+<p>I sin lederartikkel 26. august går DN inn for å bremse utbredelsen av digital signering. Foranledningen til debatten er en diskusjon som oppsto i etterkant av at Arvelovutvalget gikk imot digital signering av testamenter. Da loven ble vedtatt, ble det likevel gitt en forskriftshjemmel som åpner for digital signering, ikke en forskrift slik DN later til å tro. Forutsetningen for at det gis en slik forskrift er at det finnes et tilstrekkelig sikkert system. Eller som det står i loven: «Kongen kan i forskrift gi regler om at testamenter kan opprettes digitalt, og om hvilke krav som i så fall må være oppfylt for at slike testamenter skal være gyldige».</p>
+<p>Elektronisk id er gjennomgående tryggere enn mer analoge former for identifisering. DN er opptatt av misbruk i nære relasjoner. Dette er et forbigående problem når vi som brukere blir vant til å forholde oss til vår digitale id som vi forholder oss til vår analoge signatur.</p>
+<p>Misbruk av digital id forutsetter at brukerne gir andre tilgang til sine påloggingshemmeligheter. Så lenge man ikke gjør det, kan heller ikke den digitale signaturen misbrukes. Derfor skal BankID med flere snart lansere en kampanje der dette settes på dagsordenen.</p>
+<p>Digitalisering er nødvendig for at vi som samfunn skal frigjøre ressurser til viktige oppgaver som å håndtere eldrebølgen og overgangen til et mer bærekraftig samfunn. Digitaliseringen må ikke bremses eller stoppes, den må forseres. Det gjelder også bruk av digital signatur.</p></div></body></document>

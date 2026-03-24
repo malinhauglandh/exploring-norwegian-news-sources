@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190407-fant-overgrepsmateri.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/fant-overgrepsmateriale-og-pastatt-spionselskap/70820893" frk="1084 0 7 7056"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-07 20:51"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="cloudflare,utenriks,nyheter,dataangrepet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fant overgrepsmateriale og påstått spionselskap</div>
+<div type="ingress">Nettpiratene som har angrepet tusenvis av norske nettsteder har brukt samme kamuflasje som et overgrepsnettsted og et spionasjeanklaget kinesisk firma.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-07</div>
+<div type="caption"><p>KONTROVERSIELT: Et hyperavansert overvåkningskamera skuer over forbipasserende i Beijing. Amerikanske myndigheter hevder at China Mobile bistår i spionasje. Cloudflare selger tjenester til China Mobile, men påpeker at de ikke er ført opp på noen sanksjonsliste. Foto: Reuters / NTB scanpix</p> <p>IT-GIGANT: Cloudflare har blitt brukt av nettpiratene som angrep Dagbladet - og til å skjule overgrepsmateriale. Juridisk direktør Doug Kramer forsvarer selskapets funksjon. Foto: Cloudflare</p> <p>OVERGREPSSIDE: Her er den sladdede oppføringen av at et nettsted som tilsynelatende tilbyr overgrepsmateriale er registrert på Cloudflares servere.</p> <p>DATAEKSPERT: Igor Prelic i Security Trails. Foto: Security Trails</p> <p>Flere spor fra et dataangrep mot Dagbladet, VG, NRK og norske myndigheter leder til Egentic: et selskap som ble startet i stua til en tysk adelsmann. Reporter: Torgeir Krokfjord, Video: Lars Eivind Bones / Dagbladet</p></div>
+<div type="text">
+<p>Dagbladet avslørte nylig at nettpirater i flere måneder har angrepet og stjålet innhold fra Dagbladet, VG, BBC og norske myndigheter - blant annet. Hensikten var å få trafikk til annonsesteder som samlet personopplysninger.</p>
+<p>På samme måte som en e-post kommer med informasjon om hvem som sendte den, når og fra hvor, og bildefiler har såkalt «metadata» i seg med informasjon om hvor de ble opprettet, har også hjemmesider en del informasjon liggende i underlagsmaterialet sitt. Ved å undersøke denne informasjonen fant Dagbladet at nettpiratene hadde sin såkalte «navneserver» registrert hos selskapet Cloudflare.</p>
+<p>En navneserver oversetter domenenavnene - db.no, vg.no - til tall. Slik blir nettsteder mulig å spore på Internett.</p>
+<p>Men noen ønsker å skjule sitt egentlige opphav. Der kommer Cloudflare inn i bildet. Om du registrerer nettstedet ditt hos dem, blir det nærmest umulig å finne ut hvem du egentlig er. Det har nettpiratene gjort.</p></div>
+<div type="title" level="3">Overgrepsside</div>
+<div type="text">
+<p>En gjennomgang av nettsidene som bruker de aktuelle Cloudflare-serverne for å skjule seg, viser hvilke gråsoner som finnes på nettet:</p>
+<p>Selskapet Security Trails har et register over dem som bruker de aktuelle navneserverne. Det er selskaper som Volkswagen og Microsoft.</p>
+<p>Men vi fant også kryptiske nettsider tilhørende China Mobile - et kinesisk selskap som USA har stengt ute på grunn av fare for spionasje. Kinesiske myndigheter og selskaper har konsekvent nektet for dette. Flere vestlige land er heller ikke enige med USA i spionpåstanden.</p>
+<p>På lista over nettsteder på navneserverne fant Dagbladet også et nettsted der adressen tydelig tilsa at nettstedet tilbød filmer som viste overgrep mot barn.</p></div>
+<div type="title" level="3">Skjult</div>
+<div type="text">
+<p>Igor Prelic i Security Trails bekrefter funnet av overgreps</p>
+<p>- I dette tilfellet bruker det aktuelle nettstedet en IP-adresse fra Cloudflare. Men Cloudflare tilbyr IP-adressen bare som en proxy-tjeneste – en tjeneste som skjuler nettstedets opprinnelige registreringsinformasjon. Om du registrerer et nettsted, men ønsker å skjule at det er du som eier nettstedet og hvor det egentlig er registrert, bruker du Cloudflare som en proxy mellom nettbrukeren og serveren, sier Prelic.</p>
+<p>- Noen ganger kan det være mulig å se på historiske registreringsopplysninger for å finne en tidligere serveradresse.</p>
+<p>- Hva nettstedet der overgrepsfilmer tilsynelatende blir delt?</p>
+<p>- For dette aktuelle nettstedet har de brukt Cloudflares løsninger helt siden de registrerte seg første gang. Da klarer ikke vi å finne ut hvor de egentlig holder til.</p>
+<p>- Hvilket ansvar har Cloudflare?</p>
+<p>- Cloudflare er også ansvarlige for innhold de deler. Om de mottar en bekymringsmelding om innhold som de deler og tilbyr sine servertjenester, skal de ta fjerne den aktuelle kunden og det innrapporterte innholdet. Hvis ikke kan også de bli saksøkt eller etterforsket.</p></div>
+<div type="title" level="3">Gråsone</div>
+<div type="text">
+<p>Douglas Kramer, juridisk direktør i Cloudflare, sier til Dagbladet at selskapet er en nøytral infrastrukturtilbyder.</p>
+<p>Vi gjør ikke noe med innholdet på nettsider, sier Kramer.</p>
+<p>- Vi er nøye med å følge lovverket og oppfordrer også folk til å følge loven. Men vi kan ikke ta avgjørelser om hver eneste side folk tar opp med oss. Vi må forholde oss til et generelt regelverk.</p>
+<p>Da han kom til selskapet i 2016 hadde han sju års fartstid i Obama-administrasjonen – blant annet som stabssekretær, kjent som «nervesenteret i Det hvite hus». Han kom til et selskap som deler Internett i to:</p>
+<p>Selskapet har ligget høyt på den prestisjetunge Cloud 100-lista til amerikanske Forbes, over verdens viktigste teknologiselskaper. World Economic Forum har hedret selskapet som en pioner. Samtidig har selskapet gjentatte ganger måttet svare for hvorfor de er så populære blant kriminelle:</p></div>
+<div type="title" level="3">IS og hackere</div>
+<div type="text">
+<p>En av brukerne var terrorgruppa IS: To av de tre mest populære IS-relaterte chatteforumene skjulte seg hos Cloudflare da terrorgruppas virksomhet var på sitt verste. Selskapet brukes også av utpressere og hackere. Douglas Kramer har tidligere forsvart Cloudflares funksjon da det ble avslørt at generalene på Myanmar brukte selskapets tjenester.</p>
+<p>Cloudflares tjenester er også benyttet av Rescator - et nettforum for omsetning av stjålne kortopplysninger.</p>
+<p>Konfrontert med at selskaper bistår i å skjule de som har angrepet Dagbladet og VG sier Doug Kramer:</p>
+<p>- I saker som deres du nevner vil det være aktuelt å se på brudd på åndsverkslovverket. Når den som klager kan dokumentere at vedkommende eier innholdet er det verts-serveren – ikke oss som mellommann – som eventuelt skal ta ned innholdet eller ta det opp med nettsidenes eier. Det vi gjør er å sette de partene i kontakt.</p>
+<p>Kramer mener at Cloudflare ikke tilbyr en anonymiseringstjeneste - selv om det ikke er mulig å finne ut hvem som eier en nettside, hvis vedkommende bruker Cloudflare som mellommann.</p>
+<p>- Vi er en portvakt og en måte å sikre nettsida sin på, sier Kramer.</p></div>
+<div type="title" level="3">Unntak for overgrepsmateriale</div>
+<div type="text">
+<p>- Vi har funnet det som framstår som overgrepsmateriale på deres servere?</p>
+<p>- Dette er unntaket fra regelen. Vi jobber tett med NACMEC – det nasjonale senter for savnede og utnyttede barn. Vi melder saker til dem, og de kan selv melde fra omsider til oss, sier Kramer.</p>
+<p>- Er nettadressen så eksplisitt som den du henviser til, er det sannsynlig at det er noe ulovlig der. Da varsler vi.</p>
+<p>- Er du enig med eksperten fra Security Trails om at dere har et juridisk ansvar?</p>
+<p>- Jeg vet ikke hvilke lover han henviser til. Vi har et visst ansvar under enkelte lover, men et helt annet ansvar enn en sosial medier-plattform for eksempel. Men du saksøker ikke strømselskapet fordi et bankran ble planlagt med lyset på.</p>
+<p>- Hva med selskaper som anklages for spionasje?</p>
+<p>- Vi følger sanksjonslister og har nær kontakt med amerikanske myndigheter. Flere tusen navn er ført opp som sanksjonsmål – men om myndighetene går ut mot enkeltselskaper er det noe annet. China Mobile er ikke et sanksjonsobjekt, og det er ingen måte China Mobile bruker oss på som vil kunne påvirke slike spørsmål, sier Kramer.</p></div></body></document>

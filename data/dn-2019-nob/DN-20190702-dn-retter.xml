@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190702-dn-retter.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/dn-retter/2-1-631889" frk="42 6 2 291 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-02 17:54"/>
+<attribute name="author" value="Morten Ånestad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">DN retter</div>
+<div type="ingress">Dagens Næringsliv skrev i går at Sparebank 1 Markets var finansiell rådgiver for aksjonærene i det Tananger-baserte Quality Intervention. Det er ikke korrekt. Det er Sparebank 1 SR-Bank Markets som var rådgiver. Quality Intervention er solgt til britiske Expro.</div>
+<div type="author">Morten Ånestad</div>
+<div type="date">2019-07-02 17:54</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

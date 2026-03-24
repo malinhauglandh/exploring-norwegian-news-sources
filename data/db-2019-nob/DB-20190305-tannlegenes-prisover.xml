@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190305-tannlegenes-prisover.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/tannlegenes-prisoversikt-er-utdatert/70839823" frk="64 0 0 449 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-05 14:27"/>
+<attribute name="author" value="Faktisk.no |"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="forbrukerradet,faktisk.no,innenriks,tannlegepriser,nyheter,vg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tannlegenes prisoversikt er utdatert</div>
+<div type="ingress">VG trykket en oversikt over de dyreste og billigste tannlegene i hvert fylke. Prisene hadde avisen hentet fra Forbrukerrådets prisportal, men den er ikke til å stole på. Det innrømmer Forbrukerrådet selv.</div>
+<div type="author">Faktisk.no |</div>
+<div type="date">2019-03-05</div>
+<div type="caption"><p>UTDATERTE PRISER: Tannlege har reagert på utdaterte priser i VGs oversikt. Forbrukerrådet innrømmer selv at deres prisportal ikke er tilstrekkelig oppdatert. Foto: Frank May / NTB Scanpix</p></div>
+</body></document>

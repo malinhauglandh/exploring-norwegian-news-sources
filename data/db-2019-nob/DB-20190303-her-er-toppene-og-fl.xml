@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190303-her-er-toppene-og-fl.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/sport/her-er-toppene-og-floppene-i-ski-vm/70827914" frk="50 13 4 296 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-03 20:52"/>
+<attribute name="author" value="John Rasmussen, Tore Ulrik Bratland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport,ski,seefeld,pluss,langrenn,vintersport,kombinert,hopp,ski-vm 2019"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er toppene og floppene i ski-VM</div>
+<div type="ingress">Tidenes ski-VM er over og Norge står igjen med 13 gull, fem sølv og sju bronse. Her er Dagbladets dom over utøverne.</div>
+<div type="author">John Rasmussen, Tore Ulrik Bratland</div>
+<div type="date">2019-03-03</div>
+<div type="caption"><p>SUVEREN: Therese Johaug tok tre av Norges 13 gull. Det må naturligvis bli terningkast seks. Foto: Bjørn Langsem / Dagbladet</p></div>
+</body></document>

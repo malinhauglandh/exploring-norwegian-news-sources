@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191026-den-streiteste-rappe.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/70JXLB/Den-streiteste-rapperen-i-Bergen-er-tilbake-med-fullt-party" frk="21 0 0 138 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-26 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Den streiteste rapperen i Bergen er tilbake med fullt party</div>
+<div type="ingress">Lars Vaular er like mye poet som musiker, skriver Engelen.</div>
+<div type="author"></div>
+<div type="date">2019-10-26</div>
+<div type="caption"></div>
+</body></document>

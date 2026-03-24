@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190616-nordea-pa-verdenstop.xml"/>
+<attribute name="url" value="http://www.nordlys.no/bompenger/norge/okonomi/nordea-pa-verdenstoppen-i-bompenger/s/5-34-1141841" frk="15 0 0 116 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-16 09:22"/>
+<attribute name="author" value="Rune Endresen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nordea: På verdenstoppen i bompenger</div>
+<div type="ingress">Norge ligger nå på verdenstoppen i bompenger per innbygger.</div>
+<div type="author">Av Rune Endresen</div>
+<div type="date">16. juni 2019, kl. 09:22</div>
+<div type="caption"></div>
+</body></document>

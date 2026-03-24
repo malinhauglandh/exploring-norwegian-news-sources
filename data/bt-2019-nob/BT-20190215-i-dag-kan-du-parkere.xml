@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190215-i-dag-kan-du-parkere.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WLpV3j/I-dag-kan-du-parkere-med-to-biler-i-soneomrader-Det-kan-bli-endret-til-n" frk="51 0 0 301 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-15 12:11"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Parkering,Bilfritt sentrum,Elbil"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I dag kan du parkere med to biler i soneområder. Det kan bli endret til én.</div>
+<div type="ingress">Se alle de foreslåtte endringene her.</div>
+<div type="author"></div>
+<div type="date">2019-02-15</div>
+<div type="caption"><p>NYTT FORSLAG: I et nytt forslag fra Bymiljøetaten foreslås det at reglene for soneparkering endres i alle sonene, både i og utenfor sentrum. FOTO: Odd E. Nerbø (arkiv)</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190222-i-fjor-steg-hyttepri.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/L0V0nx/I-fjor-steg-hytteprisene-i-fjellet-over-hele-landet-Men-her-har-prisene-gatt-235000-kroner-ned" frk="40 23 6 257 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-22 14:15"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Fjell,Eiendom"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I fjor steg hytteprisene i fjellet over hele landet. Men her har prisene gått 235.000 kroner ned.</div>
+<div type="ingress">Tilbudet er for dårlig, mener megler.</div>
+<div type="author"></div>
+<div type="date">2019-02-22</div>
+<div type="caption"><p>MØDAL: Hytteprisene på Kvamskogen har gått ned det siste året. FOTO: Fred Ivar Utsi Klemetsen (arkiv)</p></div>
+</body></document>

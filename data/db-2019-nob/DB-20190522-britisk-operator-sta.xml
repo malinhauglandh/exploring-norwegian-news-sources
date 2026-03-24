@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190522-britisk-operator-sta.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/mobil/britisk-operator-stanser-forhandssalget/71105200" frk="218 10 16 1501"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-05-22 11:46"/>
+<attribute name="author" value="Pål Joakim Pollen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="mobil"/>
+<attribute name="class2" value="mobil,5g,mobiloperatør,huawei"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Britisk operatør stanser forhåndssalget</div>
+<div type="ingress">Vodafone stopper forhåndssalget av Huaweis 5G-telefoner.</div>
+<div type="author">Pål Joakim Pollen</div>
+<div type="date">2019-05-22</div>
+<div type="caption"></div>
+<div type="text">
+<p>Problemene for Huawei ser ikke ut til å stanse i dag. Allerede er det klart at ARM har stoppet samarbeidet med mobilgiganten, og nå har den britiske teleoperatøren Vodafone kansellert alle forhåndsbestillinger av Huaweis 5G-telefoner. Det samme gjelder konkurrenten EE, som er Storbritannias største mobiloperatør.</p>
+<p>Vodafone er med 17,2 millioner abonnenter Storbritannias tredje største mobiloperatør og planlegger å åpne sitt nye 5G-nett den 3. juli. EE sitt nett lanseres i seks britiske byer om bare en drøy uke.</p>
+<p>Begge operatørene vil droppe Huawei Mate X 5G som en av telefonene som var planlagt lansert sammen med 5G-lanseringen, og de har dermed stoppet forhåndssalget.</p></div>
+<div type="title" level="3">Usikre på om de blir oppdatert</div>
+<div type="text">
+<p>Til Financial Times (krever innlogging) skal en talsperson fra Vodafone ha sagt at Huawei-telefonen ikke har fått de nødvendige godkjenningene, ifølge The Verge.</p>
+<p>Sky melder at EEs avgjørelse beror på at det er usikkert hvorvidt Huaweis telefoner vil motta fremtidige Android-oppdateringer fra Google.</p></div>
+<div type="title" level="3">Kan koste milliarder</div>
+<div type="text">
+<p>Tidligere i år uttalte Vodafone at det eventuelt å droppe Huawei-utstyr i 5G-utbyggingen ville koste operatøren millarder av kroner.</p>
+<p>Rundt en tredel av Vodafones 18.000 basestasjoner i Storbritannia består nemlig av radioutstyr fra Huawei. Å bytte ut alt dette utstyret med utstyr fra andre produsenter vil også sinke utbyggingen av 5G-nettet betraktelig.</p></div></body></document>

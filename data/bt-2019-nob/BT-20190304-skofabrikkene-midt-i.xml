@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190304-skofabrikkene-midt-i.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/ngqwbB/Skofabrikkene-midt-i-byen" frk="46 37 12 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-04 09:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Industri,Kleppestø,Byutvikling,Bergen Storsenter,Bergen,Næringsliv"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skofabrikkene midt i byen</div>
+<div type="ingress">Fra slutten av 1800-tallet til langt opp på 1960-tallet hadde Bergen et yrende og sammensatt næringsliv med flere industrier som blomstret – og det midt i byen.</div>
+<div type="author"></div>
+<div type="date">2019-03-04</div>
+<div type="caption"><p>BERGENS SKOFABRIKK: Det arbeides i Bergens skofabrikk cirka 1950. FOTO: Norvin Reklamefoto, Spesialsamlingene, UBB</p></div>
+</body></document>

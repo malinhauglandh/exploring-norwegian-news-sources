@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191224-uklart-hvorfor-mann-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LAB9qP/Uklart-hvorfor-mann-dode-mellom-bil-og-henger" frk="45 21 6 283 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-24 11:11"/>
+
+<attribute name="author" value="Ørjan Torheim"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Uklart hvorfor mann døde mellom bil og henger</div>
+<div type="ingress">– Vi jobber med å finne ut av detaljene.</div>
+<div type="author">Ørjan Torheim</div>
+<div type="date">Publisert 24. desember 2019 11:11</div>
+<div type="caption"><p>DØDSULYKKE: Mannen i 80-årene ble funnet livløs og erklært død kort tid etter at meldingen kom til politiet. Dødsfallet skjedde i Angedalen ved Førde. Foto: 2211-tipser (arkiv)</p></div>
+</body></document>

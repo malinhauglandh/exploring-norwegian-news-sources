@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190207-se-viking-nest-sotra.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/fotball/Direkte-Se-Viking---Nest-Sotra-her-fra-kl-1830-268714b.html" frk="17 0 0 130 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-07 13:52"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="Nest-Sotra,Fotball 1. div,Eliteserien,Viking FK"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se Viking - Nest-Sotra i opptak her</div>
+<div type="ingress">Johnny Furdal møter gamle lagkamerater til treningskamp i Randaberg Arena.</div>
+<div type="author"></div>
+<div type="date">2019-02-07</div>
+<div type="caption"></div>
+</body></document>

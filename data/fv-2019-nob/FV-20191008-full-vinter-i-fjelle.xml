@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191008-full-vinter-i-fjelle.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/GG8076/Full-vinter-i-fjellet" frk="44 0 0 272 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-10-08 15:03"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Full vinter i fjellet</div>
+<div type="ingress">Tirsdag morgen har snøen lagt seg på fjellovergangene, og det er ventet mer nedbør gjennom dagen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>I løpet av natten har det kommet mye snø i fjellområdene i Sør-Norge. Dette bildet er fra Hovden tirsdag morgen. FOTO: Leif Westgård</p></div>
+</body></document>

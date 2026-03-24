@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191007-politimann-i-bergen-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/MRJ5no/Politimann-i-Bergen-domt-for-lesing-av-overgrepstekster" frk="16 0 0 118 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-07 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politimann i Bergen dømt for lesing av overgrepstekster</div>
+<div type="ingress">Utelukker at andre var inne på nettstedet.</div>
+<div type="author"></div>
+<div type="date">2019-10-07</div>
+<div type="caption"></div>
+</body></document>

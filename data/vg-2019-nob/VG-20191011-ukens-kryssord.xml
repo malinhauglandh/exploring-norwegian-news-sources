@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20191011-ukens-kryssord.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/i/MRJaxE/ukens-kryssord" frk="24 38 6 156 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-10-11 09:21"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ukens kryssord</div>
+<div type="ingress">Her finner du ukens kryssord for uke 41. Nye kryssord kommer hver fredag.</div>
+<div type="author"></div>
+<div type="date">Oppdatert for mindre enn 3 timer siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>Kryssord 1.</p>
+<p>Kryssord 2.</p>
+<p>Kryssord 3.</p>
+<p>Kryssord 4.</p></div></body></document>

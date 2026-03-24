@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191022-politiet-fant-stein-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/mRWmaO/Politiet-fant-stein-pa-15-kilo-etter-at-salve-gikk-av" frk="25 11 2 174 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-22 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet fant stein på 15 kilo etter at salve gikk av</div>
+<div type="ingress">Steinene haglet over tak og terrasse etter sprengningsuhellet. Byggeplassen er stengt inntil videre.</div>
+<div type="author"></div>
+<div type="date">2019-10-22</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190813-norwegian-legger-ned.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/1nXBBJ/Norwegian-legger-ned-alle-USA-ruter-med-Boeing-737-Max" frk="68 37 15 403 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-13 14:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norwegian legger ned alle USA-ruter med Boeing 737 Max</div>
+<div type="ingress">Flyselskapet Norwegian legger ned alle rutene fra Irland til USA med Boeing 737 Max, ifølge E24.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>346 mennesker mistet livet i to ulykker der flytypen Boeing 737 MAX 8 i oktober i fjor og i mars i år. Etter den siste ulykken ble flytypen satt på bakken av luftfartsmyndigheter over hele verden. Foto: Gorm Kallestad / NTB scanpix</p></div>
+</body></document>

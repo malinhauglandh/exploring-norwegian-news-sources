@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190428-stor-test-hostens-be.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/dd8xLB/stor-test-de-beste-av-nye-norske-ipa-er" frk="34 0 0 241 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-28 17:29"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor test: Høstens beste norske IPA-er</div>
+<div type="ingress">IPA er kongen av håndverkerølene og både tradisjonsbryggeriene og mikrobryggeriene lager sine egne varianter. Her er en test av de aller nyeste produktene fra Vinmonopolet</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Odin Jæger</p></div>
+</body></document>

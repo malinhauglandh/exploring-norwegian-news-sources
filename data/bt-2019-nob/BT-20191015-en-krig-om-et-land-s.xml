@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191015-en-krig-om-et-land-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/AdWkM3/En-krig-om-et-land-som-ikke-finnes" frk="39 0 0 257 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-15 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En krig om et land som ikke finnes</div>
+<div type="ingress">Tyrkia har allerede oppnådd ett av sine viktigste krigsmål i Syria: å splitte det kurdiske grenselandet. Den tyrkiske offensiven møtes av økende internasjonal kritikk, men kurderne får ikke noen støtte.</div>
+<div type="author"></div>
+<div type="date">2019-10-15</div>
+<div type="caption"></div>
+</body></document>

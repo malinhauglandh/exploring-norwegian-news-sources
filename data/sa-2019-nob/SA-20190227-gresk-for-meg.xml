@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190227-gresk-for-meg.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/QlvB7x/Gresk-for-meg" frk="68 0 0 354 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-27 15:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Gresk for meg</div>
+<div type="ingress">Når det kommer gresk kaffe og en liten Metaxa på bordet, må jeg klype meg i armen for å minne meg på at jeg er på Bystasjonen innerst i Gandsfjorden og ikke på ei gresk øy i Egeerhavet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ikke så langt fra jernbanen og like ved Ruten, finner du en gresk taverna som kan ta deg med tilbake til de greske øyene. Anders Minge</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191201-kongelig-begeistring.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/e8vdaa/Kongelig-begeistring" frk="66 0 0 388 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-01 13:19"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="jæren,kong haakon 7.,kong harald,kong olav 5.,kongefamilien,kongelig bryllup,obrestad fyr"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kongelig begeistring</div>
+<div type="ingress">En støvfri tallerken på en gammel vegg. Et falmet fotografi i glass og ramme. Et utklipp fra et ukeblad. Alt for kongen!</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Else Edland fra Sandnes måtte sykle sju kilometer for å få rammet inn sitt første bilde: Brudebildet av Sonja og Harald som hun tok ut av et ukeblad. Hun vokste opp i en familie med stor respekt for kongefamilien. Elin Høyland</p></div>
+</body></document>

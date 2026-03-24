@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190215-artist-tiltalt-for-i.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/8w4K4r/Artist-tiltalt-for-innbrudd-i-musikkbutikk" frk="39 7 2 255 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-02-15 10:45"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Artist tiltalt for innbrudd i musikkbutikk</div>
+<div type="ingress">Natt til 27. mai skal artisten ha brutt seg inn hos Påhlman Musikksenter i Kristiansand sentrum.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Artisten skal ha knust ruta i inngangsdøra og tatt seg inn i musikkbutikken. FOTO: Erlend Olsbu</p></div>
+</body></document>

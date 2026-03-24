@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190524-rente.xml"/>
+<attribute name="url" value="http://www.dn.no/borskommentar/rente/2-1-610181" frk="36 45 11 244 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-24 17:59"/>
+<attribute name="author" value="Nicolay Steensen / TDN Direkt"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="borskommentar"/>
+<attribute name="class2" value="Børs,Børskommentar"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rente</div>
+<div type="ingress">Siden slutten av 2017 begynte differansen mellom norske og tyske statsobligasjoner å divergere, og handler nå rundt høyeste nivåer på 17 år. Foreløpig i år har spreaden steget med 20 basispunkter til 1,75 prosentpoeng.</div>
+<div type="author">Nicolay Steensen / TDN Direkt</div>
+<div type="date">2019-05-24 17:59</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

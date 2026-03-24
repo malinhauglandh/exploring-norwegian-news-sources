@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191210-restaurantanmeldelse.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/sulten/i/K3KXBe/Restaurantanmeldelse-Mamma-mia_-for-en-pizza" frk="91 0 0 546 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-10 09:41"/>
+<attribute name="author" value="Dagobert"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="osloby,sulten"/>
+<attribute name="class2" value="mat og drikke,restaurant,restaurantanmeldelse,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Restaurantanmeldelse: Mamma mia, for en pizza</div>
+<div type="ingress">Men Mamma pizza har mye annet godt på menyen.</div>
+<div type="author">Dagobert</div>
+<div type="date">10.des.2019 10:41</div>
+<div type="caption"><p>FOTO: Espedal, Jan Tomas Mamma pizza har to avdelinger. Den ene ligger i Steen &amp; Strøm, mens hovedrestauranten ligger et par kvartaler unna, i Dronningens gate.</p></div>
+<div type="text">
+<p>– Det er det merkeligste jeg har sett på lenge, sier Spisevennen.</p>
+<p>Paret bak oss har tydeligvis delte meninger om hvordan man spiser pizza: Den ene skyver sammen all toppingen og spiser den før hun tilbyr resten, det vil si bunnen, til den andre, som tar imot med glede.</p></div></body></document>

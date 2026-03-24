@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190322-uib-ansatte-fikk-kol.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/i/LAn174/uib-ansatte-fikk-kollegers-private-sms-er-ubehagelig" frk="438 6 18 2770"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-03-22 20:42"/>
+<attribute name="author" value="Marie Golimo Kingsrød"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">UiB-ansatte fikk kollegers private SMS-er: – Ubehagelig</div>
+<div type="ingress">Da Universitetet i Bergen skulle bytte telefonoperatør, fikk plutselig elleve ansatte tilgang på kollegaenes private SMS-er og telefonlogger.</div>
+<div type="author">Marie Golimo Kingsrød</div>
+<div type="date">22.03.19 21:42</div>
+<div type="caption"><p>PRIVATE SMS-ER PÅ AVVEIE: Flere ansatte ved Universitetet i Bergen opplevde å få et feilprogrammert simkort. Det fikk konsekvenser. Foto: Geir Martin Strande</p></div>
+<div type="text">
+<p>– De ansatte synes dette var ubehagelig, siden andre fikk tilgang på deres private tekstmeldinger og telefonlogg, sier Tore Burheim, IT-direktør på Universitetet i Bergen (UiB), til VG.</p>
+<p>Det var Bergens Tidende som først omtalte dette. Ifølge avisen skjedde feilen etter at universitetene i Norge nylig inngikk en avtale med Telia som ny telefonoperatør.</p>
+<p>– I den forbindelse skjedde det en feilprogrammering av simkortene, slik at simkortene til enkelte ble koblet mot en kollegas telefonnummer, sier Burheim til VG.</p></div>
+<div type="title" level="3">Fikk melding om kollegaens legetime</div>
+<div type="text">
+<p>Dette skal være årsaken til at elleve av de ansatte på Universitetet i Bergen opplevde at privat informasjon kom på avveie. En ansatt fikk blant annet melding om en kollegas legetime.</p>
+<p>– Dette er noe vi beklager sterkt og tar på det største alvor. Telia tok umiddelbart på seg ansvaret, og årsaken er en rutinesvikt hos dem, sier IT-direktøren.</p>
+<p>Hendelsen ble rutinemessig meldt inn til Datatilsynet av både UiB og Telia.</p>
+<p>– Vi skylder ikke på noen andre, dette er helt og holdent vårt ansvar. Slike hendelser er alltid alvorlig, så vi må være glade for at dette ble oppdaget raskt slik at vi fikk stoppet det, sier kommunikasjonsrådgiver i Telia, Ellen Cecilie Scheen, til VG.</p></div>
+<div type="title" level="3">Skjerper rutinene</div>
+<div type="text">
+<p>Telia opplyser at de nå har skjerpet rutinene sine.</p>
+<p>– Det viktigste tiltaket vi innfører er automatisering av sim-distribusjonen slik at vi unngår at manuelle rutiner som kan føre til feil. Dette fjerner muligheten for å manuelt koble sim-kortnummer opp mot brukeren, sier Scheen.</p></div>
+<div type="title" level="3"> – Alvorlig</div>
+<div type="text">
+<p>Janne Stang Dahl, kommunikasjonsrådgiver i Datatilsynet, sier til Bergens Tidende at de ser alvorlig på brudd som handler om privat informasjon på avveie.</p>
+<p>– Sånne ting skal ikke skje, men Universitetet og Telia gjorde riktig i å varsle de berørte og informere oss. Da det ble oppdaget, stoppet de feilen raskt, sier kommunikasjonsdirektør i Datatilsynet, Janne Stang Dahl.</p>
+<p>I 2018 ble det innført en ny lov for personvern. Datatilsynet har etter dette fått inn betydelig flere meldinger om avvik i sikring av personvern. I fjor fikk de 1276 meldinger, over 800 av disse etter at den nye loven ble innført. Dette i kontrast til da de i 2017 fikk inn 340 meldinger, ifølge Bergens Tidene.</p>
+<p>– Bedrifter har fått et større ansvar. Folk er blitt mer opptatt av personvern og krever at opplysningene deres er sikret, sier kommunikasjonsdirektør Dahl i Datatilsynet.</p></div></body></document>

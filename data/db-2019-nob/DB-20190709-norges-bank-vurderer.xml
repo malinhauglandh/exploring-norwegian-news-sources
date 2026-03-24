@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190709-norges-bank-vurderer.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/norges-bank-vurderer-digitale-penger-men-moter-motstand/71384528" frk="499 1 4 3239"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-09 12:21"/>
+<attribute name="author" value="Are Haram / Finansavisen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norges Bank vurderer digitale penger, men møter motstand</div>
+<div type="ingress">BANK: Det er slett ikke sikkert at digitale sentralbankpenger bør innføres, mener Norges Banks egen arbeidsgruppe.</div>
+<div type="author">Are Haram / Finansavisen</div>
+<div type="date">2019-07-09</div>
+<div type="caption"><p>Pengene flyr, men hva skjer dersom Norges Bank innfører digital penger? Her kaster sentralbanksjef Øystein Olsen en bunke gamle sedler i makuleringsmaskinen. Foto: Tore Meek / NTB scanpix</p></div>
+<div type="text">
+<p>(Finansavisen): Norges Bank har i to år snakket offentlig om muligheten for digitale sentralbankpenger (DSP). Tanken er at innbyggerne skal kunne bruke sin konto direkte i sentralbanken når eller hvis tilliten til bankene og betalingssystemet forvitrer.</p>
+<p>Kontanter har tradisjonelt hatt denne rollen, men det kraftige fallet i bruken av kontanter gjør at det kan være behov for en ny, sikker betalingsløsning, har blant andre visesentralbanksjef Jon Nicolaisen argumentert med.</p>
+<p>Han lanserte ideen offentlig første gang våren 2017.</p></div>
+<div type="title" level="3">Konto eller «tokens»?</div>
+<div type="text">
+<p>Siden har Nicolaisen og Norges Bank ikke lagt skjul på de mange problemene som må løses før sentralbanken kan tenke på å etablere DSP som en beredskapsløsning for betalingsformidlingen.</p>
+<p>Ikke minst må man velge modell. En mulighet er at innbyggerne har en konto i sentralbanken, som de bruker til betalinger på samme vis som med dagens bankkonti.</p>
+<p>Det fremste alternativet er «tokenpenger». Her har man «fylt på» et visst beløp på en app eller på et digitalt kort, og kan bruke det så lenge det er dekning der.</p></div>
+<div type="title" level="3">Men trengs det?</div>
+<div type="text">
+<p>Norges Bank har nedsatt en intern arbeidsgruppe som skal se nærmere på DSP. I den andre rapporten, som nylig ble offentliggjort, går arbeidsgruppen langt i å konkludere med at DSP kanskje ikke er en spesielt god ide.</p>
+<p>«Det er behov for mer informasjon for å konkludere om innføring av DSP er et hensiktsmessig tiltak for å fremme et sikkert og effektivt betalingssystem og fortsatt tillit til pengevesenet», konkluderer arbeidsgruppen.</p></div>
+<div type="title" level="3">Vil ha sikring</div>
+<div type="text">
+<p>Hvis det likevel blir en løsning med DSP, bør det i så fall være tokenpenger, men med et register som sikrer verdiene og gir kontroll.</p>
+<p>Registeret bør være anonymt. For å bruke pengene må man ha en kryptoindentifisering eller annen type kode.</p>
+<p>Hvis brukeren mister mobilen eller det digitale kortet, er beholdningen sikker, ved at det er ført bok i registeret. Mister brukeren kryptonøkkelen, forsvinner imidlertid verdiene.</p>
+<p>Alternativet, kontopenger, ville fort sette Norges Bank i direkte konkurranse med ordinære banker. Direktør Torbjørn Hægeland har tidligere overfor Finansavisen vist til at denne konkurransen kan gjøres mindre problematisk ved å legge begrensninger på hvor mye innbyggerne kan ha på sin Norges Bank-konto.</p></div>
+<div type="title" level="3">Dansk nei</div>
+<div type="text">
+<p>Også de andre nordiske bankene har lekt med tanken på DSP. I Sverige er man omtrent på linje med Norges Bank, og utreder videre. Den danske Nationalbanken, derimot, er klart negativ.</p>
+<p>«Å gå fra å være bankenes bank til en bank for allmennheten er en fundamental endring. Dette er en løsning som leter etter problemet», sa Karsten Biltoft, sjef for finansiell stabilitet i Nationalbanken under Samfunnsøkonomenes valutaseminar i Oslo i januar.</p></div>
+<div type="title" level="3">Flere økonominyheter Sissener håver inn millioner på spekulativt veddemål</div>
+<div type="title" level="3">- Fortsatt litt surt i aksjemarkedet</div>
+<div type="title" level="3"> Anbefaler aksje - advarer mot høy risiko</div></body></document>

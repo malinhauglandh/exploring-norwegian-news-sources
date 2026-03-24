@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190129-norwegian-aksjen-stu.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/3jApnd/Norwegian-aksjen-stuper-pa-borsen" frk="40 7 2 280 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-29 08:07"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norwegian-aksjen stuper på børsen</div>
+<div type="ingress">Norwegian-aksjen falt rundt 25 prosent etter at Oslo Børs åpnet tirsdag.</div>
+<div type="author">NTB</div>
+<div type="date">9 timer siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>Tirsdag morgen kom meldingen om at selskapet har hentet inn tre milliarder kroner i egenkapital via en emisjon for å styrke den finansielle stabiliteten.</p></div></body></document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190131-amerikansk-it-gigant.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/datasentre/amazon/amazon-web-services/amazons-skylagringsgigant-etablerer-sitt-forste-kontor-i-norge/2-1-532123" frk="816 4 22 4931"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-31 08:48"/>
+<attribute name="author" value="Magnus Eidem,Jonas Christensen"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,datasentre,amazon,amazon-web-services"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Amerikansk it-gigant vil «overta» Norge</div>
+<div type="ingress">Amazon Web Services etablerer kontor i Norge og vil bli landets største leverandør av datasentertjenester. Men de vil ikke si et knyst om de er villig til å investere en eneste krone i Norge. Amazon Web Services etablerer kontor i Norge og vil bli landets største leverandør av datasentertjenester. Men de vil ikke si et knyst om de er villig til å investere en eneste krone i Norge.</div>
+<div type="author">Magnus Eidem,Jonas Christensen</div>
+<div type="date">2019-01-31 08:48</div>
+<div type="caption">– Vi skal nå hyre lokalt, sier daglig leder for AWS i Norden og Baltikum, Guido Bartels (til høyre). Her sammen med Eric Morales, som er leder for AWS sin spillvirksomhet i Europa, Midtøsten og Afrika. Torsdag åpner de sitt første kontor i Norge. (Foto: Elin Høyland) </div>
+<div type="text">
+<p>Amazons første etablering i Norge handler ikke om netthandel, men om datasentre. Nettbutikken Amazons datterselskap Amazon Web Services (AWS) oppretter nå et kontor på Aker Brygge i Norge.</p>
+<p>AWS er verdens største leverandør av datasentre og skybaserte it-tjenester. De har allerede norske selskaper som DNB, Tine, XXL NSB og Visma på kundelisten, men ønsker å nå flere i regionen.</p></div>
+<div type="title" level="3">Taus om investeringer</div>
+<div type="text">
+<p>– Hvis vi lykkes i Norge, som planen er med denne investeringen, er vårt mål at alle selskaper i Norge som ikke driver med maskinvare skal legge ned datasentrene sine. Vårt mål er å hjelpe kundene med å komme ut av maskinvare helt, sier Eric Morales, som er ansvarlig for gründerselskaper, ventureinvesteringer og spillrelaterte selskaper i Norden til DN.</p>
+<p>Flere norske selskaper har forsøkt å etablere seg som globale leverandører av fysiske datasentre. Tilgangen på rimelig og stabil strøm, lav seismisk aktivitet og kjølige fjellhaller gjør Norge velegnet til slike tjenester. Etter hvert har også kutt i avgiftsnivået for strøm til energikrevende industri kommet på plass.</p>
+<p>AWS har etablert flere datasentre i Sverige, men vil ikke svare konkret på om de har planer om å etablere fysiske datasentre i Norge, ei heller konkret hvor mye de er villig til å investere eller hvor mange folk de ser for seg å ansette.</p></div>
+<div type="title" level="3">Men det skal ansettes lokalt</div>
+<div type="text">
+<p>Men AWS' direktør for Norden og Baltikum, Guido Bartels, kan love et ukjent antall nye jobber.</p>
+<p>– Vi har jobbet med norske kunder siden 2006, og vi har et Stockholm-kontor siden 2014. Ettersom kundene våre vokste, spurte de etter veldig spesifikke tjenester rundt for eksempel ulike konsulentbrukerstøtter. Vi vil at dette skal bli støttet lokalt med lokalt språk. Vi skal nå hyre lokalt. Vi skal ha salgsansvarlige, kundeansvarlige og lokale partnere, sier Guidos Bartels, direktør for AWS i Norden og Baltikum til DN.</p>
+<p>AWS vil heller ikke si hvor mange norske kunder de allerede, men sier de har «titusenvis» av kunder i Norden. Selskapet har hatt kontorer i Stockholm siden 2014. Ambisjonen er å få så mange selskaper som mulig til å kutte ut all maskinvare.</p>
+<p>Næringsminister Torbjørn Røe Isaksen er positiv til at AWS kommer til Norge.</p>
+<p>– Regjeringen vil at Norge skal styrke og utvikle sin posisjon som handelsnasjon, blant annet gjennom å tiltrekke internasjonale investeringer til Norge. Det er derfor gledelig at store globale teknologiselskaper velger å etablere seg i Norge. Dette viser at Norge også har mye å tilby næringer i den nye, digitale økonomien, sier han.</p>
+<p>I tredje kvartal hadde AWS globalt en omsetning på 6,7 milliarder dollar, tilsvarende 56 milliarder kroner.</p></div>
+<div type="title" level="3">Flyttet hele mobilbanken</div>
+<div type="text">
+<p>Da DNB relanserte sin mobilbank for et par uker siden, var hele løsningen flyttet til AWS.</p>
+<p>– Vår nye mobilbank har vært i drift hos AWS i to uker og 500.000 kunder er migrert til løsningen uten problemer, sier Nicolai Rygh, divisjonsdirektør for it-løsninger mot personmarkedet i DNB.</p>
+<p>For DNB er nok kapasitet, stabilitet og ytelse viktige faktorer.</p>
+<p>– Det er fint at vi aldri overbetaler for kapasiteten vi trenger. Vi betaler for eksempel mindre om natten når kundene våre sover. Men for oss var dynamisk skalerbarhet, driftssikkerhet og tilgang til de tjenestene vi ønsker mer viktig enn pris, sier Rygh.</p>
+<p>Han setter pris på at AWS etablerer seg i Norge.</p>
+<p>– Det er alltid greit å ha leverandøren i nærheten. Og tilstedeværelsen viser oss at de satser på sine norske kunder. Men samtidig er det betryggende for oss å ha det globale ressursapparatet til AWS tilgjengelig døgnet rundt. Med flere lokale kunder håper vi å få tilgang til enda flere tjenester lokalt også, sier Rygh.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p></div>
+<div type="title" level="3">Fikk Netflix ut av hardware</div>
+<div type="text">
+<p>AWS' modell om å få virksomheter til å kutte ut sin egen maskinvare har fungert så langt.</p>
+<p>– Det har fungert for Amazon som vår kunde og selskaper som Netflix har gått helt ut av hardware og har klart å vokse globalt, sier Morales.</p>
+<p>Da AWS ble etablert, ristet de kraftig i buret til de etablerte datasenter-tilbyderne. Hos AWS kunne alle med en Amazon-konto og et kredittkort kjøpe seg lagring og datatjenester. Prisene ligger åpent på nettsiden, og taksering skjer hver time. Man betaler for den kapasiteten man har brukt.</p></div></body></document>

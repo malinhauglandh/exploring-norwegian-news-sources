@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190406-stortest-av-elbilgig.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/stortest-av-elbilgiganter-ny-konge-pa-haugen/70944889" frk="77 0 0 492 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-06 19:57"/>
+<attribute name="author" value="Fred Magne Skillebæk"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="pluss_autofil,jaguar i-pace,biltest,audi e-tron,pluss_motor,tesla model x,tema,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stortest av elbilgiganter: Ny konge på haugen</div>
+<div type="ingress">Dette er testen alle har ventet på: Hvilken bil trekker det lengste strået i den tyngste elbilklassen? Jaguar i-Pace, Tesla Model X, eller Audi e-tron? Vi har testet. Vi har testet.</div>
+<div type="author">Fred Magne Skillebæk</div>
+<div type="date">2019-04-06</div>
+<div type="caption"><p>TRE TØFFINGER: Audi e-tron (foran), Jaguar i-Pace (t.v) og Tesla Model X utgjør de tre kongene blant tungvekterne på elbilmarkedet. Vi har testet dem mot hverandre, og har valgt vår favoritt i dette premiumsjiktet. Alle foto: Jamieson Pothecary</p></div>
+</body></document>

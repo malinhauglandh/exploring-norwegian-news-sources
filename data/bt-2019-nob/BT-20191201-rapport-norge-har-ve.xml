@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191201-rapport-norge-har-ve.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/rA4GJ0/Rapport-Norge-har-verdens-tryggeste-trafikk" frk="56 22 8 357 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-01 09:21"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Rapport: Norge har verdens tryggeste trafikk</div>
+<div type="ingress">Norge er det landet i verden som har færrest dødsfall i trafikken pr. 100.000 innbyggere, ifølge en OECD-rapport. Setebeltebruken er derimot ikke like god.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 1. desember 2019 09:21</div>
+<div type="caption"><p>Godt over 90 prosent av oss bruker setebelte, men i Frankrike er de ennå flinkere, ifølge en rapport fra OECD. Lise Åserud / NTB scanpix</p></div>
+</body></document>

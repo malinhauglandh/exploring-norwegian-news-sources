@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190519-sjekk-hvem-som-dukke.xml"/>
+<attribute name="url" value="http://www.nordlys.no/tromso/motor/bat/sjekk-hvem-som-dukket-opp-i-tromso-i-dag/s/5-34-1125922" frk="20 0 0 111 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-05-19 23:35"/>
+<attribute name="author" value="Tobias Kvalvik Henriksen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sjekk hvem som dukket opp i Tromsø i dag!</div>
+<div type="ingress">Mange sperret opp øynene da de fikk øye på denne.</div>
+<div type="author">Av Tobias Kvalvik Henriksen</div>
+<div type="date">19. mai 2019, kl. 23:35</div>
+<div type="caption"></div>
+</body></document>

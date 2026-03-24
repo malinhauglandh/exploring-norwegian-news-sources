@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190123-denne-familien-spise.xml"/>
+<attribute name="url" value="https://junior.bt.no/mat/i/XwXl37/Denne-familien-spiser-ikke-noe-mat-som-kommer-fra-dyr" frk="25 27 4 146 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-23 13:37"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="mat"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne familien spiser ikke noe mat som kommer fra dyr</div>
+<div type="ingress">Amy (12) og familien er veganer.</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">23.jan.2019 13:37</div>
+<div type="caption"><p>Derfor spiser ikke Amy (12) mat fra dyr</p></div>
+</body></document>

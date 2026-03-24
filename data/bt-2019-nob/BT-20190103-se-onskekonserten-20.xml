@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190103-se-onskekonserten-20.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/m6oRvq/Folg-Onskekonserten-direkte" frk="23 28 4 141 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-03 19:06"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Konsert,Grieghallen,Bergens Tidende"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se Ønskekonserten 2019</div>
+<div type="ingress">Harmonien, Halie og Hjertenes – hva mer kan man ønske seg? Her kan du se og høre BTs Ønskekonsert.</div>
+<div type="author"></div>
+<div type="date">2019-01-03</div>
+<div type="caption"></div>
+</body></document>

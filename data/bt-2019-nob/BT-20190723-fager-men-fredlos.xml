@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190723-fager-men-fredlos.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BRm0j0/Fager_-men-fredlos" frk="50 0 0 377 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-23 10:24"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Klimaforskning,Bergen kommune,Miljø,Bergen,Trær,Sykkelvei,Hage,Natur"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fager, men fredløs</div>
+<div type="ingress">Gule og vakre står blomstene rundt Kristianborgvannet. Det er bare et problem, planten fagerfredløs er svartelistet.</div>
+<div type="author"></div>
+<div type="date">2019-07-23</div>
+<div type="caption"><p>FAGERFREDLØS: Langs sykkelveiene ved Kristianborgvannet auler det av de gule plantene fagerfredløs. – De er svartelistet og sprer seg med hageavfall og jordmasser, forklarer naturforvalter Anders Søyland. FOTO: Rune Sævig</p></div>
+</body></document>

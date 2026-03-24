@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190713-en-person-omkom-da-b.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/innenriks/i/vQ8W45/En-person-omkom-da-brannbil-kjorte-av-veien" frk="43 0 0 269 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-13 14:39"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value="førerkort,trafikkulykker"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">En person omkom da brannbil kjørte av veien</div>
+<div type="ingress">En person er omkommet og to personer er lettere skadet etter at en brannbil kjørte av veien på utrykning til en traktorulykke i Kvinesdal.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En rekke utrykningskjøretøy rykket ut til ulykken. Jan Ivar Rafoss</p></div>
+</body></document>

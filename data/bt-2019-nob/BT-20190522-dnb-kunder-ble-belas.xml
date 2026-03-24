@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190522-dnb-kunder-ble-belas.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/MRd8gm/DNB-kunder-har-blitt-belastet-dobbelt" frk="178 5 6 1011" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-22 12:22"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Bank,DNB"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">DNB-kunder ble belastet dobbelt – nå skal alt være i orden</div>
+<div type="ingress">Flere DNB-kunder hadde onsdag mindre penger på konto enn de skulle hatt. Banken skal nå ha fått rettet opp feilen.</div>
+<div type="author">NTB</div>
+<div type="date">22. mai 2019 12:22</div>
+<div type="caption"><p>Foto: Terje Pedersen / NTB scanpix</p></div>
+<div type="text">
+<p>Feilen besto i at enkelte kunder ble belastet dobbelt for VISA transaksjoner i perioden 15. mai til 21. mai. Det førte til at reservert beløp ikke ble slettet når pengene blir trukket, og at kundene fikk mindre disponibelt på konto enn de egentlig skulle ha.</p>
+<p>Ved 15-tiden onsdag opplyser DNB på sin Facebook-side at det meste nå skal være i orden.</p>
+<p>«Det er enda noen kunder som vi må kjøre manuelle rettinger på, og det vil bli gjort i løpet av ettermiddagen. Dette gjelder for eksempel betalinger til utland, der vi må sikre at riktig kurs blir registrert på riktig dato», heter det.</p>
+<p>Vi beklager til alle som har blitt rammet av problemer. Vi har stor forståelse for at dette har skapt problemer for mange i dag, og særlig for de kundene som har fått minus på konto, skriver banken.</p></div></body></document>

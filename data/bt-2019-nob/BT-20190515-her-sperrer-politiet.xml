@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190515-her-sperrer-politiet.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3Gbky/Her-rigger-de-seg-til-for-a-grave-etter-Trine-Frantzen" frk="36 0 0 218 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-15 11:48"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Fana,Narkotika,Os,Forsvinninger,Etterforskning,Trine Frantzen-saken"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her sperrer politiet av område for å åpne grav i søket etter Trine Frantzen</div>
+<div type="ingress">Forarbeidene på kirkegården i Fana startet for over to måneder siden. Seinest torsdag vil politiet vite om de har et funn.</div>
+<div type="author"></div>
+<div type="date">2019-05-15</div>
+<div type="caption"></div>
+</body></document>

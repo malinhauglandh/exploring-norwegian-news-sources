@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190127-de-leier-grieghallen.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/yvA1lA/De-leier-Grieghallen-for-a-spille-Pink-Floyd" frk="60 2 1 354 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-27 06:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Konsert,Grieghallen,Musikk,Pink Floyd,Rock (musikk),Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De leier Grieghallen for å spille Pink Floyd</div>
+<div type="ingress">Musikerne i coverbandet Dark Side of The Wall får med seg Ian Ritchie, som har delt scene med Roger Waters i Pink Floyd flere hundre ganger.</div>
+<div type="author"></div>
+<div type="date">2019-01-27</div>
+<div type="caption"><p>STORTROMMEN: Bjarte Aasmul, Dag Øyvind Rebnord, Kai Taule og Helge Nyheim tar Dark Side of the Wall inn i Grieghallen 2. februar. FOTO: Eirik Brekke</p></div>
+</body></document>

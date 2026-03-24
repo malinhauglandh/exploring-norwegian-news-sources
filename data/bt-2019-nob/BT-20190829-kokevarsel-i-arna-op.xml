@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190829-kokevarsel-i-arna-op.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/AdqmGx/Kokevarsel-i-Arna-opphevet" frk="60 4 2 415 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-29 12:48"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kokevarsel i Arna opphevet</div>
+<div type="ingress">Kokevarselet for drikkevannet i Trengereid i Bergen er opphevet. Alle prøver viser god vannkvalitet.</div>
+<div type="author">NTB</div>
+<div type="date">29. aug. 2019 12:48</div>
+<div type="caption"></div>
+<div type="text">
+<p>Kokevarselet ble sendt ut tirsdag etter at en rutineprøve fra Skulstad basseng viste E.coli-bakterier.</p>
+<p>Prøver tatt onsdag og torsdag viser at vannkvaliteten er god igjen, melder Bergensavisen.</p>
+<p>Ifølge avisen er det sendt ut 13 kokevarsler i Bergen kommune hittil i år.</p></div></body></document>

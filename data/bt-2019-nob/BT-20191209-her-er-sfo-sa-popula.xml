@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191209-her-er-sfo-sa-popula.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJPd2A/Her-ber-elevene-om-SFO-for-alle-trinn" frk="34 10 2 196 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er SFO så populært at elevene som er for gamle også vil ha det</div>
+<div type="ingress">Nesten alle fjerdeklassinger går på SFO på Møhlenpris. Tilbudet er så populært at 5.-7.trinn også vil ha det.</div>
+<div type="author"></div>
+<div type="date">2019-12-09</div>
+<div type="caption"></div>
+</body></document>

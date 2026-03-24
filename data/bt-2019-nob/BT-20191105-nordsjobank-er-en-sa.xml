@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191105-nordsjobank-er-en-sa.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/zGzkdK/Nordsjobank-er-en-saga-blott-Na-vil-de-finne-230-millioner-kroner-og-starte-Nordbank" frk="39 11 3 251 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-05 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nordsjøbank er en saga blott. Nå vil de finne 230 millioner kroner og starte Nordbank.</div>
+<div type="ingress">Planene om en egen forretningsbank for Vestlandet strandet. Investorene blir nå medeiere i en banksatsing som skal ha kontorer i Bergen og Bodø.</div>
+<div type="author"></div>
+<div type="date">2019-11-05</div>
+<div type="caption"></div>
+</body></document>

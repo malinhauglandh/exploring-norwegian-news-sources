@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191109-alexander-vil-apne-t.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/QoXqLQ/Alexander-vil-apne-tre-barer-i-host-Den-ene-gjor-ham-litt-nervos" frk="36 0 0 197 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-09 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Alexander vil åpne tre barer i høst. Den ene gjør ham litt nervøs.</div>
+<div type="ingress">– Det er litt skummelt å åpne bar i et lokale så mange har et sterkt forhold til, sier bareier Alexander Arnø.</div>
+<div type="author"></div>
+<div type="date">2019-11-09</div>
+<div type="caption"></div>
+</body></document>

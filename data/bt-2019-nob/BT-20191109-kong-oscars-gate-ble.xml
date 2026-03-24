@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191109-kong-oscars-gate-ble.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/AdBBdA/Kong-Oscars-gate-ble-beskrevet-som-folketom-Na-har-barndomskompisene-investert-20-millioner-kroner-her" frk="30 23 5 214 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kong Oscars gate ble beskrevet som folketom. Nå har barndomskompisene investert 20 millioner kroner her.</div>
+<div type="ingress">På en strekning under 100 meter i den nyoppussede gaten, driver Bargruppen fem utesteder.</div>
+<div type="author"></div>
+<div type="date">2019-11-09</div>
+<div type="caption"></div>
+</body></document>

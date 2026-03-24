@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190319-hydro---vi-er-rammet.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/KvO7y6/NRK-Dataangripere-krevde-losepenger-av-Hydro-for-a-lase-opp-datasystemet-deres" frk="895 1 6 5740" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-19 13:14"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Datakriminalitet,IT-sikkerhet,Norsk Hydro"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hydro: – Vi er rammet av et løsepengevirus</div>
+<div type="ingress">Hydro bekrefter at de er rammet av et krypteringsvirus, og at det er fremmet løsepengekrav for å låse opp selskapets systemer.</div>
+<div type="author">NTB</div>
+<div type="date">19. mars 2019 13:14</div>
+<div type="caption"><p>ORIENTERTE: Hydros finansdirektør Eivind Kallevik og Bente Hoff hos Nasjonal sikkerhetsmyndighet redegjorde tirsdag ettermiddag for dataangrepet Norsk Hydro er utsatt for. FOTO: Terje Pedersen, NTB scanpix</p> <p>VARSLET: Norsk Hydro varsler alle sine ansatte om ikke å slå på pc da de er under et dataangrep. Terje Pedersen, NTB scanpix</p> <p>LEDELSEN: Hilde Merete Aasheim blir ny konsernsjef i Hydro. Styreleder Dag Mejdell t.v. Terje Pedersen, NTB scanpix</p></div>
+<div type="text">
+<p>– Rundt midnatt norsk tid oppdaget våre IT-eksperter uvanlig aktivitet på serverne i våre globale IT-systemer. Det viste seg at Hydro var rammet av et alvorlig dataangrep, sa Hydros finansdirektør Eivind Kallevik på en pressekonferanse tirsdag ettermiddag.</p>
+<p>Overfor NTB utdyper han at viruset ser ut til å ha rammet selskapets amerikanske virksomhet først.</p>
+<p>– Dette startet i en av våre fabrikker i USA. Deretter har viruset spredt seg ut i organisasjonen og rammet flere deler av virksomheten både i USA og Europa, sier Kallevik.</p>
+<p>– Men hvor selve viruset har sin opprinnelse og hvem som står bak, er vanskelig å si på nåværende tidspunkt. Det vi har brukt tid på nå, er å isolere fabrikkene for å hindre ytterligere spredning, sier finansdirektøren.</p></div>
+<div type="title" level="3">Løsepengevirus</div>
+<div type="text">
+<p>Ifølge NRK har Nasjonalt cybersikkerhetssenter (NorCERT) slått fast at angriperne har brukt løsepengeviruset LockerGoga, som gjør alt innhold på datamaskinen utilgjengelig, samtidig som det foregår angrep mot selskapets bruker- og påloggingssystemer.</p>
+<p>Kallevik vil ikke gå i detaljer om virusets navn, men bekrefter at det dreier seg om et løsepengevirus. Han vil ikke spekulere på hvor mye penger angriperne krever eller kommentere hvorvidt selskapet vurderer å betale.</p>
+<p>– Det ligger en åpen tekstfil ved krypteringsviruset, men det er ikke noe vi har brukt tid eller ressurser på så langt. Det vi fokuserer på, er å finne en kur mot viruset slik at vi kan komme tilbake til normal drift, sier Kallevik.</p>
+<p>– Strategien vår er å bruke backup-data for å få systemene opp igjen, sier han.</p></div>
+<div type="title" level="3"> – Alvorlig hendelse</div>
+<div type="text">
+<p>Viruset har slått ut Hydros globale nettverk, og nettsiden deres har vært nede hele tirsdag. Rundt om i Hydros kontorer i Oslo er det satt opp lapper der de ansatte bes om å ikke koble PC-er til nettverk før det gis ny beskjed.</p>
+<p>Det gjør det vanskeligere å løse de administrative oppgavene selskapet vanligvis gjør med datamaskiner, men ifølge Kallevik har Hydro reserveløsninger.</p>
+<p>– Vi kan fortsatt snakke sammen på 2019-vis via smarttelefoner og tablets, sier han.</p>
+<p>Kallevik kaller dataangrepet en «alvorlig hendelse», men legger til at de økonomiske tapene foreløpig ikke ser ut til å bli store.</p>
+<p>– Konsekvensene er så langt veldig små. Vi har noe høyere bemanning på noen av verkene våre for å gjøre mer manuelle operasjoner, men i det store bildet er det veldig lite, sier finansdirektøren.</p></div>
+<div type="title" level="3"> – Stort skadepotensial</div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) er koblet inn i saken og bistår Hydro med å løse datasikkerhetsproblemene. De vet foreløpig heller ingenting om hvem som står bak.</p>
+<p>– Det er alltid slik at man begynner med skadebegrensning. Hvem som står bak og hvor sofistikert angrepet er, vil vi se nærmere på i den videre analysen av situasjonen, sier avdelingsdirektør Bente Hoff ved NSMs nasjonale cybersikkerhetssenter til NTB.</p>
+<p>Også PST, E-tjenesten, Europol og Kripos bistår i etterforskningen, selv om Hydro foreløpig ikke har anmeldt saken.</p>
+<p>– Arbeidet er i en startfase, men av erfaring er skadepotensialet ved slike angrep stort, sier Håvard Aalmo, leder for seksjon for datakriminalitet i Kripos, i en pressemelding.</p></div>
+<div type="title" level="3">Midlertidig stanset produksjon</div>
+<div type="text">
+<p>Hydros aluminiumsverk i Norge går foreløpig som normalt, men med høyere grad av manuell drift. Det er ingen indikasjon på påvirkning på aluminiumsverkene utenfor Norge, og angrepet har ikke rammet energivirksomheten.</p>
+<p>Selskapet har imidlertid måttet stenge ned aktiviteten ved noen av anleggene som driver med ekstruderte (bearbeidede) og valsede produkter, deriblant Holmestrand og Karmøy.</p>
+<p>Det er fremdeles er usikkert hvor lang tid det vil ta å løse problemene.</p></div>
+<div type="title" level="3">Fakta: Dataangrepet mot Hydro</div>
+<div type="text">
+<p>Hydro oppdaget rundt midnatt natt til tirsdag 19. mars at selskapet var rammet av et «omfattende dataangrep».</p>
+<p>Angrepet rammet først en virksomhet i USA, og det spredte seg derfra til andre deler av organisasjonen i USA og Europa. I løpet av tirsdagen lyktes selskapet i å isolere alle sine fabrikker og dermed minimalisere risikoen for videre spredning.</p>
+<p>Ifølge Hydro er selskapet rammet av et såkalt løsepengevirus. Disse krypterer informasjon i selskapers datamaskiner, og det blir fremsatt krav om penger for å få «låst opp» informasjonen igjen.</p>
+<p>Ingen har foreløpig krevd en konkret pengesum fra Hydro. Det ligger imidlertid en åpen tekstfil ved viruset, som selskapet ikke har åpnet ennå. Typisk er det her kontaktinformasjon til noen som opplyser om beløp.</p>
+<p>Hvem som står bak, er foreløpig ikke kjent. Det er heller ikke kjent hvilket land viruset stammer fra.</p>
+<p>Viruset har slått ut selskapets globale nettverk, og selskapet må flere steder bruke reserveløsninger for kommunikasjon og administrative oppgaver.</p>
+<p>Som følge av dataangrepet har selskapet måttet stenge ned produksjonen ved noen av anleggene som driver med «Extruded Solutions» og «Rolled Products». Førstnevnte er aluminiumsdeler som inngår i bygninger, biler og fotballmål. Sistnevnte kommer ut av valseverk og blir eksempelvis brukt i bokser til øl og mineralvann.</p>
+<p>Aluminiumsverkene i Norge går som normalt, men med høyere grad av manuell drift. Det er ingen indikasjon på at aluminiumsverkene utenfor Norge er rammet.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191214-den-rare-vinteren-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EWkd7A/Den-rare-vinteren-i-Bergen" frk="19 0 0 115 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-14 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Den rare vinteren i Bergen</div>
+<div type="ingress">Bergen har aldri vært noen by for vintersport. Og vil aldri bli det.</div>
+<div type="author"></div>
+<div type="date">2019-12-14</div>
+<div type="caption"></div>
+</body></document>

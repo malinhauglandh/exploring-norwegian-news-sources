@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190818-reagerer-pa-at-pakke.xml"/>
+<attribute name="url" value="http://www.nordlys.no/pakker/postkasser/postnord/reagerer-pa-at-pakker-henges-utenpa-postkassen/s/5-34-1178159" frk="41 16 4 239 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-08-18 12:06"/>
+<attribute name="author" value="Benedicte Hamnes"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Reagerer på at pakker henges utenpå postkassen</div>
+<div type="ingress">I 2019 er det enkelt og greit å bestille varer via internett. Med et klikk får du pakkene levert hjem, men det kan fort bli problemer når pakken er for stor for postkassen.</div>
+<div type="author">Av Benedicte Hamnes</div>
+<div type="date">18. august 2019, kl. 12:06</div>
+<div type="caption"></div>
+</body></document>

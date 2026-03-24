@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191011-hundretusener-av-nor.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/hundretusener-av-nordmenns-passord-blottstilt-pa-nett-1.1599167" frk="220 15 24 1515"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-10-11 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hundretusener av nordmenns passord blottstilt på nett</div>
+<div type="ingress">Passordene til over 600.000 nordmenn er gjort tilgjengelig på internettet etter hacking av flere store nettsider.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Passordene til over 600.000 nordmenn er gjort tilgjengelig på nettet som følge av omfattende dataangrep, skriver Adresseavisen.</p></div>
+<div type="text">
+<p>har de siste månedene hatt tilgang til mer enn 1,4 milliarder epostadresser og passordene knyttet til dem som følge av omfattende datalekkasjer.</p>
+<p>Brukere fra over hele verden er berørt, over 600.000 i Norge, ifølge avisen. Lekkasjene er fra teknologiselskaper som LinkedIn og Dropbox, samt flere andre mindre nettsteder. Blant de berørte er norske statsråder, generaler, politimestre, ambassadører og bedriftsledere, samt hundretusener av vanlige nordmenn.</p>
+<p>I et halvt år har sikkerhetsansatte i NTNU fulgt hackeren gjennom datastrømmene til universitetet. Lekkasjene skal ha stammet fra en russisk hacker som brøt seg inn i datasystemer i 2012, før opplysningene dukket opp på det mørke nettet fire år senere, til salgs.</p>
+<p>Følg Dagsavisen på Facebook og Twitter!</p>
+<p>– Altfor mange forstår ikke hvor alvorlig det kan være at et passord havner på avveie, sier fagdirektør Roar Thon i Nasjonal sikkerhetsmyndighet (NSM).</p>
+<p>Myndigheten ber brukere anvende såkalt tofaktor-autentisering, altså pålogging som krever en ekstra opplysning eller bekreftelse for å logge inn. I tillegg anbefaler NSM bruk av et passordhåndteringsprogram, som er en slags digital safe for passord. Eksempler på slike programmer er og .</p></div></body></document>

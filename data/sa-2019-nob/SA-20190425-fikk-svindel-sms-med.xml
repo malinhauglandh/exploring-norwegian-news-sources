@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190425-fikk-svindel-sms-med.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/QogBLR/Fikk-svindel-SMS-med-bompengekrav" frk="38 0 0 254 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-25 05:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="svindel,bompenger"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fikk svindel-SMS med bompengekrav</div>
+<div type="ingress">Flere i Rogaland har fått en tekstmelding det de blir bedt om å betale en bomavgift. Denne tekstmeldingen viser seg å være svindel.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dette er tekstmeldingen som prøvde å svindle Joachim Dalgård. Privat</p></div>
+</body></document>

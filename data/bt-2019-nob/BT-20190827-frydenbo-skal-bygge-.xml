@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190827-frydenbo-skal-bygge-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/nabbz5/Frydenbo-skal-bygge-nytt-signalbygg-pa-Damsgard" frk="30 0 0 221 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-27 06:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eiendom"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Frydenbø skal bygge nytt signalbygg på Damsgård</div>
+<div type="ingress">Utbyggeren tror det nye bygget vil kunne huse teknologibedrifter og utviklingsmiljøer.</div>
+<div type="author"></div>
+<div type="date">2019-08-27</div>
+<div type="caption"><p>SKISSE: Slik skal det nye bygget se ut. FOTO: ARTEC (illustrasjon)</p></div>
+</body></document>

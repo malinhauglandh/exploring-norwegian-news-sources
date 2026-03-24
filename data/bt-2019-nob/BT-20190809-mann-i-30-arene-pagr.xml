@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190809-mann-i-30-arene-pagr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/g7R8bB/Mann-i-30-arene-pagrepet-for-knivstikking-ved-Strax-huset-i-natt" frk="36 15 4 253 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-09 11:40"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Krim,Vest politidistrikt,Haukeland universitetssykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann i 30-årene pågrepet for knivstikking ved Strax-huset i natt</div>
+<div type="ingress">Tatt i Nye Sandviksveien fredag morgen. Mann i 20-årene fraktet til sykehus.</div>
+<div type="author"></div>
+<div type="date">2019-08-09</div>
+<div type="caption"><p>AKSJONERTE: Politiet pågrep fredag morgen en mann i Nye Sandviksveien. FOTO: Reidun Drægebø</p></div>
+</body></document>

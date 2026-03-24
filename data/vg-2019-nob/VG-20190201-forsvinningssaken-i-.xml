@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190201-forsvinningssaken-i-.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/vmR6Wp/forsvinningssaken-i-loerenskog-her-kan-budskapet-til-familien-ligge" frk="639 7 32 4156"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-02-01 10:18"/>
+<attribute name="author" value="Morten S. Hopperstad, Bjørnar Tommelstad, Tom Byermoen, Gordon Andersen, Ådne Husby Sandnes, Hanna Haug Røset, Kari Spets"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forsvinningssaken i Lørenskog: Her kan budskapet til familien ligge</div>
+<div type="ingress">Onsdag 16. januar mottok familien til Anne-Elisabeth Hagen (68) det siste kjente budskapet fra den antatte motparten i forsvinningssaken. Denne dagen ble det gjennomført 3817 transaksjoner i kryptovalutaen Monero.</div>
+<div type="author">Morten S. Hopperstad, Bjørnar Tommelstad, Tom Byermoen, Gordon Andersen, Ådne Husby Sandnes, Hanna Haug Røset, Kari Spets</div>
+<div type="date">01.02.19 11:18</div>
+<div type="caption"><p>SAVNET: Politiet mener Anne-Elisabeth Hagen (68) forsvant fra sitt hjem på Fjellhamar i Lørenskog mot sin vilje 31. oktober i fjor. Foto: PRIVAT/JØRGEN BRAASTAD</p> <p>ÅPNET OPP: Sist uke innkalte familiens bistandsadvokat, Svein Holden, til pressekonferanse. Der fortalte han kort om det siste budskapet fra den påståtte motparten i forsvinningssaken. Foto: HELGE MIKALSEN</p></div>
+<div type="text">
+<p>I forbindelse med samtlige av disse transaksjonene kan avsenderne skrive inn en melding i et felt som kalles «Payment ID». Der er det imidlertid kun plass til noen få tegn:</p>
+<p>32 bokstaver i ukrypterte meldinger.</p>
+<p>8 bokstaver i krypterte meldinger.</p>
+<p>Ifølge VGs opplysninger, består kommunikasjonen mellom familien og den antatte motparten i forsvinningssaken ved hjelp av en av disse korte meldingsmulighetene – som sendes i forbindelse med transaksjoner i kryptovalutaen Monero.</p></div>
+<div type="title" level="3"> – Må betale for å kommunisere</div>
+<div type="text">
+<p>Politiet har tidligere bekreftet at kontakten med de påståtte kidnapperne koster penger, uten at de har spesifisert sum eller digital plattform.</p>
+<p>– Det er helt riktig at man må betale for å kommunisere, men jeg vil ikke svare noe mer detaljert på dette nå, uttalte politiinspektør Tommy Brøske i Øst politidistrikt da saken ble offentlig kjent 9. januar.</p>
+<p>Politiet har ikke vært tilgjengelig for kommentarer torsdag.</p>
+<p>Nøyaktig én uke etter denne uttalelsen, mottok familien et nytt budskap fra den antatte motparten. Familiens bistandsadvokat Svein Holden har ikke villet si noe om innholdet i budskapet, ei heller om det var snakk om én eller flere beskjeder.</p>
+<p>Den nye kontakten ga familien tro på å få 68-åringen hjem i live, tre måneder etter at hun forsvant.</p>
+<p>Politiet har tidligere sagt at de ikke er part i forhandlingene .</p></div>
+<div type="title" level="3">Umulig å identifisere budskapet</div>
+<div type="text">
+<p>VG har kartlagt alle transaksjoner med Monero onsdag 16. januar. Totalt dreier det seg om 3817 transaksjoner verden over. I disse transaksjonen ligger trolig budskapet som ble sendt til familien.</p>
+<p>Noen av transaksjonene er mer sannsynlig å inneholde en melding enn andre, men det er ikke mulig for VG å identifisere det konkrete budskapet, ettersom alle transaksjonene denne dagen er krypterte og dermed skjult for omverdenen.</p>
+<p>Moneros egenskaper gjør det umulig å kartlegge beløpene for transaksjonene.</p>
+<p>I tillegg er Monero lagt opp slik at en transaksjon kan ha mange mottagere, noe som øker totaltallet denne dagen til 8256.</p>
+<p>Det er dermed en teoretisk mulighet for at budskapet til familien ligger gjemt i tallet 8256.</p>
+<p>Denne type transaksjoner er derfor ikke sammenlignbart med den dagligdagse oppfattelsen av en transaksjon, hvor penger går fra én bankkonto til en annen bankkonto.</p></div>
+<div type="title" level="3">Kun mottager kan dekode meldinger</div>
+<div type="text">
+<p>Meldingene kan bli seende ut som en lang rekke med usammenhengende tall og bokstaver, eller såkalte «hex-koder». Disse kodene kan relativt enkelt gjøres om til forståelige meldinger, blant annet på flere nettsteder.</p>
+<p>Denne dekodingen er kun mulig å utføre for endelig mottager av meldingen, i dette tilfellet Hagen-familien.</p>
+<p>Dersom meldingen er ukryptert, så kan alle se dem – dersom man laster ned alle transaksjoner og dekoder.</p></div>
+<div type="title" level="3">Politiet vet lite om motparten</div>
+<div type="text">
+<p>Ifølge VGs opplysninger, sitter politiet med lite informasjon om den eller de som sitter i den andre enden av kommunikasjonen – den påståtte motparten.</p>
+<p>I tillegg er ikke denne type etterforskning hverdagskost for politiet, da det er få eller ingen sammenlignbare saker hverken her til lands eller internasjonalt.</p>
+<p>Bistandsadvokat Holden understreket sist uke at familien følte seg trygge på at det er den samme avsenderen – de mulige kidnapperne – som igjen hadde tatt kontakt.</p>
+<p>– Det har noe med hvordan kommunikasjonsplattformen er innrettet, uttalte Holden.</p>
+<p>Trolig dreier dette seg om at kommunikasjonen går mellom to digitale lommebøker, som det skal være svært lite sannsynlig at noen uvedkommende har klart å identifisere – og ikke minst hacke.</p></div></body></document>

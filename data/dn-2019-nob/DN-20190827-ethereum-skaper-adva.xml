@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190827-ethereum-skaper-adva.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/etherum/kryptovaluta/ethereum-skaper-advarer-snart-full/2-1-661740" frk="331 3 7 2198"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-08-27 18:11"/>
+<attribute name="author" value="Petter Winther"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,etherum,kryptovaluta"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ethereum-skaper advarer: – Snart full</div>
+<div type="ingress">Blokkjeden ethereum har snart ikke mer kapasitet igjen, og det gjør at transaksjonskostnaden skyter i været. Blokkjeden ethereum har snart ikke mer kapasitet igjen, og det gjør at transaksjonskostnaden skyter i været.</div>
+<div type="author">Petter Winther</div>
+<div type="date">2019-08-27 18:11</div>
+<div type="caption">Ethereum med grunnlegger Vitalik Buterin har trolig en respektabel formue, men nøyaktig hvor mye han er god for er ikke kjent. (Foto: Ethereum.org) </div>
+<div type="text">
+<p>Blokkjeden bak ethereum, verdens nest største kryptovaluta og Bitcoins største utfordrer, er i ferd med å få kapasiteten sin sprengt. Advarselen kommer fra en av grunnleggerne bak blokkjeden, Vitalik Buterin.</p>
+<p>– Skalering er en stor flaskehals fordi blokkjeden ethereum er snart full, sa Buterin i et intervju med Toronto Star forrige uke.</p>
+<p>Ethereum er en transaksjonsplattform og en slags operativsystem der brukerne kan inngå såkalte smartkontrakter.</p>
+<p>Den høye kapasitetsutnyttelsen gjør at transaksjonskostnadene stiger, og det kan igjen gjøre at det blir for dyrt for enkelte å ta blokkjeden i bruk, ifølge Buterin.</p></div>
+<div type="title" level="3">Kontroversiell utfordrer</div>
+<div type="text">
+<p>Nå er rundt 90 prosent av kapasiteten til blokkjeden ethereum tatt i bruk, skriver Bloomberg og siterer Etherscan.io. Blokkjeden Ethereum benyttes ikke bare av kryptovalutaen med samme navn, men også av en rekke andre kryptovalutaer.</p>
+<p>For øyeblikket er det en kontroversielle kryptovalutaen Tether som legger beslag på store mengde kapasitet.</p>
+<p>For to år siden var det CryptoKitties som holdt på å sprenge kapasiteten til blokkjeden ethereum, men nå er det altså Tether, en kryptovaluta som nylig har passert en markedsverdi på 4 milliarder dollar, ifølge Coinmarketcap.com.</p>
+<p>Minst 40 prosent av Tether benytter seg av blokkjeden ethereum, skriver Bloomberg.</p></div>
+<div type="title" level="3">Haster med oppdatering</div>
+<div type="text">
+<p>Det har lenge vært snakk om en oppgradering av blokkjeden ethereum, kalt ethereum 2.0. Denne vil ha som hensikt å løse de flaskehalsene som finnes i dag, men flere er usikre på om dette vil fungere.</p>
+<p>Denne uken ble det kjent at ethereum-stiftelsen gir ut to millioner dollar utbetalinger for å få fart i utviklingen av oppdateringen. Midlene skal bli brukt i prosjekter som kan hjelpe en hurtigere lansering av oppdateringen, uttalte stiftelsen på mandag.</p></div></body></document>

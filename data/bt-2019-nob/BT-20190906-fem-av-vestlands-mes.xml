@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190906-fem-av-vestlands-mes.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70Qee8/Fem-av-Vestlands-mest-populare-ordforere-kan-miste-jobben" frk="46 5 2 349 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-06 15:49"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Valg 2019"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fem av Vestlands mest populære ordførere kan miste jobben</div>
+<div type="ingress">Senterpartiets fremgang og flere kommunesammenslåinger kan føre til at flere markante ordførere mister jobben.</div>
+<div type="author"></div>
+<div type="date">2019-09-06</div>
+<div type="caption"><p>UTSATT: Terje Søviknes har styrt Fremskrittpspartiets utstillingsvindu Os i 20 år. Kampen om ordførerjobben i nye Bjørnafjorden kommune er imidlertid helt åpen.</p></div>
+</body></document>

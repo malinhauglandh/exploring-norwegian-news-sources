@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191128-frisorkjede-mener-re.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/Jow7aR/Frisorkjede-mener-reglene-for-kontanter-er-utdatert" frk="48 0 0 309 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-28 13:39"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Frisørkjede mener reglene for kontanter er utdatert</div>
+<div type="ingress">Frisørkjeden Cutters har fått brev fra Forbrukertilsynet om at de opererer på kanten av loven, siden de ikke tar imot kontanter.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 28. november 2019 13:39</div>
+<div type="caption"><p>BETALING: I dag plikter bedrifter i henhold til norsk lov å ta imot kontanter. Jon Olav Nesvold, NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-en-av-verdens-storst.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/BRm3z7/En-av-verdens-storste-yachter-er-i-Oslo" frk="49 19 6 301 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 13:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En av verdens største yachter er i Oslo</div>
+<div type="ingress">Den 141 meter lange superyachten Yas har ankommet Oslo. Båten er en av verdens største og dyreste yachter.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"><p>HOVEDSTADEN: Den 141 meter lange yachten Yas, en av verdens dyreste yachter, har ankommet Oslo havn. FOTO: Fredrik Hagen / NTB scanpix</p></div>
+</body></document>

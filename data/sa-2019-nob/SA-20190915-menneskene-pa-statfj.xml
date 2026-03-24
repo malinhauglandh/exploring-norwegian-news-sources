@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190915-menneskene-pa-statfj.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/y3bPgA/Menneskene-pa-Statfjord" frk="29 10 2 196 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-15 10:23"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="statfjord,offshore,aenergi,supplyskip,equinor,olje og gass,statfjord 40 år"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Menneskene på Statfjord</div>
+<div type="ingress">I november er det 40 år siden Statfjord-eventyret startet. Om få år skal feltet stenges ned. Møt menneskene som holder Statfjord i gang.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Jon Ingemundsen</p></div>
+</body></document>

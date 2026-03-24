@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190620-skattepenger-gir-tro.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/MRaog0/Skattepenger-gir-trobbel-med-bank-ID" frk="350 1 4 2088"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-20 07:41:59"/>
+<attribute name="author" value="Ellen Kongsnes"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="bankid,telenor,bank,tek.no"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Skattepenger gir trøbbel med bank-ID</div>
+<div type="ingress">Flere norske bankkunder har i morgentimene torsdag problemer med å logge inn på bankens tjenester. Problemene skyldes at mange ser etter skattepenger.</div>
+<div type="author">Ellen Kongsnes</div>
+<div type="date">2019-06-20 07:41:59</div>
+<div type="caption"><p>Nesvold, Jon Olav / NTB scanpix</p></div>
+<div type="text">
+<p>– En veldig uheldig situasjon. To parter, som vi er helt avhengige av, har fått problemer samtidig: Telenor og Telia, samt Nets, opplyser Thor Christian Haugland i SR-bank.</p>
+<p>Telenor og Telia har hatt driftsproblemer siden klokka sju. Det har berørt bank ID på mobil. Problemene for bankkunder økte ytterligere fra 08.30 da også Nets falt ned. Årsaken der er knyttet til stor trafikk på grunn av knyttet til skattepengene, sier Hans Christian Haugland.</p>
+<p>– Vi må kunne forvente av våre leverandører at de tar høyde for perioder med høy trafikk. Vi ser alvorlig på dette, sier Haugland.</p>
+<p>– Vi har ikke fått noen forklaring på hvorfor og vet ikke når problemene er løst. Men vi har satt vår krisestab for å holde trøkket oppe i saken, sier Haugland.</p>
+<p>Det var Tek.no som skrev om problemene først.</p>
+<p>Feilen skal skyldes problemer med BankID, som har gitt brukere feilmelding når de prøver å logge inn. Dette får Tek.no bekreftet av DNBs pressetelefon.</p>
+<p>BankdID-feilen rammer også andre banker, som SR-bank, DNB, Gjensidige og Sbanken, som også har problemer med løsningen på morgenkvisten.</p></div>
+<div type="title" level="3">BankID: – Bruk kodebrikke</div>
+<div type="text">
+<p>Hos BankID er de klar over problemene.</p>
+<p>– Det er BankID på mobil som ikke har fungert som det skal, både for Telia og Telenor, forklarer BankIDs pressekontakt, Hanne Kjærnes til Tek.no.</p>
+<p>– Problemene for Telenor er løst, men det er fortsatt noen problemer for Telia-kunder. De kan logge inn som vanlig med kodebrikke. Problemene skyldes høy trafikk og at folk sjekker skattepengene, sier Kjærnes videre.</p>
+<p>– Vet dere noe om når de siste problemene vil være over?</p>
+<p>– Det pleier å bli bedre litt utover formiddagen. Men det er vanskelig å si, for det er mange som prøver å logge inn, svarer Kjærnes.</p>
+<p>Det er uvisst hvor stort omfang problemene har og hverken DNB eller BankID kunne si noe om hvor mange som har forsøkt å logge inn uten å komme gjennom.</p></div></body></document>

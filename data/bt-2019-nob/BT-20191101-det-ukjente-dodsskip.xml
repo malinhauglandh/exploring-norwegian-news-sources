@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191101-det-ukjente-dodsskip.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/mRxL5E/Det-ukjente-dodsskipet" frk="22 0 0 146 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-01 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Det ukjente dødsskipet</div>
+<div type="ingress">Likene fløt i land i årevis etter at MS Rigel ble senket utenfor Helgelandskysten.</div>
+<div type="author"></div>
+<div type="date">2019-11-01</div>
+<div type="caption"><p>FOTO: Jan T. Espedal</p></div>
+</body></document>

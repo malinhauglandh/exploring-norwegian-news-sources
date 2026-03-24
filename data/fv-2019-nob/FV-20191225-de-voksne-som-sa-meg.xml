@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191225-de-voksne-som-sa-meg.xml"/>
+<attribute name="url" value="http://www.fvn.no/magasin/i/3Jw6vd/De-voksne-som-sa-meg" frk="41 0 0 249 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-25 22:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="magasin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">De voksne som så meg</div>
+<div type="ingress">Det lille huset i skogkanten der Terje Formoe vokste opp, byr fortsatt på magiske minner.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Terje Formoe vokste opp i Fredrikstad, og juleminner fra huset i skogkanten har brent seg fast. FOTO: Jacob J. Buchard</p></div>
+</body></document>

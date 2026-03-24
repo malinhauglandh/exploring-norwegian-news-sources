@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190205-el-clsico-tallene-re.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/sport/el-clsico-tallene-real-madrid-fansen-ikke-vil-se/70735635" frk="55 0 0 343 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-05 20:52"/>
+<attribute name="author" value="Mathias Hagen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="real madrid,pluss,messi,la liga,fotball,el clasico,sport,barcelona,ronaldo"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">El Clásico-tallene Real Madrid-fansen ikke vil se</div>
+<div type="ingress">Real Madrid har slitt mot Barcelona i de store turneringene. Nå står de overfor tre El Clásico-oppgjør på én måned.</div>
+<div type="author">Mathias Hagen</div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>BARCELONA-DOMINANS: Real Madrid har slitt mot Barcelona i ligaen. Nå møtes lagene tre ganger på under én måned. Foto: AP Photo / Francisco Seco / NTB scanpix</p></div>
+</body></document>

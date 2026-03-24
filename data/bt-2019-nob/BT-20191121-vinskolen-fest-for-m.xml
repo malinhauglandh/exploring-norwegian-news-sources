@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191121-vinskolen-fest-for-m.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/qLxK11/Vinskolen-Fest-for-mange" frk="42 0 0 278 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-21 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value="Bobler,Ingvild Tennfjord,Vin,Vinanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vinskolen: Fest for mange</div>
+<div type="ingress">Akkurat nå starter årets mest sosiale periode. Heldigvis er vinlisten sikret. Da kan du konsentrere deg om alt det andre.</div>
+<div type="author"></div>
+<div type="date">2019-11-21</div>
+<div type="caption"><p>FESTSESONG: «Vi trenger viner til fest, og vi trenger det nå», skriver Ingvild Tennfjord. FOTO: Katinka Hustad</p></div>
+</body></document>

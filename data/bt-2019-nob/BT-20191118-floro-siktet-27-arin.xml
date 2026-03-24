@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191118-floro-siktet-27-arin.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qLxjeE/Floro-Siktet-27-aring-skal-ha-blitt-tilbudt-helsehjelp-drapsdagen" frk="28 22 4 178 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-18 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Florø: Siktet 27-åring skal ha blitt tilbudt helsehjelp drapsdagen</div>
+<div type="ingress">27-åringen ble kontaktet av lege samme dag som han skal ha tatt livet av en kvinne i Florø.</div>
+<div type="author"></div>
+<div type="date">2019-11-18</div>
+<div type="caption"></div>
+</body></document>

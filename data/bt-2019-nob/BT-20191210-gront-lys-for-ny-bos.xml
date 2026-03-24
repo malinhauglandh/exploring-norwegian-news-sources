@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191210-gront-lys-for-ny-bos.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/opy0Pa/Gront-lys-for-ny-bosetting-i-hellig-by" frk="45 0 0 262 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-10 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Grønt lys for ny bosetting i hellig by</div>
+<div type="ingress">Samtidig som Israel kan gå mot sitt tredje valg på ett år, har Israels regjering gitt grønt lyst til en ny bosetting midt i Hebron, en av de mest omstridte byene på den okkuperte palestinske Vestbredden.</div>
+<div type="author"></div>
+<div type="date">2019-12-10</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190306-slik-var-arsmotet-i-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/Slik-var-arsmotet-i-Brann-270306b.html" frk="50 0 0 303 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-06 15:37"/>
+<attribute name="author" value="Øystein Vik"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="sk brann"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik var årsmøtet i Brann</div>
+<div type="ingress">Vi fulgte årsmøtet direkte.</div>
+<div type="author">Øystein Vik</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: Tor Høvik BRANN-SJEFER: Vibeke Johannesen er daglig leder i Brann. Birger Grevstad jr. er i styret.</p></div>
+<div type="text">
+<p>Onsdag kveld var det årsmøte i Brann.</p>
+<p>I livebloggen vår kunne du følge årsmøtet direkte. Det hele var over på en times tid.</p></div></body></document>

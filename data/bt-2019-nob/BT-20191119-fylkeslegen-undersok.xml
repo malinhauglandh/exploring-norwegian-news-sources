@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191119-fylkeslegen-undersok.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50ePMO/Fylkeslegen-undersoker-helsevesenet-etter-drapet-i-Floro" frk="23 0 0 178 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fylkeslegen undersøker helsevesenet etter drapet i Florø</div>
+<div type="ingress">– Vi starter tilsyn med kommunehelsetjenesten i Flora og Helse Førde, sier fylkeslege Helge Arianson.</div>
+<div type="author"></div>
+<div type="date">2019-11-19</div>
+<div type="caption"></div>
+</body></document>

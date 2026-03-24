@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-forskere-fulgte-berg.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qLEl3O/fire-av-ti-fullfoerte-ikke-yrkesfag" frk="28 10 2 189 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:49"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Forskere fulgte bergenselever i fire år og ble overrasket</div>
+<div type="ingress">Forskere fulgte bergenselever fra 10. klasse til ut videregående og fant at fire av ti ikke fullførte yrkesfag.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

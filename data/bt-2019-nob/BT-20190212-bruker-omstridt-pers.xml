@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190212-bruker-omstridt-pers.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/MgyG8r/Bruker-omstridt-personlighetsanalyse-for-a-veilede-Nav-brukere" frk="49 0 0 364 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-12 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Rekruttering,Psykologi,Nav,Webview,Arbeidsliv,DNV GL"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bruker omstridt personlighetsanalyse for å veilede Nav-brukere</div>
+<div type="ingress">Metoden blir kalt utdatert og «like nyttig som et horoskop» av psykologer. Likevel sender Nav arbeidsledige på kurs i DISC.</div>
+<div type="author"></div>
+<div type="date">2019-02-12</div>
+<div type="caption"><p>- PØLSEVEV: Psykologspesialist Rudi Myrvang er svært kritisk til at Nav-brukere sendes på kurs som inkluderer den omstridte DISC-metoden. FOTO: Paal Audestad</p></div>
+</body></document>

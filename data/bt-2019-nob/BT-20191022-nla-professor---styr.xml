@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191022-nla-professor---styr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJ1gvB/NLA-professor--Styret-legger-band-pa-var-forskning-og-undervisning" frk="29 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-22 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">NLA-professor: – Styret legger bånd på vår forskning og undervisning</div>
+<div type="ingress">Forskere ved NLA-høgskolen kritiserer skolens styre. I et brev skriver de at styret blant annet overstyrer faglig mangfold.</div>
+<div type="author"></div>
+<div type="date">2019-10-22</div>
+<div type="caption"></div>
+</body></document>

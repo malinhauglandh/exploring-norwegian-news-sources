@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191228-fem-omkom-i-flyulykk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/jd1bpe/Fem-omkom-i-flyulykke-i-USA" frk="30 0 0 202 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-28 21:32"/>
+
+<attribute name="author" value="NTB-AP"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fem omkom i flyulykke i USA</div>
+<div type="ingress">Fem personer omkom da et småfly styrtet i nærheten av Lafayette i den amerikanske delstaten Louisiana lørdag. En person overlevde, ifølge TV-kanalen KATC.</div>
+<div type="author">NTB-AP</div>
+<div type="date">Publisert 28. desember 2019 21:32</div>
+<div type="caption"></div>
+</body></document>

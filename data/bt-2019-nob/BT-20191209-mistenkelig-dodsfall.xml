@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191209-mistenkelig-dodsfall.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/4qQ9Va/mistenkelig-doedsfall-i-sola-politiet-etterlyser-bil" frk="56 0 0 370 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-09 21:42"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mistenkelig dødsfall i Sola – politiet etterlyser bil</div>
+<div type="ingress">Politiet leter etter en bil etter at en mann ble funnet død på Rægestranden ved Stavanger lufthavn i Sola kommune. Politiet anser dødsfallet som mistenkelig.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 9. desember 2019 21:42</div>
+<div type="caption"><p>Det er funnet en død mann på Rægestranden i Sola kommune. Politiet betegner dødsfallet som mistenkelig. Foto: Foto: Politiet / NTB scanpix</p></div>
+</body></document>

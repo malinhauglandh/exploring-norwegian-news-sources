@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190322-equinor-anker-dom-i-.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/aenergi/i/7lO6lw/Equinor-anker-dom-i-Neodrill-saken" frk="40 0 0 270 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-22 08:30"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="oljebransjen,teknologi,oljepris,neodrill"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Equinor anker dom i Neodrill-saken</div>
+<div type="ingress">I Oslo tingrett vant gründeren Harald Strand mot Equinor i en strid om patenter og markedsføring. Nå blir saken anket.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Gründer Harald Strand mener at Equinor har kopiert teknologien han har utviklet. Pål Christensen</p></div>
+</body></document>

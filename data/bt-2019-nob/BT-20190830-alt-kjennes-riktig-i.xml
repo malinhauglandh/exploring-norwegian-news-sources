@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190830-alt-kjennes-riktig-i.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Joqym8/Alt-kjennes-riktig-i-dette-Jon-Fosse-stykket" frk="27 0 0 181 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Alt kjennes riktig i dette Jon Fosse-stykket»</div>
+<div type="ingress">I stykket «Morgon og kveld» strømmer et helt lite univers gjennom skuespiller Stig Amdam. Det er svært godt gjort.</div>
+<div type="author"></div>
+<div type="date">2019-08-30</div>
+<div type="caption"></div>
+</body></document>

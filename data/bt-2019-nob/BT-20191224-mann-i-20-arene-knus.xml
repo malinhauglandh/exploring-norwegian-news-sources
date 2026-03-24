@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191224-mann-i-20-arene-knus.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K32b24/Mann-i-20-arene-knuste-ruter-hos-politiet-og-sa-han-het-Johnny-Cash" frk="34 10 2 198 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-24 13:02"/>
+
+<attribute name="author" value="Ørjan Torheim"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann i 20-årene knuste ruter hos politiet og sa han het Johnny Cash</div>
+<div type="ingress">Mannen tilsto og er nå dømt.</div>
+<div type="author">Ørjan Torheim</div>
+<div type="date">Publisert 24. desember 2019 13:02</div>
+<div type="caption"><p>SKADER: Slik så det ut ved politihuset i Bergen sentrum mandag. Foto: Ørjan Deisz</p></div>
+</body></document>

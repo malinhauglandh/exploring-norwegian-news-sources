@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190320-nsm-hydro-var-ikke-p.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/nsm-hydro-var-ikke-pakoblet-det-nasjonale-varslingssystemet-under-hackerangrepet-1.1451433" frk="487 4 15 3288"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-03-20 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NSM: Hydro var ikke påkoblet det nasjonale varslingssystemet under hackerangrepet</div>
+<div type="ingress">Hydro var ikke påkoblet overvåkingsnettverket til Nasjonal sikkerhetsmyndighet (NSM) under hackingangrepet. Uheldig, fastslår NSM. Vi var dekket av andre sikkerhetssystemer, sier Hydro.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Seksjonsleder for Norges nasjonale cybersenter Håkon Bergsjø sier Hydro hadde koblet seg av det nasjonale varslingssystemet som overvåker nettverkene til samfunnskritiske norske virksomheter, da de ble utsatt for et omfattende dataangrep</p></div>
+<div type="text">
+<p>Av Birgitte Iversen og Peter Tálos</p>
+<p>Hydro sier det var en bevisst handling at de var koblet fra overvåkingsnettverket til Nasjonal sikkerhetsmyndighet (NSM) under hackingangrepet natt til tirsdag.</p>
+<p>Norsk Hydro er til vanlig tilkoblet NSMs varslingssystem for digital infrastruktur (VDI), som overvåker nettverkene til samfunnskritiske norske virksomheter og bedrifter, og som har som jobb å varsle dersom nettverkene blir utsatt for angrep.</p>
+<p>Under det omfattende dataangrepet natt til tirsdag 19. mars, var Hydros sensor imidlertid ikke påkoblet, opplyser Håkon Bergsjø, leder for NSMs cybersenter NorCERT, til NTB.</p>
+<p>Han sier det derfor var Hydro som varslet NSM om angrepet først.</p></div>
+<div type="title" level="3">En bevisst handling</div>
+<div type="text">
+<p>Hydros finansdirektør Eyvind Kallevik sa under en pressekonferanse onsdag at det var umulig å si hvilken effekt frakoblingen hadde hatt.</p>
+<p>– Dette var en bevisst handling og vi var dekket av annet overvåkingsutstyr i denne perioden, sier Kallevik om at de var koblet fra NSM system.</p>
+<p>Kripos åpnet onsdag etterforskningen av dataangrepet som satte ut den globale aluminiumsprodusenten tirsdag. At det er Kripos og ikke Politiets sikkerhetstjeneste (PST) som etterforsker saken innebærer at det så langt ikke er funnet grunn til å tro at en statlig aktør står bak angrepet.</p>
+<p>Følg Dagsavisen på Facebook og Twitter!</p></div>
+<div type="title" level="3">Lagdeling</div>
+<div type="text">
+<p>– På tidspunktet for angrepet var sensoren hos Hydro ikke på plass. Så det var ikke vår sensor som ikke oppdaget det, sier Bergsjø. Han kaller avkoblingen for «uheldig».</p>
+<p>– Kunne angrepet blitt stoppet tidligere, hvis sensoren hadde vært påkoblet?</p>
+<p>– Det vil jeg ikke spekulere på. Vi må analysere hendelsen, og det er ikke alt vi ser heller, det er vi helt åpne om, vi har en lagdeling. Vår viktigste oppgave er å holde oversikt på tvers av samfunnet, sier Bergsjø.</p></div>
+<div type="title" level="3">Måler angrep</div>
+<div type="text">
+<p>I operasjonssentralen til NorCERT overvåkes datastrømmen inn til Norge, og direkte inn i en rekke bedrifter og virksomheter som anses som samfunnskritiske for Norge. I et sensornettverk kan NSM måle angrep eller forsøk på innbrudd hos bedrifter som forvalter eller eier kritisk informasjon eller kunnskap i Norge.</p>
+<p>I 2017 avslørte sensorene i systemet 20.000 mistenkelige datastrømmer. Etter sjekk var det 5.000 varsler som ble fulgt opp som en ekte trussel.</p></div>
+<div type="title" level="3">Løsepenger</div>
+<div type="text">
+<p>Hydro ble tirsdag utsatt for et omfattende cyberangrep, som påvirket driften i flere av selskapets forretningsområder. Selskapet ble rammet av et såkalt løsepengevirus. Disse krypterer informasjon i selskapers datamaskiner, og det blir framsatt krav om penger for å få «låst opp» informasjonen igjen.</p>
+<p>Den internasjonale aluminiumsleverandøren meldte onsdag morgen at de fortsatt strever med konsekvensene etter dataangrepet, men at selskapet har funnet årsaken og jobber med å gjenopprette driften.</p></div></body></document>

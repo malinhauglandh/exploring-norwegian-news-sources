@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190311-varsler-mye-nedbor-o.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/gPgpnk/Varsler-mye-nedbor-og-vanskelige-kjoreforhold" frk="48 0 0 341 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-11 12:49"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="vær,meteorologisk institutt,nyhetsdøgnet,trafikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Varsler mye nedbør og vanskelige kjøreforhold</div>
+<div type="ingress">Etter en liten pause med sol og oppholdsvær, kommer nye, nedbørsrike døgn. Samtidig øker snøskredfaren i fjellet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vi må belage seg på noen våte og vindfulle døgn framover. Meteorologisk institutt har sendt ut farevarsel om vanskelige kjøreforhold på tirsdag. Kjartan Bjelland</p></div>
+</body></document>

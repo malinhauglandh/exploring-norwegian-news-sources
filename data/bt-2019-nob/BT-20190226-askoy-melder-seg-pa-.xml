@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190226-askoy-melder-seg-pa-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0E1nwJ/Askoy-melder-seg-pa-i-kampen-om-Det-store-bla" frk="50 15 5 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-26 12:53"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kjell Inge Røkke,Askøy kommune,Arkitektur"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Askøy melder seg på i kampen om Det store blå</div>
+<div type="ingress">No vil også Askøy kommune ha Røkke-tårnet. Havhuset vil passa perfekt ved Askøybrua, meiner ordføraren.</div>
+<div type="author"></div>
+<div type="date">2019-02-26</div>
+<div type="caption"><p>TO TÅRN: Dersom Røkke-tårnet får plass ved Askøybrua, og blir 200 meter høgt, vil det raga 40 meter over brutårnet. MONTASJE: ENDRE MAURSTAD LILLETVEDT</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190530-politiet-stengte-ute.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50W9Xb/Politiet-stengte-utested-pa-grunn-av-ungdomsfyll" frk="37 14 4 269 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-30 05:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet stengte utested på grunn av ungdomsfyll</div>
+<div type="ingress">Mange fulle ungdommer gjorde at et arrangement på nattklubben Natt ble stengt av politiet onsdag kveld.</div>
+<div type="author"></div>
+<div type="date">2019-05-30</div>
+<div type="caption"><p>STENGT: Det skal ha vært kaotiske tilstander utenfor nattklubben onsdag kveld. FOTO: 2211-TIPSER</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190119-synger-sanger-tilegn.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/wEoJzG/Synger-sanger-tilegnet-mor" frk="29 0 0 188 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-19 17:48:53"/>
+<attribute name="author" value="Arnt Olav Klippenberg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Synger sanger tilegnet mor</div>
+<div type="ingress">Kari og Synnøve Grøtteland spiller sammen så ofte de kan.</div>
+<div type="author">Arnt Olav Klippenberg</div>
+<div type="date">2019-01-19 17:48:53</div>
+<div type="caption"><p>Synger sanger tilegnet mor Kari og Synnøve Grøtteland spiller sammen så ofte de kan</p></div>
+</body></document>

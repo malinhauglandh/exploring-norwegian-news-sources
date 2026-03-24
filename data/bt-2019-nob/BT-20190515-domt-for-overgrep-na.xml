@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190515-domt-for-overgrep-na.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/Xg4zEW/Domt-for-overgrep---na-er-dommen-opphevet" frk="25 0 0 172 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-15 12:12"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Bergen tingrett,Overgrep,Høyesterett,Gulating lagmannsrett"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dømt for overgrep - nå er dommen opphevet</div>
+<div type="ingress">Den overgrepsdømte mannen følte seg forhåndsdømt. Nå har Høyesterett gitt ham medhold i at dommen må oppheves.</div>
+<div type="author"></div>
+<div type="date">2019-05-15</div>
+<div type="caption"></div>
+</body></document>

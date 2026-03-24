@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190822-test-av-arets-nye-ja.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-arets-nye-jaktrifler/71513092" frk="58 0 0 369 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-08-22 20:00"/>
+<attribute name="author" value="Abraham N. Grimstvedt / Bladet Jeger"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av årets nye jaktrifler</div>
+<div type="ingress">Utvalget av riflemodeller er stort. Stadig kommer det nye fristelser tilpasset forskjellig former for jakt og skyting. Her er noen hete stalltips blant årets nyheter, alt etter hva du jakter på. tilpasset forskjellig former for jakt og skyting. Her er noen hete stalltips blant årets nyheter, alt etter hva du jakter på.</div>
+<div type="author">Abraham N. Grimstvedt / Bladet Jeger</div>
+<div type="date">2019-08-22</div>
+<div type="caption"></div>
+</body></document>

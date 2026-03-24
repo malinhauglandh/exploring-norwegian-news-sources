@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190603-i-juni-skal-opp-til-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/MRdMpE/I-juni-skal-opp-til-115000-mennesker-pa-konsert-pa-Festningen" frk="29 31 6 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-03 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I juni skal opp til 115.000 mennesker på konsert på Festningen</div>
+<div type="ingress">Bergen Live hadde syv millioner i overskudd de siste to årene. Juni blir selskapets travleste måned noensinne.</div>
+<div type="author"></div>
+<div type="date">2019-06-03</div>
+<div type="caption"></div>
+</body></document>

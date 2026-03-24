@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190708-trafikkuhell-i-helle.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/LAaVMV/Trafikkuhell-i-Hellemyrbakken" frk="39 0 0 249 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-08 12:38"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Trafikkuhell i Hellemyrbakken</div>
+<div type="ingress">En bil med to voksne og tre barn havnet i grøfta i Hellemyrbakken mandag ettermiddag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Den høyre siden på bilen ble skadet etter å ha kommet borti steinmuren ved siden av veien. FOTO: Vegard Damsgaard</p></div>
+</body></document>

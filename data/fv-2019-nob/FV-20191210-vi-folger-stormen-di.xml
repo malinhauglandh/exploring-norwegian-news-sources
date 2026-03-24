@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191210-vi-folger-stormen-di.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/e8v9ba/Vi-folger-stormen-direkte" frk="43 0 0 267 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-10 14:55"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Vi følger stormen direkte</div>
+<div type="ingress">Det er meldt storm i landsdelen tirsdag kveld og natt til onsdag. Vi gir deg direkte oppdateringer i vårt livestudio.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>I Solta båthavn i Søgne har en båt i vinteropplag veltet i den kraftige vinden. FOTO: Eivind Kristensen</p></div>
+</body></document>

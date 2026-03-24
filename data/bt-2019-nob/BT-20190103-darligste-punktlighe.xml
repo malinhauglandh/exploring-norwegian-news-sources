@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190103-darligste-punktlighe.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/J1d1VJ/Darligste-punktlighet-for-tog-i-Norge-pa-mange-ar" frk="59 10 4 382 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-03 11:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Jernbane,Go-Ahead,InterCity"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dårligste punktlighet for tog i Norge på mange år</div>
+<div type="ingress">En myr av røde tall. Slik endte punktligheten for norsk jernbane i 2018. Punkligst i landet er lokaltoget mellom Bergen og Arna.</div>
+<div type="author"></div>
+<div type="date">2019-01-03</div>
+<div type="caption"><p>DÅRLIGST: Halden-toget er det eneste av InterCity-togene på Østlandet som har Oslo S som endestasjon. Den er også InterCity-linjen med lavest punktlighet i rushtiden. FOTO: Olav Olsen</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190823-prisrekord-i-boligma.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/Qo3EEA/Prisrekord-i-boligmarkedet-i-Bergen" frk="50 26 8 304 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-23 10:28"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eiendom,Boligmarkedet,Arkitektur,Boligsalg,Boligpriser,Privatmegleren,Kygo,Bolig"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Prisrekord i boligmarkedet i Bergen</div>
+<div type="ingress">Kygo har ikke lenger rekorden for byens dyreste bolig.</div>
+<div type="author"></div>
+<div type="date">2019-08-23</div>
+<div type="caption"><p>NY REKORD: Aldri før har en bolig i Bergen blitt omsatt for mer enn denne, som ligger på et nes i Nordåsvatnet. Like før sommeren ble hele eiendommen solgt for 43.250.000 kroner. FOTO: Bård Bøe</p></div>
+</body></document>

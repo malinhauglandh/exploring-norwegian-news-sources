@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191218-terningkast-2-filman.xml"/>
+<attribute name="url" value="http://www.nordlys.no/star-wars/kino/film/filmanmeldelse-episk-skuffelse/r/5-34-1239049" frk="23 6 1 154 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-12-18 15:48"/>
+<attribute name="author" value="Emi Kjeldsberg"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Terningkast 2: Filmanmeldelse: «Episk skuffelse»</div>
+<div type="ingress">Alle gode ting tar en gang slutt, og Star Wars burde tatt slutt for flere tiår siden.</div>
+<div type="author">Av Emi Kjeldsberg</div>
+<div type="date">18. desember 2019, kl. 15:48</div>
+<div type="caption"></div>
+</body></document>

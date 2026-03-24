@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191222-den-store-julereisen.xml"/>
+<attribute name="url" value="http://www.fvn.no/magasin/i/dO0Jbj/Den-store-julereisen" frk="53 0 0 329 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-22 10:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="magasin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Den store julereisen</div>
+<div type="ingress">Årets julereise starter i Agder. Den har en grov geografisk rød tråd, og går først nordover og så vestover. Derfra langt sørover, langt østover, og hjemover med en tur innom en annen verdensdel. I Norge kommer den inn på Østlandet og går sørover langs kysten til Agder.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>FOTO: Shutterstock</p></div>
+</body></document>

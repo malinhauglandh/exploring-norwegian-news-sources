@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190730-finanstilsynet-kriti.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/innenriks/i/MRmXJE/Finanstilsynet-kritiserer-Vipps-for-manglende-transaksjonskontroll" frk="265 2 4 1843"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-30 09:36:19"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Finanstilsynet kritiserer Vipps for manglende transaksjonskontroll</div>
+<div type="ingress">Betalingstjenesten Vipps får kritikk av Finanstilsynet for å ha manglet systemer som sjekket transaksjoner opp mot internasjonale sanksjonslister.</div>
+<div type="author">NTB</div>
+<div type="date">2019-07-30 09:36:19</div>
+<div type="caption"><p>Illustrasjonsfoto: Gorm Kallestad / NTB scanpix</p></div>
+<div type="text">
+<p>Vipps hadde Finanstilsynet på besøk i oktober i fjor. Tilsynet skulle sjekke om betalingstjenesten overholdt lover og regler med tanke på kundenes bruk av betaling og overføringer i appen, skriver Dagens Næringsliv.</p>
+<p>Tilsynet avdekket blant annet at Vipps ikke kontrollerte kundene eller betalinger opp mot internasjonale sanksjonslister – altså personer og selskaper plukket ut av FNs sikkerhetsråd og EU. I tillegg manglet selskapet systemer for å kunne identifisere såkalte politisk eksponerte personer, som for eksempel statsoverhoder og ministre.</p>
+<p>Det at Vipps ikke gjennomførte slike transaksjonskontroller, er oppsiktsvekkende, mener professor Jon Petter Rui ved Universitetet i Tromsø.</p>
+<p>– Det er like sannsynlig at det blir gjennomført transaksjoner hvor personer på sanksjonslister er involvert via Vipps, som via bankkonto. Men hvis du overfører penger til en bankkonto, vil banken sjekke navnet på partene opp mot sanksjonslistene, mens Vipps ikke har gjort det, sier han.</p>
+<p>Vipps selv svarer at selskapet har trengt tid for å stable ressursene på plass.</p>
+<p>– Siden Vipps ble etablert som eget selskap, har vi måttet bygge opp en del egne funksjoner, noe som har tatt noe tid. Kontroll mot internasjonale sanksjonslister er nå på plass, og vi har jobbet fortløpende med implementeringen siden vi ble eget selskap i 2017, skriver kommunikasjonssjef Hanne Kjærnes i Vipps i en epost til DN.</p>
+<p>– Vi gjennomfører rutinemessig transaksjonsovervåking og har god dialog med myndigheter dersom det skulle fanges opp transaksjoner som bør rapporteres, opplyser Kjærnes.</p></div></body></document>

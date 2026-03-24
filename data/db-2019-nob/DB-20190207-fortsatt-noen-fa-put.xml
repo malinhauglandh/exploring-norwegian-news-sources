@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190207-fortsatt-noen-fa-put.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/fortsatt-noen-fa-puteoyeblikk/70741384" frk="57 3 1 333 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-07 09:22"/>
+<attribute name="author" value="Tom Stalsberg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="anmeldelse,kultur,lene nystrøm,casper christensen,frank hvam,klovn,tv,tv 2,top1"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fortsatt noen få puteøyeblikk</div>
+<div type="ingress">En klovn der sminken er i ferd med å renne bort helt.</div>
+<div type="author">Tom Stalsberg</div>
+<div type="date">2019-02-07</div>
+<div type="caption"><p>KLOVN IGJEN: Onsdager i ukene framover kan du igjen bli med inn i livene til to danske familier i serien «Klovn». Serien har fortsatt sine øyeblikk, men det er langt mellom latterkulene og humring, mener vår anmelder. Video: TV 2</p></div>
+</body></document>

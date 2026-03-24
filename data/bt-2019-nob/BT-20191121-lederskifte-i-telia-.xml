@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191121-lederskifte-i-telia-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/e8vWl4/lederskifte-i-telia-norge" frk="50 3 1 323 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-21 10:15"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lederskifte i Telia Norge</div>
+<div type="ingress">Abraham Foss slutter som administrerende direktør i Telia Norge. Han erstattes av Stein-Erik Vellan, som kommer fra den samme stillingen i Telia Finland.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 21. november 2019 10:15</div>
+<div type="caption"><p>Abraham Foss, her under en pressekonferanse om 5G i Norge, takker for seg i Telia. Foto: Håkon Mosvold Larsen / NTB scanpix</p></div>
+</body></document>

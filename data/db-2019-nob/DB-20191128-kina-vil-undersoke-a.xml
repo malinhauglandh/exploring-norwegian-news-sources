@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191128-kina-vil-undersoke-a.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/kina-vil-undersoke-asteroiden-som-danser-med-jorda/71859455" frk="58 12 5 396 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-28 20:53"/>
+<attribute name="author" value="Line Brustad"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kina vil undersøke asteroiden som «danser med jorda»</div>
+<div type="ingress">Noen mener at asteroidens bevegelser er så unormale at den må være styrt av noe utenomjordisk. Nå vil Kina sende ut en sonde for å sjekke den.</div>
+<div type="author">Line Brustad</div>
+<div type="date">2019-11-28</div>
+<div type="caption"><p>- MYSTISKE BEVEGELSER: Asteroiden Kamo‘oalewa (2016 HO3) beveger seg rundt jorda, nesten identisk som månen - noe som gir grobunn for romvesen-spekulasjoner. Foto: NASA/JPL-Caltech</p></div>
+</body></document>

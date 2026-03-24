@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191128-test-av-26-juleol-fa.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/mat/test-av-26-juleol---fa-skuffelser/71847355" frk="50 12 4 321 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-28 20:58"/>
+<attribute name="author" value="Elisabeth Dalseg, Bjørn Langsem (foto)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="mat"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av 26 juleøl: - Få skuffelser</div>
+<div type="ingress">Det er mye godt å velge mellom blant årets juleøl. Dagbladet har fått eksperthjelp til å finne fram til de beste.</div>
+<div type="author">Elisabeth Dalseg, Bjørn Langsem (FOTO)</div>
+<div type="date">2019-11-28</div>
+<div type="caption"><p>SKÅL: Dagbladet har smakstestet 26 juleøl. Blant dem finner vi de tradisjonelle merkene, spesial-øl og alkoholfrie varianter. Noen skiller seg klart ut.</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190315-hva-kan-du-om-klimao.xml"/>
+<attribute name="url" value="http://junior.bt.no/quiz/i/P3km57/Hva-kan-du-om-klimaopproret" frk="10 0 0 67 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-15 09:46"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="quiz"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hva kan du om klimaopprøret?</div>
+<div type="ingress">Test deg selv her!</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">15.mar.2019 09:46</div>
+<div type="caption"></div>
+</body></document>

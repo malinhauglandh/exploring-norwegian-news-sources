@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191025-bergensselskap-besky.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/opPjE7/Bergensselskap-beskyldes-for-a-utnytte-unge-musikere" frk="38 0 0 273 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-25 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergensselskap beskyldes for å utnytte unge musikere</div>
+<div type="ingress">Made Management kritiseres for at musikerne som spiller sammen med stjerneskuddet Sigrid ikke får skriftlige kontrakter. – Vårt inntrykk er at det er praksis i bransjen, sier fagforeningsleder til BT.</div>
+<div type="author"></div>
+<div type="date">2019-10-25</div>
+<div type="caption"></div>
+</body></document>

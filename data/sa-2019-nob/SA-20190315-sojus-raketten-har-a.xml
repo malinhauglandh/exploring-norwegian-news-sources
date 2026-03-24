@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190315-sojus-raketten-har-a.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/utenriks/i/4d504a/Sojus-raketten-har-ankommet-ISS" frk="53 0 0 380 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-15 10:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sojus-raketten har ankommet ISS</div>
+<div type="ingress">Romfartøyet Sojus med to astronauter og en kosmonaut om bord har ankommet Den internasjonale romstasjonen (ISS) etter en vellykket oppskyting.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Et Sojus-romfartøy ble torsdag skutt opp fra Kasakhstan for å frakte to amerikanske astronauter og en russisk kosmonaut til Den internasjonale romstasjonen (ISS). Foto: AP / NTB scanpix</p></div>
+</body></document>

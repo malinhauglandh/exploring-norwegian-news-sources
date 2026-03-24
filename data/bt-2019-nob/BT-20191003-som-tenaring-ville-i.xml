@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191003-som-tenaring-ville-i.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mzBv1/Som-tenaring-ville-ikke-jenten-tie-mer-Det-er-noe-jeg-bare-ma-si" frk="36 0 0 200 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-03 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Som tenåring ville ikke jenten tie mer: «Det er noe jeg bare må si».</div>
+<div type="ingress">I nabolaget i Bergen var mannen venn med jentens familie. Nå er han dømt til fengsel for flere år med overgrep.</div>
+<div type="author"></div>
+<div type="date">2019-10-03</div>
+<div type="caption"></div>
+</body></document>

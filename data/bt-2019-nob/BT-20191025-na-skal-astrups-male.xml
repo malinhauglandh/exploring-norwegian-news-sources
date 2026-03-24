@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191025-na-skal-astrups-male.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Xgn64m/Na-skal-Astrups-malerier-stilles-ut-utenfor-Europa-for-forste-gang" frk="24 0 0 168 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-25 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nå skal Astrups malerier stilles ut utenfor Europa for første gang</div>
+<div type="ingress">Den store utstillingen viser frem Astrup-verk som aldri tidligere har blitt vist.</div>
+<div type="author"></div>
+<div type="date">2019-10-25</div>
+<div type="caption"></div>
+</body></document>

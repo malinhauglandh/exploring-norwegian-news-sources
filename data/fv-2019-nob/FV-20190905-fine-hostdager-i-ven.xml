@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190905-fine-hostdager-i-ven.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/Joqzkb/Fine-hostdager-i-vente" frk="48 0 0 292 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-09-05 13:21"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fine høstdager i vente</div>
+<div type="ingress">Starten på helga blir grå og våt, men så lover meteorologen en pause fra regnværet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ifølge meteorologen får vi en pause fra regnværet i helga. Søndagen peker seg ut som den beste dagen, med mye sol og lite vind. FOTO: Eirin Margrethe Fidje/arkivfoto</p></div>
+</body></document>

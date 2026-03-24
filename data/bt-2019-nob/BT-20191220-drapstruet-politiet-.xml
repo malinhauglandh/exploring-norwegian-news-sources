@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191220-drapstruet-politiet-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/y3pgKe/Drapstruet-politiet_-slapp-fengsel-fordi-han-har-sittet-i-fengsel" frk="34 12 3 231 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-20 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Drapstruet politiet, slapp fengsel fordi han har sittet i fengsel</div>
+<div type="ingress">Retten mente 100 dager i fengsel var passende straff, men mannen slapp med samfunnsstraff fordi han har vært fengslet etter flukt fra hjemlandet.</div>
+<div type="author"></div>
+<div type="date">2019-12-20</div>
+<div type="caption"></div>
+</body></document>

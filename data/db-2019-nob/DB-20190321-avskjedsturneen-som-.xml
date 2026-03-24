@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190321-avskjedsturneen-som-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/avskjedsturneen-som-aldri-ble-noe-av/70885009" frk="60 34 13 372 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-21 20:57"/>
+<attribute name="author" value="Amanda Strand Askeland"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="kultur,this is it,comeback,pluss,o2 arena,michael jackson,musikk,neverland,london"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Avskjedsturneen som aldri ble noe av</div>
+<div type="ingress">Med 50 konserter, 700 dansere og én afrikansk elefant skulle Michael Jackson gjøre tidenes comeback. 13 dager før, døde han.</div>
+<div type="author">Amanda Strand Askeland</div>
+<div type="date">2019-03-21</div>
+<div type="caption"><p>COMEBACK: 5 mars 2009 holdt Michael Jackson en pressekonferanse i London for å fortelle om comeback-turneen som skulle finne sted i O2 Arena til sommeren samme år. Foto: Joel Ryan / AP Photo</p></div>
+</body></document>

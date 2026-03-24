@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190413-foreldre-fikk-grov-s.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/foreldre-fikk-grov-sexmelding-fra-skolen---uakseptabelt/70979578" frk="878 0 4 5439"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-13 13:37"/>
+<attribute name="author" value="Nicolai Eriksen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,sms-varsling,innenriks,skole,utdanningsetaten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Foreldre fikk grov sexmelding fra «skolen»: - Uakseptabelt</div>
+<div type="ingress">Høybråten skole får ingen stjerne i boka etter at foreldrene mottok sjokk-SMS.</div>
+<div type="author">Nicolai Eriksen</div>
+<div type="date">2019-04-13</div>
+<div type="caption"><p>SJOKK-SMS: Seint fredag kveld mottok foreldre til elever ved Høybråten skole i Oslo en grov SMS, tilsynelatende sendt fra skolen. Foto: Audun Braastad / NTB scanpix</p> <p>GROV SMS: Denne tekstmeldingen ble sendt ut til foresatte ved Høybråten skole i Oslo seint fredag kveld. Skjermdump: Privat</p> <p>SVARER IKKE: Ledelsen ved Høybråten skole har ikke besvart Dagbladets henvendelser. Foto: Audun Braastad / NTB scanpix</p></div>
+<div type="text">
+<p>«Hei foresatte ved Høybråten skole. I kveld har mange mottatt en melding med uakseptabelt innhold.»</p>
+<p>Slik innleder skoleledelsen ved Høybråten barneskole i Oslo en mail til alle foresatte seint lørdag kveld. Massemailen ble sendt ut etter at skoleelevenes foreldre klokka 21.50 samme kveld hadde fått en sjokkerende melding. Meldingen var tilsynelatende sendt fra skolens system for SMS-varsling:</p>
+<p>- En ting er å skrive noe sånt, men tenk om noen hadde skrevet noe helt annet som kunne skapt panikk blant foreldrene. Tenk hvordan det ville skadet skolens omdømme. Høybråten skole har et godt rykte og bra omdømme i nærmiljøet, men dette er ikke akkurat en stjerne i boka, sier faren til en av skolens elever til Dagbladet. Vedkommende ønsker å være anonym.</p></div>
+<div type="title" level="3">Avviser at de sendte SMS</div>
+<div type="text">
+<p>Han håper at skolen lykkes med å finne den som er ansvarlig, men er likevel mer opptatt av at de finner ut av hvordan det er mulig at systemet blir misbrukt på denne måten.</p>
+<p>- Ting skal være digitalt, og man blir bedt om å benytte seg av digitale løsninger, men da må man også kunne vite at sikkerheten er god nok, sier han.</p>
+<p>Meldingen ble ifølge skolen sendt fra Teletopia SkoleSMS, som er en løsning for masseutsending av viktig informasjon over tekstmelding.</p>
+<p>Systemet er tilgjengelig for alle Oslo-skoler, og det skal i utgangspunktet bare være ansatte ved skolen som har tilgang. Det anses imidlertid som lite trolig at meldingen ble sendt fra personen som brukerkontoen tilhører.</p>
+<p>Skolens ledelse avviser kontant at meldingen kommer fra skolen.</p>
+<p>«Denne meldingen kommer ikke fra Høybråten Skole. Vi har informert Utdanningsetaten om hendelsen i kveld. Vi beklager for denne hendelsen. Vi ønsker dere en riktig god påske videre», skriver skolens ledelse i mailen som ble sendt ut til skolens foresatte i går kveld.</p></div>
+<div type="title" level="3">Sendte informasjon til foresatte</div>
+<div type="text">
+<p>Det har ikke lyktes Dagbladet å få en kommentar fra Ricke Müller, som er rektor ved Høybråten skole. Skolens undervisningsinspektør Christer Sundby har imidlertid følgende å si:</p>
+<p>- Det er riktig at noen har sendt en SMS til foresatte på skolen via Teletopia sitt system. Vi tok derfor kontakt med Teletopia med en gang, skriver Sundby i en SMS til Dagbladet.</p>
+<p>Teletopia blokkerte brukeren, slik at det ikke kunne sendes flere meldinger.</p>
+<p>- Vi sendte også informasjon til alle ansatte og foresatte, skriver Sundby.</p></div>
+<div type="title" level="3">- Håndteres internt</div>
+<div type="text">
+<p>Dagbladet er kjent med at med at meldingen skal ha blitt sendt via en autentisert bruker. Det er imidlertid ikke kjent hvordan noen har skaffet tilgang til denne kontoen dersom det ikke er sendt fra den konkrete brukeren. Autentiseringen går via tjenesten Feide, som tilbyr sikker innlogging og datadeling i utdanning og forskning.</p>
+<p>Feide, som er et samarbeidsprosjekt mellom Utdanningsdirektoratet, Unit og Uninett, brukes for å autentisere hvem som faktisk er ansatt eller elev/student ved en skole. Dersom uvedkommende har skaffet tilgang til SMS-tjenesten, kan de potensielt også ha hatt tilgang til flere tjenester den aktuelle ansatte ved skolen har tilgang til. Det er imidlertid ukjent om det er tilfellet i denne saken.</p>
+<p>Sundby legger til at skolen jobber med å finne ut av hva som har skjedd.</p>
+<p>- Det vil vi håndtere internt.</p></div>
+<div type="title" level="3">Ikke hacking</div>
+<div type="text">
+<p>Teletopia, som leverer tjenesten SkoleSMS til Oslo kommune, avviser at noen har brutt seg inn i deres system gjennom et cyberangrep. De avviser også at systemet har blitt stengt ned på noe tidspunkt.</p>
+<p>Håkon Evensen, daglig leder i Teletopia Interaktiv, sier til Dagbladet at de undersøkte hendelsen umiddelbart i går kveld.</p>
+<p>- Vi kjenner ikke hendelsesforløpet som ledet til at noen fikk tilgang til Feide, men det er ikke snakk om et sikkerhetshull eller hacking av vår tjeneste. Det er vi sikre på, sier Evensen.</p>
+<p>Han understreker at de ikke har stengt ned systemet på noe tidspunkt, men at de blokkerte den aktuelle brukerkontoen.</p></div>
+<div type="title" level="3">- Kritikkverdig</div>
+<div type="text">
+<p>Utdanningsetaten i Oslo kommune ble varslet om hendelsen i går kveld, og har allerede tatt grep.</p>
+<p>- Vi fikk beskjed seint i går kveld om at det var sendt ut en slik melding. Da ba vi Teletopia undersøke hva som kan ha skjedd. De stengte ned brukeren for skolen, slik at det ikke kan sendes flere meldinger mens de undersøker saken, sier Trine Lie Larsen, kommunikasjonsdirektør i Utdanningsetaten, til Dagbladet.</p>
+<p>Den foresatte Dagbladet har vært i kontakt med er kritisk til at noen har fått tilgang til systemet.</p>
+<p>- Det er svært kritikkverdig at noen klarer å bryte seg inn i et slikt system, sier han og legger til:</p>
+<p>- Jeg synes det var en ekstremt dårlig spøk, hvis det var det som var tanken. Nå må de se på dem som leverer disse tjenestene.</p>
+<p>Det er imidlertid ingen opplysninger som tyder på at tjenesteleverandørene har gjort noe galt.</p>
+<p>* I en tidligere versjon av denne saken ble det uttalt at Teletopia hadde tatt ned hele systemet, som følge av SMS-en. Det stemmer ikke. Teletopia blokkerte den aktuelle brukerkontoen.</p></div></body></document>

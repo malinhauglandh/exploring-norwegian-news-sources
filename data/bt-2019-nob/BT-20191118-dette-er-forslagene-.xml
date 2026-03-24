@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191118-dette-er-forslagene-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JevkM/Dette-er-forslagene-som-skal-stanse-masseturisme-og-utslipp-fra-turistnaringen" frk="22 0 0 172 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-18 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er forslagene som skal stanse masseturisme og utslipp fra turistnæringen</div>
+<div type="ingress">Reiselivsnæringen foreslår å skru opp prisene for turister i høysesongen.</div>
+<div type="author"></div>
+<div type="date">2019-11-18</div>
+<div type="caption"></div>
+</body></document>

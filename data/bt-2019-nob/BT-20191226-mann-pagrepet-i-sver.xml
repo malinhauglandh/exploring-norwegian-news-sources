@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191226-mann-pagrepet-i-sver.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/Jo23OJ/mann-paagrepet-i-sverige-for-drap-i-hokksund" frk="48 6 2 288 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-26 17:35"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann pågrepet i Sverige for drap i Hokksund</div>
+<div type="ingress">Mannen som er siktet for drapet på en mann i 70-årene i Hokksund lille julaften, er pågrepet i Arvika i Sverige. Mannen er begjært utlevert til Norge.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 26. desember 2019 17:35</div>
+<div type="caption"><p>Mannen ble funnet død lille julaften. Foto: Terje Bendiksby / NTB scanpix</p></div>
+</body></document>

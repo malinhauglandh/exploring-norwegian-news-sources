@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191012-dette-skjedde-i-natt.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/LAdejq/Dette-skjedde-i-natt" frk="80 4 2 495 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-12 05:45:12"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette skjedde i natt</div>
+<div type="ingress">Dette er de viktigste nyhetene fra natt til lørdag 12. oktober.</div>
+<div type="author">NTB</div>
+<div type="date">2019-10-12 05:45:12</div>
+<div type="caption"><p>Foto: Gorm Kallestad / NTB scanpix</p> <p>Foto: AP / NTB scanpix</p> <p>Foto: AP / NTB scanpix</p> <p>Foto: AP / NTB scanpix</p></div>
+<div type="title" level="3">Truet for å ha spist hest</div>
+<div type="title" level="3">Våpenhvile i handelskrig</div>
+<div type="title" level="3">Fonda pågrepet</div>
+<div type="text">
+<p>Under en appell under demonstrasjonen kalte Fonda klimaforandringene for en «krise som krever kollektiv handling nå».</p></div>
+<div type="title" level="3">Tyrkia feilbombet</div>
+<div type="text">
+<p>Ingen soldater ble truffet og de amerikanske styrkene på basen har ikke vært berørt.</p></div></body></document>

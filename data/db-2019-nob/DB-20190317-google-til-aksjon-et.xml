@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190317-google-til-aksjon-et.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/google-til-aksjon-etter-dagbladet-avsloring/70764373" frk="838 1 10 5331"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-17 12:06"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="innenriks,nyheter,google,dataangrepet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Google til aksjon etter Dagbladet-avsløring</div>
+<div type="ingress">Søkegiganten har satt i sving sitt internasjonale ekspertapparat for å undersøke norske piratsider.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-03-17</div>
+<div type="caption"><p>LURER GOOGLE: Dette skjermbildet viser fire spam-sider med stjålet innhold fra NRK, som er indeksert hos Google. Google tror nettsidene viser det opprinnelige innholdet fra NRK. Ser du på url-teksten i grønn skrift, ser du at innholdet ligger på spam-sidene, ikke på nrk.no. Foto: Dagbladet</p> <p>PRESSESJEF: Mark Jansen i Google. Foto: Google</p> <p>- INTERESSANTE FUNN: Mona Strøm Arnøy fotografert utenfor Nasjonal sikkerhetsmyndighet (NSM) sine lokaler i Kolsås leir. Hun betegner Dagbladets funn som interessante. Foto: Lars Eivind Bones / Dagbladet</p></div>
+<div type="text">
+<p>Bakgrunnen er Dagbladets avsløring av at nettpirater i flere måneder har angrepet og stjålet innhold fra de fleste av Norges største aviser, offentlige nettsteder som Statens Vegvesen og Fylkesmannen.no og utenlandske nettsteder som BBC.</p>
+<p>Totalt har Dagbladet funnet at over 80 000 nettsider er angrepet. Dagbladets undersøkelser viser at forretningsmodellen til spam-piratene er å bruke det stjålne innholdet til å bli «indeksert» hos Google – altså at det dukker opp når nettbrukere søker på noen av ordene i de originale artiklene.</p>
+<p>Eksempelvis har nettpiratene stjålet innholdet i VGs fotball-livestudio – slik at om Manchester United møter Paris St. Germain, og du søker på «Manchester Paris VG live» på Google for å få opp VGs live-dekning av storkampen, risikerer du å havne på en av piratenes spam-sider.</p></div>
+<div type="title" level="3"> Lurte Google</div>
+<div type="text">
+<p>Slik lurer spam-piratene Google. Google tror at de kaprede nettstedene viser det originale innholdet – altså artiklene fra Dagbladet, VG eller NRK.</p>
+<p>I stedet viser spam-sidene annonser som nettbrukerne ikke klarer å komme seg bort fra om de ikke lukker nettleseren. Annonsene er gjerne utformet som «konkurranser» som lokker med at du eksempelvis kan vinne en smarttelefon. Disse konkurransene blir brukt til å lure folk til å gi fra seg mobilnummer og e-postadresse.</p>
+<p>Hvordan er det mulig at nettpiratene klarer å lure Google - på søkegigantens egen hjemmebane?</p>
+<p>Det spørsmålet vil ikke Google svare på direkte.</p>
+<p>- Vi kan ikke kommentere enkeltsaker, opplyser Helle Skjærvold, Googles pressesjef i Norge.</p></div>
+<div type="title" level="3">- Viktig å handle</div>
+<div type="text">
+<p>Dagbladet er kjent med at Google tidligere har fått henvendelser om de aktuelle spam-sidene – uten at giganten har aksjonert.</p>
+<p>Men etter at Dagbladet delte de over 80 000 nettstedene med Google har IT-giganten tatt affære.</p>
+<p>Dagbladet får bekreftet at Google aktivt vurderer disse domenene, og allerede har tatt grep mot flere av dem.</p>
+<p>Geir Wiksén, teknologidirektør i Aller Media – som eier Dagbladet, sier det er viktig at Google tar affære.</p>
+<p>- Vi opplever lignende situasjoner som dette ofte, men ikke i samme skala som vi har sett i dette tilfellet. Omfanget og systematikken i denne situasjonen gjør det potensielt ødeleggende for vår merkevare og tilliten til den jobben vi gjør. Det er et forsøk på å villede brukerne våre ved å stjele vårt innhold samtidig som man fremstår med vår logo og profil, sier Geir Wiksen.</p>
+<p>- Hvorfor er det viktig å fjerne dette innholdet fra Google?</p>
+<p>- Det er ekstremt viktig. Google er den desidert mest brukte søkemotoren i verden. Veldig mange bruker Google som sin inngangsport til å finne innhold på Internett. Ved å få dette innholdet fjernet fra Google, vil i praksis gjøre det umulig for de aller fleste brukere av nettet. Dermed unngår vi at både vi og våre lesere blir misbrukt og lurt.</p></div>
+<div type="title" level="3">- Griper inn</div>
+<div type="text">
+<p>Etter at Google i Norge først mottok henvendelsen, valgte Googles lokale representanter å ta den videre oppover i storkonsernet. Nå håndteres saken av selskapets spesialtrente Trust &amp; Safety-avdeling.</p>
+<p>Mark Jansen, kommunikasjonssjef for Google i Nord-Europa, skriver i en e-post til Dagbladet at Google kjemper mot spam og kopiert innhold på mange måter.</p>
+<p>- For det første er systemene våre skrudd sammen for å løfte frem originalt innhold, skriver Jansen i en e-post.</p>
+<p>- Slikt innhold oppnår typisk ikke topplasseringer i Google-søk, det er det originalt innhold som gjør. For det andre griper vi konkret inn mot innhold som bryter med lokal lovgivning, når vi blir gjort oppmerksom på dette av opphavsrettslige eiere. For det tredje håndhever vi retningslinjene våre for å motarbeide web-spam. I disse tilfellene foretrekker vi å forstå mest mulig om det gitte misbruket, for så å forbedre systemene våre slik at vi kan bedre måten vi bekjemper aktører med dårlige hensikter, sier Jansen.</p>
+<p>- Dette betyr at det noen ganger tar litt tid før spam-innholdet forsvinner, men på sikt gir det et bedre sluttresultat. Sist men ikke minst griper vi i noen tilfeller spesifikt inn mot konkrete aktører som misbruker systemene.</p></div>
+<div type="title" level="3">NSM: - Interessant</div>
+<div type="text">
+<p>Mona Strøm Arnøy, avdelingsdirektør i Nasjonal sikkerhetsmyndighet (NSM), betegner overfor Dagbladet funnene som interessante.</p>
+<p>- Det er interessante funn dere viser til. Dette er nok automatisk generert i en hensikt som vi bare kan spekulere i. Det er viktig for den som opplever dette å ta kontakt med det selskapet som hoster nettsiden. Dette er en rettighetskrenkelse de må rydde opp i. Det er viktig også å varsle Google om at søket er manipulert, så de kan fjerne det. Det er hostingselskapet som må rydde opp her, sier Arnøy.</p>
+<p>Hun slår fast:</p>
+<p>- Vi vil gjerne ha informasjon om denne type hendelser.</p></div></body></document>

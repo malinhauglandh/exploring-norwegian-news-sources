@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190104-hun-avslorer-hackere.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/7lkq73/hun-avsloerer-hackere-advarer-mot-angrep-i-norske-hjem" frk="1224 2 16 6847"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-04 19:18"/>
+<attribute name="author" value="Bjørn Haugan"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Hacking, Økonomi, Næringsliv, Svindel, Nyheter, Innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hun avslører hackere: Advarer mot angrep i norske hjem</div>
+<div type="ingress">SYKKYLVEN (VG) Etisk hacker Elisabet Haugsbø mener norske hjem og bedrifter er svært dårlig sikret mot hackerangrep. – De fleste låser dørene til huset sitt, men de lar døren til data og pc-en stå åpen, sier hun.</div>
+<div type="author">Bjørn Haugan</div>
+<div type="date">2019-01-04 19:18:37</div>
+<div type="caption"></div>
+<div type="text">
+<p>– I høst var jeg i kontakt med en leder i et norsk byggselskap, hvor hele datasystemet og PC-ene gikk i svart for alle ansatte. Like etter fikk han en melding fra en hacker, som krevde penger. Han sa at systemet ville komme opp og stå igjen, straks pengene var overført, sier Haugsbø til VG.</p>
+<p>Hun jobber med datasikkerhet i DNV GL (tidligere Det Norske Veritas) og hjelper bedrifter med å sikre datasystemene sine.</p>
+<p>– Det satte lederen i byggselskapet under et voldsomt press, fordi de raskt måtte opp igjen. Heldigvis hadde de en god backup-løsning, som gjorde at han kunne be utpresseren ryke og reise, forteller hun.</p>
+<p>– Dessverre er det ikke noe enestestående tilfelle. Hackere er i dag ikke synonymt med datatullinger som liker å leke seg med å bryte seg gjennom brannmurer. De er kyniske dataeksperter som har som mål å tjene penger blant annet gjennom utpressing og å selge data de henter ut. Det er blitt big business, sier Haugsbø, som er en av landets fremste etiske hackere, altså det motsatte; hackere som bruker kunnskapen sin til å avsløre hackere og påvise svakheter som gir uønsket tilgang til datasystemer.</p>
+<p>Mærsk: Angrepet kostet 200 – 300 millioner dollar</p></div>
+<div type="title" level="3"> – Pinlig</div>
+<div type="text">
+<p>Haugsbø sier det også vil ramme vanlige folk, fordi man ikke oppdaterer ruteren sin hjemme.</p>
+<p>– Den må oppgraderes jevnlig, men få gjør det. Hvis du ikke oppgraderer ruteren din hjemme, lar du i realiteten døren din stå helt åpen: Uvedkommende kan da lett ta seg inn i iPaden din, i pc-en, jobb-pc-en og kontrollere ovnene eller varmepumpen din.</p>
+<p>– Er det hackere som driver med slikt i Norge?</p>
+<p>– Ja, det vet vi, men det er få som vil fortelle om det, fordi det er så pinlig. Poenget er at mange av hackerne har skjønt at det er lettere å få ut penger av små og mellomstore bedrifter eller privatpersoner; de går etter de lavthengende fruktene hvor det er lettere å komme seg inn, fremfor i store selskaper som ofte har bedre datasikkerhet.</p>
+<p>– Og så presser de dem for penger?</p>
+<p>– Ja, det er hele poenget med hackingen. De fleste blir desperate når dataanlegget rammes og er villige til å gjøre det meste for å få det opp å stå igjen.</p>
+<p>– Men der har jeg ett godt råd: Ikke betal penger. Har de først kommet seg inn, har de laget nye åpninger i murene, som gjør at de kan komme seg inn igjen.</p>
+<p>– Hva gjør man da?</p>
+<p>– Søker faglig hjelp for å løse utfordringen.</p>
+<p>VG ble med Haugsbø til Sykkylven Stål , hvor sjefen Karl Inge Rekdal har sagt ja til at hun skal forsøke å hacke seg inn i industribedriftens datasystemer for å forebygge at det kan skje i fremtiden. Sykkylven Stål leverer hvilestolsløsninger nasjonalt og internasjonalt, samt komponenter til maritim bransje.</p></div>
+<div type="title" level="3">Ble forsøkt lurt</div>
+<div type="text">
+<p>Han ble forsøkt svindlet for noen uker siden.</p>
+<p>– Se her, sier han og sender over en utskrift av en e-post han fikk 6. desember.</p>
+<p>Den viser at han har sendt en e-post til sin økonomisjef, hvor Rekdal spør om det er ok å overføre 55.700 euro til England i dag.</p>
+<p>Han skriver at han vil sende mottagerens detaljer, slik at de kan håndteres.</p>
+<p>– Problemet var at jeg aldri hadde sendt en slik e-post til vår økonomisjef. Noen hadde greid å overta min e-postadresse og sende e-post i mitt navn. Heldigvis reagerte økonomisjefen, og pengene ble aldri overført.</p>
+<p>Haugsbø setter seg ned med PC-en og jobber. Når hennes dataprogram er i gang, går hun en runde hos bedriften – for å lete etter passord.</p>
+<p>– Ofte har ansatte passord liggende lett tilgjengelig på en lapp på bordet eller andre lett tilgjengelige steder.</p>
+<p>Hun fant ingen lapper denne gangen.</p>
+<p>– Hva gjør en hacker for å komme seg inn?</p>
+<p>– Den vanligste metoden er at de sender en fisk - en e-post med et vedlegg. Det holder at en av de ansatte klikker på linken. De ansatte er alltid det svakeste leddet i kjeden. Kommer hackeren seg inn, krypterer de en fil på disken din, sprer virus og er i gang.</p>
+<p>– Spydfisking er en annen metode. Da har hackeren fulgt med på en i bedriften, eksempelvis sett bilder på Facebook, hvor vedkommende har lagt ut bilder av at han har besøkt i en bedrift i Asia. Da har hackeren fått den hjelpen han trenger, til å sende e-post i vedkommendes navn, til bedriften i Asia. Det gir godt grunnlag for svindel.</p></div>
+<div type="title" level="3"> – Vi lunsjer – hun leter</div>
+<div type="text">
+<p>Mens VG tar lunsj, leter hun, men finner ikke så mye. Dette er status etter noen timer:</p>
+<p>– Jeg har funnet en stor svakhet, som er helt vanlig i norske bedrifter. De har et gjestenettverk og ett nettverk for hele bedriften, hvor blant annet e-post, nett og produksjon ligger. Det betyr at jeg ved å komme meg inn i bedriftens nettverk, kan skaffe meg tilgang til å stenge ned maskinene. Jeg vil sterkt anbefale at bedriftens nettverk deles i minst to – i tillegg til gjestenettverket, slik at de bedre sikrer selve produksjonen. Det er krise å få en hacker inn i bedriftsnettet, men mye verre hvis han greier å stanse produksjonen, sier hun og legger til:</p>
+<p>– Fordelen er det at koster veldig lite å gjøre noe med.</p>
+<p>Bedriftseier Rekdal smiler fra øre til øre.</p>
+<p>– Vi har fått sjekket vårt system og hun har funnet et feil som vi straks kommer til å gjøre noe med. Å betale noen tusenlapper for å skille maskinene fra resten av datalinjene, gjør vi med glede. Det kan koste oss millioner hvis produksjonen rammes, sier Rekdal, som også er leder for forumet for små og mellomstore bedrifter i NHO.</p>
+<p>– Vi favner 99 prosent av norske bedrifter. Mange bedrifter av denne størrelsen har færre ressurser, og de samme personene må fylle flere roller samtidig, sier han.</p></div>
+<div type="title" level="3"> – De er flinke til å skjule sine spor</div>
+<div type="text">
+<p>Haugsbø sier bedriftene må bli mye mer bevisste.</p>
+<p>– Tro meg, det er hackere der ute som hele tiden prøver seg på norske bedrifter. Og tro ikke at det bare er de store bedriftene som rammes - vår erfaring er at mange hackere går etter små og mellomstore bedrifter, fordi det er lettere. Mange små beløp blir samlet til store summer.</p>
+<p>– Hvordan skjuler hackerne seg?</p>
+<p>– Fiktive adresser og kontoer. De er flinke til å skjule sine spor.</p>
+<p>Haugsbø sier de siste tallene viser at det tar 99 dager fra en hacker kommer seg inn i it-systemene til det blir oppdaget.</p>
+<p>The Untold Story of NotPetya, the Most Devastating Cyberattack in History</p>
+<p>– Det er lang tid som gir en hacker tilgang til masse spennende informasjon. En norsk bedrift oppdaget at noen hadde vært inne og stjålet skipstegninger. Det var veldig vanskelig å oppdage, men de gjorde det til slutt, da de oppdaget at filer bedriften hadde fjernet gjentatte ganger, dukket opp igjen.</p>
+<p>Hun ber bedriftene tenke slik:</p>
+<p>– Har du fem sikkerhetsvakter som passer på at uvedkommende ikke fysisk kommer inn i bedriften, bør du ha like mange som passer på datasikkerheten.</p></div></body></document>

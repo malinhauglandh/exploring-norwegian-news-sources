@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190126-naf-test-av-takbokse.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/bil-baat-og-motor/i/0ERnno/naf-test-av-takbokser-styr-unna-disse" frk="43 0 0 268 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-26 04:45"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,bil-baat-og-motor"/>
+<attribute name="class2" value="Test, Bil, NAF, Biltema, Jula, Ski, Forbruker, Bil, båt og motor"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NAF-test av takbokser: Styr unna disse</div>
+<div type="ingress">Hvor kollisjonssikker er takboksen på taket ditt? NAF har testet ni takbokser og konkludert med at mange av dem kan være direkte trafikkfarlige. Sjekk hvilke du bør velge og hvilke NAF mener du bør styre unna.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

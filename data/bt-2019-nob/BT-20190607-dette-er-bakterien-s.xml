@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190607-dette-er-bakterien-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3bA9E/Dette-er-bakterien-som-er-pavist-hos-pasientene" frk="562 29 110 3667" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-07 16:14"/>
+
+<attribute name="author" value="Julianne Bråten Mossing"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Folkehelseinstituttet,Salmonella,Sykdom"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er bakterien som er påvist hos pasientene</div>
+<div type="ingress">Campylobacter er påvist hos flere pasienter fra Askøy.</div>
+<div type="author">Julianne Bråten Mossing</div>
+<div type="date">7. juni 2019 16:14</div>
+<div type="caption"><p>MAGEBAKTERIE: Campylobacter er den vanligste årsaken til mageinfeksjoner i Norge. FOTO: Science Photo Library / KKO</p> <p>E. COLI: Det er påvist E. coli i høydebassenget, som indikerer forurensning av andre bakterier. Kommunen venter på flere prøvesvar. Rune Sævig</p></div>
+<div type="text">
+<p>Det opplyser Haukeland Universitetssykehus fredag ettermiddag.</p>
+<p>Prøver gjort av avføringen til de innlagte personene på Haukeland, viser funn av Campylobacter.</p>
+<p>Prøvesvar gjort av vannet i Øvre Kleppe-området viste funn av E. coli. Bakterien er funnet både hjemme hos folk og i et høydebasseng.</p>
+<p>E. coli finnes i avføring, og var en indikasjon på at vannet ville være forurenset av også andre bakterier. Etter all sannsynlighet er det Campylobacter som har gjort folk syke.</p></div>
+<div type="title" level="3">Smitter sjelden mellom folk</div>
+<div type="text">
+<p>Campylobacter er en av de mest vanlige bakteriene som overføres gjennom mat eller drikke i Norge, ifølge Folkehelseinstituttet.</p>
+<p>Flere tusen blir smittet av bakterien i året i Norge.</p>
+<p>En vanlig smittemåte er gjennom vann.</p>
+<p>Bakterien er vanlig i tarmen hos husdyr, ville fugler og ville dyr. Det er bare mennesker som blir syke.</p>
+<p>I sjeldne tilfeller smitter bakteriene gjennom dårlig håndhygiene.</p></div>
+<div type="title" level="3">Gir diaré og magesmerter</div>
+<div type="text">
+<p>Flere av innbyggerne i Askøy har opplevd feber, diaré og oppkast. 27 personer har vært innlagt på Haukeland sykehus. På Kleppe skole var 70 elever hjemme fredag.</p>
+<p>Tarminfeksjonen campylobacteriose gir ifølge helsenorge.no symptomer noen dager etter man er smittet. Få bakterier skal til for at et menneske skal bli smittet.</p>
+<p>Moderat feber, dårlig allmenntilstand, diaré og magesmerter er vanlige symptomer på sykdommen.</p>
+<p>Folkehelseinstituttet anbefaler nøye vask av hender etter toalettbesøk.</p></div>
+<div type="title" level="3">Går raskt over</div>
+<div type="text">
+<p>Det er ikke uvanlig at bakterien skilles ut i avføringen i to til fem dager etter sykdomsforløpet har startet, ifølge helsenorge.no.</p>
+<p>Folkehelseinstituttet anbefaler barn å vente 48 timer med å gå i barnehagen etter at de er symptomfrie.</p>
+<p>Det er sjelden de som blir smittet har symptomer lenger enn en uke, og infeksjonen vil som regel gå over av seg selv.</p>
+<p>Familiemedlemmer eller andre som har vært nær den syke, trenger vanligvis ikke undersøkes dersom de ikke har symptomer.</p></div>
+<div type="title" level="3">Få vannbårne utbrudd </div>
+<div type="text">
+<p>Forrige store utbrudd av Campylobacter var på Røros i 2007.</p>
+<p>– Det har vært få vannbårne utbrudd i Norge de siste årene, og ingen store utbrudd siden 2007, skriver Helena Niemi Eide, lege ved Folkehelseinstituttet ved avdeling for smitte fra mat, vann og dyr, i en e-post til BT.</p>
+<p>Deretter må man tilbake til 1995 og til Verdal, da 600 personer ble syke i et utbrudd forårsaket av Campylobacter.</p>
+<p>I Norge og andre land har det blitt vanligere med tarminfeksjon med Campylobacter enn Salmonella-infeksjoner, ifølge helsenorge.no.</p></div>
+<div type="title" level="3">Fakta: STORE VANNBÅRNE UTBRUDD I NORGE </div>
+<div type="text">
+<p>1945 Elverum, dysenteriliknende plager med cirka 4000 syke</p>
+<p>1956 Bærum med cirka 10 000 syke forårsaket av Salmonella entertidis</p>
+<p>1955 Soknadalen med 182 rapporterte tilfeller forårsaket av hepatitt A-virus</p>
+<p>1975 Solgården i Spania med cirka 100 syke forårsaket av Shigella sonnei</p>
+<p>1978 Brandbu med cirka 400 syke forårsaket av Shigella sonnei</p>
+<p>1981 Narvik med cirka 2000 syke forårsaket av Campylobacter</p>
+<p>1984 Sortland med cirka 600 syke forårsaket av Campylobacter</p>
+<p>1994 Stjørdal med cirka 600 syke forårsaket av Campylobacter</p>
+<p>1995 Verdal med cirka 400 syke forårsaket av Campylobacter</p>
+<p>1999 Herøy med 54 syke forårsaket av Salmonella Typhimurium</p>
+<p>2004 Bergen med 1300 registrerte syke forårsaket av Giardia lamblia</p>
+<p>2007 Røros med anslagsvis 2000 syke forårsaket av Campylobacter</p>
+<p>Kilde: Folkehelseinstituttet</p>
+<p>X</p></div></body></document>

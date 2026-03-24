@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190122-solenergi--elbil--sa.xml"/>
+<attribute name="url" value="http://nordnorskdebatt.no/article/solenergi-elbil-sant" frk="1049 6 46 6685"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-01-22"/>
+<attribute name="author" value="Clara Good"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Solenergi + elbil = sant</div>
+<div type="ingress"></div>
+<div type="author">Clara Good Postdoktor / UiT / ARC</div>
+<div type="date">22. januar 2019</div>
+<div type="caption"><p>Våre forskningsresultater viser at energiutbyttet fra solceller på egnede arealer på bygninger ville gi mer enn nok energi til å dekke energibehovet for en helt elektrisk personbilpark i Tromsø det meste av året, skriver kronikkforfatterne. Illustrasjon: Colourbox</p></div>
+<div type="text">
+<p>Overgangen til elektrisk transport har et stort potensial for å redusere både lokal luftforurensning og verdens utslipp av klimagasser, gitt at ladingen skjer med fornybar energi. Takket være tydelig og målrettet tilrettelegging fra staten har Norge tatt ledertrøyen i den globale elbilrevolusjonen. Utviklingen i solcelleinstallasjoner har endelig tatt fart også i Norge, men på et langt mer beskjedent nivå. Vi mener at det er store muligheter for at utviklingen innenfor elbilbruk og solenergi kan gå hånd i hånd, spesielt ved å ta i bruk solenergi på offentlige bygninger og å legge til rette for elbillading på arbeidsplasser. Solenergi kan gi drivkraft til elbilrevolusjonen – også i Nord-Norge.</p>
+<p>Sammen med forskere fra Uppsala Universitet har vi analysert potensialet for solenergi i Tromsø i Nord-Norge og Uppsala i Mellom-Sverige, og sammenlignet det med forventet lademønstre ved storskala overgang til elbiler. Våre resultater viser at energiutbyttet fra solceller på egnede arealer på bygninger ville gi mer enn nok energi til å dekke energibehovet for en helt elektrisk personbilpark det meste av året.</p>
+<p>Noen spør seg kanskje hvorfor vi skal satse på solenergi i et land der over 90% av elektrisiteten kommer fra vannkraft? For det første kan vi ikke lenger se Norge isolert, ettersom vi også er en del av det nordiske og europeiske strømmarkedet. Etter den rekordtørre sommeren med lavt vannstand i magasinene og dyr strøm kom også forsyningssikkerhet på agendaen. Men det ble også en rekordsommer for norsk solstrømproduksjon, og faktum er at solenergi og vannkraft kompletterer hverandre godt. Den tiden på året da nivået i vannkraftmagasinene vanligvis er på sitt laveste, i mars-mai, begynner solenergi å bidra som mest. Sol og kaldt vær er idealt for solceller, da genererer de mest.</p>
+<p>I skrivende stund ruller nesten 280 000 elbiler og ladbare hybrider på norske veier, det høyeste tallet i verden per person. I Nasjonal transportplan fra 2018 settes det dessuten et mål om at alle nye personbiler og lette lastbiler skal være nullutslippskjøretøy fra 2025, en utvikling som ifølge NVE kan bety opptil 1,5 millioner elbiler 2030 . Dette vil imidlertid kun gi en økning på omkring 4 TWh, eller 3%, i elektrisitetsbruken, og ettersom elbiler er langt mer effektive enn fossilbiler vil den totale energibruken dessuten gå ned.</p>
+<p>Solenergirevolusjonen har ikke kommet så lang i Norge ennå, i hvert fall ikke her i nord. På nasjonalt nivå har det utvilsomt skjedd en stor utvikling fra 2014, men da fra et meget lavt utgangsnivå. I Tromsø finnes så langt kun to (!) nett-tilknyttede solcellesystemer. Det første av disse er et forskningssystem på UiTs campus, og målinger herfra har vist at det ikke er stor forskjell på solenergiutbyttet i Tromsø sammenlignet med lenger sør i landet og på kontinentet. Det er med andre ord et stort uutnyttet potensial for solenergi i Nord-Norge.</p>
+<p>Men elbilrevolusjonen og installasjon av solceller kan faktisk gå hånd i hånd. Den norske solcelleinstallatøren Otovo melder at elbileiere er overrepresentert blant kundene deres. De mener mange som kjører elbil blir interessert i å kjøre på egen fornybar strøm, og på den måten bli selvforsynt. I tillegg blir de som har tatt et miljøvennlig valg gjerne mer bevisst på andre områder .</p>
+<p>Frykten for at elbiler skal gi problem for kraftnettet har så langt i stort vist seg å være ubegrunnet. Med fortsatt økning i antall elbiler kan det imidlertid bli problemer i svake nett eller områder med mange elbiler fremover. Det er da ikke tilgangen på energi, men fremst spenningskvalitet som er det store problemet.</p>
+<p>Dagens kraftnett er laget for å kun sende energi i en retning, fra sentraliserte kraftverk ut til kundene som bruker energien. Økt energi- og effektbruk hos kundene kan derfor føre til spenningstap jo lengre ut i nettet en kommer. Ved å installere solceller nære der energien skal brukes, såkalt distribuert energi, kan spenningsfall reduseres. Men faktisk kan også stor integrasjon av solceller føre til problemer, når høy effekt samtidig skal sendes «feil vei» i nettet.</p>
+<p>En løsning på problemet er å prøve å koordinere tilgang og bruk av energi tid, altså for eksempel at elbilladingen skjer når det er stor tilgang på solenergi. Våre partnere ved Uppsala Universitet har funnet tre distinkte kategorier av lading, med tre ulike døgnprofiler: hjemmelading med en effekttopp på kvelden, lading på arbeidsplassen med en topp på morgenen, og annen lading på publike ladestasjoner med en liten topp midt på dagen og en på ettermiddagen. I denne analysen er det brukt simulerte ladeprofiler basert på trafikkvaneundersøkelser fra Sverige.</p>
+<p>Våre analyser av solenergi i kombinasjon med elbillading viser at det kan være vanskelig å utnytte solenergi direkte til hjemmelading av elbil ettersom døgnprofilen for solenergiutbytte passer dårlig med når vi lader bilen hjemme, i hvert fall de av oss som bruker bilen på jobb. Strømmen må da ta omveien via kraftnettet. Derimot er samsvaret i tid, såkalt load match, mellom solenergiutbytte og elbillading på jobb i det nærmeste perfekt. Solenergi på offentlige bygninger i kombinasjon med lading av elbil på jobb kunne derfor bidratt til økt bruk av solenergi og mindre belastning på nettet.</p>
+<p>I tillegg kjører nå altså nesten 280 000 nordmenn rundt med et mobilt energilager av en størrelse som ikke er ulik gjennomsnittsforbruket av elektrisitet i en norsk husholdning. I fremtiden kan en se for seg at teknologien vehicle-to-grid, eller V2G, kan få større spredning. Med V2G-teknologi kan elbilen ikke bare lades fra nettet, men også sende strøm tilbake til nettet. For eksempel kunne elbilen brukes for å lagre solenergi under dagen, og så bruke den hjemme på kvelden.</p>
+<p>Solenergirevolusjonen og en storskala overgang til elektrisk transport kan gå hånd i hånd, ikke bare på sørlige breddegrader men også her i Nord-Norge.</p>
+<p>Artikkelforfatterne er tilknyttet Institutt for fysikk og teknologi ved UiT Norges Arktiske Universitet og ARC - Arctic Centre for Sustainable Energy</p>
+<p>Studien bak denne teksten presenteres torsdag 24. januar på sesjonen «A Smart Arctic Future» under Arctic Frontiers.</p>
+<p>Kilder:</p>
+<p>Skotland, C.H., E. Eggum, and D. Spilde, Hva betyr elbilen for strømnettet?, C.H. Skotland, Editor. 2016, Norges vassdrags- og energidirektorat, NVE: NVEs hustrykkeri, Oslo.</p>
+<p>Trondsen, M., Solcelleinteresse til himmels, in Elbil.no. 2018.</p></div></body></document>

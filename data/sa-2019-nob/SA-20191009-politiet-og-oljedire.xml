@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191009-politiet-og-oljedire.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/okonomi/i/opP72K/politiet-og-oljedirektoratet-er-for-darlig-sikret-mot-datakriminalitet" frk="493 4 17 3703"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-09 07:05:49"/>
+<attribute name="author" value="Pernille Filippa Pettersen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="okonomi"/>
+<attribute name="class2" value="dataangrep,oljedirektoratet,politi,riksrevisjonen"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet og Oljedirektoratet er for dårlig sikret mot datakriminalitet</div>
+<div type="ingress">Riksrevisjonens nyeste undersøkelse viser at verken politiet eller Oljedirektoratet sikrer IKT-systemene sine godt nok mot datakriminalitet.</div>
+<div type="author">Pernille Filippa Pettersen</div>
+<div type="date">2019-10-09 07:05:49</div>
+<div type="caption"><p>Riksrevisjonens undersøkelse viser at politiet og Oljedirektoratet er for dårlig sikret mot datakriminalitet. Carolyn Thompson / TT NYHETSBYRÅN</p></div>
+<div type="title" level="3">Fakta: Fakta om Riksrevisjonens årlige revisjon og kontroll</div>
+<div type="text">
+<p>Grunnloven pålegger Riksrevisjonen å «gjennomse statens regnskaper» hvert år. Resultatet leveres til Stortinget.</p>
+<p>Riksrevisjonens årlige revisjon og kontroll er en oppsummering av mange undersøkelser.</p>
+<p>I 2018 hadde Riksrevisjonen revidert statsregnskapet og 232 årsregnskaper fra departementer og underliggende virksomheter.</p>
+<p>Riksrevisjonen har også gjennomført 15 enkeltundersøkelser hvor de ser på hvordan statlig forvaltning følger opp det Stortinget har bestemt.</p>
+<p>Kilde: Riksrevisjonen.no.</p>
+<p>I resultatet av Riksrevisjonens årlige revisjon og kontroll rettes sterk kritikk mot politiet og Oljedirektoratet for å ikke ha sikret sine IKT-systemer tilstrekkelig mot datakriminalitet. Dataangrep kan sette samfunnskritiske institusjoner ut av spill, blant annet ved at sensitiv informasjon kommer på avveie.</p></div>
+<div type="title" level="3">Dataangrep</div>
+<div type="text">
+<p>&#x2500; Nok en gang viser våre undersøkelser at samfunnskritiske institusjoner ikke sikrer seg godt nok mot dataangrep. Dette kan få alvorlige konsekvenser og er sterkt kritikkverdig, uttaler riksrevisor Per-Kristian Foss i en pressemelding fra Riksrevisjonen. Riksrevisjonen gjennomfører kontroller og undersøkelser (revisjoner) av departementene, andre statlige virksomheter og statens eierinteresser i selskaper.</p>
+<p>Kritikken mot politiet går på at de ikke har sikret sine sentrale IKT-systemer tilstrekkelig mot etterretning og angrep. De er et attraktivt mål for datakriminalitet, noe som kan ramme politiets operative evne og føre til at sensitiv informasjon om enkeltmennesker kommer på avveie.</p>
+<p>– Vi tar funnene i Riksrevisjonens rapport på største alvor, og har det siste året tatt nye og viktige grep for å styrke informasjonssikkerheten i etaten. Det gjenstår fortsatt arbeid, men befolkningen kan ha tillit til at politiet tar nødvendige grep for å sikre systemene våre, sier assisterende politidirektør Håkon Skulstad til Aftenbladet.</p></div>
+<div type="title" level="3">Svakheter i systemet</div>
+<div type="text">
+<p>Oljedirektoratet har en sentral rolle i forvaltningen av norske olje- og gassressurser og behandler politisk, børs- og forretningssensitiv informasjon. Ifølge undersøkelsen har ikke Oljedirektoratet kommet langt nok i å sikre sine IKT-systemer, da systemene de bruker har svakheter som kan utnyttes av uvedkommende i forbindelse med et dataangrep.</p>
+<p>– Riksrevisjonen skriver at vi har mangler i gjennomføringen av enkelte aktiviteter i styringssystemet. De fleste av disse svakhetene er allerede utbedret. Ingenting tyder på at informasjon har kommet på avveie. Våre IT-systemer er overvåket og sikret døgnet rundt, og vi har ikke opplevd alvorlige dataangrep, sier Inger Lise Strømme, underdirektør i Data og organisasjon i Oljedirektoratet.</p></div>
+<div type="title" level="3">Offentlig informasjon</div>
+<div type="text">
+<p>– Oljedirektoratet forvalter sensitiv informasjon, hvordan beskyttes denne informasjonen?</p>
+<p>– Det aller meste av informasjonen Oljedirektoratet forvalter er offentlig. Vi har ulike metoder for beskyttelse, både fysiske og tekniske, men ønsker av sikkerhetshensyn ikke å gå konkret inn på de enkelte, sier Strømme.</p>
+<p>Også Utenriksdepartementet har mangler når det kommer til styringssystem for informasjonssikkerhet, ifølge undersøkelsen.</p>
+<p>Hackere delte privat informasjon om nesten 1000 tyske politikere</p>
+<p>«Kriminaliteten endrer seg. Det må politiet også.»</p>
+<p>Han mener kunstig intelligens kan avdekke desinformasjon foran høstens valg</p></div></body></document>

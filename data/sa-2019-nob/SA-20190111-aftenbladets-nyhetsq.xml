@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190111-aftenbladets-nyhetsq.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/forsta/i/kao87j/aftenbladets-nyhetsquiz" frk="29 0 0 184 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-11 19:36:21"/>
+<attribute name="author" value="Ragnhild Sofie Selstø"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="forsta"/>
+<attribute name="class2" value="quiz,test"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Aftenbladets nyhetsquiz</div>
+<div type="ingress">Hvor mye har du fått med deg fra uken som har gått? Test kunnskapene dine her!</div>
+<div type="author">Ragnhild Sofie Selstø</div>
+<div type="date">2019-01-11 19:36:21</div>
+<div type="caption"></div>
+<div type="text">
+<p>Mobilbruker? Snu mobilen til liggende format for å ta quizen.</p></div></body></document>

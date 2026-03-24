@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190208-avinor-melder-at-fei.xml"/>
+<attribute name="url" value="http://www.dn.no/luftfart/avinor/full-stans-i-flytrafikken-til-og-fra-norge/2-1-538924" frk="160 5 6 1012"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-08 06:15"/>
+<attribute name="author" value="NTB,Christian Bjerknes"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="luftfart,avinor"/>
+<attribute name="class2" value="Nyheter,Luftfart"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Avinor melder at feilen som forårsaket full stans i flytrafikken er løst</div>
+<div type="ingress">Flytrafikken til og fra Norge stanset helt opp fredag morgen etter dataproblemer. Like før halv seks melder Avinor at problemet er løst. Flytrafikken til og fra Norge stanset helt opp fredag morgen etter dataproblemer. Like før halv seks melder Avinor at problemet er løst.</div>
+<div type="author">NTB,Christian Bjerknes</div>
+<div type="date">2019-02-08 06:15</div>
+<div type="caption">Det var full stans i flytrafikken fredag morgen. Like før halv seks ble problemene løst, men det kan fortsatt forekomme forsinkelser. Slik så det ut over Norge klokken 06:40 fredag morgen. (Foto: SKjermdump fra Flightradar24.com) </div>
+<div type="text">
+<p>Årsaken til at alle flyvninger til og fra Norge ble stanset tidlig fredag morgen skal ifølge Avinor være at et datanettverket som gir Avinors systemer informasjon om flyvninger i norsk luftrom var nede.</p>
+<p>– De tekniske problemene som førte til full stans i flytrafikken i morgentimene er nå løst. Trafikken går etter hvert som normalt, men det vil bli noen følgeforsinkelser utover dagen, skriver Avinor i en melding.</p></div></body></document>

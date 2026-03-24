@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191211-her-skal-bergen-kjot.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/70LyVB/Her-skal-Bergen-Kjott-grnderen-bygge-opp-et-nytt-kulturhus" frk="35 12 3 239 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her skal Bergen Kjøtt-gründeren bygge opp et nytt kulturhus</div>
+<div type="ingress">Bergen Kjøtt-gründer Annine Birkeland har funnet seg et nytt kunstnerhus. Over nyttår flytter hun driften av «Bergen Kjøtt vol. 2» til Lien 79 i Solheimsviken.</div>
+<div type="author"></div>
+<div type="date">2019-12-11</div>
+<div type="caption"></div>
+</body></document>

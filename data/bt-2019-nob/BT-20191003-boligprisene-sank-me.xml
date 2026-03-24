@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191003-boligprisene-sank-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/rA3LWm/Boligprisene-sank-med-1_8-prosent-i-Bergen" frk="25 14 2 142 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-03 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boligprisene sank med 1,8 prosent i Bergen</div>
+<div type="ingress">– Folk er mer betenkte og tenker seg nøye om før de gjør et kjøp, mener megler.</div>
+<div type="author"></div>
+<div type="date">2019-10-03</div>
+<div type="caption"></div>
+</body></document>

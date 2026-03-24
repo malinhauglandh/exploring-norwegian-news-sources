@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190827-voldsom-okning-i-ove.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/0nkOyJ/Voldsom-okning-i-overfallsran-i-Barcelona" frk="50 6 2 318 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-27 06:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Drap,Barcelona,Sikkerhet,Tyveri"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Voldsom økning i overfallsran i Barcelona</div>
+<div type="ingress">I løpet av tre år har antallet overfallsran i den populære turistbyen økt med 58 prosent.</div>
+<div type="author"></div>
+<div type="date">2019-08-27</div>
+<div type="caption"><p>SVÆRT POPULÆR: La Rambla i Barcelona er en meget populær turistgate. Men nå trues idyllen av det økende antallet overfall og ran. FOTO: Manu Fernandez, AP/NTB Scanpix</p></div>
+</body></document>

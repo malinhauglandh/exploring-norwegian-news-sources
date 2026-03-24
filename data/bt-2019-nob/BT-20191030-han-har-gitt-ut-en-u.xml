@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-han-har-gitt-ut-en-u.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/GG67w6/han-har-gitt-ut-en-utmerket-bok-om-forskeren-sundt" frk="26 0 0 167 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:43"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han har gitt ut en utmerket bok om forskeren Sundt</div>
+<div type="ingress">Espen Stueland skriver rikt og nyansert om sosiologen som så noe mer i «skabbete» vestlendinger.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

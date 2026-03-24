@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190322-fikk-du-med-deg-dett.xml"/>
+<attribute name="url" value="https://junior.bt.no/quiz/i/qLLMm0/Fikk-du-med-deg-dette-i-uken-som-gikk" frk="16 0 0 90 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-22 15:30"/>
+
+<attribute name="author" value="Reidun Drægebø,"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="quiz"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fikk du med deg dette i uken som gikk?</div>
+<div type="ingress">Test deg selv med denne quizen!</div>
+<div type="author">Reidun Drægebø,</div>
+<div type="date">22.mar.2019 15:30</div>
+<div type="caption"></div>
+</body></document>

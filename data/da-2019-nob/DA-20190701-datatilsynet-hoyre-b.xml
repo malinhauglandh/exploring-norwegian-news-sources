@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190701-datatilsynet-hoyre-b.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/datatilsynet-hoyre-brot-loven-da-partiet-kartla-tusenvis-av-velgere-1.1547733" frk="613 6 26 3885"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-07-01 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Datatilsynet: Høyre brøt loven da partiet kartla tusenvis av velgere</div>
+<div type="ingress">Før valget i 2013 samlet Høyre inn flere tusen navn og rangerte dem etter hvor tilbøyelig de var til å stemme på partiet. – Lovbrudd, konkluderer Datatilsynet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Direktør Bjørn Erik Thon i Datatilsynet.</p></div>
+<div type="text">
+<p>Datatilsynet konkluderer med at partiet Høyre brøt med personvernlovgivningen da det i valgkampinnspurten i 2013 kartla potensielle Høyre-velgere for å sende dem målrettet partireklame. Den eneste grunnen til at tilsynet ikke vurderer å ilegge et straffegebyr, var at saken var foreldet da Høyre høsten 2018 meldte den inn.</p>
+<p>– Lovgiver har satt en foreldelsesfrist på fem år i slike saker. Vi har derfor ikke vurdert å ilegge overtredelsesgebyr. Vi konstaterer at loven er brutt og kommer med kritikk, i form av en irettesettelse, sier direktør Bjørn Erik Thon i Datatilsynet til NTB.</p>
+<p>Det var NRK som i fjor avslørte hvordan Høyre kunne ha begått flere brudd på personvernlovgivningen under valgkampen i 2013. Høyre meldte selv inn to mulige avvik til Datatilsynet – blant annet etter å ha delt medlemslister med persondata til Facebook. I arbeidet med disse framkom saken partiet nå irettesettes for: Utviklingen av appen «Dugnad», hvor partimedlemmer blir anmodet om å gi tilgang på sine vennelister på Facebook.</p>
+<p>Listene dannet grunnlaget for kartlegging og rekruttering av potensielle Høyre-velgere.</p></div>
+<div type="title" level="3">Høyre har beklaget</div>
+<div type="text">
+<p>– Dette var et enkelttilfelle som fant sted under valgkampen for seks år siden. Vi har beklaget til alle de involverte, sier markeds- og kampanjesjef Thoralf Granerød i Høyre til NTB.</p>
+<p>Datatilsynet konkluderer med at Høyre-kampanjen bryter med personvernlovgivningen på to punkter: Personvernet til dem som ble kartlagt var ikke tilstrekkelig ivaretatt, Høyre gjorde ingenting for å informere dem som ble kartlagt og ga dem heller ingen mulighet til reservere seg mot å delta i kartleggingen.</p>
+<p>– Jeg pleier ikke gradere alvoret i enkeltsaker, men vi konstaterer at det ble gjort ting som er i strid med lovverket, sier Thon.</p>
+<p>I forbindelse med NRKs omtale av denne saken har Høyre opplyst at 2.139 personer lastet ned appen «Dugnad» og godtok av vennelistene deres ble videresendt til et eksternt analyseselskap. I ettertid har ingen kunne tallfeste hvor mange personer som ble kartlagt og rangert etter Høyre-sympati.</p>
+<p>– Vi har lært av denne saken, og driver ikke lenger med slike kartlegginger. Slik valgkampen foregår i Norge, er det heller ingen grunn til engang å nærme seg lovgivningens yttergrenser. Vi i Høyre har i hvert fall ikke noe behov for det, sier Granerød.</p></div>
+<div type="title" level="3">Omfattende datasett</div>
+<div type="text">
+<p>De omfattende datalistene fra Facebook – som inneholdt navn, adresse, fødselsdato og Facebook-ID – ble kjørt gjennom et analyseprogram. Dataene ble sammenholdt med statistikk, hvorpå programmet «returnerte 25 venner i prioritert rekkefølge ut fra en antakelse om hvor sannsynlig det var at personene ville stemme Høyre, ifølge vedtaket i Datatilsynet.</p>
+<p>Saken blir spesiell ved at det ikke er noen relasjon mellom Høyre og de personene som ble kartlagt.</p>
+<p>«Mangel på åpenhet omkring påvirkning i politiske valg er en av de største bekymringene innenfor personopplysningsvernet i dag – åpne data kan samles inn og analyseres uten at de registrerte er klar over det, og i neste instans brukes for å manipulere enkeltpersoner i den ene eller den andre politiske retningen. I siste instans kan dette få store konsekvenser for selve demokratiet», advarer Datatilsynet i sitt vedtak.</p>
+<p>Den såkalte «Dugnaden» fant sted de siste fire dagene før velgerne gikk til urnene i 2013 – valget da Høyre-leder Erna Solberg endelig gikk til topps og ble landets statsminister.</p>
+<p>– Vi vil ikke ha kartlegging av enkeltpersoner i kommende valgkamper. Og vi kommer til å bruke tilsynet som sparringpartner og rådgiver for å være sikre på at vi holder oss innenfor de rammene lovverket trekker opp, sier Granerød.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190213-historiefortelling-m.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/RxgMpW/Historiefortelling-med-harelabb" frk="55 0 0 368 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Film,Roald Amundsen,Drama,Norge,Biografi,Filmanmeldelse,Hjalmar Johansen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Historiefortelling med harelabb</div>
+<div type="ingress">«Amundsen» gir et godt innblikk i polfarerens liv. Men noen god film er det ikke.</div>
+<div type="author"></div>
+<div type="date">2019-02-13</div>
+<div type="caption"><p>NASJONALHELTEN: Filmen kommer likevel aldri under huden på ham. Pål Sverre Hagen er sminket frem til en tidvis imponerende portrettlikhet, men jevnt over virker hans Amundsen agert, mener Britt Sørensen. FOTO: Motion Blur / SF Studios</p></div>
+</body></document>

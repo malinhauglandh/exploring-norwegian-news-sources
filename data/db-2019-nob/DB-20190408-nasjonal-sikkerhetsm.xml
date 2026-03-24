@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190408-nasjonal-sikkerhetsm.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/nasjonal-sikkerhetsmyndighet-aksjonerer-etter-dagbladet-avsloring/70939945" frk="453 1 5 2981"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-08 07:16"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="innenriks,nasjonal sikkerhetsmyndighet,nyheter,dataangrepet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nasjonal sikkerhetsmyndighet aksjonerer etter Dagbladet-avsløring</div>
+<div type="ingress">Nasjonal sikkerhetsmyndighet skal undersøke Dagbladets avsløringer av et omfattende dataangrep, organisert for å skape trafikk til spam-annonser.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-08</div>
+<div type="caption"><p>TAR AFFÆRE: Nasjonal Sikkerhetsmyndighet har fattet interesse for Dagbladets avsløringer om dataangrep og annonsevirksomhet på nettet. Nå skal NSM gå undersøke materialet, bekrefter avdelingsdirektør Mona Strøm Arnøy. Foto: Lars Eivind Bones / Dagbladet</p> <p>LINKER TIL HVERANDRE: Denne grafikken viser hvordan tusenvis av spam-sider linker til hverandre. Sidene brukte stjålet innhold fra Dagbladet, VG og andre for å få trafikk. Nå aksjonerer NSM. Grafikk: Tor Henning Ueland</p></div>
+<div type="text">
+<p>Det bekrefter Mona Strøm Arnøy, avdelingsdirektør i Nasjonal sikkerhetsmyndighet (NSM), overfor Dagbladet.</p>
+<p>- Metoden som benyttes er godt kjent fra tidligere og kan benyttes til forskjellige former for svindel og lureri. Det nye er det enorme omfanget, sier Arnøy til Dagbladet.</p>
+<p>NSM har bedt om å få Dagbladets underlagsmateriale utlevert, og ønsker å gjennomgå dette på egen hånd. Det samme materialet er tidligere blitt delt med Google, for at giganten kan rydde opp i søkeresultatene sine.</p>
+<p>- Vi vil forvalte informasjonen som en del av datagrunnlaget ved undersøkelser rundt cyberangrep og svindel. Vi vil med stor sannsynlighet kontakte hostingleverandører og andre viktige berørte parter. Vi har allerede varslet om en relatert liste vi fikk fra en annen virksomhet, og hadde god respons på det, sier Mona Strøm Arnøy.</p></div>
+<div type="title" level="3">Dataangrepet</div>
+<div type="text">
+<p>Bakgrunnen for NSMs interesse er at Dagbladet har avslørt et omfattende dataangrep mot norske og internasjonale nettsteder – blant dem Dagbladet, VG, NRK, Fylkesmannen.no og BBC. Innhold fra over 80 000 nettsider er stjålet, og kopiert til spam-sider. Bakmennene har så klart å lure Google å «indeksere» spam-sidene – slik at en nettside med stjålet VG-innhold kommer opp i søkeresultatet på Google, kamuflert som en originalartikkel fra VG.</p>
+<p>Hvis du klikket på spam-sidene med det stjålne innholdet, fikk du opp suspekte annonser som hadde til hensikt å få deg til å gi fra deg navn, mobilnummer og e-postadresse.</p>
+<p>Dagbladet har funnet spor til flere selskaper i materialet. Markedsføringsselskaper i både Sverige, Nederland og Tyskland har alle tjent penger på annonsene som det linkes til fra nettsidene med stjålet innhold fra Dagbladet, VG og de andre.</p></div>
+<div type="title" level="3">- Interessante funn</div>
+<div type="text">
+<p>Allerede ved publisering av den første artikkelen om saken fattet NSM interesse.</p>
+<p>- Det er interessante funn dere viser til. Dette er nok automatisk generert i en hensikt som vi bare kan spekulere i. Det er viktig for den som opplever dette å ta kontakt med det selskapet som hoster nettsida. Dette er en rettighetskrenkelse de må rydde opp i. Det er viktig også å varsle Google om at søket er manipulert, så de kan fjerne det. Det er hostingselskapet som må rydde opp her, sa Arnøy den gangen.</p>
+<p>Hun slo fast:</p>
+<p>- Vi vil gjerne ha informasjon om denne type hendelser.</p></div></body></document>

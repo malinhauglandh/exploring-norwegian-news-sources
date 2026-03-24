@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190625-kan-dette-spillet-bl.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/rAVPQ3/Kan-dette-spillet-bli-like-populart-som-Pokmon-Go" frk="50 0 0 318 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-25 09:19"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="spill,pokémon go,harry potter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kan dette spillet bli like populært som «Pokémon Go»?</div>
+<div type="ingress">I helga ble «Harry Potter: Wizards Unite» lansert i Norge. Spillet er bygget over samme lest som «Pokémon Go».</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Fredag ble «Harry Potter: Wizards Unite» lansert i USA og Storbritannia. Foreløpig vet vi ikke når magien drysses over Norge. Niantic</p></div>
+</body></document>

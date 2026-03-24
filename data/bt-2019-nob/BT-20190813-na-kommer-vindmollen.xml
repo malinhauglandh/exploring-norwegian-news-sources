@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190813-na-kommer-vindmollen.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJeV9X/Na-kommer-vindmollene" frk="47 9 3 317 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-13 11:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vindkraft,Miljø,Energi,Naturvern,Kraftproduksjon"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nå kommer vindmøllene</div>
+<div type="ingress">Nye Vestland fylke får snart fem nye vindkraftverk. Utenfor Svelgen kjøres turbinene til fjells, helt uten protester.</div>
+<div type="author"></div>
+<div type="date">2019-08-13</div>
+<div type="caption"><p>TUNG LAST: Transporten av delene til Hennøy vindkraftverk utenfor Svelgen er i full gang fra fjord til fjell. De tyngste delene i byggesettet veier 114 tonn.</p></div>
+</body></document>

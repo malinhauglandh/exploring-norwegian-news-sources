@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190519-dette-er-hovedingred.xml"/>
+<attribute name="url" value="http://www.fvn.no/aktuelt/i/xP5Vz8/Dette-er-hovedingrediensen-til-en-supersunn-og-god-suppe-Du-finner-den-i-groftekanten" frk="62 0 0 384 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-05-19 15:49"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aktuelt"/>
+<attribute name="class2" value="aktuelt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette er hovedingrediensen til en supersunn og god suppe. Du finner den i grøftekanten</div>
+<div type="ingress">Jeg har prøvd forskjellige oppskrifter på brenneslesuppe. Men det var først i fjor, da jeg tilsatte en ny ingrediens, at suppa virkelig satt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Brennesler finnes i mange hager, men mest av alt i grøftekanter. Den er god til mange ting, for eksempel supper. FOTO: Mari Horve Reite</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190531-ekte-kjarlighet-har-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/mRzG4E/Ekte-kjarlighet-har-et-navn-Joni-Mitchell" frk="15 0 0 121 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-31 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ekte kjærlighet har et navn: Joni Mitchell</div>
+<div type="ingress">Nattjazz-hyllesten var vakker, elegant og svært vellykket.</div>
+<div type="author"></div>
+<div type="date">2019-05-31</div>
+<div type="caption"></div>
+</body></document>

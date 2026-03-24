@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190831-twitters-toppsjef-of.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/twitter/jack-dorsey/sophie-elise/twitters-toppsjef-offer-for-mobilkapring/2-1-664021" frk="445 2 7 2938"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-08-31 08:01"/>
+<attribute name="author" value="Osman Kibar,Emma Clare Gabrielsen"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,twitter,jack-dorsey,sophie-elise"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Twitters toppsjef offer for mobilkapring</div>
+<div type="ingress">Twitter-kontoen til selskapets profilerte toppsjef Jack Dorsey ble fredag kveld hacket, etter han ble offer for mobilkapring. Dermed har fenomenet fått et av sine høyest profilerte ofre hittil. Twitter-kontoen til selskapets profilerte toppsjef Jack Dorsey ble fredag kveld hacket, etter han ble offer for mobilkapring. Dermed har fenomenet fått et av sine høyest profilerte ofre hittil.</div>
+<div type="author">Osman Kibar,Emma Clare Gabrielsen</div>
+<div type="date">2019-08-31 08:01</div>
+<div type="caption">Grunnleggeren og toppsjefen i Twitter Jack Dorsey er en av Silicon Valleys mest profilerte navn. Fredag kveld ble hans egen Twitter-konto hacket etter at han ble utsatt for mobilkapring, en hendelse som vekker stor oppsikt i sikkerhetsverdenen internasjonalt. (Foto: ( Jim Watson/AFP/NTB Scanpix)) </div>
+<div type="text">
+<p>Fredag kveld norsk tid ble det sendt ut en rekke underlige meldinger med rasistisk og antisemittisk innhold fra Twitter-kontoen til selskapets toppsjef Jack Dorsey. For de 4,2 millioner følgerne til en av Silicon Valleys mest profilerte navn var det åpenbart at kontoen var blitt hacket.</p>
+<p>Kort tid etter hendelsen sendte Twitters sikkerhetsavdeling @TwitterComms ut en tweet hvor det ble annonsert at kontoen til selskapets toppsjef var blitt utsatt for en uønsket hendelse:</p>
+<p>«Vi er klar over at @jack er blitt kompromittert og undersøker hva som har skejdd» het det i den offisielle meldingen. Noen timer senere meldte Twitter at mobilkapring var årsaken: «Telefonnummeret som var knyttet til kontoen ble kompromittert på grunn av et sikkerhets-forbiseende fra mobilleverandørens side. Dette gjorde det mulig for en uautorisert person å skrive og sende ut tweets gjennom sms fra mobilnummeret» heter det i kunngjøringen fra Twitters sikkerhetsavdeling. Twitter har så langt ikke opplyst navnet til teleselskapet som knyttes til hendelsen.</p></div>
+<div type="title" level="3">Slik skjedde angrepet</div>
+<div type="text">
+<p>For å sende ut meldinger på Twitter kan brukerne, i tillegg til å logge seg inn på plattformen på vanlig måte, benytte seg av sms som utsendingsmetode. Forutsetningen er at ens Twitter-konto er knyttet til et mobilnummer.</p>
+<p>Som de fleste andre sosiale medier-plattformer, har også Twitter oppfordret sine brukere til å knytte mobilnummeret sitt til kontoen som et ekstra sikkerhetslag. Etter at mobilkapring er blitt et utbredt fenomen over hele verden det siste året, har dette åpnet et lite eksponert vindu for misbruk, gjennom overtagelse av sosiale medier-kontoene til intetanende ofre: For Twitter har i et snart et tiår tilbudt sine brukere muligheten til å sende meldinger gjennom sms. Hvilket nummer man må benytte seg av varierer fra land til land. Hvis man fra et amerikansk nummer tilknyttet en Twitter-konto legger til tallene 40404, kommer meldingen direkte ut på Twitter.</p>
+<p>Det betyr at dersom en angriper kan overta offerets mobilnummer gjennom mobilkapring, er det blant annet fullt mulig å sende ut meldinger direkte på Twitter gjennom sms-plattformen. Det er dette den eller de som hacket Jack Dorsey var i stand til.</p></div></body></document>

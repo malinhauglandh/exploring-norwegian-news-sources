@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190927-sotsuppe-kokt-pa-spr.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/sotsuppe-kokt-pa-springsteen/71641163" frk="50 0 0 309 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-27 15:13"/>
+<attribute name="author" value="Tom Stalsberg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Søtsuppe kokt på Springsteen</div>
+<div type="ingress">Men, filmen har sine rørende øyeblikk og noe bra musikk da.</div>
+<div type="author">Tom Stalsberg</div>
+<div type="date">2019-09-27</div>
+<div type="caption"><p>BRUCE FEELGOOD: Blinded by the light er et postkort fra en svunnen tid fra Luton, med drømmer og lengsler og fremmedgjøring, så dukker Springsteens musikk opp. Det blir ei søtsuppe med tårer. SF Film.</p></div>
+</body></document>

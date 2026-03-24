@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190311-skanningen-ga-utslag.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BJAwlE/BA-Mistenkelig-funn-etter-Trine-Frantzen-soket" frk="26 0 0 211 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-11 20:38"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Trine Frantzen-saken"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skanningen ga utslag under Trine Frantzen-søket</div>
+<div type="ingress">Geoskanningen har gitt utslag, melder selskapet som gjør undersøkelsene.</div>
+<div type="author"></div>
+<div type="date">2019-03-11</div>
+<div type="caption"><p>SKANNET: Flere graver ble undersøkt tirsdag. FOTO: Geir Martin Strande</p></div>
+</body></document>

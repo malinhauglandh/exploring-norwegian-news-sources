@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190319-hydro-jobber-pa-spre.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/hydro-jobber-pa-spreng-for-a-fjerne-viruset---en-svaert-alvorlig-situasjon/70890010" frk="801 4 21 5214"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-19 17:27"/>
+<attribute name="author" value="Jenny Mina Rødahl"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,hydro,nettverk,hacking,dataangrep,cyberangrep"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro jobber på spreng for å fjerne viruset: - En svært alvorlig situasjon</div>
+<div type="ingress">Det er ennå uklart hvem som står bak cyberangrepet mot Hydro.</div>
+<div type="author">Jenny Mina Rødahl</div>
+<div type="date">2019-03-19</div>
+<div type="caption"><p>CYBERANGREP: Det er fortsatt uklart hvor store konsekvensene er etter dataangrepet som rammer Hydro. Video: Nicolai Eggen Delebekk / Dagbladet TV</p> <p>ADVARER: I resepsjonen hos Hydro frarådes det å koble til Hydro nett eller e-post. Foto: Jenny Mina Rødahl</p> <p>CYBERANGREP: Hydro er utsatt for et cyberangrep og holdt i den forbindelse pressekonferanse på Vækerø i dag. Foto: Nicolai Delebekk</p></div>
+<div type="text">
+<p>Tidligere i dag meldte Hydro i en børsmelding at selskapet er utsatt for et omfattende cyberangrep som påvirker driften i flere forretningsområder. Hydro har skiftet til manuell drift så langt det er mulig, og nettsidene til Hydro er nede.</p>
+<p>Det var rundt midnatt det ble oppdaget unormal aktivitet på dataserverne til Hydro. Hele IT-organisasjonen i selskapet ble satt i beredskap for å iverksette tiltak mot angrepet, men i morgentimene var hele den verdensomspennende virksomheten fremdeles under påvirkning av angrepet.</p>
+<p>- Hydro arbeider for å nøytralisere angrepet, men kjenner hittil ikke det fulle omfanget av situasjonen, skrev selskapet i en børsmelding en halv time før handelen startet klokka 9.00.</p>
+<p>Da aksjehandelen startet, falt verdien på Hydro-aksjen med tre prosent, men steg noe etter en halvtimes handel. Ved 9.40-tida hadde aksjen falt med to prosent fra sluttnoteringen mandag.</p></div>
+<div type="title" level="3">- Svært alvorlig</div>
+<div type="text">
+<p>Finansdirektør i Hydro, Eivind Kallevik, beskriver situasjonen som svært alvorlig.</p>
+<p>- Hydro er rammet av et alvorlig angrep, sa han under dagens pressekonferanse om dataangrepet på Vækerø klokka 15:00.</p>
+<p>Krypteringsvirus</p>
+<p>Krypteringsvirus er en type datavirus som krypterer alle filene den går tilgang til, for så å kreve løsepenger for å gjøre det mulig å låse opp igjen filene.</p>
+<p>Ettersom en ikke har noe garanti for at filene låses opp igjen uskadd om en betaler, er i praksis eneste løsningen å reinstallere infiserete maskiner, for så å gjenopprette data fra backup.</p>
+<p>Et eksempel på et løsepengevirus som har gjort stor skade er angrepet mot Maersk i juni 2017. Det var et resultat av russiske hackere som spredde et slik virus via et ukrainsk regnskapsprogram som Maersk brukte. For Maersks del tok det 10 dager å komme seg opp igjen og over to måneder før alt var reparert.</p>
+<p>Kilde: Tor Henning Ueland, Dagbladets sikkerhetsekspert og Wired.com</p>
+<p>Han la til at det dreier seg om et såkalt krypteringsvirus, også kjent som ransomware eller løsepengevirus.</p>
+<p>- Etter angrepet har vi arbeidet med å isolere og nøytralisere viruset. Alle anlegg er isolert, og det ser ikke ut til å ha rammet anlegg utenfor Norge, sier Kallevik.</p>
+<p>Ifølge finansdirektøren har det ikke vært noen «sikkerhetsrelaterte hendelser» i etterkant av viruset, men han sier det vanskeliggjør både administrasjon og produksjon fordi nettverket er slått ut.</p>
+<p>- Det mest kritiske nå er å finne en kur mot viruset slik at vi kan komme tilbake til normal drift, sier han, og understreker at det blir jobbet døgnet rundt for å løse problemene.</p>
+<p>Både PST, Kripos og E-tjenesten er koblet inn i etterforskningen.</p></div>
+<div type="title" level="3">Ikke store økonomiske tap</div>
+<div type="text">
+<p>Kallevik sier at angrepet så langt ikke har ført til store økonomiske tap.</p>
+<p>- Vi jobber for å løse situasjonen, sikre våre ansatte og dempe den økonomiske effekten. Vi gjør alt vi kan for å begrense følgene for våre kunder, understreker han.</p>
+<p>Kallevik vil ikke spekulere i hvorvidt fremtidige ordre blir påvirket av dette, og sier under pressekonferansen at gjeldene ordre går fint.</p>
+<p>PSTs trusselvurdering</p>
+<p>Statlig styrte datanettverksoperasjoner representerer en vedvarende trussel mot norske verdier. Slike operasjoner er billige, effektive og i konstant utvikling, og angriperne finner stadig nye sårbarheter de kan utnytte.</p>
+<p>Virksomheter innen norsk statsforvaltning, kritisk infrastruktur, deler av norsk næringsliv og norske teknologibedrifter, er utsatte etterretningsmål og må sørge for å ha god datasikkerhet og oversikt over egen nettverksstruktur.</p>
+<p>Kilde: Politiets sikkerhetstjeneste</p>
+<p>- Vet dere identiteten til hackerne?</p>
+<p>- Ikke ennå, sier Kallevik.</p>
+<p>- Hvor lang tid vil det ta før dere har kontroll over viruset?</p>
+<p>- Det er vet vi ikke.</p>
+<p>- Hvordan har arbeidsdagen vært uten nett?</p>
+<p>- Vi har klart å jobbe som normalt og i 2019-stil i dag til tross for angrepet. Mesteparten av dagen har gått til å forsøke og isolere viruset i størst mulig grad, slik at det ikke spres, sier Kallevik.</p></div>
+<div type="title" level="3">Kripos undersøker</div>
+<div type="text">
+<p>Hydro har ennå ikke anmeldt saken, men jobber sammen med Nasjonal sikkerhetsmyndighet for å løse problemene.</p>
+<p>- Vår rolle er å støtte Hydro, få en oversikt over situasjonen og redusere skade, sier Bente Hoff i Nasjonal sikkerhetsmyndighet.</p>
+<p>Både PST, Kripos og E-tjenesten er koblet inn i etterforskningen. Kripos samarbeider med NSM og Norcert og har kontakt med internasjonale samarbeidsaktører, som Europol.</p>
+<p>Kripos ble informert om løsepengeangrepet via Felles Cyberkoordineringssenter tirsdag morgen og har vært i kontakt med Hydro.</p>
+<p>- Arbeidet er i en startfase, men av erfaring er skadepotensialet stort, sier seksjonsleder ved Kripos Håvard Aalmo i en pressemelding.</p>
+<p>Hacking og dataangrep er kriminalitet som den nyetablerte avdelingen på Kripos, NC3, jobber med.</p></div></body></document>

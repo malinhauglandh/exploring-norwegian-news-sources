@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191211-malene-kjopte-gard-o.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JKpM0/Malene-kjopte-gard-og-ble-bonde-Sa-begynte-problemene" frk="29 38 7 180 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-11 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Malene kjøpte gård og ble bonde. Så begynte problemene.</div>
+<div type="ingress">Da hun begynte å få tvangsmulkter på over 30.000 kroner i uken, gikk Malene Lekven Johnsen (27) til sak.</div>
+<div type="author"></div>
+<div type="date">2019-12-11</div>
+<div type="caption"></div>
+</body></document>

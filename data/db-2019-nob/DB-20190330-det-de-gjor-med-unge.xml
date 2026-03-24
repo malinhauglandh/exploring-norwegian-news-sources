@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190330-det-de-gjor-med-unge.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/det-de-gjor-med-unge-jenter-er-grusomt/70923052" frk="60 5 2 359 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-30 20:57"/>
+<attribute name="author" value="Nina Sørlie Nilssen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="pluss,klimastreik,nyheter,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">«Det de gjør med unge jenter er grusomt»</div>
+<div type="ingress">Monica (46) fikk negative kommentarer slengt etter seg på nettet og stående applaus av elevene etter at hun sa opp jobben.</div>
+<div type="author">Nina Sørlie Nilssen</div>
+<div type="date">2019-03-30</div>
+<div type="caption"><p>SA OPP: Da elevene til Monica Kjærstad fikk fravær for å delta på klimastreiken, sa hun opp jobben og dro på streiken sammen med elevene. Foto: Geir Dokken (Kjærstads samboer)</p></div>
+</body></document>

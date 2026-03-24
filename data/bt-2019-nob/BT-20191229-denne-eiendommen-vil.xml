@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191229-denne-eiendommen-vil.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/70MQvw/denne-eiendommen-ville-kommunen-tvangsselge-aarsaken-9-kroner-i-ubeta" frk="26 5 1 200 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-29 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne eiendommen ville kommunen tvangsselge. Årsaken? 9 kroner i ubetalte renter.</div>
+<div type="ingress">Glåmdal tingrett har de siste årene avvist flere «uproporsjonale» krav fra kommuner om tvangssalg.</div>
+<div type="author"></div>
+<div type="date">2019-12-29</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191123-se-hele-lysfesten.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BR4l5v/Se-hele-Lysfesten" frk="15 34 4 115 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-23 15:01"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se hele Lysfesten</div>
+<div type="ingress">Fakler, julesanger og den store fyrverkerifinalen: Her ser du Lysfesten 2019.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 23. november 2019 15:01</div>
+<div type="caption"></div>
+</body></document>

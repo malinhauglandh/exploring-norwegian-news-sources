@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190308-se-direkte-fra-8-mar.xml"/>
+<attribute name="url" value="http://www.nordlys.no/8-mars/nyheter/direktesending/se-direkte-fra-8-mars-toget/s/5-34-1078464" frk="17 16 2 120 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-03-08 14:44"/>
+<attribute name="author" value="Lars Eidissen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Se direkte fra 8. mars-toget</div>
+<div type="ingress">Nordlys rapporterer direkte fra toget og talene på kvinnedagen 8. mars.</div>
+<div type="author">Av Lars Eidissen</div>
+<div type="date">08. mars 2019, kl. 14:44</div>
+<div type="caption"></div>
+</body></document>

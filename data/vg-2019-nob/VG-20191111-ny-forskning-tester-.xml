@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20191111-ny-forskning-tester-.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/helse/i/RRXrgd/ny-forskning-tester-hjerne-pacemaker-mot-angst" frk="23 0 0 178 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-11-11 14:21"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,helse"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny forskning: Tester hjerne-pacemaker mot angst</div>
+<div type="ingress">Små elektroder i hjernen kan hjelpe pasienter med angst, depresjoner og Parkinsons sykdom, viser ny forskning.</div>
+<div type="author"></div>
+<div type="date">Nå nettopp</div>
+<div type="caption"></div>
+</body></document>

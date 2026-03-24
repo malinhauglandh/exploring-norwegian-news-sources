@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190206-snart-er-de-fleste-a.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/oRrlVg/Snart-er-de-fleste-av-oss-lagret-i-en-datamaskin-pa-Lutvann--De-skyter-spurv-med-kanoner" frk="905 6 41 5898"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-06 17:02"/>
+<attribute name="author" value="Per Anders Johansen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="beredskap,big data,internett,personvern,tekna,e-tjenesten,kommunikasjon"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Snart er de fleste av oss lagret i en datamaskin på Lutvann: – De skyter spurv med kanoner.</div>
+<div type="ingress">Bruker du Facebook, Snapchat, Google eller Instagram? Da vil du snart være lagret i en datamaskin hos Etterretningstjenesten på Lutvann.</div>
+<div type="author">Per Anders Johansen</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: Torgeir Haugaard / Forsvaret Etterretningstjenestens hovedkvarter på Lutvann utenfor Oslo.</p> <p>President i Tekna, Lise Lyngsnes Randeberg i Tekna.</p> <p>Etterretningstjenestens hovedkvarter ved Lutvann utenfor Oslo.</p> <p>Torgeir Waterhouse, direktør for Internett og nye medier i IKT Norge.</p></div>
+<div type="text">
+<p>– Alle ønsker vi å ivareta Norges sikkerhet. Spørsmålet er hvilke konsekvenser det vil få og til hvilken pris vi er villig til å betale for dette, sier president i Tekna Lise Lyngsnes Randeberg.</p>
+<p>Aftenposten skrev mandag om Regjeringens nye, foreslåtte overvåkingssystem for Etterretningstjenesten, som gir adgang til å lagre datatrafikk som krysser grensen.</p>
+<p>Kostnadene er foreløpig anslått til 750 millioner kroner, og medfører behov for opp til 100 flere etterretningsfolk.</p>
+<p>Lyngsnes Randeberg leder Norges største forening for akademikere, med 76.000 medlemmer. Hun advarer mot at dette kan bli mindre nyttig i kampen mot terrorister og spioner enn politikerne tror.</p>
+<p>Årsaken er at vår bruk av internett er i ferd med å endre seg fort.</p>
+<p>Det er dårlig nytt for norske spioner og terrorjegere.</p></div>
+<div type="title" level="3">Beskytter oss bedre på internett enn før</div>
+<div type="text">
+<p>Ferske tall viser at 93 prosent av all trafikk på Google var kryptert i januar 2019.</p>
+<p>For fire år siden var andelen under halvparten.</p>
+<p>– Når så mye av datatrafikken er kryptert, blir det nesten umulig å få tak i innholdsdata. E-tjenesten vil stort sett sitte igjen med metadata, sier Lyngsnes Randeberg.</p>
+<p>Metadataene viser hvem vi snakker med og når. Det gjør det også mulig å se mønstre i trafikken.</p>
+<p>Men selve innholdet vil være skjult hvis krypteringen holder.</p>
+<p>– Det blir som å skyte spurv med kanon når du samler inn alle data for å finne så lite. Vi risikerer å lage et stort overvåkingssystem som ikke gir så mye nytte, men som kan ha en del uønskede effekter, sier Tekna-presidenten.</p>
+<p>Folk som ønsker å beskytte sin kommunikasjon, bruker dessuten i økende grad tjenester som Telegram, iMessage, Whatsapp eller Signal.</p>
+<p>– Dette er krypterte tjenester som er lett tilgjengelig når folk ønsker å kommunisere sikkert. Snart vil også de fleste av oss bruke tjenester som VPN privat.</p>
+<p>Thomas Hofmann / Tekna</p></div>
+<div type="title" level="3">Når vil de fleste av oss være lagret på Lutvann?</div>
+<div type="text">
+<p>Før jul sendte forsvarsminister Frank Bakke-Jensen (H) et lovslag om E-tjenesten på høring med høringsfrist 12. februar.</p>
+<p>Forslaget innebærer at metadata om nordmenn fra e-poster, sms-er, sosiale medier og annen internett-trafikk som krysser grensen i fiberoptiske kabler, i fremtiden vil bli lagret av Etterretningstjenesten i opptil 18 måneder.</p>
+<p>De fleste internett-tjenester nordmenn bruker, lagrer dataene i utlandet.</p>
+<p>– Skriver du en melding på Facebook, eller ungene deler et bilde på Snapchat eller Instagram, så går det via utlandet. Så jeg tror vi kan si at dette berører det meste av det vi gjør på internett i dag, sier Lyngsnes Randeberg.</p></div>
+<div type="title" level="3">Fakta: Ny lov om Etterretningstjenesten</div>
+<div type="text">
+<p>Lovforslaget om Etterretningstjenesten går ut på at metadata som krysser Norges grenser, kan lagres av E-tjenesten.</p>
+<p>Metadata er informasjon om hvem vi kommuniserer med og når det skjer.</p>
+<p>Innholdsdata, som for eksempel er innholdet i e-postene eller selve meldingene, kan ikke lagres før det foreligger en kjennelse fra domstolen.</p>
+<p>Loven pålegger alle norske nettleverandører å gi E-tjenesten tilgang til å laste dataene fra egne knutepunkter i datakablene, hvor trafikk mellom Norge og utlandet går.</p></div>
+<div type="title" level="3">Fakta: Slik skal E-tjenesten lagre data</div>
+<div type="text">
+<p>Forslaget om «digitalt grenseforsvarer» åpner for at all datakommunikasjon over grensen skal lagres på tre måter:</p>
+<p>1) Korttidslager: Ufiltrert kommunikasjon mellom Norge og resten av verden over de fiberoptiske kablene for de siste 14 dagene. Omfatter både metadata (info om avsender og mottager) og innholdsdata (innholdet i kommunikasjone) for maksimalt 30 sekunder en gang i timen. Skal brukes til teknisk vedlikehold at filtrene til E-tjenesten, og aldri til etterretning.</p>
+<p>2) Metadata-lageret: Utvalgte data fra utvalgte kommunikasjonstjenester. Lagringstid maks 18 måneder. Brukes til etterretning mot personer og miljøer etter godkjennelse fra domstol.</p>
+<p>3) Innholdsdatalageret: Alle data knyttet til enkelte personer som er i E-tjenestens søkelys. Krever forhåndsgodkjennelse fra domstol.</p>
+<p>Torgeir Haugaard / Forsvaret</p></div>
+<div type="title" level="3">Minst 20 millioner arkivskap med data </div>
+<div type="text">
+<p>Hverken Lysne-utvalget II, E-tjenesten eller Forsvarsdepartementet har gitt noen anslag over hvor mye data som kan bli lagret.</p>
+<p>Årsaken er blant annet datatrafikken over landegrensene øker så kraftig.</p>
+<p>– Hvor mye data vil dere anslå at E-tjenesten må lagre?</p>
+<p>– For å lagre dette snakker vi om flere petabyta med data. Det er enorme mengder hver neste dag, sier Lyngsnes Randeberg til Aftenposten.</p>
+<p>1 petabyte tilsvarer om lag 20 millioner arkivskap med papir eller 222.000 spillefilmer.</p>
+<p>Tekna etterlyser mer debatt om hvilken nedkjølingseffekt dette vil ha på vårt samfunn og hva digitalt grenseforsvar egentlig innebærer.</p>
+<p>Jan Tomas Espedal</p></div>
+<div type="title" level="3"> – Myndighetene åpner bakdøren</div>
+<div type="text">
+<p>– Når myndighetene skal åpne denne bakdøren, så snakker vi om vanvittig store mengder data, sier direktør for Internett og nye medier i IKT, Norge Torgeir Waterhouse.</p>
+<p>Et hovedargument for lovens mange støttespillere er at bakdøren for lengst er åpen for utenlandsk etterretning, kommersielle selskaper, hackere, kriminelle.</p>
+<p>– Den store utfordringen er at du risikerer å innføre et nytt sikkerhetsproblem og et nytt ledd som i seg selv er sårbart. Det er et hovedargument for ikke å gi myndighetene en bakdør, sier Waterhouse.</p>
+<p>Han viser til at det verdensomspennende løsepengeviruset WannaCry, som slo ut store deler av helsevesenet i Storbritannia, opprinnelig var basert på systemer som skulle sikre myndighetene tilgang til data.</p></div></body></document>

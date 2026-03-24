@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191101-boken-hva-er-greien-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/dOamE1/Denne-klimaboken-kan-skape-fremtidsangst" frk="36 0 0 250 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-01 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boken «Hva er greien med klima?» balanserer vaklende mellom noen av oppdragelsens aller største dilemmaer i vår tid.</div>
+<div type="ingress">Barn som allerede frykter for jordens fremtid, kan ha godt av denne realitetsorienteringen. Resten bør få slippe.</div>
+<div type="author"></div>
+<div type="date">2019-11-01</div>
+<div type="caption"></div>
+</body></document>

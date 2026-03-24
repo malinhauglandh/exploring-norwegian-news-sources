@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190613-likheter-i-nord.xml"/>
+<attribute name="url" value="http://nordnorskdebatt.no/article/likheter-i-nord" frk="498 11 36 3201"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-13"/>
+<attribute name="author" value="Jonas Stein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Likheter i nord</div>
+<div type="ingress"></div>
+<div type="author">Jonas Stein Stipendiat i statsvitenskap / UiT Norges Arktiske Universitet / University of Melbourne</div>
+<div type="date">13. juni 2019</div>
+<div type="caption"><p>Artikkelforfattere: Jonas Stein og Marcus Buck.</p></div>
+<div type="text">
+<p>De siste 40 årene har befolkningsutviklingen i Nord-Norge og Nord-Sverige vært forbausende like. Ikke bare på det overordnede regionale plan, men også når man bryter det ned på kommunenivå.</p>
+<p>Funnet er basert på en forskningsartikkel skrevet av Jonas Stein. Gjennom å analysere endring i befolkningsutvikling i 116 kommuner i Nord-Norge og Nord-Sverige fra 1952 til 2015 viser tallene at likhetene, spesielt etter 1975 er slående. Det er interessant fordi at i perioden etter 1975 er det tre forskjeller som ofte blir brukt som argument for at Norge har lykkes godt i distriktspolitikken; 1) Mange flere små kommuner i Norge 2) Sverige har blitt medlem i EU som har felles regionalpolitikk 3) Norge har betydelige distriktspolitikk rettet mot Nord-Norge (ca 12 milliarder i året).</p>
+<p>Men det illustrerer også verdien av å bruke mer avanserte analytiske verktøy som tidsserieanalyse og multivariate modeller som kontrollerer for flere faktorer.</p>
+<p>En større andel av befolkningen bor i Nord-Norge (9 prosent) enn i Nord-Sverige (6 prosent) i dag, men det gjorde det også i 1950. Tidsserieanalysen som baserer seg på endringstallene viser at utviklingen, spesielt etter 1975 er omtrent helt identisk. Spesielt når man bruker multivariate modeller på kommunenivå som tar hensyn til flere faktorer, spesielt kommunestørrelse og utdanningsinstitusjoner. Det er de store universitetsbyene (Tromsø og Umeå) som har vokst mest, mens de gamle høgskolebyene (Bodø og Luleå) har vokst, men i litt mindre grad. De andre kommunene opplever i stor grad relative befolkningsnedgang.</p>
+<p>Funnene har ført til en rekke kommentarer i Nordlys, VG og senest av Nils Aarsæther og Jan Einar Reiersen. Spesielt i sistnevntes artikkel så illustreres verdien av en analyse som hensyntar flere faktorer. Dersom de i sin sammenligning hadde hensyntatt at det store breddeuniversitet i Nord-Sverige ble etablert i Umeå (Västerbotten) og i Nord-Norge i Tromsø (Troms og Finnmark), så ville artikkelforfatterne funnet ut at det ville vært betydelig samsvar med modellen presentert i forskningsartikkelen.</p>
+<p>Spørsmålet er hva betyr så dette funnet om likhet? For det første så er det viktig å forstå hvor viktig utdanning er og har vært for utvikling i nord. Spesielt de store forsknings- og utdanningsinstitusjonene. For det andre, så gjør den store globale trenden med urbanisering seg gjeldene også i nord på tross av en politikk som mange hevder er en ubetinget suksess. For det tredje, fra et rent vitenskapelig ståsted så illustrerer det nytten av kvantitative verktøy og behovet for å sammenligning over tid og med hensyn til flere faktorer.</p>
+<p>Avslutningsvis er det ingen grunn til å si at funnene er en debatt for eller mot distriktspolitikk, men kanskje heller åpner for en sunn debatt mellom forskere, politikere og andre samfunnsaktører om det er mulig å tenke nytt i distrikts- og regionalpolitikken? Som vi viser i en artikkel som snart vil bli publisert så er det regionale forskjeller i politisk tillit og en regionalpolitikk som fungerer og som inkluderer hele landet vil være et godt virkemiddel for å utjevne disse forskjellene i politisk tillit.</p></div></body></document>

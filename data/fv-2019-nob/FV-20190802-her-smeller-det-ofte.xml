@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190802-her-smeller-det-ofte.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/3JRnWq/Her-smeller-det-oftest-for-de-myke-trafikantene" frk="44 29 10 335 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-02 13:54"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her smeller det oftest for de myke trafikantene</div>
+<div type="ingress">Siden 2015 er det registrert 71 fotgjenger- og sykkelulykker i Kristiansand. Oftest smeller det i Kvadraturen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dette kartet viser antall ulykker som involverer antall fotgjengere, akende og syklende i Kristiansand siden 2015. FOTO: Skjermdump/vegkart/Statens vegvesen</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190808-n-person-til-sykehus.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/zGkqyO/n-person-til-sykehus-etter-roykutvikling-i-leilighet-i-Markens-gate" frk="40 0 0 262 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-08 09:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Én person til sykehus etter røykutvikling i leilighet i Markens gate</div>
+<div type="ingress">Røyk fra leilighet midt i sentrum. Én person er evakuert.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Nødetatene kom raskt fram til stedet hvor det torsdag oppstod røykutvikling i en leilighet. FOTO: Jon Berntsen Kåsa</p></div>
+</body></document>

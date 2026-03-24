@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190819-to-eldre-menn-var-sa.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/mRyLgg/To-eldre-menn-var-savnet-fra-forskjellige-sykehjem-i-natt" frk="30 0 0 182 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-19 12:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger,hinna,tur,politiet,stavanger sentrum"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">To eldre menn var savnet fra forskjellige sykehjem i natt</div>
+<div type="ingress">De hadde begge kommet litt for langt fra sykehjemmet der de bodde, og klarte ikke å finne veien tilbake.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

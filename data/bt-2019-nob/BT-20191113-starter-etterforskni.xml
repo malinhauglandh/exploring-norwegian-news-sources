@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191113-starter-etterforskni.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0nq8j6/Starter-etterforskning--Overrasket-over-sa-store-prisforskjeller" frk="32 0 0 253 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Starter etterforskning: – Overrasket over så store prisforskjeller</div>
+<div type="ingress">Butikkjedene har så ulike betingelser når de skal kjøpe inn varer som vaskemidler og sjokolade, at Konkurransetilsynet har startet etterforskning mot flere selskaper.</div>
+<div type="author"></div>
+<div type="date">2019-11-13</div>
+<div type="caption"></div>
+</body></document>

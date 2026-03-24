@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191001-plutselig-havnet-bil.xml"/>
+<attribute name="url" value="http://www.nordlys.no/trafikkulykke/trafikk/narvik-sentrum/plutselig-havnet-bilen-her/s/5-17-613827" frk="16 0 0 118 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-10-01 12:21"/>
+<attribute name="author" value="Odd-Georg Hergot Benjaminsen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Plutselig havnet bilen her</div>
+<div type="ingress">Like etter trafikkulykken visste politiet lite om hva som hadde skjedd.</div>
+<div type="author">Av Odd-Georg Hergot Benjaminsen</div>
+<div type="date">01. oktober 2019, kl. 12:21</div>
+<div type="caption"></div>
+</body></document>

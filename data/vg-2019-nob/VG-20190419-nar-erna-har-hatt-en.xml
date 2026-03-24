@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190419-nar-erna-har-hatt-en.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/awJgW7/naar-erna-har-hatt-en-toeff-dag-lar-sindre-henne-velge-tv-kanal" frk="22 0 0 139 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-19 18:22"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Når Erna har hatt en tøff dag, lar Sindre henne velge TV-kanal.</div>
+<div type="ingress">Det første Erna Solberg legger merke til er stillheten.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

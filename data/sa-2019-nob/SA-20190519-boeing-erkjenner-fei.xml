@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190519-boeing-erkjenner-fei.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/utenriks/i/Wb8XzK/Boeing-erkjenner-feil-ved-737-MAX-simulator" frk="369 11 27 2418"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-19 06:36:33"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="boeing,flyselskaper,fly,flyulykker,ethiopian airlines,boeing 737"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Boeing erkjenner feil ved 737 MAX-simulator</div>
+<div type="ingress">Programvareoppdateringen for 737 MAX-flyene som Boeing har fullført, var knyttet til mangler ved simulatorene der pilotene lærte å manøvrere flyet.</div>
+<div type="author">NTB</div>
+<div type="date">2019-05-19 06:36:33</div>
+<div type="caption"><p>Et Boeing 737 MAX 8 bygget for Turkish Airlines på testtokt. Illustrasjonsfoto: Ted S. Warren / AP / NTB scanpix</p></div>
+<div type="text">
+<p>Det opplyser flyprodusenten Boeing i en uttalelse lørdag.</p>
+<p>Boeing kunngjorde i forrige uke at selskapet var ferdig med en programvareoppdatering for 737 MAX-flyene, den nye flymodellen som har vært involvert i to tragiske ulykker der til sammen 346 mennesker mistet livet. En programvarefeil mistenkes for å ha bidratt til begge ulykkene med den nye flytypen.</p>
+<p>– Boeing har korrigert 737 MAX-simulatorprogramvaren, og har gitt ytterligere informasjon til enhetsoperatører for å sikre at simulatoropplevelsen er representativ for ulike flyforhold, sier selskapet i en uttalelse lørdag.</p>
+<p>Det er første gang selskapet har erkjent at det var feil ved programvaren knyttet til flymodellen.</p></div>
+<div type="title" level="3">Manuell styring</div>
+<div type="text">
+<p>Ifølge Boeing har de nå rettet opp mangler ved programvaren til simulatorene der pilotene som skulle fly 737 MAX-flyene fikk sin opplæring.</p>
+<p>Programvaren i flysimulatoren var ikke i stand til å gjenskape alle typer flyforhold korrekt, blant annet skal dette ha vært tilfelle for forholdene som rådet da flyet til Ethiopian Airlines styrtet i mars og flyet fra Lion Air styrtet i oktober.</p>
+<p>I meldingen skriver selskapet at endringene som er gjort, vil forbedre simuleringen av kraftbelastninger på de spakene, spesifikt de som brukes for å gripe inn og manuelt justere flyets bane i lufta.</p>
+<p>Både etter Indonesia-ulykken og flystyrten i Etiopia mistenkes det at en programvare på MAX-flyene som har til hensikt å dytte flyets nese nedover for å unngå steiling under visse omstendigheter, kan ha bidratt til ulykkene.</p></div>
+<div type="title" level="3">Kommer sent på året</div>
+<div type="text">
+<p>Flyene er inntil videre satt på bakken mens oppdateringene blir gjort og i påvente av godkjenning.</p>
+<p>– Boeing jobber tett sammen med produsentene og tilsynsmyndighetene om disse endringene og forbedringene, og for å sikre at kundetrening ikke blir skadelidende, heter det i meldingen lørdag.</p>
+<p>Boeing har utviklet en opplæringsmanual som nå gjennomgås av luftfartsmyndighetene i USA (FAA), globale myndigheter og ulike flyselskaper.</p>
+<p>Southwest Airlines, en av de største kundene med 34 737 MAX-fly, sier at de venter sin første oppdaterte simulator på plass sent i år.</p></div></body></document>

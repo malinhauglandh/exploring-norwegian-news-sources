@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190223-malte-over-kunsten-o.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/P3Vy4b/Malte-over-kunsten-og-feiret-i-tomt-museum" frk="51 3 1 316 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-23 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Museum,Kultur,Rehabilitering,Kode (Kunstmuseene i Bergen),Oppussing,Kunst,Dans"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Malte over kunsten og feiret i tomt museum</div>
+<div type="ingress">Fredag kveld ble kunstverket til Ole Jørgen Ness malt over og erklært avsluttet. Så fortsatte festen i et museumsbygg som aldri tidligere er brukt som klubblokale.</div>
+<div type="author"></div>
+<div type="date">2019-02-23</div>
+<div type="caption"><p>FERDIG: Verket til Ole Jørgen Ness har vært stilt ut siden 3. november. FOTO: Ørjan Deisz</p></div>
+</body></document>

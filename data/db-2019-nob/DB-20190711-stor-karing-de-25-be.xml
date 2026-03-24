@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190711-stor-karing-de-25-be.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/stor-karing-de-25-beste-artistene-fra-akershus/71390503" frk="54 11 4 336 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-07-11 19:55"/>
+<attribute name="author" value="Mathilde Lea"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor kåring: De 25 beste artistene fra Akershus</div>
+<div type="ingress">I løpet av de neste ukene skal Dagbladet kåre de beste bandene og artistene fra hvert fylke i Norge. I dag tar vi for oss Akershus.</div>
+<div type="author">Mathilde Lea</div>
+<div type="date">2019-07-11</div>
+<div type="caption"><p>DAGBLADET KÅRER: Dagbladet kårer de beste artistene/bandene fra Akershus de siste 40 åra. Illustrasjon: Liselotte Hauer Kind / Dagbladet</p></div>
+</body></document>

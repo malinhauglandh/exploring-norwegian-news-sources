@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190129-facetime-feil-gir-mu.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/norgeogverden/i/Eo1la3/FaceTime-feil-gir-mulighet-for-avlytting" frk="220 4 7 1488"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-01-29 11:38"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,norgeogverden"/>
+<attribute name="class2" value="nyheter,norgeogverden"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">FaceTime-feil gir mulighet for avlytting</div>
+<div type="ingress">En nylig oppdaget FaceTime-feil ved Apples iPhone gjør det mulig for folk å både se og høre personen de ringer, uten at mottakeren svarer.</div>
+<div type="author">NTB</div>
+<div type="date">29.jan.2019 11:38</div>
+<div type="caption"><p>En FaceTime-feil muliggjør tyvlytting på Apples iPhone. (AP Photo/Richard Drew, File)</p></div>
+<div type="text">
+<p>Når et telefonnummer blir ringt på FaceTime, iPhones internettbaserte tale- og videosamtalefunksjon, kan den som ringer, legge til flere personer i samtalen.</p>
+<p>Dersom den som ringer legger inn sitt eget nummer for personen som blir lagt til, starter en gruppesamtale selv om mottakeren ikke har svart. Dette muliggjør tyvlytting, og i flere tilfeller har også videofunksjonen blitt aktivert.</p>
+<p>Feilen, som først ble omtalt av nettstedet 9to5Mac.com, har blitt rapportert i flere medier.</p>
+<p>En video lagt ut på Twitter-kontoen @BmManski som viser hvor enkelt det er å dra nytte av feilen, hadde mandag kveld nesten to millioner visninger og 14.000 delinger.</p>
+<p>Apple har tirsdag blitt oppmerksom på feilen og selskapet har midlertidig deaktivert FaceTime-gruppesamtale.</p>
+<p>– Vi er oppmerksomme på problemet, og har funnet en løsning som vil bli gitt i en systemoppdatering senere denne uken, heter det i en uttalelse fra Apple ifølge amerikanske medier.</p>
+<p>FaceTime-programvaren muliggjør tale- eller videosamtaler via av iPhone, iPad, iPod Touch og Macintosh-datamaskiner.</p>
+<p>Twitter-grunnlegger og administrerende direktør Jack Dorsey råder i en tweet folk til å deaktivere FaceTime fram til Apple kommer med en løsning.</p></div></body></document>

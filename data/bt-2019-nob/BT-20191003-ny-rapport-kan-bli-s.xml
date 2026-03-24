@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191003-ny-rapport-kan-bli-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/K3k32E/Ny-rapport-Kan-bli-slutt-pa-barekraftig-laksefiske-pa-deler-av-Vestlandet" frk="32 0 0 226 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-03 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny rapport: Kan bli slutt på bærekraftig laksefiske på deler av Vestlandet</div>
+<div type="ingress">Antall laks som kommer tilbake til Norge holder seg stabilt, men Vitenskapelig råd for lakseforvaltning er bekymret for Vestlandet.</div>
+<div type="author"></div>
+<div type="date">2019-10-03</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190419-her-er-de-50-beste-h.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/qLykmO/Her-er-de-50-beste-herrespillerne-i-Hordaland" frk="20 14 2 139 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-19 15:23"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er de 50 beste herrespillerne i Hordaland</div>
+<div type="ingress">Fjorårets vinner er skjøvet ned fra tronen.</div>
+<div type="author"></div>
+<div type="date">2019-04-19</div>
+<div type="caption"><p>FOTO: Endre Lilletvedt (ill.)</p></div>
+</body></document>

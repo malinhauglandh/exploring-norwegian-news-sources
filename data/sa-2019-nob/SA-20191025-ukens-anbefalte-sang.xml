@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191025-ukens-anbefalte-sang.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/y3X6nE/Ukens-anbefalte-sanger" frk="32 18 4 220 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-25 12:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="anmeldelse,plateanmeldelse"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ukens anbefalte sanger</div>
+<div type="ingress">Skyskraper så dagens lys i Stavanger i 2017. Så langt kan de telle tre singler.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Skyskraper er Einar Philip Sortland Melkersen, Sveinung Fjermestad og Haakon Eggebø. Eivind Horne</p></div>
+</body></document>

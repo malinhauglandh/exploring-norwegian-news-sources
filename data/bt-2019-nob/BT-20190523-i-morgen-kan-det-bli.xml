@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190523-i-morgen-kan-det-bli.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Xg418m/I-morgen-kan-det-bli-storstreik-i-Bergen" frk="36 0 0 214 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-23 12:09"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Streik,KS,Skole og utdanning,Lærerstreik,Eksamen,Skole,Unio,Bergen,Utdanningsforbundet,Akademikerne"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I morgen kan det bli storstreik i Bergen</div>
+<div type="ingress">Flere elever og studenter risikerer å gå glipp av eksamen.</div>
+<div type="author"></div>
+<div type="date">2019-05-23</div>
+<div type="caption"><p>FLEST: Rothaugen skole har flest lærere som kan bli tatt ut i streik. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

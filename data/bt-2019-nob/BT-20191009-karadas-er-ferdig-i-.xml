@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191009-karadas-er-ferdig-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/rA3m6K/Karadas-er-ferdig-i-Brann---Trist-og-kjedelig" frk="10 0 0 80 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Karadas er ferdig i Brann</div>
+<div type="ingress">Superveteranen får ikke fortsette.</div>
+<div type="author"></div>
+<div type="date">2019-10-09</div>
+<div type="caption"></div>
+</body></document>

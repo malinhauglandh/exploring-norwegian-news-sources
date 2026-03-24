@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190820-en-million-pornobruk.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/en-million-pornobrukere-lekket/71508288" frk="444 3 12 3161"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-08-20 13:56"/>
+<attribute name="author" value="Madeleine Hatlo"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">En million pornobrukere lekket</div>
+<div type="ingress">«Ekstremt personlig og sårbart innhold» fra identifiserbare brukere lå åpent tilgjengelig for offentligheten.</div>
+<div type="author">Madeleine Hatlo</div>
+<div type="date">2019-08-20</div>
+<div type="caption"><p>UTSATT: Over en million brukere av den populære pornosida Luscious har fått aktivitet og personlig informasjon eksponert. Illustrasjonsfoto: NTB Scanpix</p></div>
+<div type="text">
+<p>Et alvorlig sikkerhetsbrudd skal ha lekket personlig brukerinformasjon til samtlige av de over 1,1 millioner registrerte brukerne av den populære pornosida Luscious, melder TechCrunch.</p>
+<p>Luscious er en av de mest populære pornosidene i USA, og spesialiserer seg på såkalt hentai-porno - japansk pornografi med tegnede figurer.</p>
+<p>De registrerte brukerne skal kunne laste opp innhold anonymt på sida, som ifølge databasen inneholdt nesten 20 millioner bilder, 900 videoer og 30 000 blogginnlegg fra brukerne.</p>
+<p>Under sikkerhetsbruddet har brukerdatabasen ligget åpen, slik at hvem som helst uten passord kunne få tilgang til brukernes aktivitet på sida, samt identifiserende e-postadresser.</p></div>
+<div type="title" level="3">- Ekstremt personlig</div>
+<div type="text">
+<p>Lekkasjen ble avdekket av de israelske sikkerhetsforskerne Noam Rotem og Ran Locar, som er tilknyttet vpnMentor - en tjeneste som spesialiserer seg på evaluering av VPN-tjenester.</p>
+<p>De oppdaget sikkerhetsbruddet torsdag forrige uke, og kontaktet eierne av Luscious fredag. Mandag skal problemet ha blitt fikset, etter to uker med eksponering av databasen.</p>
+<p>- Noen av blogginnleggene vi fikk tilgang til var ekstremt personlige - og inkluderte depressivt eller på andre måter sårbart innhold - som ble holdt anonymt. Men på grunn av sikkerhetsbruddet ble mange av innleggsforfatternes identitet avslørt, skriver forskerne i et blogginnlegg.</p>
+<p>Analysene av brukernes e-postadresser viser at et stort antall brukere er europeiske. Flere har også registrert seg med e-postadresser som tilsier at de jobber innen høyere utdanning, samt i myndighetsapparatet i flere land.</p>
+<p>- Dette medfører en økt sårbarhet ikke bare for brukerne, men for deres arbeidsgivere. Med tilgang til e-postadressene kan kriminelle hackere angripe myndighetene, skriver forskerne videre.</p>
+<p>De påpeker blant annet at brukerne risikerer å bli truet med offentliggjøring av aktiviteten overfor familie, venner og arbeidsgivere, med mindre de eksempelvis betaler en gitt sum til vedkommende som framsetter trusselen. Det er imidlertid ingen garanti for at innholdet ikke blir delt uansett, advarer de.</p></div>
+<div type="title" level="3">Skal advare brukerne</div>
+<div type="text">
+<p>TechCrunch skal ha kontaktet eieren av nettsida gjentatte ganger før de publiserte saken, uten å få noe svar. Det var først etter kontakt med Luscious' webvert at tilgangen til databasen ble stengt for offentligheten.</p>
+<p>Etter publisering mandag kveld bekreftet imidlertid eieren sikkerhetsbruddet.</p>
+<p>- Vi kommer til å kontakte alle kompromitterte brukere og advare dem om den potensielle eksponeringen, skriver vedkommende i en e-post.</p>
+<p>Rotem og Locar anbefaler alle brukere å endre kontoopplysningene sine, inkludert brukernavn og e-postadresse.</p>
+<p>Til alle som har eller vurderer å skaffe seg en registrert bruker på tilsvarende nettsider, anbefaler de å anvende informasjon som ikke kan assosieres til sitt ekte navn, personlige e-post eller noen annen konto på nett.</p></div></body></document>

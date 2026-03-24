@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190802-stavanger-kunstmuseu.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/opezXm/Stavanger-kunstmuseum-pusser-opp-Far-nytt-verksted" frk="69 15 7 453 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-02 10:54"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="museum,kunst,utstilling"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stavanger kunstmuseum pusser opp: Får nytt verksted</div>
+<div type="ingress">Halvdan Hafstens-samling inneholder 208 verk og utstillingen har stått uendret siden 2011. Nå skal paviljongen pusses opp. Det betyr at utstillingene stenges i et halvt år.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det er denne fløyen på Stavanger kunstmuseum som skal pusses opp i høst. Halvdan Hafstens-samling skal vises frem i nytt lys. Bildet er fra den nåværende utstillingen. Bildet til venstre er malt av Kai Fjell.</p></div>
+</body></document>

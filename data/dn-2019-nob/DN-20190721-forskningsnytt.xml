@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190721-forskningsnytt.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/forskningsnytt/2-1-641225" frk="22 0 0 168 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-21 16:55"/>
+<attribute name="author" value="DN-leder"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Forskningsnytt</div>
+<div type="ingress">En undersøkelse fra Nifu viser at særlig de som hovedsakelig jobber alene, kan oppleve arbeidet som ensomt. Det skriver Forskerforum.</div>
+<div type="author">DN-leder</div>
+<div type="date">2019-07-21 16:55</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

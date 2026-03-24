@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190317---tydelige-likhetstr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/xRGzlp/Etiopia-Flydata-viser-likhetstrekk-mellom-737-MAX-8-styrtene" frk="395 9 22 2430" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-17 17:44"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Fly,Flyulykker,Luftfart,Etiopia,Boeing 737"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Tydelige likhetstrekk mellom Boeing-flyene som styrtet</div>
+<div type="ingress">Det er funnet flere likhetstegn mellom flystyrten i Etiopia og en flystyrt i Indonesia i fjor. Begge ulykkesflyene var relativt nye Boeing 737 MAX 8-modeller.</div>
+<div type="author">NTB</div>
+<div type="date">17. mars 2019 17:44</div>
+<div type="caption"><p>Et bilde som den en franske flyhavarikommisjonen (BEA) har offentliggjort av den ene boksen, viser at den har store skader. Foto: AP/NTB scanpix</p> <p>Bildet viser stedet i Etiopia der Ethiopian Airlines Boeing 737 MAX 8-maskinen styret forrige søndag. Foto: AP/NTB scanpix</p></div>
+<div type="text">
+<p>Det viser data fra ferdsskriveren til flyet fra Ethiopian Airlines som styrtet sist søndag, opplyser den etiopiske transportministeren Dagmawit Moges.</p>
+<p>– Klare likheter er registrert mellom styrten til Ethiopian Airlines rute 302 og Indonesian Lion Air rute 61. Dette skal undersøkes i den videre etterforskningen, sier hun og legger til at en foreløpig rapport om styrten blir offentliggjort i løpet av 30 dager.</p></div>
+<div type="title" level="3">Granskes i Frankrike</div>
+<div type="text">
+<p>Det er den franske flyhavarikommisjonen (BEA) som har fått ansvaret for den videre etterforskningen etter flystyrten i Etiopia forrige søndag.</p>
+<p>De svaret boksene, som i virkeligheten er oransje og inneholder flyets ferdskriver og taleregistrator, kom fram til Paris torsdag. Arbeidet var i gang fredag, men det er usikkerhet om hvor mye informasjon det vil være mulig å hente ut av taleregistratoren. Et bilde som BEA har offentliggjort, viser at den har store skader.</p>
+<p>Alle fly av denne typen er inntil videre tatt ut av drift verden over etter flyulykken i Etiopia søndag der 157 mennesker omkom. I flyulykken i Indonesia i oktober, mistet 189 mennesker livet.</p>
+<p>Begge ulykkesflyene var relativt nye og hadde bare vært i drift noen få måneder.</p></div>
+<div type="title" level="3">Mulig feil i programvare</div>
+<div type="text">
+<p>Ulykkene har rettet oppmerksomhet mot programvaren i Boeings MAX 8-maskiner.</p>
+<p>Programvaren, som kalles MCAS, mistenkes for å ha bidratt til ulykkene ved å tvinge flyenes nese nedover dersom en sensor registrerer at flyets vinkel i luften er for steil.</p>
+<p>Systemet er utviklet for å unngå at flyet får for lav hastighet og dermed steiler. Men dersom systemet ikke virker som det skal, kan det føre til at flyet får så lav hastighet at det ikke klarer å holde seg i luften.</p>
+<p>Ved begge ulykkene har det vært tegn til at flyene har variert mye opp og ned i fart og høyde kort tid etter at de tok av. Det har ført til at flyeksperter mistenker at systemet kan ha tvunget flyene ned dersom ikke flygerne har klart å skru av autopiloten.</p></div></body></document>

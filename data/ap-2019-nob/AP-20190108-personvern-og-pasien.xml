@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190108-personvern-og-pasien.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kommentar/i/1LnGJ/-Personvern-og-pasientsikkerhet-ma-balanseres--Joacim-Lund" frk="736 1 5 4877"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-08 05:00"/>
+<attribute name="author" value="Joacim Lund"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kommentar"/>
+<attribute name="class2" value="datatilsynet,personvern,medisin,helsepolitikk,teknologi,datasikkerhet,medisinsk utstyr,gdpr,implantert"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Personvern og pasientsikkerhet må balanseres | Joacim Lund</div>
+<div type="ingress">Det er viktig at helsedataene dine er trygge. Men det er også viktig at du overlever.</div>
+<div type="author">Joacim Lund</div>
+<div type="date">12 timer siden</div>
+<div type="caption"><p>FOTO: Inge Grødum</p></div>
+<div type="text">
+<p>«Forsøket på å fremstille personvern og pasientsikkerhet som motsetninger er etter vår mening uheldig,» skrev Datatilsynets direktør Bjørn Erik Thon og hans fagdirektør Camilla Nervik i Aftenposten. På twitter dro Thon det enda lenger, og mente at et spørsmål om personvern kan ta liv er «å dra debatten ned på et nivå den ikke bør være».</p>
+<p>At Datatilsynet jobber for personvern bør vi alle prise oss lykkelige for. Men når Datatilsynet skaper et inntrykk av at personvern og pasientsikkerhet ikke kan komme i konflikt, tåkelegger det en viktig debatt.</p>
+<p>3rd-party-bio</p></div>
+<div type="title" level="3">Lytt til erfarne fagfolk</div>
+<div type="text">
+<p>Bare i vår egen avis finnes det nok av ferske eksempler på at denne balansegangen er vanskelig: De 32 forskerne ved Oslo universitetssykehus som skrev et opprop i Aftenposten i går, under tittelen Når personvern truer folkehelsen. Eller overlege Torkel Steen, som skrev kronikken Dødelig personvern. Eller det samlede kardiologimiljøet bak det forrige oppropet for bedret pasientsikkerhet. Eller helseminister Høie, som erkjenner at det er «utfordringer i spennet mellom det å gi pasientbehandling på en arbeidseffektiv, helsefaglig fornuftig og sikker måte og ivaretagelse av personvern».</p>
+<p>Alle disse vet at medisinsk behandling, forskning og utvikling alltid er en balansegang mellom personvern og pasientsikkerhet, og at debatten om hvor grensen skal gå bare blir viktigere og viktigere.</p></div>
+<div type="title" level="3">Tolkninger av personvernloven</div>
+<div type="text">
+<p>De siste 15 årene har Heidi Thorstensen vært personvernombud ved Oslo Universitetssykehus. Hun er også informasjonssikkerhetsleder ved OUS med utøvende ansvar for virksomhetens sikkerhetsarbeid. Hun er ikke jurist, men likevel ansvarlig for å tolke loven og gi råd til sykehusets ledelse. Påstanden fra det medisinske miljøet er at hun – og sykehusledelsen – står for en så konservativ tolkning av personvernloven at det går på pasientsikkerheten løs.</p>
+<p>For eksempel har det medisinske fagmiljøet kjempet for et sentralt, nasjonalt register som gjør det mulig å finne og varsle pasienter med farlig medisinsk utstyr i kroppen. I mange år har de stanget mot veggen. I mellomtiden har våre naboer i Sverige og Danmark med gode erfaringer utviklet og tatt i bruk pasientregistre og digitale systemer som ivaretar både personvernet og pasientsikkerheten. Danmark har til og med tilbudt Oslo Universitetssykehus sitt GDPR-godkjente system som en gave. Men personvernombudet og sykehusledelsen sier nei – og det uten å ha realitetsvurdert det danske registeret.</p>
+<p>Gjennom en rekke artikler har Aftenposten de siste ukene dokumentert at mangelen på et slikt register har skapt farlige situasjoner for pasientene.</p>
+<p>På den andre siden kan en tenke seg situasjoner der overivrige leger vil hente ut mer informasjon enn det som er nødvendig eller forsvarlig. Derfor er både personvernombud og Datatilsynet viktige institusjoner som skal sørge for å opprettholde denne balansen. Personvern er et gode.</p>
+<p>Det kan bare bli for mye av det gode.</p></div>
+<div type="title" level="3">Faks og korrekturlakk</div>
+<div type="text">
+<p>«Legene er ikke nærmest til å vurdere alle aspektene ved teknologi og datasikkerhet,» skriver Datatilsynet.</p>
+<p>Dette er et argument som går igjen i debatten i sosiale medier. Leger er leger, ikke IT-eksperter. Og det er selvsagt riktig. Men IT-eksperter er heller ikke leger, og har ikke ansvaret for pasientenes sikkerhet. Legene har aldri forlangt at de skal «vurdere alle aspektene ved teknologi og datasikkerhet», tvert imot ønsker de seg mer effektive systemer som ivaretar både personvernet og pasientsikkerheten.</p>
+<p>I dag finnes det fortsatt papirbaserte journaldokumenter på Oslo universitetssykehus. Leger tar kopier, bruker korrekturlakk for å anonymisere og sender på telefaks. Og de tvinges til å bryte reglene og sende bilder av skader til eksperter fra sine egne mobiltelefoner – fordi det ikke finnes tilfredsstillende systemer.</p>
+<p>Alle, selv ledergruppene i Datatilsynet og Oslo Universitetssykehus, må kunne si seg enig i at det er viktig for personvernet at vi raskt kommer frem til nye og bedre løsninger.</p>
+<p>Heldigvis er det håp.</p></div>
+<div type="title" level="3">Stortingsmelding på vei</div>
+<div type="text">
+<p>Det siste året har denne debatten også fått et næringsperspektiv. Regjeringen mener at utviklingen av helsenæringen kan gi trippel gevinst: Bedre helse for befolkningen, nye verdier og nye arbeidsplasser.</p>
+<p>Den fortsatt nokså ferske Menon-rapporten Helsenæringens verdi gir et godt innblikk i både mulighetene og flaskehalsene.</p>
+<p>En stortingsmelding om helsenæringen er også på vei. Den skal beskrive hvordan helsenæringen kan bidra til mer effektiv ressursbruk, økt verdiskaping i norsk økonomi, nye lønnsomme arbeidsplasser i privat sektor og bedre helsepolitisk måloppnåelse.</p>
+<p>Det vil kreve et nytt blikk på både personvern og pasientsikkerhet – og hvordan de to skal balanseres.</p></div></body></document>

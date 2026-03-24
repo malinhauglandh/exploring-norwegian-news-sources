@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190406-stockholms-romeo-og-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/stockholms-romeo-og-julie-sto-bak-sveriges-mest-omtalte-drapssak/70955674" frk="63 0 0 391 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-06 19:49"/>
+<attribute name="author" value="Jan Ingar Thon"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="olof palme,ingun von sydow,fredrik von sydow,tema,pluss,stockholm"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stockholms Romeo og Julie sto bak Sveriges mest omtalte drapssak</div>
+<div type="ingress">Fredrik kom fra en av Sveriges mektigste familier. Ingun fra en av landets rikeste. Men fedrene nektet dem å leve ut kjærligheten.</div>
+<div type="author">Jan Ingar Thon</div>
+<div type="date">2019-04-06</div>
+<div type="caption"><p>Stockholms Romeo og Julie: Fredrik og Ingun kom begge fra mektige familier som forsøkte å skille dem. Som hos Shakespeare et endte det i tragedie og død. Foto: Ukjent/SVT Bild</p></div>
+</body></document>

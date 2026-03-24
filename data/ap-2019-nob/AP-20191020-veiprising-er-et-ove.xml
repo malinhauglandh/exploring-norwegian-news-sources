@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191020-veiprising-er-et-ove.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/debatt/i/vQyPzl/Veiprising-er-et-overvakingsmareritt--Marton-Teilgard" frk="855 0 5 5485"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-10-20 19:00"/>
+<attribute name="author" value="Marton Teilgård"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,debatt"/>
+<attribute name="class2" value="datasikkerhet,debatt,overvåking,personvern,tøi,veiprising,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Veiprising er et overvåkingsmareritt | Marton Teilgård</div>
+<div type="ingress">Det er soleklart at ingen av TØIs forslag kan implementeres trygt med tanke på datasikkerhet.</div>
+<div type="author">Marton Teilgård</div>
+<div type="date">20. okt. 2019 21:00</div>
+<div type="caption"><p>FOTO: Ørn E. Borgen / NTB scanpix Debattanten mener at veiprising er spesielt problematisk ut fra et personvernperspektiv.</p> <p>Marton Teilgård er sivilingeniør i digitalelektronikk.</p></div>
+<div type="text">
+<p>Transportøkonomisk Institutt (TØI) kom nylig med en rapport der de anbefaler veiprising i stedet for en rekke veiavgifter, inkludert bompenger. Veiprising er spesielt problematisk ut fra et personvernperspektiv.</p>
+<p>Forslaget fra TØI går ut på å betale for hver meter du kjører bil. Hvor mye vil avhenge av hvor, når og hva man kjører.</p>
+<p>3rd-party-bio</p>
+<p>Dette betyr å overvåke alle kjøretøy og samle data i et sentralisert system som alltid må vite hvor bilen (les: du) er.</p>
+<p>Dette er noe som får alle med en god forståelse av begrepet «Big data» til enten å sikle ukontrollert eller skjelve av frykt. Veiprising blir overvåking du ikke lovlig kan slippe unna, hvis du bruker private kjøretøy.</p>
+<p>En overvåkingsbrikke i alle kjøretøy betyr økt risiko for overvåking, uansett hvordan man behandler data.</p>
+<p>Risikoen kan likevel begrenses avhengig av hvor i systemet data prosesseres, hvilke data som lagres og hvor lenge. Investeringsviljen er også et uromoment. Med helsedataskandalen friskt i minnet kan man se for seg at utvikling og drift outsources.</p></div>
+<div type="title" level="3">Datatilgang for å hindre juks</div>
+<div type="text">
+<p>TØI nevner knapt disse problemene i rapportens sammendrag, annet enn at de må «utredes».</p>
+<p>I rapporten skriver de at «Verken storebror eller lillebror bør kunne se det enkelte individs bevegelser», før de prompte knuser enhver slik ambisjon med sine forslag og systemkrav.</p>
+<p>TØI nevner tre forslag om hvordan personvern kan ivaretas. Det tryggeste forslaget er fra Nederland, som i 2011 utredet veiprising, uten at det passerte nasjonalforsamlingen. I forslaget vet brikken kun hva hver veimeter koster, tidspunkt og lokasjon, og rapporterer sum til systemet. Den største svakheten er at dataene skal være tilgjengelige om man kobler brikken til en PC, slik at eier kan se over.</p>
+<p>Det vil være vanskelig å begrense tilgang til disse dataene til kun eier hvis det finnes tekniske svakheter, og eier vil kunne bruke disse dataene til å overvåke sine nærmeste. Dette beskriver «Lillebror». Allikevel er dette det tryggeste forslaget fra TØI, da data ikke kan forlate brikken.</p>
+<p>TØI godtar dessverre ikke dette nivået av sikkerhet med sine systemkrav. «En må kreve at alle kjøretøy (...) får installert det nødvendige utstyr for kommunikasjon med systemet. Stikkprøver og straffereaksjoner vil være nødvendig overfor «snikere».» «Storebror» skal altså ha tilgang til data for å sjekke at ingen jukser.</p></div>
+<div type="title" level="3">Sentral lagring og behandling</div>
+<div type="text">
+<p>TØIs andre forslag innebærer systemer der data lagres og behandles sentralt, enten statlig eller av private aktører.</p>
+<p>Slike system, uansett pris, kan ikke lagre data trygt.</p>
+<p>De vil knekke, før eller siden, som følge av utviklerfeil, utro tjenere eller utleveringskrav fra myndighet. Eller av verdens beste hackere, som jobber for NSA, Russland og Kina.</p>
+<p>En variant av det nederlandske systemet, der data kun er tilgjengelig ved fysisk kontroll i få minutter, kan minimere risiko for overvåking. Her kreves det dog tillit, bruker må stole på at systemet regner rett, uten kontrollmulighet, og myndighetene må ha tillit til at folk ikke jukser. Dette nivået av tillit er kanskje utopisk.</p></div>
+<div type="title" level="3">Bakdør svekker systemet</div>
+<div type="text">
+<p>Vi må også ha tillit til at myndighetene ikke har fått inn ekstra funksjonalitet i brikken. Politikere verden over ønsker økt tilgang til privat data. I Australia har man komisk nok laget en lov der alle krypteringssystemer skal kunne åpnes av myndighetene ved behov, selv om et samlet fagfelt fortalte dem at det fjerner enhver mulighet for sikker kryptering.</p>
+<p>Det er ikke vanskelig å se for seg at PST vil ønske tilgang til veiprisingsbrikken på ymse grunnlag, eller at norske politikere vil tenke at dette er en god idé.</p>
+<p>Datalagringsdirektivet og ekomloven har vist at overvåking er noe styringspartiene Ap og Høyre er komfortable med.</p>
+<p>Selv om dette vil bety at politiet vil kunne spore kriminelle, vil en slik bakdør utvilsomt svekke systemet. Eksisterer det en bakdør, vil den kunne brukes av andre enn dem som skal ha tilgang, som hackere og utro tjenere, uansett hvor flinke utviklerne er.</p></div>
+<div type="title" level="3">Ingen av forslagene er trygge</div>
+<div type="text">
+<p>TØIs manglende bekymring for personvern har et overraskende unntak. De mener at veiprising ikke kan inntektsjusteres, nettopp av personvernshensyn. Man har altså ingen problemer med å foreslå punktovervåking av hvert eneste kjøretøy i Norge, men vil ikke bruke offentlig kjente data fra skattelistene i systemet.</p>
+<p>Dette sier noe om hvordan TØI forstår disse utfordringene, enten bruker de personvernsargumentet kun der det hjelper deres sak, eller så forstår de ikke forskjellen på offentlige og sensitive data.</p>
+<p>Fra mitt perspektiv, som elektronikkutvikler med flere års erfaring med krypteringsteknologi, er det soleklart at ingen av forslagene kan implementeres trygt med tanke på datasikkerhet.</p>
+<p>Jeg klarer ikke se for meg et Norge som aksepterer de kravene til tillit et datamessig trygt veiprisingssystem vil stille, hverken fra statlig hold eller fra innbyggerne.</p>
+<p>Da står vi igjen med et system som vil koste mye penger, med stort potensial for datalekkasjer og personovervåking, både fra vår egen stat og andre aktører. Jeg synes ikke dette forslaget er verdt kostnaden, hverken i penger eller samfunnsendringer.</p></div></body></document>

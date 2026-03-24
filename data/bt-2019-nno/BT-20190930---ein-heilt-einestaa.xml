@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190930---ein-heilt-einestaa.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zGXqeK/-Pa-botn-i-folk_-er-det-vilje-og-trong-til-a-hjelpa" frk="32 17 4 224 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-30 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Ein heilt eineståande krigshending. Spennande som ein kriminalroman.</div>
+<div type="ingress">Eit kanadisk bombefly naudlanda i Os i 1944. Flymannskapet på seks vart berga og skjult, medan fleire tusen tyskarar leita etter dei.</div>
+<div type="author"></div>
+<div type="date">2019-09-30</div>
+<div type="caption"></div>
+</body></document>

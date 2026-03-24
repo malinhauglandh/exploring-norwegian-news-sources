@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190313-facebook-har-problem.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/bKyePv/Facebook-har-problemer--ogsa-norske-brukere-er-rammet" frk="263 4 8 1738" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-13 18:53"/>
+
+<attribute name="author" value="Marthe Øvergård"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Medier,Sosiale medier,Instagram,Teknologi,Facebook"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Facebook har problemer – også norske brukere er rammet</div>
+<div type="ingress">Flere brukere melder om problemer med Facebook. Enkelte brukere kommer ikke inn det hele tatt.</div>
+<div type="author">Marthe Øvergård</div>
+<div type="date">13. mars 2019 18:53</div>
+<div type="caption"><p>Kartet viser hvilke områder Facebook har problemer onsdag ettermiddag. FOTO: Downdetector.com</p> <p>Teksten som møter flere norske brukere forteller at Facebook er nede på grunn av vedlikehold. Skjermdump</p></div>
+<div type="text">
+<p>Rundt klokken 17.00 onsdag ettermiddag begynte meldinger om nedetid hos Facebook å tikke inn hos nettstedet Downdetector. Nettstedet viser livedekning av nedetid hos tjenester på nettet, som Facebook, Twitter og Instagram, skriver Aftenposten.</p>
+<p>Kartet til Downdetector viser at mange melder om problemer i USA, Sør-Amerika og deler av Europa. Brukere i Norge er også rammet. BT er blant dem, vi får i øyeblikket ikke publisert saker på vår Facebook-side.</p>
+<p>Ved 20.00-tiden onsdag kveld er det fremdeles problematisk å bruke tjenester som Instagram, Facebook, Messenger, WhatsApp, Twitter og Etsy. I tillegg har flere store nettsider problemer - deriblant det amerikanske posttilbudet US Postal Service. Det melder den britiske avisen The Independent.</p></div>
+<div type="title" level="3">Instagram også nede</div>
+<div type="text">
+<p>Det meldes om problemer med innlogging, opplasting og publisering, ifølge den engelske avisen .</p>
+<p>Brukere som ikke får logget inn får beskjed om at «Facebook er for øyeblikket nede på grunn av nødvendig vedlikehold, men vi er tilbake om noen få minutter».</p>
+<p>Denne beskjeden har møtt brukere i flere timer onsdag kveld.</p>
+<p>Ved forsøk på innlogging på Instagram blir brukere møtt med følgende beskjed:</p>
+<p>«Beklager, noe gikk galt. Vennligst prøv igjen senere.»</p>
+<p>Facebook skriver på Twitter at selskapet er klar over at brukere har problemer med flere av appene. De skriver også at de jobber med å rette problemene.</p></div></body></document>

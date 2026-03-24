@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190124-kryptovaluta-slik-vi.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/kryptovaluta-slik-vi-kjenner-det-kan-bli-forbudt/70692198" frk="67 0 0 438 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-24 20:53"/>
+<attribute name="author" value="Jørgen Gilbrant"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="kryptovaluta,bitcoins,økonomi,pluss,nyheter,politikk,monero"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kryptovaluta slik vi kjenner det kan bli forbudt</div>
+<div type="ingress">Et internasjonalt regelverk som krever at all kryptovaluta må være sporbar for å være lovlig, diskuteres allerede.</div>
+<div type="author">Jørgen Gilbrant</div>
+<div type="date">2019-01-24</div>
+<div type="caption"><p>SPORBAR? Bitcoin er i dag delvis sporbar, men det jobbes iherdig for å øke anonymiteten. Alt kan imidlertid endre seg hvis internasjonale myndigheter får på plass et regelverk som krever full sporbarhet for alle transaksjoner. Foto: Jack Guez / AFP Photo</p></div>
+</body></document>

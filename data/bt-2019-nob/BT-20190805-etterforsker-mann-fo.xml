@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190805-etterforsker-mann-fo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/e8egVR/Etterforsker-mann-for-hacking-og-ID-tyveri" frk="39 7 2 269 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-05 20:20"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vest politidistrikt,ID-tyveri,Hacking,Etterforskning"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Etterforsker mann for hacking og ID-tyveri</div>
+<div type="ingress">Mannen skal ha hacket datasystemene til flere selskap og skaffet seg opplysninger om privatpersoners konti.</div>
+<div type="author"></div>
+<div type="date">2019-08-05</div>
+<div type="caption"><p>FENGSLET: Den 39 år gamle mannen ble nylig fengslet på sin bursdag. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

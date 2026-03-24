@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191224-mann-knivstukket-og-.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/3JwVrM/mann-knivstukket-og-ranet-i-oslo" frk="52 6 2 316 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-24 22:02"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann knivstukket og ranet i Oslo</div>
+<div type="ingress">En mann i 50-årene ble knivstukket og ranet utendørs i Oslo sentrum julaften. Ingen er så langt pågrepet i saken, men politiet leter etter tre gutter.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 24. desember 2019 22:02</div>
+<div type="caption"><p>Politiet i Nordahl Bruns gate i Oslo, der knivstikkingen skal ha skjedd. Foto: Foto: Fredrik Hagen / NTB scanpix</p></div>
+</body></document>

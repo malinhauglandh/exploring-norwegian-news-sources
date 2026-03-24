@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190713-da-bergen-ble-turist.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/GG598x/Da-Bergen-ble-turistby" frk="78 20 11 530 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-13 14:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Turisme,Byutvikling,Bergen,Reiseliv,Hotell"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Da Bergen ble turistby</div>
+<div type="ingress">På slutten av 1800-tallet ble Vestlandet et populært turistmål. Samtidig utviklet den lokale hotellbransjen seg. Midt på Ole Bulls plass sto det første, store bergenshotellet – Holdts Hotell.</div>
+<div type="author"></div>
+<div type="date">2019-07-13</div>
+<div type="caption"><p>HOLDTS HOTELL: Holdts hotell sett fra Veiten rundt år 1900. Hotellets terrasse var på hele 400 kvadratmeter. Terrassen var viden kjent og et svært populært sted. Her kunne gjestene nyte forfriskninger, utsikten eller musikken som ble spilt på scenen. FOTO: O. Svanøe, Universitetsmuseet i Bergen</p></div>
+</body></document>

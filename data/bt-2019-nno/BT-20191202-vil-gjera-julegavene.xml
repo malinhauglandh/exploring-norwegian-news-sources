@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-vil-gjera-julegavene.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/Op1zWV/Vil-gjera-julegavene-berekraftige" frk="18 0 0 131 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vil gjera julegåvene berekraftige</div>
+<div type="ingress">Ein solid dugnad ligg bak når Aksel Mjøs lanserer eit nytt digitalt gåvekort.</div>
+<div type="author"></div>
+<div type="date">2019-12-02</div>
+<div type="caption"></div>
+</body></document>

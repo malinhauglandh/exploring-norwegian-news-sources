@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190120-bak-denne-svingen-ga.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/bKl655/Bak-denne-svingen-gar-mange-av-bilistene-i-baret" frk="57 0 0 353 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-20 08:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Loddefjord,Bil"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bak denne svingen går mange bilister i baret</div>
+<div type="ingress">Ved denne fotoboksen i Loddefjord er det tre ganger så høy andel fartssyndere som i Fløyfjellstunnelen. Se hvilke bokser som dro inn flest kroner i fjor.</div>
+<div type="author"></div>
+<div type="date">2019-01-20</div>
+<div type="caption"><p>GIR GASS: Rundt denne svingen gir en stor andel av bilistene for mye gass, viser fotobokstallene fra politiet. FOTO: Bjørn Erik Larsen</p></div>
+</body></document>

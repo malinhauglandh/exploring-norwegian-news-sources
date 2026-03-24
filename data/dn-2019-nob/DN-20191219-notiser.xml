@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191219-notiser.xml"/>
+<attribute name="url" value="http://www.dn.no/notiser/2-1-727681" frk="152 10 10 990"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-12-19 18:42"/>
+<attribute name="author" value="Harald Barstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NOTISER</div>
+<div type="ingress">Dagens Næringsliv er Norges viktigste leverandør av nyheter, historier og meninger om næringsliv, økonomi og samfunn.</div>
+<div type="author">Harald Barstad</div>
+<div type="date">2019-12-19 18:42</div>
+<div type="caption"></div>
+<div type="title" level="3">Sverige dropper negativ rente</div>
+<div type="text">
+<p>Sveriges sentralbank melder torsdag at de hever renten til 0 prosent.</p>
+<p>Inflasjonen i landet har vært nære sentralbankens inflasjonsmål på 2 prosent siden begynnelsen av 2017. I meldingen skriver sentralbanken at inflasjonen er ventet å ligge nære målet også fremover.</p>
+<p>Derfor beslutter de å heve renten fra -0,25 til 0. De venter at renten ikke skal heves over dette de nærmeste årene. (DN Investor)</p></div>
+<div type="title" level="3">Nordea kjøper SG Finans as</div>
+<div type="text">
+<p>Nordea har inngått en avtale med Société Générale om å kjøpe alle aksjer i SG Finans AS («SG Finans»). Planen er å slå virksomheten sammen med Nordeas nordiske finansieringsselskap Nordea Finance.</p>
+<p>– Dette oppkjøpet styrker evnen vår til å gi råd og hjelp til små og mellomstore bedrifter i forbindelse med deres finansielle behov, sier Frank Vang-Jensen, konsernsjef i Nordea.(DN Investor)</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-disse-sjoboyene-skal.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P9Xy1X/Disse-sjoboyene-skal-hindre-uvedkommende-i-a-ta-seg-inn-pa-Haakonsvern" frk="28 0 0 203 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Disse sjøbøyene skal hindre uvedkommende i å ta seg inn på Haakonsvern</div>
+<div type="ingress">Sjøforsvaret legger nå ut permanente beskyttelsestiltak i sjøen ved Haakonsvern og ved ubåtbunkeren på Laksevåg.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

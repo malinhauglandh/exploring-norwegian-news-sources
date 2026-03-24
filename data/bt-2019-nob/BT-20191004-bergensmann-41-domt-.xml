@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191004-bergensmann-41-domt-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3knry/Bergensmann-41-domt-til-forvaring-for-grov-vold-i-Sandviken" frk="28 20 4 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-04 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergensmann (41) dømt til forvaring for grov vold i Sandviken</div>
+<div type="ingress">Det er andre gang 41-åringen får forvaringsdom. Retten mener vanlig fengsel ikke vil verne samfunnet godt nok.</div>
+<div type="author"></div>
+<div type="date">2019-10-04</div>
+<div type="caption"></div>
+</body></document>

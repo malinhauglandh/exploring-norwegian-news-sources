@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190918-tv-er-lekker-persond.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/forbrukerelektronikk/personvern/tv/tv-er-lekker-persondata-til-netflix-og-facebook/2-1-673891" frk="157 1 2 1043"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-18 10:28"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,forbrukerelektronikk,personvern,tv"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tv-er lekker persondata til Netflix og Facebook</div>
+<div type="ingress">Selv om du ikke bruker apper på tv-en din, kan de sende annonseinformasjon til selskaper som Facebook, Netflix og Google. Selv om du ikke bruker apper på tv-en din, kan de sende annonseinformasjon til selskaper som Facebook, Netflix og Google.</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-09-18 10:28</div>
+<div type="caption">Smarte tv-er, høyttalere og annet utstyr blir ikke overvåket like strengt personvernmessig som nettlesere og apper. Eksperter vil holde bransjen ansvarlig. (Foto: Arkivbilde) </div>
+<div type="text">
+<p>Forskere ved Northeastern University og Imperial College London har nylig gjennomført en større studie av personvern i smarte tv-er.</p>
+<p>Forskerne har studert 81 tv-er og eksterne tv-bokser og funnene viser at de største tv-produsentene i verden, og produsenter av mediebokser som Roku, deler persondata som posisjon, hvilke apper du bruker og hva du ser på med ulike annonsenettverk, skriver Financial Times.</p>
+<p>Enkelte tjenester, som Netflix, vil motta informasjon om tv-vanene dine selv om du ikke er logget på Netflix på tv-en eller ikke har en Netflix-konto.</p></div></body></document>

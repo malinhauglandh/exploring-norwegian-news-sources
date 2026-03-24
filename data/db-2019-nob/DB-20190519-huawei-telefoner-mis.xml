@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190519-huawei-telefoner-mis.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/mobil/huawei-telefoner-mister-tilgangen-til-google-tjenester/71095076" frk="732 4 20 4746"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-05-19 22:04"/>
+<attribute name="author" value="Pål Joakim Pollen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="mobil"/>
+<attribute name="class2" value="huawei,mobil,google,android,handelskrig"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Huawei-telefoner mister tilgangen til Google-tjenester</div>
+<div type="ingress">Dette kan bli tøft for kineserne. Og for alle som har kjøpt Huawei-telefon.</div>
+<div type="author">Pål Joakim Pollen</div>
+<div type="date">2019-05-19</div>
+<div type="caption"><p>BRÅSTOPP: Google har nå stengt dørene for Huawei. Foto: Ng Han Guan / AP / NTB Scanpix</p></div>
+<div type="text">
+<p>Oppdatert: Huawei har kommet med sin første uttalelse etter Googles kunngjøring søndag kveld.</p>
+<p>«Huawei har kommet med betydelige bidrag til utviklingen og veksten til Android verden rundt. Som en av Androids globale nøkkelpartnere, har vi jobbet tett med åpen kildekode-fellesskapet for å utvikle et økosystem som er til det gode for både brukerne og industrien.</p>
+<p>Huawei vil fortsette å tilby sikkerhetsoppdateringer og støtte til alle eksisterende Huawei- og Honor-telefoner og nettbrett, som dekker både enhetene som er solgt og de som fremdeles er på lager verden rundt.</p>
+<p>Vil vil fortsette å tilby trygge og bærekraftige programvareøkosystem slik at vi kan tilby den beste opplevelsen for alle våre brukere globalt».</p></div>
+<div type="title" level="3">Kutter båndene</div>
+<div type="text">
+<p>Google og Huawei har lenge hatt et tett samarbeid, noe vi har fått understreket på opptil flere mobillanseringer de siste årene, der ordene «worked closely with Google» stadig har blitt rukket frem.</p>
+<p>Huawei var også selskapet bak den svært gode Google-telefonen, Nexus 6P, for snart fire år siden; den første Nexus-telefonen som fikk full pott på Dinsides terning.</p>
+<p>Nå har imidlertid forholdet fått en brå slutt. Det er tragiske nyheter for alle med Huawei-telefon.</p></div>
+<div type="title" level="3">På amerikansk «svarteliste»</div>
+<div type="text">
+<p>Det siste året har det vært mye debatt omkring Huawei, siden kinesiske selskaper er lovforpliktet til å samarbeide med landetes myndigheter i etterforskningsarbeid, etter en lovendring i 2017.</p>
+<p>Det har gjort at mange land nå er skeptiske til å bruke Huawei-utstyr til utbyggingen av 5G-nettet, i frykt for spionasje. Huawei har hele veien bedyret sin uskyld, og blant annet tilbudt Norge en såkalt "No-spy agreement", altså en avtale der Huawei skriver under på at de aldri vil sende informasjon til noen myndigheter - kinesiske eller andre.</p>
+<p>Men til NRK sier Politiets sikkerhetsjeneste (PST) at det ikke er nok.</p>
+<p>Tidligere denne uka havnet Huawei på det amerikanske handelsdepartementets «svarteliste», som i praksis betyr et forbud mot amerikansk eksport til Huawei uten spesifikk godkjenning fra Det hvite hus, som nok henger sammen med både spionasjefrykten og handelskrigen mellom de to gigantene.</p></div>
+<div type="title" level="3">Google stenger dørene</div>
+<div type="text">
+<p>Forbudet gjelder både maskinvare og programvare, og ifølge Reuters har Google nå blokkert sine tjenester for Huawei og fjernet selskapets Android-lisens – etter pålegget fra amerikanske myndigheter.</p>
+<p>Sledgehammer blow.</p>
+<p>Huawei was en route to being the biggest phone maker in the world, now it'll struggle to sell ANY phones.https://t.co/Ihwu4O8qOF</p>
+<p>— Vlad Savov (@vladsavov) 19. mai 2019</p>
+<p>Det vil i praksis bety at kommende Huawei-modeller (og modeller fra datterselskapet Honor, for eksempel) vil komme uten Googles tjenester, som inkluderer ting som Play butikk (app-butikken), Chrome, Gmail, YouTube, Google Maps, Google play tjenester og så videre.</p>
+<p>Men, dette er også dårlige nyheter for dem som allerede eier en Huawei-telefon.</p>
+<p>For når Google-døra nå er lukket, betyr det at telefonene ikke lenger vil motta fremtidige Android-oppdateringer. Ifølge Google vil Play butikk fortsatt fungere som før, også Google Play protect - den innebygde sikkerhetsmekanismen som skanner apper for uhumsk oppførsel.</p>
+<p>Hvorvidt Googles egne apper vil bli oppdatert på Huawei-telefoner virker foreløpig noe uklart.</p>
+<p>(De to foregående avsnittene er oppdatert etter publisering.)</p>
+<p>For Huawei users' questions regarding our steps to comply w/ the recent US government actions: We assure you while we are complying with all US gov't requirements, services like Google Play &amp; security from Google Play Protect will keep functioning on your existing Huawei device.</p>
+<p>— Android (@Android) 20. mai 2019</p>
+<p>Men Huawei blir henvist til å bruke Google AOSP (Android Open Source Project) heretter, altså delen av Android som har åpen kildekode, men som ikke inneholder Googles egne tjenester. Og uten Googles programvare vil nok det oppleves som svært mangelfullt for forbrukere verden over.</p></div>
+<div type="title" level="3">Hva gjør Huawei nå?</div>
+<div type="text">
+<p>Huawei har vært forbdredt på dette som et «worst case scenario», og meldte allerede for over et år siden at de jobbet med et eget mobilt operativsystem i tilfelle de skulle miste tilgangen til Android.</p>
+<p>Det var noe de helst ikke ville ty til, siden det nok ligger mange hakk bak Android, som tross alt har vært spikket på i over ti år.</p>
+<p>Dinside har spurt Forbrukerrådet hvordan denne avgjørelsen vil påvirke nordmenn som har kjøpt Huawei-telefoner.</p>
+<p>– Vi ser på saken og dere skal få svar så fort som mulig fra en av våre talspersoner, var kommentaren fra Forbrukerrådet mandag morgen.</p></div></body></document>

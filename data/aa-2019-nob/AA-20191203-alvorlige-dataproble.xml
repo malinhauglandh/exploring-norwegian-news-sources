@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20191203-alvorlige-dataproble.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/trondheim/2019/12/03/Store-IT-problemer-for-Trondheim-kommune-20536239.ece" frk="346 7 17 2178"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-12-03 18:17"/>
+<attribute name="author" value="Espen Rasmussen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,trondheim"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Alvorlige dataproblemer for Trondheim kommune</div>
+<div type="ingress">Kritiske systemer innen helse og velferd var utilgjengelige i nesten fem timer tirsdag.</div>
+<div type="author">Espen Rasmussen</div>
+<div type="date">03.12.2019 18:17</div>
+<div type="caption"></div>
+<div type="text">
+<p>- Trondheim kommune opplever i kveld IT-problemer som er merkbare for våre innbyggere. Det mest synlige er at vårt nettsted trondheim.kommune.no ikke er tilgjengelig. I tillegg er noen av systemene som benyttes innenfor helse berørt, deriblant hos legevakten, skriver kommunens IT-sjef Bjørn Villa i en e-post til Adresseavisen tirsdag ettermiddag.</p>
+<p>Problemene oppstod klokka 16.43. Villa påpekte på at det fantes alternativer til systemene som rammet helsesektoren.</p>
+<p>- Vi har gode reserveløsninger basert på mer manuelle rutiner, men det kan dessverre tidvis medføre noe økt ventetid, sa han.</p>
+<p>Det var tjenester fra en av kommunens IT-leverandører man ikke fikk kontakt med.</p>
+<p>- Problemene rammer flere kommuner enn Trondheim. Det er etablert et kriseteam hos leverandøren, og fra vår side er det viktig å få ut informasjon til innbyggerne, uttalte Villa.</p></div>
+<div type="title" level="3">Nede i flere timer</div>
+<div type="text">
+<p>Da systeme gikk ned, hadde kommunen ikke mulighet til å anslå hvor lang tid det ville ta å utbedre feilen.</p>
+<p>- Vi håper det går fort, men planlegger ut fra at det kan ta noen timer, sa Villa like før klokka 18.30.</p>
+<p>- Det er selvsagt beklagelig at folk ikke får kontakt med oss via hjemmesiden vår, men det viktigste er å ha kontroll på funksjoner som berører liv og helse, sa IT-sjefen.</p>
+<p>Klokka 21.15 er kommunens hjemmeside tilbake på lufta.</p>
+<p>- Alle kritiske systemer som benyttes innen helse og velferd er nå tilbake i drift etter å ha vært utilgjengelig i nesten 5 timer. Vi ser alvorlig på denne hendelsen, og beklager selvsagt overfor både innbyggere som kan ha merket dette, samt den ekstra belastning det har gitt våre ansatte, sier Villa til Adresseavisen klokka 21.30.</p></div>
+<div type="title" level="3">Andre gang på en uke</div>
+<div type="text">
+<p>Så sent som i forrige uke var kommunen også rammet av dataproblemer. Da ble man rammet av et såkalt tjenestenekt-angrep (DDoS), som blant annet gikk ut over skoler som avviklet tentamen. Villa tror ikke det er noen sammenheng mellom hendelsene.</p>
+<p>- Det er ingen indikasjoner på at problemene er relatert til det tidligere omtalte dataangrepet mot oss, sier han.</p></div></body></document>

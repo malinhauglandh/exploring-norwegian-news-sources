@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190108-test-av-ford-focus-s.xml"/>
+<attribute name="url" value="http://www.dn.no/biltesten/biltest/ford/kompaktbil/test-av-ford-focus-smart-fossil/2-1-498763" frk="60 0 0 364 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-08 13:53"/>
+<attribute name="author" value="Embret Sæter"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="biltesten,biltest,ford,kompaktbil"/>
+<attribute name="class2" value="Privat,Biltesten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av Ford Focus: Smart fossil</div>
+<div type="ingress">Bestselgeren Ford Focus er her i ny og langt smartere generasjon, men får neppe Ford ut av skyggenes dal. Bestselgeren Ford Focus er her i ny og langt smartere generasjon, men får neppe Ford ut av skyggenes dal.</div>
+<div type="author">Embret Sæter</div>
+<div type="date">2019-01-08 13:53</div>
+<div type="caption">Dette er fjerde generasjon Ford Focus. En bra bil som mangler elektrifisering. (Foto: Embret Sæter) </div>
+<div type="text">
+</div></body></document>

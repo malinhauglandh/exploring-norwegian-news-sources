@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190325-viking-sky-mannskape.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wPgALn/Viking-Sky-mannskapet-matte-kappe-ankerkjettingen-for-a-komme-seg-los" frk="46 0 0 284 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-25 09:07"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Vær,Diesel,Drivstoff,Båt,Etterforskning,Cruiseskip"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">«Viking Sky»-mannskapet måtte kappe ankerkjettingen for å komme seg løs</div>
+<div type="ingress">Da cruiseskipet hadde fått startet den ene motoren og ville sette kursen til havs, klarte de ikke å få opp det ene ankeret. Løsningen ble å kutte kjettingen.</div>
+<div type="author"></div>
+<div type="date">2019-03-25</div>
+<div type="caption"><p>FOTO: Odd Roar Lange / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190530-mannen-skulle-klippe.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JPr8A/Mannen-skulle-klippe-gresset-Na-ligger-han-alvorlig-skadet-pa-Haukeland" frk="22 0 0 164 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-30 05:54"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Høyanger,Haukeland universitetssykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mannen skulle klippe gresset. Nå ligger han alvorlig skadet på Haukeland.</div>
+<div type="ingress">En mann i Høyanger var særdeles uheldig under gressklippingen tirsdag.</div>
+<div type="author"></div>
+<div type="date">2019-05-30</div>
+<div type="caption"></div>
+</body></document>

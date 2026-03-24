@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191213---hjulet-sto-i-full-.xml"/>
+<attribute name="url" value="http://www.nordlys.no/brann/ulykke/vogntog/hjulet-sto-i-full-fyr/s/5-17-649079" frk="22 0 0 130 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-12-13 16:10"/>
+<attribute name="author" value="Ragnar Bøifot"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">– Hjulet sto i full fyr</div>
+<div type="ingress">Sjåføren var på tur fra Narvik til Harstad da han plutselig oppdaget brann i hengeren.</div>
+<div type="author">Av Ragnar Bøifot</div>
+<div type="date">13. desember 2019, kl. 16:10</div>
+<div type="caption"></div>
+</body></document>

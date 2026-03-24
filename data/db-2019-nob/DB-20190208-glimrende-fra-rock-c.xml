@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190208-glimrende-fra-rock-c.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/glimrende-fra-rock-city-tromso/70736764" frk="53 0 0 325 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-08 20:17"/>
+<attribute name="author" value="Øyvind Rønning"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="rock,plate,musikk,kultur,heartlandrock,anmeldelse,the late great,tromsø,tor thomassen,top1,øyvind rønning"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Glimrende fra «Rock City Tromsø»</div>
+<div type="ingress">The Late Great fra Tromsø spiller fengende «northlandrock».</div>
+<div type="author">Øyvind Rønning</div>
+<div type="date">2019-02-08</div>
+<div type="caption"><p>TROMSØ-BAND: The Late Great, med låtskriver, gitarist og vokalist Tor Thomassen i front (i midten), har lagd et album som er spilt inn i Tromsø , men som høres ut som det er fra New Jersey. Foto: Daniel MIkkelsen</p></div>
+</body></document>

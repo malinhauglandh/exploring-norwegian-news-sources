@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190228-i-fjor-snodde-kvamsk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/e1Vawa/I-fjor-snodde-Kvamskogen-ned-I-ar-er-skisentrene-avhengige-av-kunstsno" frk="48 9 3 303 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-28 11:36"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Voss,Vær,Fjell,Snø,Alpinanlegg"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I fjor snødde Kvamskogen ned. I år er skisentrene avhengige av kunstsnø.</div>
+<div type="ingress">Snødybden på Kvamskogen var tirsdag åtte centimeter. På samme tid i fjor målte snødybden 182 centimeter.</div>
+<div type="author"></div>
+<div type="date">2019-02-28</div>
+<div type="caption"><p>KVAMSKOGEN: Slik ser det ut på toppen av ett av trekkene på Kvamskogen nå i vinterferien. FOTO: Tor Høvik</p></div>
+</body></document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190130-hvem-eier-egentlig-a.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/teknologi/frank-sinatra/hilde-tunge/hvem-eier-egentlig-ansiktet-ditt/2-1-531182" frk="898 5 30 5335"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-01-30 18:58"/>
+<attribute name="author" value="Hilde Tunge"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="teknologi,teknologi,frank-sinatra,hilde-tunge"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hvem eier egentlig ansiktet ditt?</div>
+<div type="ingress">Frank Sinatra kjempet innbitt for å beskytte retten til sitt eget ansikt. Han vant – og så tapte vi alle sammen. Frank Sinatra kjempet innbitt for å beskytte retten til sitt eget ansikt. Han vant – og så tapte vi alle sammen.</div>
+<div type="author">Hilde Tunge</div>
+<div type="date">2019-01-30 18:58</div>
+<div type="caption">Frank Sinatra så ikke for seg at hans ansikt, etter hans død, skulle pryde dobørster og undertøy. Med hjelp av noen dyktige advokater gikk de rettens vei. Slik ble det at du ikke kan bruke navnet, utseendet, signaturen eller stemmen til en kjendis for å tjene penger på det, uten å ha tillatelse fra personen selv. Bildet av Sinatra er fra 1970. (Foto: Ap/NTB Scanpix) Hilde Tunge, rådgiver i Dinamo. (Foto: Privat) Mer... #10yearchallenge: Facebook-sjef Mark Zuckerberg i 2008 og 2018. (Foto: Eric Risberg og Josh Edelson /AP/AFP/NTB scanpix) Mer... </div>
+<div type="text">
+<p>16. august 1977 forandret verden seg for mange musikkelskere. Det var dagen Elvis Presley døde. Samtidig fikk dette en annen kjent person – Frank Sinatra – til å åpne øynene for hva han, som populærkulturelt ikon, selv hadde i vente. Til slutt endte det hele i en endring av amerikansk lov og i en endring i hvordan vi ser på eierskap til vårt eget utseende.</p>
+<p>Presleys utseende og ansikt var enormt gjenkjennelig, og etter hans død dukket fjeset hans opp overalt: t-skjorter, kopper, doseter – listen er svært lang, og til dels temmelig vulgær.</p>
+<p>En slik skjebne ønsket ikke Sinatra for seg selv. Han så ikke for seg at hans ansikt, etter hans død, skulle pryde dobørster og underplagg. Så han samlet familien rundt seg og fortalte at han definitivt ikke ønsket å havne på en kaffekopp. Med hjelp av noen dyktige advokater gikk de rettens vei og sa at dersom bedrifter kan tjene penger på sine ideer og produkter, sine varemerker og logoer, så burde kjendiser også kunne tjene penger på ansiktet sitt.</p>
+<p>Og slik ble det at du ikke kan bruke navnet, utseendet, signaturen eller stemmen til en kjendis for å tjene penger på det, uten å ha tillatelse fra personen selv. Og om du bryter disse reglene, må du, som Sinatra ville sagt det: pay up.</p>
+<p>Disse reglene gjelder også i dag, og Norge har tilsvarende lover som også beskytter vanlige folks rett til privatliv. Fotografer må ha tillatelse fra personen på bildet om bildet skal brukes.</p>
+<p>Men i 2019 byr teknologien på problemer som selv Sinatra neppe kunne sett for seg.</p></div>
+<div type="title" level="3">Deep face</div>
+<div type="text">
+<p>Integrering av ansiktsgjenkjenning og ansiktsanalyse har aldri vært så enkelt som det er i dag. Deepface er et dypt lærende ansiktsgjenkjenningssystem laget av en forskningsgruppe på Facebook. Det identifiserer menneskelige ansikter i digitale bilder. Du har sikkert sett det i bruk selv. Men hva hindrer andre i å bruke denne teknologien til sin egen vinning?</p>
+<p>Ingenting, viser det seg. Noe også utviklerne av disse løsningene selv har erkjent. Resultatet er blitt at kjente ansikter dukker opp i situasjoner de aldri selv har deltatt i. Og hvem er de første som benytter seg av slik teknologi? Pornoindustrien, selvsagt. Realistiske filmer med kjente sangere og skuespillere har eksplodert på pornosider, og ingen ser ut til å klare å stoppe det.</p>
+<p>Men hva har dette å si for menigmann? Det har vært problematisert i noe grad tidligere med Snapchat, Instagram og Facebooks retningslinjer. Prinsippet har vært at du eier innholdet, men gir nettverket rettigheten til å «bruke» innholdet ditt. Her blir retningslinjene stadig mer forvirrende.</p>
+<p>I kjølvannet av GDPR kom det ytterligere nye retningslinjer, og på Facebook ble du bedt om å gi en rekke godkjennelser før du kunne fortsette å bruke nettverket. En av disse innebar at ansiktsgjenkjennende teknologi kunne bli brukt på dine bilder. Her kunne du avslå, men spørsmålet er hvor mange som faktisk gjorde det. Hvor mange av oss leser egentlig alle retningslinjene og forbeholdene man aksepterer?</p>
+<p>Denne problemstillingen kom opp igjen da Apple introduserte ansiktsgjenkjenning som en måte å låse opp telefonen. For hva kan Apple gjøre med det kameraet ser? Kan den kjenne igjen at du er nedfor og gi annonser for antidepressivene? Eller har du fullstendig eierskap til ditt eget ansikt og dine følelser? Dataene fra ansiktsgjenkjenning for å låse opp og i ditt billedgalleri lagres lokalt på din telefon fra Apple – foreløpig. Du betaler for produkter, og sånt sett er Apple ikke en versting. Men med gratis tjenester, som Google og sosiale medier, betaler du med noe annet: dine personlige data.</p>
+<p>Siste nytt er Facebooks #10YearChallenge. Som mange allerede har pekt på, en ypperlig måte å trene opp algoritmene til å kjenne igjen alder og hvordan aldersprogresjon ser ut. Er det reelt, og er det uansett egentlig så farlig? Tja, kanskje ikke. I beste fall kunne man sett for seg at det ble brukt til gode ting – til å finne igjen savnede barn etter flere år, for eksempel. Etter at Amazon introduserte deres ansiktsgjenkjenning i slutten av 2016 begynte de å selge tjenestene til politi og andre offentlige etater, som Politiet i Orlando, som en effektiv måte å finne etterlyste på. Men hva hindrer dem i å overvåke andre enn kriminelle? Og hva skjer hvis teknologien havner i gale hender – eksempelvis, hos noen som bruker den til å finne voldsofre som gjemmer seg fra den voldelige parten?</p>
+<p>Dette har vi ikke svaret på. Det eneste vi vet er at du nå kan kjøpe kaffekopper med Frank Sinatras ansikt – til tross for hans egne ønsker.</p></div></body></document>

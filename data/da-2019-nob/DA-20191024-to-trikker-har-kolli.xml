@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191024-to-trikker-har-kolli.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/oslo/to-trikker-har-kollidert-i-oslo-1.1606235" frk="55 12 4 314 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-10-24 20:49"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="oslo"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">To trikker har kollidert i Oslo</div>
+<div type="ingress">En trikk har kjørt inn i en annen bakfra på Olaf Ryes plass i Oslo. To personer er lettere skadd.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+<div type="text">
+<p>De to skadde blir sett til av ambulanse, opplyser .</p>
+<p>Det er også trafikale problemer på stedet som følge av ulykken.</p>
+<p>Politiet fikk melding om hendelsen klokka 10.06.</p></div></body></document>

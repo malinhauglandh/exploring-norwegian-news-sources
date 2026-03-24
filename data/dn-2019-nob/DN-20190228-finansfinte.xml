@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190228-finansfinte.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/finans/aksjemarkedet/emisjon/finansfinte/2-1-551421" frk="303 7 14 1922"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-28 18:53"/>
+<attribute name="author" value="Arne S. Lien"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="innlegg,finans,aksjemarkedet,emisjon"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Finansfinte?</div>
+<div type="ingress">DN har hatt mange saker om kursutviklingen – og ikke minst emisjonen – i Norwegian den siste tiden. Senest i mandagens utgave, med krigsoverskriften «Norwegian-aksjonærer kan gå glipp av 120 mill.». Den tabloide tilnærmingen, og den svært kreative matematikken (hvor de som ikke deltar i emisjonen forespeiles «en utvanning på 200 prosent») kan til en viss grad aksepteres. Men man bør kunne forvente noe mer av lederskribenten.</div>
+<div type="author">Arne S. Lien</div>
+<div type="date">2019-02-28 18:53</div>
+<div type="caption"></div>
+<div type="text">
+<p>DN har hatt mange saker om kursutviklingen – og ikke minst emisjonen – i Norwegian den siste tiden. Senest i mandagens utgave, med krigsoverskriften «Norwegian-aksjonærer kan gå glipp av 120 mill.». Den tabloide tilnærmingen, og den svært kreative matematikken (hvor de som ikke deltar i emisjonen forespeiles «en utvanning på 200 prosent») kan til en viss grad aksepteres. Men man bør kunne forvente noe mer av lederskribenten.</p>
+<p>Lederartikkelen samme dag har overskriften «Norwegians finansfinte» og her er det mye rart:</p>
+<p>«Den kompliserte måten selskapet gjør det på ... ». Finnes det noe mindre komplisert, og mer rettferdig, enn en fortrinnsrettsemisjon med børsnoterte tegningsretter?</p>
+<p>– «I tillegg er det utstedt to tegningsretter per aksje, istedenfor ordinært én». Riktignok er det ikke vanlig å få to tegningsretter per aksje, men det er heller ikke vanlig å få én tegningsrett per aksje. Derimot er det vanlig at én tegningsrett gir én ny aksje, og det gjelder også i denne emisjonen.</p>
+<p>«Og hvis man velger å være med i emisjonen, må man ha mer enn bare litt kjennskap til hvordan man beregner opsjonsverdier». Ved å legge sammen to tall – børskursen på tegningsretten og tegningskursen på 33 kroner – får man aksjekursen ved tegning (som for alle praktiske formål vil være nøyaktig den samme som kursen på den børsnoterte aksjen på samme tidspunkt). Å sammenligne denne regneøvelsen med opsjonsprising er en grov undervurdering av dem som priser opsjoner.</p></div></body></document>

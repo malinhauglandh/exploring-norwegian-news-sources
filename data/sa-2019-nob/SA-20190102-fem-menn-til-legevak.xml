@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190102-fem-menn-til-legevak.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/nge3w5/Fem-menn-til-legevakten-i-Stavanger-pa-grunn-av-rakettskader" frk="36 0 0 236 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-02 14:51"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="fyrverkeri,stavanger,nyttår,stavanger legevakt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fem menn til legevakten i Stavanger på grunn av rakettskader</div>
+<div type="ingress">Fem menn fikk øye- og brannskader.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Fem menn måtte til legevakt på grunn av rakettskader. Fellesoppskytingen i Vågen tok nok ingen skade av. Pål Christensen</p></div>
+</body></document>

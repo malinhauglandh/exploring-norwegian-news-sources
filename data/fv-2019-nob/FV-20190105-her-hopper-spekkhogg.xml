@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190105-her-hopper-spekkhogg.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/jP5aw9/Her-hopper-spekkhoggerne-rundt-baten-til-Roy" frk="40 0 0 262 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-01-05 16:05"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her hopper spekkhoggerne rundt båten til Roy</div>
+<div type="ingress">Roy Carter har aldri før sett spekkhoggere på fjorden i Flekkefjord. Lørdag hoppet en hel flokk rundt båten hans.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>To av spekkhoggerne hopper på fjorden utenfor Svege i Flekkefjord. FOTO: Roy Carter</p></div>
+</body></document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191209-rutinedata-kan-gi-sv.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/0nz6pG/rutinedata-kan-gi-svar-paa-mye-men-ikke-alt-atle-fretheim" frk="631 0 2 3941"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-09 19:00"/>
+<attribute name="author" value="Atle Fretheim"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="debatt,forskning,medisin,uviten,uviten,viten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rutinedata kan gi svar på mye, men ikke alt | Atle Fretheim</div>
+<div type="ingress">Elektroniske journalsystemer gjør det mulig å behandle store mengder data digitalt.</div>
+<div type="author">Atle Fretheim</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: ILLUSTRASJONSFOTO: Signe Dons Man kan sammenligne pasienter som har fått to ulike behandlinger ved å hente ut data fra journalsystemer. Problemet er at det neppe er tilfeldig at noen pasienter får den ene medisinen og ikke den andre, skriver Atle Fretheim.</p> <p>Atle Fretheim er fagdirektør i Folkehelseinstituttet og Uviten-spaltist i Aftenposten.</p></div>
+<div type="text">
+<p>I Uviten skriver Nina Kristiansen, Atle Fretheim, Ole Jacob Madsen og Simen Gaure hver uke om det de mener er dårlig forskning, flau formidling, kunnskapsløse politiske forslag og ren fusk.</p>
+<p>De som driver med helseforskning, benytter seg grovt sett av to forskjellige typer data. Data som er samlet inn som del av et forskningsprosjekt, og data som er samlet inn rutinemessig for andre formål.</p>
+<p>Tradisjonelt har helseforskere benyttet seg mest av data de selv eller deres kolleger har samlet inn. De siste årene har det vært en økende interesse for å ta i bruk av andre datakilder. Én grunn er innføringen av elektroniske journalsystemer som gjør det mulig å behandle store mengder data digitalt.</p>
+<p>Privat</p>
+<p>Man kan for eksempel gå tilbake i tid og undersøke hva som kjennetegnet kreftpasientene det gikk bra med. Dersom det foreligger lagrede blodprøver, kan man studere om det er en sammenheng mellom hvilke gener man har og hvordan sykdommen forløper.</p></div>
+<div type="title" level="3">Sammenligne medikamenter</div>
+<div type="text">
+<p>En diskusjon som har pågått over mange år, er om denne type data kan brukes til å vurdere om en behandling er effektiv.</p>
+<p>Når to forskjellige behandlingsmåter skal sammenlignes, gjøres det nesten alltid ved hjelp av loddtrekningsforsøk. På den måten sikrer man at pasienter som får ny medisin og pasienter som får standard behandling er så like som mulig. Men det går også an å sammenligne pasienter som har fått to ulike behandlinger ved å hente ut data fra journalsystemer.</p>
+<p>Problemet er at det neppe er tilfeldig at noen pasienter får den ene medisinen og ikke den andre. Legene pleier kanskje å gi den ene medisinen til de sykeste pasientene. Hvis det da går dårligere med disse pasientene, er den mest nærliggende forklaringen at de var sykere i utgangspunktet, ikke at medisinen var dårligere.</p></div>
+<div type="title" level="3">Skape sammenlignbare grupper</div>
+<div type="text">
+<p>Ved hjelp av statistiske metoder går det an å ta høyde for, eller «justere», forskjeller mellom gruppene. Det forutsetter at man vet hva som er viktig å justere for og at man har nok data til å foreta justering.</p>
+<p>Tilgangen til store datamengder, både i form av antall pasienter og i form av data pr. pasient, åpner opp et vell av justeringsmuligheter og har gitt medvind til tilhengerne av slike analyser. Et ferskt eksempel finner vi i tidsskriftet The Lancet:</p>
+<p>En gruppe forskere benyttet rutinedata fra flere land for å sammenligne virkningen av forskjellige typer blodtrykksmedisiner. Det inngikk 4,8 millioner personer i analysene og betydelige mengder data for hver enkelt av disse. Forskerne benyttet seg av det rikholdige datamaterialet til å justere for en lang rekke faktorer, og hevder derfor at resultatene er omtrent like troverdige som resultater fra loddtrekningsforsøk.</p></div>
+<div type="title" level="3">Fremdeles grunn til skepsis</div>
+<div type="text">
+<p>I dette tilfellet går det an å undersøke påstanden ved å se på resultatene fra de mange utprøvingene av blodtrykksmedisiner som er gjort. Vi ser da at resultatene stemmer ganske godt overens med loddtrekningsforsøkene. Samtidig er det en serie eksempler på at analyser basert på rutinedata har gitt andre resultater, på tross av justeringer.</p>
+<p>Det nye med den siste analysen er at forskerne har tatt høyde for enda flere faktorer enn det som har vært vanlig før. Men om justeringene er tilstrekkelige til å sikre at sammenligningene gir et korrekt bilde av behandlingseffektene, er langt fra sikkert. Fremdeles er det antagelig mye sant i dette gamle mantraet:</p>
+<p>«You can’t fiks by analysis what you bungled by design».</p></div></body></document>

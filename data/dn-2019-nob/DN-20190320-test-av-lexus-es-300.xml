@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190320-test-av-lexus-es-300.xml"/>
+<attribute name="url" value="http://www.dn.no/biltesten/biltest/lexus/motor/test-av-lexus-es-300h-stressless-pa-fire-hjul/2-1-544177" frk="42 21 6 280 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-20 17:42"/>
+<attribute name="author" value="Embret Sæter"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="biltesten,biltest,lexus,motor"/>
+<attribute name="class2" value="Privat,Biltesten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av Lexus ES 300h: Stressless på fire hjul</div>
+<div type="ingress">Lexus' nye mellomklassebil ES har markedets klart beste seter. Lexus' nye mellomklassebil ES har markedets klart beste seter.</div>
+<div type="author">Embret Sæter</div>
+<div type="date">2019-03-20 17:42</div>
+<div type="caption">Lexus ES 300h byr på markedets beste seter og bra materialkvalitet. (Foto: Gunnar Lier) </div>
+<div type="text">
+</div></body></document>

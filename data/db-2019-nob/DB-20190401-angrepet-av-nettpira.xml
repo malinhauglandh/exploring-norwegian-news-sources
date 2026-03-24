@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190401-angrepet-av-nettpira.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/angrepet-av-nettpiratene---kritisk-for-sma-firmaer/70902766" frk="835 3 20 5362"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-01 08:25"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Angrepet av nettpiratene: - Kritisk for små firmaer</div>
+<div type="ingress">Nettpirater har angrepet nettsidene til flere norske firmaer. Angrepene minner om det omfattende dataangrepet Dagbladet nylig har avslørt - og kan være svært skadelige for små næringsdrivende.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-01</div>
+<div type="caption"><p>OPPDAGET ANGREP: Kjell Iver Johansen driver et stort friluftsforum på nettet. Han oppdaget at innhold fra forumet ble misbrukt på nett. Dataangrepet kan skade virksomheten til små firmaer, sier ofrene. Foto: Privat</p> <p>NETTSVINDEL: Så lett er det å gå i limfella etter det du tror er et google-søk. Video: Ingebjørg Iversen / Dagbladet TV</p> <p>SPORET OPP: Piratsidene Kjell Iver Johansen oppdaget ender på .tk - og er dermed registrert på stillehavsøya Tokelau. Foto: Kjell Iver Johansen</p></div>
+<div type="text">
+<p>- Da jeg leste deres artikler skjønte jeg at dette var det samme som skjedde meg, sier Roger Løvendahl (37) til Dagbladet.</p>
+<p>Løvendahl driver nettbutikk. Nå sukker han i telefonrøret.</p>
+<p>- Dette har jeg brukt mange lange netter på.</p></div>
+<div type="title" level="3">Omfattende angrep</div>
+<div type="text">
+<p>Dagbladet har avslørt et omfattende dataangrep mot norske og internasjonale nettsteder – blant dem Dagbladet, VG, NRK, Fylkesmannen.no og BBC. Innhold fra over 80 000 nettsider er stjålet, og kopiert til spam-sider.</p>
+<p>Bakmennene har så klart å lure Google å «indeksere» spam-sidene – slik at en nettside med stjålet VG-innhold kommer opp i søkeresultatet på Google, kamuflert som en originalartikkel fra VG.</p>
+<p>Hvis du klikket på spam-sidene med det stjålne innholdet, fikk du opp suspekte annonser som hadde til hensikt å få deg til å gi fra deg navn, mobilnummer og e-postadresse. Nettpiratenes hensikt var å samle inn personopplysninger, og så legge disse ut til salg.</p>
+<p>Om du imidlertid klikket på de opprinnelige nettstedene - Dagbladet, VG eller Roger Løvendahls nettbutikk, er det ingen fare.</p></div>
+<div type="title" level="3">- Store problemer</div>
+<div type="text">
+<p>Dette sakskomplekset lød kjent for både for friluftsmannen Kjell Iver Johansen i Brønnøysund, og for forretningsmannen Roger Løvendahl fra Vear i Tønsberg kommune.</p>
+<p>Johansen driver et stort diskusjonsforum for friluftsfolk, Løvendahl er selvstendig næringsdrivende innen netthandel.</p>
+<p>Han har brukt time etter time i mange måneder nettopp på å rydde opp for slikt misbruk av firmaet på nett.</p>
+<p>- Jeg er en av dem som har opplevd store problemer på grunn av dette angrepet. Jeg kan i stor grad bekrefte at jeg har opplevd det likt det som står i artikkelen, sier Løvendahl.</p></div>
+<div type="title" level="3">Store problemer</div>
+<div type="text">
+<p>Det var høsten 2017 – samtidig som de første varsellampene blinket hos Aller-journalist Sonja Nordanger – at Løvendahl oppdaget at innhold fra hans nettbutikk ble stjålet og kopiert over på kryptiske nettsider som var registrert i Ekvatorial-Guinea og på stillehavsøya Tokelau. Nettopp de to obskure nasjonene er svært utbredt blant nettkriminelle, har Dagbladet dokumentert.</p>
+<p>- Da begynte vi å se at noe var gærent. Vi er angrepet på to måter. Innholdet vårt blir stjålet og kopiert til spam-sidene, der du så får opp porno og spam-annonser. Og de stjeler hele url-strukturen vår, og kopierer navnet på våre interne nettsider og legger til navnet på sine egne, sier Løvendahl.</p>
+<p>I nettleseren vil det se slik ut, når nettpiratene bruker url'en fra Roger Løvendahls nettbutikk på sine egne spam-sider: www.kjeltringside.tk/en-stjålet-nettside-fra-rogers-nettbutikk</p>
+<p>- Nettsidene bruker de samme tjenestene til å gjemme seg som de dere har beskrevet. Og deler av produkttekster, produktnavn etc. fra Dekorama.no er stjålet, kopiert og re-lansert på spamdomenene, sier Løvendahl.</p>
+<p>- Hva betyr dette for dere?</p>
+<p>- Problemet for oss er ikke bare at «piratene» forsøker å stjele plasseringene våre i Google, og potensielt kan «stjele» trafikken vår på denne måten. Men samtidig slår jo også Google hardt ned på tilbakelinker fra useriøse nettsider. Dermed får vi svi for at noen klikker på piratsidene, som linker tilbake til oss.</p></div>
+<div type="title" level="3">Kritisk for næringsdrivende</div>
+<div type="text">
+<p>Løvendahl betegner dataangrepet som et stort problem.</p>
+<p>- Problemet er stort - spesielt for små firmaer som mitt, som er avhengig av gratis og organisk trafikk som vi kan få fra Google, sier han til Dagbladet.</p>
+<p>- Hundrevis av timer har derfor gått med på å beskytte servere, kontakte hostingselskapet Freenom og kategorisere uønskede linker. Jeg har hittil alene klart å få tatt ned omkring 70 domener. Men det er tidkrevende, og jeg anser de 70 som kun en marginal del av hva som trengs å ryddes opp i, sier Løvendahl.</p>
+<p>Han understreker at firmaets drift går som vanlig – og at det ikke finnes noen som helst risiko for folk å besøke butikkens vanlige nettsider.</p></div>
+<div type="title" level="3">- Uheldig</div>
+<div type="text">
+<p>En lignende opplevelse hadde Kjell Iver Johansen - innehaver og ildsjel bak friluftnettstedet Fjellforum. Han oppgir å ha 7-8000 brukere hver eneste dag. Han oppdaget nylig at innhold fra hans nettsted var kopiert over på suspekte annonsesteder.</p>
+<p>- Vi får veldig mye trafikk fra folk som vil kjøpe turutstyr, ski, pulker og lignende. Vi har en veldig god posisjon på Google – og derfor er dette ekstremt uheldig, sier Johansen til Dagbladet.</p>
+<p>- I annonseleverandøren vi selv bruker får jeg opp at det er registrert ugyldig trafikk. Vi er et dugnadsdrevet forum, så dette er ugunstig for oss, sier Johansen.</p>
+<p>Etter at de ble kontaktet av Dagbladet har Google satt sitt internasjoanle apparat i sving for å få bukt med spam-problemene. Kjell Iver Johansen har rapportert hendelsene til Google, men er usikker på hvor effektiv tilbakemeldingsfunksjonen hos Google er.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191031-ville-sla-sammen-syk.xml"/>
+<attribute name="url" value="http://www.nordlys.no/unn/finnmarkssykehuset/helse-nord/ville-sla-sammen-sykehusene-na-er-konklusjonen-klar/s/5-34-1218735" frk="25 0 0 163 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-10-31 15:00"/>
+<attribute name="author" value="Ola Solvang"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ville slå sammen sykehusene: Nå er konklusjonen klar</div>
+<div type="ingress">Helse Nord mener det vil være en dårlig idé å slå sammen de to nordligste helseforetakene.</div>
+<div type="author">Av Ola Solvang</div>
+<div type="date">31. oktober 2019, kl. 15:00</div>
+<div type="caption"></div>
+</body></document>

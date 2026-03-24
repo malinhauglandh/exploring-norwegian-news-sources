@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191114-gjengvolden-oker-i-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/BRe9OE/Gjengvolden-oker-i-Sverige---Vi-har-en-alvorlig-situasjon" frk="35 0 0 257 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-14 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Gjengvolden øker i Sverige: - Vi har en alvorlig situasjon</div>
+<div type="ingress">Drapet på en femtenåring i Malmö ryster den allerede utsatte byen. Gjengkriminaliteten er nå regjeringens høyeste prioritet og legger ekstra press på statsminister Stefan Löfven.</div>
+<div type="author"></div>
+<div type="date">2019-11-14</div>
+<div type="caption"></div>
+</body></document>

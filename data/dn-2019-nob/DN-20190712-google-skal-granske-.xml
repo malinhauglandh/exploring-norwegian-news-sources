@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190712-google-skal-granske-.xml"/>
+<attribute name="url" value="http://www.dn.no/google-skal-granske-lekkasje-fra-smarthoyttalere/2-1-637856" frk="333 1 3 2190"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-12 15:58"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Google skal granske lekkasje fra smarthøyttalere</div>
+<div type="ingress">Google varsler intern granskning etter at belgiske medier fikk tilgang til private samtaler gjort hjemme hos eiere av smarthøyttalere. Google varsler intern granskning etter at belgiske medier fikk tilgang til private samtaler gjort hjemme hos eiere av smarthøyttalere.</div>
+<div type="author">NTB</div>
+<div type="date">2019-07-12 15:58</div>
+<div type="caption">Smarthøyttalere med Google Assistant innebygd, som for eksempel Google Home (til høyre), tar opp lyd når man snakker til den. Til venstre ser man en Amazon Echo. (Foto: Mark Lennihan / AP / NTB scanpix.) </div>
+<div type="text">
+<p>Teknologigiganten innrømmer svikt i forbindelse med at samtalene, som var på nederlandsk, ble lekket til den belgiske TV-kanalen VRT.</p>
+<p>Ifølge Google stammer lekkasjen fra en underleverandør som har blitt hyret for å utbedre stemmestyringssystemet til Google Assistant på nederlandsk.</p>
+<p>Onsdag avslørte VRT hvordan Google-ansatte kan lytte til deler av samtaler folk med smarthøyttalere har i hjemmet, også i tilfeller hvor de ikke snakker direkte til høyttaleren.</p>
+<p>I forbindelse med avsløringen har TV-kanalen fått tilgang på tusenvis av opptak som er gjort av smarthøyttalerne.</p></div>
+<div type="title" level="3">Lekkasje</div>
+<div type="text">
+<p>Lekkasjen ser ut til å stamme fra en av språkekspertene Google bruker for å finjustere sine algoritmer.</p>
+<p>– Vi har nettopp fått vite at en av disse språkgranskerne har brutt våre datasikkerhetsregler ved å lekke konfidensielle lydopptak på nederlandsk, skriver produktsjef David Monsees i et blogginnlegg.</p>
+<p>Han understreker at Google Assistant kun sender lyd til Google etter at du har tatt kontakt med den, for eksempel ved å si «Hey Google».</p></div>
+<div type="title" level="3">Falsk godkjenning</div>
+<div type="text">
+<p>– En sjelden gang vil produkter som har Google Assistant innebygget, oppleve det vi kaller en «falsk godkjenning».</p>
+<p>Dette betyr at det var litt støy eller bråk i bakgrunnen som vår programvare misforsto til å være et kodeord (som «Ok Google»), skriver han.</p>
+<p>Google jobber med å unngå dette.</p>
+<p>Likevel kunne VRT påvise 153 opptak som aldri skulle vært gjort, fordi kommandoen «Okay Google» ikke ble gitt tydelig.</p>
+<p>Tidligere har personvernaktivister anklaget Amazon, som også produserer smarthøyttalere, for å ha lagret samtaler med barn på høyttaleren Echo Kids. Amazon har opplyst at de følger føderale lover.</p></div></body></document>

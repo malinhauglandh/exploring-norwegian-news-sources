@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190322-norwegian-droppet-ek.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/innenriks/i/naAEbo/Norwegian-droppet-ekstra-varsellampe-i-MAX-flyene" frk="276 13 24 1800"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-22 20:55:07"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norwegian droppet ekstra varsellampe i MAX-flyene</div>
+<div type="ingress">Norwegians MAX-fly har systemer som skal varsle om avvik som kan føre til at flyet steiler, men selskapet valgte å droppe en ekstra varsellampe i førerkabinen.</div>
+<div type="author">NTB</div>
+<div type="date">2019-03-22 20:55:07</div>
+<div type="caption"><p>18 Norwegian-fly av typen Boeing 737 MAX 8 er satt på bakken etter at et Ethiopian Airlines-fly av samme modell styrtet i Etiopia tidligere denne måneden. Foto: Cornelius Poppe / NTB scanpix</p></div>
+<div type="text">
+<p>Flyselskapet Norwegian skriver i en epost til nyhetsbyrået Reuters at Boeing 737 MAX 8-flyene ikke har en varsellampe i førerkabinen som varsler piloten om avvik i flyenes såkalte angrepsvinkel. To sensorer jobber sammen og registrerer flyets vinkel. Varsellampen har som funksjon å advare flygerne dersom sensorene som leser av vinkelen på flyet, viser ulike verdier.</p>
+<p>– Vi har valgt å ikke utstyre våre Boeing 737 Max med dette ekstrautstyret. Det er en beslutning som andre flyselskap også har tatt, siden det er ikke en sikkerhetsfunksjon og heller ikke et krav fra Luftfartstilsynet, til tross for at enkelte har kommet med falske påstander om dette, skriver Norwegian til nyhetsbyrået Reuters.</p>
+<p>– Alle våre fly har systemer som på ulike måter varsler pilotene dersom uønskede situasjoner skulle oppstå, presiserer Norwegians kommunikasjonsdirektør Lasse Sandaker-Nielsen i en epost til NTB.</p>
+<p>Boeings programvare MCAS sørger automatisk for å tvinge flyets nese nedover dersom systemet avdekker at flyet steiler faretruende. Datasystemet eller sensorene antas å bidratt til både Lion Air 737 Max-ulykken i Indonesia i oktober i fjor, samt flystyrten i Etiopia 10. mars. I de to ulykkene mistet henholdsvis 189 og 157 mennesker livet.</p>
+<p>Boeing har varslet programvareoppdatering av MCAS-systemet, samt installasjon av varsellampe, både på fly som er i bruk og fly som skal leveres.</p></div></body></document>

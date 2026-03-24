@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190322-plutselig-fikk-ansat.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/QolPeJ/Plutselig-fikk-ansatte-kollegers-private-SMS" frk="39 0 0 288 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-22 16:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Datatilsynet,Personvern,Skole og utdanning,Telenor,Privatisering,Datasikkerhet,Universitet,Data"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Plutselig fikk ansatte kollegers private SMS</div>
+<div type="ingress">Etter at UiB byttet telefonoperatør, fikk ansatte tekstmeldinger og telefonsamtaler som var til andre.</div>
+<div type="author"></div>
+<div type="date">2019-03-22</div>
+<div type="caption"><p>SVIKT I TELIA: Ansatte på UiB fikk tildelt feil SIM-kort da universitet skiftet mobiloperatør. FOTO: Geir Martin Strande</p></div>
+</body></document>

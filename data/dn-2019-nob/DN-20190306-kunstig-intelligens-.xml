@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190306-kunstig-intelligens-.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/likestilling/kjonnsdelt-arbeidsliv/teknologi/kunstig-intelligens-kan-true-likestillingen/2-1-558509" frk="612 3 14 4087"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-06 18:59"/>
+<attribute name="author" value="Tone Marie Wahlström,Dilan Kaya"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innlegg,likestilling,kjonnsdelt-arbeidsliv,teknologi"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstig intelligens kan true likestillingen</div>
+<div type="ingress">De fleste algoritmer lages av menn. Tradisjonelle kjønnsmønstre kan bli opprettholdt og kvinner og minoritetsgrupper gå glipp av muligheter. De fleste algoritmer lages av menn. Tradisjonelle kjønnsmønstre kan bli opprettholdt og kvinner og minoritetsgrupper gå glipp av muligheter.</div>
+<div type="author">Tone Marie Wahlström,Dilan Kaya</div>
+<div type="date">2019-03-06 18:59</div>
+<div type="caption">Når halvparten av verdens befolkning er kvinner, bør det også gjenspeiles blant utviklerne som former tjenester for morgendagens samfunn. Ellers risikerer vi at fremtidens løsninger bare vil passe for noen av oss, skriver artikkelforfatterne. (Foto: Istock/Getty Images) Tone Marie Wahlström, leder i Innovation Hub i Evry (Foto: CF Wesenberg) Mer... Dilan Kaya, juniorkonsulent i Innovation Hub i Evry Mer... </div>
+<div type="text">
+<p>Kunstig intelligens kan hjelpe leger å stille rett diagnose, bidra til å utvikle nye tjenester for en aldrende befolkning og gjøre infrastruktur «smartere». Mulighetene er mange. Samtidig må kunstig intelligens behandles med forsiktighet.</p>
+<p>Tall fra World Economic Forum viser at 78 prosent av alle som programmerer algoritmer i verden, er menn. Tendensen ses også i norske tall: Abelia slår fast at kvinneandelen i it- og techbransjen er på stusslige 25 prosent.</p>
+<p>Da britiske Karen S. Jones, kjent som hjernen bak søkemotoren, døde 73 år gammel i 2007, hadde hun levd et liv etter mottoet: «data er for viktig til å bli overlatt til menn». Holdningen hennes var kanskje litt aggressiv, men Jones kan ha hatt et viktig poeng.</p>
+<p>Systemer med kunstig intelligens «lærer» seg hva mennesker verdsetter, men menneskelig oppførsel gjenspeiler ikke nødvendigvis menneskelige verdier. Det har vi sett i form av algoritmer som har utformet rasistiske slogans på t-skjorter for salg på nett og stemmestyrte assistenter som leser opp fornærmende svar fra nettforum når de får spørsmål.</p>
+<p>Personen bak en algoritme kan sammenlignes med en lærer foran en skoleklasse.</p>
+<p>Om majoriteten av alle verdens algoritmer utformes av homogene team, risikerer vi at fremtidens teknologi vil forskjellsbehandle og opprettholde stereotypier.</p>
+<p>Slik forskjellsbehandling har allerede kommet til syne i rekrutteringsprosesser og på karrierenettsteder: Kvinner får ikke se de samme stillingsutlysningene som menn. Hodejegere har fått spørsmål om «de ikke mener menn?» når de søker opp dyktige damer.</p>
+<p>I høst meldte nyhetsbyrået Reuters at nettgiganten Amazon «vraker sitt hemmelige og AI-baserte rekrutteringsverktøy», etter at det ble avdekket at det «ikke likte kvinner».</p>
+<p>To år tidligere avdekket en Bloomberg-analyse at Amazons tjenester for ekspresslevering av varer viste seg å ekskludere ikke-hvite nabolag. Selskapet tok raskt grep, men hendelsen burde ikke ha skjedd i utgangspunktet.</p>
+<p>Språklige nyanser som forsvinner i oversettelsesverktøy på nett, kan også bidra til å holde liv i stereotypier.</p>
+<p>Det tyrkiske språket benytter «O» som pronomen for både «han», «hun», «det» og «den». Pronomenet er altså kjønnsnøytralt og inkluderende. Men anvender du tyrkisk «O» i Google Translate, tillegges det automatisk kjønn. Hvilket kjønn? Det avhenger av ordlyd på resten av setningen: Han blir lege, mens hun dukker opp i beskrivelser av noen som lager mat.</p>
+<p>Ordet «programmerer» er også kjønnsnøytralt, men et kjapt bildesøk viser at menn i større grad assosieres med tittelen enn hva kvinner gjør.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>Dette viser at data ikke speiler en absolutt form for sannhet.</p>
+<p>Vi som utvikler kunstig intelligens må tenke nytt og bryte med etablerte mønstre. Dette for å sikre balanse og mangfold blant dem som er ansvarlige for å vurdere den potensielle sosiale risikoen som moderne teknologi bringer med seg.</p>
+<p>Nylig tok vi i bruk Gamification, et spillbasert rekrutteringsverktøy som måler egenskaper på en nøytral måte. I dag har vi kvinneandel på 49 prosent og 21 ulike nasjonaliteter i vår innovasjonsavdeling.</p>
+<p>Vi er på rett vei. Når halvparten av verdens befolkning er kvinner, bør det også gjenspeiles blant utviklerne som former tjenester for morgendagens samfunn. Ellers risikerer vi at fremtidens løsninger bare vil passe for noen av oss.</p></div></body></document>

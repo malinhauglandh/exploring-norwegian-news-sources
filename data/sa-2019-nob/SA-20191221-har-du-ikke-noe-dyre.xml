@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191221-har-du-ikke-noe-dyre.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/Qo2jkq/Har-du-ikke-noe-dyrere" frk="25 0 0 150 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-21 10:31"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Har du ikke noe dyrere?</div>
+<div type="ingress">På jakt etter «i siste liten»-gaver uten å tømme kontoen? Da er kanskje ikke denne artikkelen noe for deg.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

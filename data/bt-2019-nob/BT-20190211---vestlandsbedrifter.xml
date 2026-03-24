@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190211---vestlandsbedrifter.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/wElbRn/-Vestlandsbedrifter-er-svart-utsatt-for-industrispionasje" frk="39 0 0 325 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-11 11:06"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Patenter,Avlytting,Hacking,Bedrifter,Datasikkerhet,Internett,Industri,Etterretning,Digital,Næringsliv,Spioner,PST"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Vestlandsbedrifter er svært utsatt for industrispionasje</div>
+<div type="ingress">Mange selskaper velger å holde spionasje skjult av frykt for å tape omdømme, sier sikkerhetsekspert.</div>
+<div type="author"></div>
+<div type="date">2019-02-11</div>
+<div type="caption"><p>SIKKERHETSEKSPERT: Kjetil Daatland har lang fartstid både fra Forsvaret, Nasjonal sikkerhetsmyndighet og Forsvarsdepartementet. FOTO: Ørjan Deisz</p></div>
+</body></document>

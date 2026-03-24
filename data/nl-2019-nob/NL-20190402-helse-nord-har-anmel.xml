@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190402-helse-nord-har-anmel.xml"/>
+<attribute name="url" value="http://www.nordlys.no/helse/narvik/anmeldelse/helse-nord-har-anmeldt-oyelege-til-politiet/s/5-34-1093993" frk="32 0 0 193 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-04-02 14:56"/>
+<attribute name="author" value="Fritz Hansen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Helse Nord har anmeldt øyelege til politiet</div>
+<div type="ingress">En anmeldelse av Kratholm til politiet er noe av det som er bakgrunnen for at Helse Nord har hevet avtalen med øyelegen i Narvik.</div>
+<div type="author">Av Fritz Hansen</div>
+<div type="date">02. april 2019, kl. 14:56</div>
+<div type="caption"></div>
+</body></document>

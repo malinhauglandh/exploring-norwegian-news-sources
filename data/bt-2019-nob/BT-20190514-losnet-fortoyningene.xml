@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190514-losnet-fortoyningene.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70Bmy8/Losnet-fortoyningene-pa-bater-verdt-25-millioner" frk="38 8 2 230 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-14 12:24"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Løsnet fortøyningene på båter verdt 25 millioner</div>
+<div type="ingress">Fem større cabincruisere fløt fritt rundt i Vågen i natt.</div>
+<div type="author"></div>
+<div type="date">2019-05-14</div>
+<div type="caption"><p>TILBAKE PÅ PLASS: Båtene er nå fortøyd igjen, men i natt fløt de fritt rundt i Vågen. FOTO: Aurora Berg</p></div>
+</body></document>

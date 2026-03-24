@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190812-carlsen-tapte-mot-ri.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/RREv08/Carlsen-tapte-mot-rivalen-Sa-gikk-han-pa-en-ny-smell" frk="69 0 0 415 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-12 15:33"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Carlsen tapte mot rivalen. Så gikk han på en ny smell.</div>
+<div type="ingress">Magnus Carlsen er på etterskudd i Grand Chess Tour-turneringen i USA etter tap mot både Fabiano Caruana og Levon Aronian i hurtigsjakk søndag.</div>
+<div type="author">NTB</div>
+<div type="date">12.aug.2019 15:33</div>
+<div type="caption"><p>Magnus Carlsen tapte mot Fabiano Caruana i fjerde runde av Grand Chess Tour-turneringen i St. Louis søndag. Her fra oppgjøret mellom de to i Norway Chess i juni. FOTO: Carina Johansen / NTB scanpix</p></div>
+</body></document>

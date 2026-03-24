@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191209-stormen-direkte-hvor.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/e8vj1l/Stormen-direkte-Hvordan-er-det-hos-deg" frk="47 0 0 299 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-09 07:56:06"/>
+<attribute name="author" value="Eivind Aarre"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="vær"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stormen direkte: Hvordan er det hos deg?</div>
+<div type="ingress">Det blåser godt mandag morgen. Hvordan merker du stormen?</div>
+<div type="author">Eivind Aarre</div>
+<div type="date">2019-12-09 07:56:06</div>
+<div type="caption"><p>Storm i Nordsjøen - Starter å ta seg opp i Nordsjøen. (Leservideo)</p></div>
+<div type="text">
+<p>Det er sendt ut gult farevarsel for kysten Åna-Sira-Karmøy, og det meldes om full storm noen steder på jærkysten.</p></div></body></document>

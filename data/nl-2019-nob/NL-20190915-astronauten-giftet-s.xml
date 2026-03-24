@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190915-astronauten-giftet-s.xml"/>
+<attribute name="url" value="http://www.nordlys.no/raketten/tromso/kultur/astronauten-giftet-seg-fredag-og-feiret-pa-en-spesiell-mate/s/5-34-1194488" frk="15 0 0 99 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-09-15 23:45"/>
+<attribute name="author" value="Marius Medby"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">«Astronauten» giftet seg fredag og feiret på en spesiell måte</div>
+<div type="ingress">Giftet seg i går.</div>
+<div type="author">Av Marius Medby</div>
+<div type="date">15. september 2019, kl. 23:45</div>
+<div type="caption"></div>
+</body></document>

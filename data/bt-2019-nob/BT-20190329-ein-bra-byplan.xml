@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190329-ein-bra-byplan.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/leder/i/opE90j/Ein-bra-byplan" frk="44 0 0 264 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-29 20:30"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,leder"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ein bra byplan</div>
+<div type="ingress">Bergen er på veg vekk frå den bilbaserte byutviklinga. Det er på høg tid.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">2019-03-29</div>
+<div type="caption"><p>GODE GREP: Fleire grep som byråd Anna Elisa Tryti (Ap) gjer i Kommuneplanens Arealdel (KPA) er gode for bykjerna, meiner BT. Foto: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

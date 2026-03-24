@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191204-ferske-boligpriser-n.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/mREnRE/Ferske-boligpriser-Nedgang-i-november" frk="92 13 8 598 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-04 11:02"/>
+
+<attribute name="author" value="Synne Hellum Marschhäuser"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ferske boligpriser: Nedgang i november</div>
+<div type="ingress">– Den moderate prisutviklingen i boligmarkedet vedvarte.</div>
+<div type="author">Synne Hellum Marschhäuser</div>
+<div type="date">Publisert 4. desember 2019 11:02</div>
+<div type="caption"><p>Boligmarkedet har vært stabilt i 2019 med moderat prisutvikling. Fjerde kvartal har vanligvis svakest utvikling. Foto: Vidar Ruud / NTB scanpix</p> <p>– Veksten i antall solgte boliger og antall nye boliger på markedet har avtatt noe i november. Til tross for dette er nivåene historisk høye. Akkumulert for året har det aldri vært solgt så mange boliger ved utgangen av november. 2019 vil bli et nytt rekordår målt i antall boligtransaksjoner, sier Dreyer. Foto: Heiko Junge / NTB scanpix</p></div>
+</body></document>

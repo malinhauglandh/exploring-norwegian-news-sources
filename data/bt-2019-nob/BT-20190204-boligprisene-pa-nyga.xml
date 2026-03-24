@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190204-boligprisene-pa-nyga.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/l1o1no/Boligprisene-pa-Nygardshoyden-har-okt-kraftig-etter-at-parken-stengte" frk="44 0 0 316 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-04 20:20"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Laksevåg,Eiendom,Boligmarkedet,Boligsalg,Eiendom Norge,Boligpriser,Bergen,Nygårdsparken,Bolig"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boligprisene på Nygårdshøyden har økt kraftig etter at parken stengte</div>
+<div type="ingress">Flytting av rusmiljøet er årsaken, mener meglere.</div>
+<div type="author"></div>
+<div type="date">2019-02-04</div>
+<div type="caption"><p>TRYGT OG DYRT: Regionsjef for Eiendomsmegler Vest, Tor Ramsøy, mener flytting av rusmiljøet i Bergen har hatt stor betydning for boligprisene på Nygårdshøyden. FOTO: Rune Sævig</p></div>
+</body></document>

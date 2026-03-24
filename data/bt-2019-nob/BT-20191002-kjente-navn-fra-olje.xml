@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191002-kjente-navn-fra-olje.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/OpPRW1/Kjente-navn-fra-oljeservice-og-shipping-bak-ny-naringspark-pa-Flesland" frk="37 0 0 250 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-02 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kjente navn fra oljeservice og shipping bak ny næringspark på Flesland</div>
+<div type="ingress">Den internasjonale kontorgiganten Regus er blant leietakerne som skal inn fra starten og vil blant annet tilby timeleie av kontorplasser for folk som skal fly.</div>
+<div type="author"></div>
+<div type="date">2019-10-02</div>
+<div type="caption"></div>
+</body></document>

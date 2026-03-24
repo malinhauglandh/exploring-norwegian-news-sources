@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191002-test-av-boses-nye-st.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/article/sa-70J0R4.html" frk="38 27 6 220 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-02 13:11"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="article"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av Boses nye støydempende hodetelefoner. Kan de vippe Sony av tronen?</div>
+<div type="ingress">Bose NCH 700 stiller til start med flere mikrofoner og ny design.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Bose NCH 700 er best på noe, men ikke på alt. Geir Amundsen</p></div>
+</body></document>

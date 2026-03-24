@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191106-politiet-matte-gripe.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1newoK/Politiet-matte-gripe-inn-mot-ungdommene-pa-Flesland-De-var-der-ikke-for-a-fly" frk="34 0 0 190 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-06 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet måtte gripe inn mot ungdommene på Flesland. De var der ikke for å fly.</div>
+<div type="ingress">– Vi ser at ungdommer møtes på nettet og drar til steder med gratis og godt utbygget wifi.</div>
+<div type="author"></div>
+<div type="date">2019-11-06</div>
+<div type="caption"></div>
+</body></document>

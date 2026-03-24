@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190214-bkk-vurderer-sal-av-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/0ER14E/BKK-vurderer-sal-av-bygget-pa-Kokstad" frk="42 0 0 270 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-14 19:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eiendom"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">BKK vurderer sal av bygget på Kokstad</div>
+<div type="ingress">BKK har sett i gang arbeid med å selja hovudkvarteret på Kokstad, og sjølv bli leigetakarar i bygget.</div>
+<div type="author"></div>
+<div type="date">2019-02-14</div>
+<div type="caption"><p>STORT: BKK vil selja hovudkvarteret på Kokstad, men har førebels ikkje flytteplanar. FOTO: Geir Martin Strande</p></div>
+</body></document>

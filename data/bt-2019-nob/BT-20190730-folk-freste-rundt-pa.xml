@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190730-folk-freste-rundt-pa.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/K3laAM/Folk-freste-rundt-pa-selvgaende-sparkesykler-allerede-for-100-ar-siden" frk="31 33 7 210 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Folk freste rundt på selvgående sparkesykler allerede for 100 år siden</div>
+<div type="ingress">De selvgående sparkesyklene fra 1915 provoserte bilister og ble brukt av ungdomsgjenger i høy fart. Høres det kjent ut?</div>
+<div type="author"></div>
+<div type="date">2019-07-30</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190919-cruisereder-torstein.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/wPXxRG/Cruisereder-Torstein-Hagen-vil-ha-turistskatt" frk="28 0 0 208 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Cruisereder Torstein Hagen vil ha turistskatt</div>
+<div type="ingress">For å begrense cruisetrafikken i norske fjorder, vil eieren av Viking Cruises, Torstein Hagen, innføre en avgift pr. cruiseturist, melder NRK.</div>
+<div type="author"></div>
+<div type="date">2019-09-19</div>
+<div type="caption"></div>
+</body></document>

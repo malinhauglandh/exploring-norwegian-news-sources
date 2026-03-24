@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190909-bensinstasjon-forsok.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/2GKnnl/Bensinstasjon-forsokt-ranet" frk="35 0 0 261 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-09-09 17:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyhetsdgnet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bensinstasjon forsøkt ranet</div>
+<div type="ingress">Cirkle K i Elvegata i Kristiansand har blitt forsøkt ranet mandag ettermiddag. Politiet har pågrepet en person.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En lapp utenfor bensinstasjonen opplyser om at stasjonen er midlertidig stengt. FOTO: Torbjørn Witzøe</p></div>
+</body></document>

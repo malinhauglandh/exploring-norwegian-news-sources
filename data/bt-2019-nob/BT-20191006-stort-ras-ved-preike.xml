@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191006-stort-ras-ved-preike.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/zGelL5/Stort-ras-ved-Preikestolen" frk="27 0 0 179 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-06 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Stort ras ved Preikestolen: – Vi hørte et drønn og hytten ristet</div>
+<div type="ingress">Søndag ettermiddag gikk et stort ras på nordsiden av Lysefjorden, ikke langt fra Preikestolen.</div>
+<div type="author"></div>
+<div type="date">2019-10-06</div>
+<div type="caption"></div>
+</body></document>

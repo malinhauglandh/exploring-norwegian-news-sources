@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191121-mourinho-motte-press.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/lAm1yM/Mourinho-motte-pressen-for-forste-gang-som-Tottenham-manager-Hyllet-forgjengeren" frk="47 0 0 359 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-21 15:37"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mourinho møtte pressen for første gang som Tottenham-manager: Hyllet forgjengeren</div>
+<div type="ingress">José Mourinho holdt torsdag sin første pressekonferanse som Tottenham-sjef. Han startet med å gi forgjengeren Mauricio Pochettino en stor dose gode ord.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 21. november 2019 15:37</div>
+<div type="caption"><p>José Mourinho med Tottenham-forgjengeren Mauricio Pochettino (t.h.) Andrew Yates / Reuters / NTB scanpix</p></div>
+</body></document>

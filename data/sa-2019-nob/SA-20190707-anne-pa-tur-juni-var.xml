@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190707-anne-pa-tur-juni-var.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/MRakMm/Anne-pa-tur-Juni-var-host_-og-juli-smakte-vinter" frk="43 0 0 249 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-07 12:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="sogn og fjordane,trøndelag,norge,sykkel,anne på tur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Anne på tur: Juni var høst, og juli smakte vinter</div>
+<div type="ingress">Det er høst i Norge, denne sommeren. Og det tærer på viljen til Anne som sykler landet på langs - i motbakke etter motbakke.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Motbakke. Igjen. Er det bare motbakker i dette landet?</p></div>
+</body></document>

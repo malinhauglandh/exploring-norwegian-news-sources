@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191130-folg-brakhus-storkam.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/3JKXPd/Folg-Brakhus-storkamp-og-chat-med-oss" frk="16 0 0 115 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-30 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg Brækhus’ storkamp og chat med oss</div>
+<div type="ingress">Cecilia Brækhus skal i ringen mot argentinsk motstander.</div>
+<div type="author"></div>
+<div type="date">2019-11-30</div>
+<div type="caption"></div>
+</body></document>

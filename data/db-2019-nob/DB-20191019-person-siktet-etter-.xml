@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191019-person-siktet-etter-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/person-siktet-etter-dagbladet-angrepet/71726252" frk="420 6 18 2827"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-10-19 12:21"/>
+<attribute name="author" value="Tharald Halvorsen"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Person siktet etter Dagbladet-angrepet</div>
+<div type="ingress">En person er siktet etter Dagbladet-angrepet, som førte til at Dagbladet-eier Aller Media valgte å stenge flere nettsider torsdag, opplyser politiet.</div>
+<div type="author">Tharald Halvorsen</div>
+<div type="date">2019-10-19</div>
+<div type="caption"><p>STENGTE NETTSIDER: Konsernsjef i Aller Media, Dag Sørsdahl, valgte torsdag ettermiddag å stenge flere nettsider noen få timer, deriblant Dagbladet. Foto: Bjørn Langsem / Dagbladet</p></div>
+<div type="text">
+<p>Flere Dagbladet-artikler publisert torsdag ettermiddag, ble endret, og det ble lagt inn grove, falske utsagn i tekstene.</p>
+<p>Nettsidene til Dagbladet, Se og Hør, Din Side og KK ble stengt klokka 17.50 som følge av hendelsen. Rundt klokka 21.15 torsdag kveld, kunne konsernsjef i Aller Media, Dag Sørsdahl, meddele at sidene var oppe igjen, og at de ikke kunne utelukke et hackerangrep.</p>
+<p>- Vi mistenker et hackerangrep. Vi fikk innhold på våre redaksjonelle plattformer som vi ikke har laget. Derfor valgte vi å stenge ned flere av sidene våre i noen få timer, sa Sørsdahl.</p>
+<p>En IP-adresse ble overlevert til Oslo politidistrikt etter hendelsen.</p></div>
+<div type="title" level="3">Person siktet</div>
+<div type="text">
+<p>Politiet var torsdag kveld i gang med å sikre tekniske spor etter angrepet, uten at Rune Skjold, seksjonssjef for finans- og spesialetterforskning i Oslo politidistrikt, ville utdype ytterligere.</p>
+<p>Lørdag ettermiddag kan de imidlertid opplyse at en ungdom bosatt utenfor Oslo er siktet i saken.</p>
+<p>- Politiet har klart å spore opp en lokalisering på en antatt gjerningsperson, en ungdom bosatt utenfor Oslo, som nå er siktet i saken, sier seksjonssjef Skjold til Dagbladet.</p>
+<p>- Politiet har gjort beslag av ungdommens datautstyr og vil etterforske saken videre ved gjennomgang av beslaget, samt videre oppfølgning med avhør, legger han til.</p></div>
+<div type="title" level="3">Passord lekket på nett</div>
+<div type="text">
+<p>Adresseavisen avslørte tidligere denne uka at passordene til 600 000 nordmenn er lekket på nett, hvorav 2 700 tilhører mediefolk i blant annet VG, Aftenposten, Dagbladet og NRK.</p>
+<p>På spørsmål om denne passordlekkasjen kan settes i sammenheng med Dagbladet-angrepet, svarer Skjold:</p>
+<p>- Det kan se ut som at passord er blitt stjålet i forbindelse med saken.</p>
+<p>Politiet ønsker ikke å identifisere gjerningspersonen noe ytterligere grunnet hans lave alder.</p></div>
+<div type="title" level="3">Har styrket sikkerheten</div>
+<div type="text">
+<p>Konsernsjef Sørsdahl forteller at konsernet jobber kontinuerlig med å styrke sikkerheten til de redaksjonelle plattformene.</p>
+<p>- Vi fikk relativt raskt kontroll på situasjonen når dette skjedde. Vi er glad for at politiet har reagert raskt på anmeldelsen, sier Sørsdahl.</p>
+<p>Konsernsjefen gikk torsdag ut etter hendelsen og bekreftet at det hadde blitt iverksatt en rekke sikkerhetstiltak.</p>
+<p>- Denne uka iverksatte vi ytterligere sikkerhetstiltak, men ikke alle tiltakene hadde blitt effektuert før den alvorlige hendelsen. Det gjenstår å se om noen av dem kunne hindret det som skjedde, sa Sørsdahl.</p>
+<p>Av sikkerhetshensyn ønsker ikke Sørsdahl å utdype disse tiltakene.</p></div></body></document>

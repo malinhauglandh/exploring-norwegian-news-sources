@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190422-slik-blir-du-kvitt-1.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/sa-enkelt-blir-du-kvitt-10-kilo-for-sommeren/70951143" frk="55 14 4 277 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-22 19:54"/>
+<attribute name="author" value="Jenny Mina Rødahl"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="ukemeny,nyheter,ned i vekt,slanking,sommerferie,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir du kvitt 10 kilo før sommeren</div>
+<div type="ingress">Med riktig mat og litt mosjon når du målet om minus 10 kilo før sommerferien er i gang.</div>
+<div type="author">Jenny Mina Rødahl</div>
+<div type="date">2019-04-22</div>
+<div type="caption"><p>NED I VEKT: Det er ikke for seint å begynne nå dersom du har et ønske om å gå ned i vekt til sommeren. Shutterstock / NTB scanpix</p></div>
+</body></document>

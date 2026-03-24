@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190124-slik-er-monero-meldi.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/innenriks/i/0ERn5A/slik-er-monero-meldingene-kun-plass-til-noen-faa-bokstaver" frk="513 7 23 3238"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-24 21:24"/>
+<attribute name="author" value="Bjørnar Tommelstad, Marianne Vikås, Morten S. Hopperstad, Ådne Husby Sandnes, Gordon Andersen, Espen Breivik, Kari Spets, Tom Byermoen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik er Monero-meldingene: Kun plass til noen få bokstaver</div>
+<div type="ingress">Den digitale plattformen som de mulige kidnapperne bruker, gjør det nærmest umulig å kommunisere. Familien til Anne-Elisabeth Hagen skal kun ha noen få tegn til rådighet hver gang de sender en melding.</div>
+<div type="author">Bjørnar Tommelstad, Marianne Vikås, Morten S. Hopperstad, Ådne Husby Sandnes, Gordon Andersen, Espen Breivik, Kari Spets, Tom Byermoen</div>
+<div type="date">24.01.19 22:24</div>
+<div type="caption"><p>SAVNET: Dette bildet bruker politiet i den internasjonale savnetmeldingen av 68-åringen. Savnetmeldingen er publisert på nettsidene til Interpol. Foto: Politiet</p></div>
+<div type="text">
+<p>Derfor valgte familien «å snakke» til de mulige kidnapperne torsdag ettermiddag. Det skjedde på en pressekonferanse i kontorlokalene til bistandsadvokat Svein Holden.</p>
+<p>– Den digitale plattformen er ikke egnet til god kommunikasjon. Derfor velger vi å gå ut på denne måten til dem som har henne, sier Holden til VG.</p>
+<p>16. januar fikk familien en ny melding fra de mulige kidnapperne. Frem til da hadde det vært stille lenge på den digitale plattformen. Om det nå er snakk om én eller flere nye meldinger, er ikke kjent.</p>
+<p>Hverken bistandsadvokaten eller politiet ønsker å si noe om hva slags digital plattform det dreier seg om.</p>
+<p>Etter det VG kjenner til, består den såkalte kommunikasjonen i korte meldinger som kan sendes i forbindelse med transaksjoner i kryptovalutaen Monero.</p>
+<p>Politiet mener Anne-Elisabeth Hagen (68) ble bortført fra hjemmet sitt 31. oktober. Inne i eneboligen i Lørenskog ble det funnet et brev hvor det fremkom trusler og et krav om løsepenger.</p>
+<p>Ifølge VGs opplysninger er løsepengekravet ni millioner euro som skal betales med nettopp kryptovalutaen Monero.</p></div>
+<div type="title" level="3">Åtte bokstaver</div>
+<div type="text">
+<p>Politiet har bekreftet at kontakten med de mulige kidnapperne koster penger, uten at de har spesifisert hvor mye som betales hver gang det er kontakt.</p>
+<p>– Det er helt riktig at man må betale for å kommunisere, men jeg vil ikke svare noe mer detaljert på dette nå, uttalte politiinspektør Tommy Brøske da saken ble gjort kjent for offentligheten 9. januar.</p>
+<p>I forbindelse med transaksjoner i Monero kan avsenderen skrive inn en melding i et felt som kalles «Payment ID», men der er det kun plass til noen få tegn:</p>
+<p>32 bokstaver i ukrypterte meldinger</p>
+<p>8 bokstaver i krypterte meldinger</p>
+<p>Meldingene blir seende ut som en lang rekke med usammenhengende tall og bokstaver, eller såkalte hex-koder. Disse kodene kan relativt enkelt gjøres om til forståelige meldinger, blant annet på flere nettsteder.</p></div>
+<div type="title" level="3">Krypterte og skjulte</div>
+<div type="text">
+<p>VG har kartlagt alle transaksjoner med Monero gjennom de ti ukene saken ble holdt hemmelig. Totalt dreier det seg over 830.000 transaksjoner verden over gjennom denne perioden.</p>
+<p>De aller fleste av disse transaksjonene er krypterte.</p>
+<p>For VG har det kun vært mulig å identifisere i overkant av 33.000 transaksjoner som inneholdt et mulig meldingsfelt. Det betyr imidlertid ikke at de øvrige transaksjonene ikke har det, men bare at det er skjult for omverden.</p>
+<p>Bistandsadvokat Holden understreket torsdag at familien følte seg trygge på at det er den samme avsenderen – de mulige kidnapperne – som igjen har tatt kontakt.</p>
+<p>– Det har noe med hvordan kommunikasjonsplattformen er innrettet, sier Holden.</p>
+<p>Trolig dreier dette seg om at kommunikasjonen går mellom to digitale lommebøker, som det skal være svært lite sannsynlig at noen uvedkommende har klart å identifisere – og ikke minst hacke.</p></div>
+<div type="title" level="3">les også</div></body></document>

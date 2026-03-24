@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190621-dette-var-skranglete.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/dette-var-skranglete-bob/71210458" frk="50 0 0 282 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-21 21:20"/>
+<attribute name="author" value="Øyvind Rønning"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="øyvind rønning,anmeldelse,bob dylan,bergen,konsert,kultur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette var skranglete, Bob!</div>
+<div type="ingress">Bob Dylan har med seg glimrende musikere, likevel høres det ut som en jam der oppe. Forstå det den som kan.</div>
+<div type="author">Øyvind Rønning</div>
+<div type="date">2019-06-21</div>
+<div type="caption"><p>OPPE OG GÅR: Bob Dylan satt stort sett bak pianoet, men hadde et par turer fram på scenen også. Foto: Frank Karlsen / Dagbladet</p></div>
+</body></document>

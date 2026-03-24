@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190720-det-finnes-n-jobb-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/VboREd/Det-finnes-n-jobb-i-Norge-Agnete-Haaland-virkelig-har-lyst-pa" frk="24 0 0 144 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-20 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Det finnes én jobb i Norge Agnete Haaland virkelig har lyst på</div>
+<div type="ingress">Men først flytter hun og ektemann Erling Borgen til New York.</div>
+<div type="author"></div>
+<div type="date">2019-07-20</div>
+<div type="caption"></div>
+</body></document>

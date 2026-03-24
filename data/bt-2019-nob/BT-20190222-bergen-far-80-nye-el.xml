@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190222-bergen-far-80-nye-el.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BJp3zE/Bergen-far-80-nye-elbusser" frk="62 9 4 438 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-22 19:17"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Kollektivtransport,Terje Breivik,Nasjonal Transportplan,Elbuss,Elbil,Elektrifisering"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergen får 80 nye elbusser</div>
+<div type="ingress">Elektrifiseringen av bussparken i Bergen får fart. Fredag ble det kjent at Enova bevilger 36 millioner kroner til ladestasjoner for buss.</div>
+<div type="author"></div>
+<div type="date">2019-02-22</div>
+<div type="caption"><p>GODE BUSSER: Enova gir økonomisk støtte til ladere til elbusser. Her er stortingsrepresentant for Venstre, Terje Breivik (fra v.), Jon André Kongsvik, ungdomskandidat til fylkestingsvalget for Høyre og fylkesvaraordfører Pål Kårbø (KrF). FOTO: Tor Høvik</p></div>
+</body></document>

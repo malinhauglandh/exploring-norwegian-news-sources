@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190327-da-erfarne-piloter-s.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/3JMMOP/Da-erfarne-piloter-skulle-teste-Max-8-flyet-i-simulator_-var-de-forberedt-pa-feilen-Likevel-hadde-de-under-40-sekunder-pa-a-unnga-styrt" frk="913 6 40 5760"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-27 12:42"/>
+<attribute name="author" value="Hanne Christiansen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="boeing,lion air,flyulykker,airbus,boeing 737"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Da erfarne piloter skulle teste Max 8-flyet i simulator, var de forberedt på feilen. Likevel hadde de under 40 sekunder på å unngå styrt.</div>
+<div type="ingress">Mens Boeing jobber på spreng med en sikkerhetsoppdatering, rykker hovedkonkurrenten inn i deres viktigste marked.</div>
+<div type="author">Hanne Christiansen</div>
+<div type="date">27. mars 2019 13:42</div>
+<div type="caption"><p>FOTO: China String Network, Reuters / NTB scanpix Det kinesiske flyselskapet Air China var blant de første til å sette Max 8-flyene på bakken. Nå har kinesiske myndigheter inngått en stor avtale med Boeings hovedkonkurrent.</p> <p>Boeing jobber med å simulere hendelsesforløpet i minuttene før Lion Air-flyet styrtet og 189 mennesker mistet livet.</p> <p>Kinas president Xi Jinping er på statsbesøk i Frankrike denne uken. Der skrev han under på en ny avtale om å kjøpe fly av Boeings hovedkonkurrent.</p></div>
+<div type="text">
+<p>De siste minuttene i cockpiten på Lion Air-flyet som styrtet i Javasjøen den 29. oktober, var preget av økende panikk.</p>
+<p>Mens piloten forsøkte å holde flyet stabilt, bladde styrmannen desperat gjennom bruksanvisningen på jakt etter løsninger. Ingen av dem skjønte at det var flyets nye anti-steilesystem som presset nesen nedover på grunn av en feil i en sensor.</p>
+<p>Denne uken skulle erfarne piloter fra fem ulike flyselskaper teste det samme hendelsesforløpet i en flysimulator på Boeings produksjonsbase i Renton i delstaten Washington.</p>
+<p>Da tilsvarende sensorfeil ble aktivert, fikk testpilotene plutselig dårlig tid: De hadde mindre enn 40 sekunder på å overstyre systemet og få flyet på rett kjøl.</p></div>
+<div type="title" level="3">Overrasket over effekten</div>
+<div type="text">
+<p>New York Times har snakket med to kilder som var til stede under testingen.</p>
+<p>De sier testpilotene ble overrasket over hvor kraftig effekten av antisteile-funksjonen (MCAS) opplevdes i simulatoren.</p>
+<p>Selv når de var fullt klar over hva som skjedde og hvordan de skulle rette feilen – i motsetning til pilotene om bord i flyene som styrtet – var vinduet for å reagere svært kort.</p>
+<p>Willy Kurniawan, Reuters / NTB scanpix</p></div>
+<div type="title" level="3">Tre brytere skrur av systemet</div>
+<div type="text">
+<p>Slik systemet fungerer i dag, kan pilotene benytte seg av en bryter som midlertidig hindrer nesen fra å synke, mens de identifiserer og retter feilen. Men for å skru den automatiske funksjonen helt av må ytterligere to brytere brukes for å kutte strømforsyningen til motoren som presser nesen nedover.</p>
+<p>Dette visste en tredje pilot som tilfeldigvis var til stede da det holdt på å gå galt under en flyvning med Lion Air-flyet, dagen før det styrtet. Han brøt inn da kapteinen og styrmannen fikk problemer med å holde flyets høyde, og skrudde av systemet.</p>
+<p>Dagen etter styrtet det samme flyet. Data fra flyets såkalte svarte bokser viser at pilotene brukte den midlertidige bryteren minst 24 ganger – uten hell.</p>
+<p>Men trolig var ikke mannskapet på den ulykkesrammede flyvningen klar over at MCAS-funksjonen eksisterte. Dermed visste de heller ikke hvordan de skulle skru den helt av.</p></div>
+<div type="title" level="3">Fakta: Dette er MCAS-funksjonen</div>
+<div type="text">
+<p>* Boeing 737 Max 8 er utstyrt med en ny og større motor som gjør at den må sitte lengre frem på flyet.</p>
+<p>* Den nye posisjonen endrer flyets egenskaper i luften, og gjør at flyet kan trekke opp med nesen under visse omstendigheter. Pilotene må derfor trimme flyet for å holde vinkelen stabil.</p>
+<p>* Dette er grunnen til at Boeing utviklet anti-steilesystemet MCAS, som er en forkortelse for Maneuvering Characteristics Augmentation System. MCAS bruker en sensor til automatisk å sørge for at nesepartiet holder seg stabilt, eller synker dersom det oppdager at flyets vinkel gir fare for steiling.</p>
+<p>* For å hindre MCAS i å overstyre pilotens handlinger, må piloten skru av systemet manuelt. Piloter har understreket behovet for trening og informasjon utover det Boeing opprinnelig ga da flyet ble lansert.</p>
+<p>* En feil i sensoren forårsaket trolig Lion Air-styrten i Indonesia i oktober. Etterforskere undersøker nå om det samme skjedde i Etiopia i mars.</p>
+<p>Kilder: Boeing, Washington Post, New York Times, NTB.</p></div>
+<div type="title" level="3">Kina går til konkurrenten</div>
+<div type="text">
+<p>Boeing har jobbet med en oppdatering av programvaren siden den første flystyrten i oktober. Kilder sier til New York Times at oppdateringen blant annet vil gjøre det lettere for pilotene å ta kontroll og overstyre autopilot-systemet.</p>
+<p>Men selskapet har måttet tåle kritikk fra piloter for at informasjonen ikke har kommet tidligere.</p>
+<p>Og mens Boeings Max 8-fly har stått parkert, har hovedkonkurrenten Airbus grepet muligheten til å selge sine fly til en av Boeings viktigste kunder.</p>
+<p>Den europeiske flyprodusenten skrev i en pressemelding mandag at de har inngått avtaler om å levere 300 passasjerfly til kinesiske flyselskaper.</p>
+<p>Avtalen omfatter 290 Airbus-fly av typen A320, som er produsentens svar på Max 8-flyene.</p>
+<p>Kina var først ute med å sette Max 8-flyet på bakken etter flystyrten i Etiopia.</p>
+<p>Philippe Wojazer, Reuters / NTB scanpix</p></div>
+<div type="title" level="3">Kan påvirke handelssamtaler</div>
+<div type="text">
+<p>Denne uken er Kinas president Xi Jinping på statsbesøk til Frankrike. Avtalen ble signert under et møte mellom Airbus-ledelsen og Kinas statlige flyleasingselskap (CASC) der også Xi og Frankrikes president Emmanuel Macron var til stede.</p>
+<p>Bekymringen rundt sikkerheten i flyet kan få store konsekvenser for Boeing, som har satset tungt på Max-modellene. Kun amerikanske flyselskaper har bestilt flere Max 8-fly enn Kina.</p>
+<p>Men situasjonen skaper også trøbbel for kinesiske myndigheter. Et av Kinas viktigste forhandlingskort i handelskrigen med USA, har vært et løfte om å kjøpe amerikanske eksportvarer til en verdi av ti milliarder norske kroner. Blant de viktigste varene på handlelisten var Boeing-flyene, skriver Financial Times.</p>
+<p>I november 2017, da USAs president Donald Trump var på besøk til Kina, skrev CASC under på en tilsvarende bestilling på 300 amerikanske Boeing-fly.</p>
+<p>I forrige uke sa det indonesiske flyselskapet Garuda at de vil stoppe sin bestilling på 49 Max 8-fly til en verdi av nesten fem milliarder amerikanske dollar.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191227-de-inspirerte-kommun.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/vQdXyp/De-inspirerte-kommunen-til-a-starte-et-nytt-program-for-flyktninger" frk="33 10 2 183 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-27 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De inspirerte kommunen til å starte et nytt program for flyktninger</div>
+<div type="ingress">– Når jeg er 59 år og ny i et land, hjelper det ikke meg å lære barnesanger, sier Issam Layous.</div>
+<div type="author"></div>
+<div type="date">2019-12-27</div>
+<div type="caption"></div>
+</body></document>

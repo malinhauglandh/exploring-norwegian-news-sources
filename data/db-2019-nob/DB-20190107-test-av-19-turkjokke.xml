@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190107-test-av-19-turkjokke.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-19-turkjokken-tre-far-terningkast-seks/70619447" frk="77 3 2 508 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-07 20:55"/>
+<attribute name="author" value="Turid Næss, Nina Hansen (foto)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="pluss,personlige stormkjøkken,test stormkjøkken,multiefuel,tema"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av 19 turkjøkken: Tre får terningkast seks</div>
+<div type="ingress">Blant vinnerne er et stormkjøkken som virkelig tåler storm.</div>
+<div type="author">Turid Næss, Nina Hansen (Foto)</div>
+<div type="date">2019-01-07</div>
+<div type="caption"><p>VARME PØLSER: Personlige, lette gassbrennere med liten kjele er en moderne arvtaker for termosen, mener vårt testpanel. Vi har også testet stormkjøkken på gass, stormkjøkken med rødsprit, brennere på parafin, multifuelbrennere, topp- og singelbrennere og personlige brennere med kjele. Salza er mest opptatt av når hun skal få en bit av den varme pølsa til Tilde. Foto: Turid Næss</p></div>
+</body></document>

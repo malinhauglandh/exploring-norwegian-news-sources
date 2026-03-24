@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190925-utforkjoring-pa-torr.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyhetsdgnet/i/dOP05X/Utforkjoring-pa-Torridalsveien" frk="46 0 0 307 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-09-25 12:24"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyhetsdgnet"/>
+<attribute name="class2" value="nyhetsdgnet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Utforkjøring på Torridalsveien</div>
+<div type="ingress">En bil kjørte utfor på Torridalsveien onsdag morgen. Bilføreren kom trolig fra ulykken uten store skader.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Bilen har store skader i fronten, men står i oppkjørselen til et hus. Det er nødetatenes arbeid på stedet som hindrer trafikken. FOTO: Jan Oddvar Eide</p></div>
+</body></document>

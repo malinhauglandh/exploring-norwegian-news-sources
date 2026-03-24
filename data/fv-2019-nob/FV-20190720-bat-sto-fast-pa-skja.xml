@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190720-bat-sto-fast-pa-skja.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/EWmbRA/Bat-sto-fast-pa-skjar" frk="39 8 2 245 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-20 15:51"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Båt sto fast på skjær</div>
+<div type="ingress">En cabincruiser med en familie på fem om bord, kjørte lørdag formiddag på et skjær i farvannet utenfor Lillesand.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Den 30 fot store båten sto bom fast på skjæret utenfor Lillesand. FOTO: Redningsselskapet</p></div>
+</body></document>

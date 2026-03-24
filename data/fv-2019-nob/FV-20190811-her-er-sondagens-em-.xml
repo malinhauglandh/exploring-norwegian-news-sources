@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190811-her-er-sondagens-em-.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/rAekLa/Her-er-sondagens-EM-program" frk="44 28 8 285 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-11 12:34"/>
+<attribute name="author" value="Ingvild Lygren"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er søndagens EM-program</div>
+<div type="ingress">Lag-EM i friidrett på Sandnes stadion avsluttes i dag med blant annet Henrik Ingebrigtsen på 3000 meter.</div>
+<div type="author">Ingvild Lygren</div>
+<div type="date">11.aug.2019 12:34</div>
+<div type="caption"><p>Henrik Ingebrigtsen løper 3000 meter på hjemmebane under EM i friidrett for lag i dag, søndag. FOTO: Simander, Erik / TT NYHETSBYRÅN</p></div>
+</body></document>

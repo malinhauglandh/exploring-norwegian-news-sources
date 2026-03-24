@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-bergen-mosk-innforer.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8m1PJA/Bergen-mosk-innforer-vakthold-under-fredagsbonnen-etter-ny-terrorvurdering" frk="29 14 3 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergen moské innfører vakthold under fredagsbønnen etter ny terrorvurdering</div>
+<div type="ingress">PST fastslår at trusselen mot samlesteder for muslimer har økt. Fredag samles opptil 700 muslimer til bønn i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-12-19</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190717-dette-gjor-den-mysti.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/6jVrqo/Dette-gjor-den-mystiske-baten-i-Byfjorden" frk="44 7 2 257 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-17 21:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette gjør den mystiske båten i Byfjorden</div>
+<div type="ingress">En 12 meter lang båt har vært å se i Bergen i sommer. Det er ingen mennesker om bord.</div>
+<div type="author"></div>
+<div type="date">2019-07-17</div>
+<div type="caption"><p>PROSJEKT: Båten USV «Maxlimer» skal etter planen gjøre flere tester i fjordene rundt Bergen. FOTO: Rune Sævig</p></div>
+</body></document>

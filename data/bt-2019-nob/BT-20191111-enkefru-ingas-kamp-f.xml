@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191111-enkefru-ingas-kamp-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/xPdd4G/Enkefru-Ingas-kamp-for-skjenkebevilling-i-Fana" frk="22 0 0 158 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-11 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Enkefru Ingas kamp for skjenkebevilling i Fana</div>
+<div type="ingress">Her er historien om avholdsbevegelsen i Fana, Inga Johannessen og Birkelund cafe og hotell.</div>
+<div type="author"></div>
+<div type="date">2019-11-11</div>
+<div type="caption"></div>
+</body></document>

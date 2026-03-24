@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190601-store-skader-etter-b.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/70j5j4/Store-skader-etter-brann-i-lagerbygg-i-Meland--Taket-er-sa-a-si-helt-vekke" frk="65 0 0 374 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Nordhordland,Flatøy,Meland,Brann"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Store skader etter brann i lagerbygg i Meland: – Taket er så å si helt vekke</div>
+<div type="ingress">Fredag kveld brøt det ut en kraftig brann i et lagerbygg på Flatøy i Meland. Brannen har ført til store, materielle skader på bygget.</div>
+<div type="author"></div>
+<div type="date">2019-06-01</div>
+<div type="caption"><p>HULL I TAKET: Det er lite igjen av tak-konstruksjonen i lagerbygningen som sto i full brann i Meland fredag kveld. FOTO: Paul André Sommerfeldt</p></div>
+</body></document>

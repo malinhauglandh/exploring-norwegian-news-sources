@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191215---det-var-fullt-trok.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/awdPJM/-Det-var-fullt-trokk-her-i-tre-timer" frk="25 0 0 151 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-15 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Det var fullt trøkk her i tre timer</div>
+<div type="ingress">Syv menn ble bortvist fra Bergen sentrum natt til lørdag grunnet fyll eller dårlig oppførsel.</div>
+<div type="author"></div>
+<div type="date">2019-12-15</div>
+<div type="caption"></div>
+</body></document>

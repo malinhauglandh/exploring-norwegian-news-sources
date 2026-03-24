@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191211-brann-i-enebolig-pa-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50vAJe/Brann-i-enebolig-pa-Sotra" frk="44 14 4 274 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-11 18:50"/>
+
+<attribute name="author" value="Adalheidur Audardottir Oldeide"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brann i enebolig på Sotra</div>
+<div type="ingress">Boligen på Sotra er ubeboelig etter at det begynte å brenne i takkonstruksjonen på huset.</div>
+<div type="author">Adalheidur Audardottir Oldeide</div>
+<div type="date">Publisert 11. desember 2019 18:50</div>
+<div type="caption"><p>BRANN I TAKKONSTRUKSJON: Ingen skal ha blitt skadet etter at det begynte å brenne i takkonstruksjonen på et hus i Fjell. Foto: 2211-tipser</p></div>
+</body></document>

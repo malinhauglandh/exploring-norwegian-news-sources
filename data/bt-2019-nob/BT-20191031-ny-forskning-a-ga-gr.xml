@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-ny-forskning-a-ga-gr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/vQG5jB/Ny-forskning-A-ga-gravid-gir-hjernen-et-skikkelig-loft--som-varer" frk="35 0 0 220 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny forskning: Å gå gravid gir hjernen et skikkelig løft – som varer</div>
+<div type="ingress">Kvinner som får ett eller flere barn, får trolig en boost som forsinker hjernens aldringsprosess senere i livet, viser ny forskning.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

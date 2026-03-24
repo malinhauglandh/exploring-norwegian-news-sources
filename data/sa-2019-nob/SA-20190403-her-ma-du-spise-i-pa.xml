@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190403-her-ma-du-spise-i-pa.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/forbruker/i/yvkd3x/Her-MA-du-spise-i-Paris" frk="43 0 0 227 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-03 08:58"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker"/>
+<attribute name="class2" value="restaurant,frankrike,joacim lund,råvarer,paris,matreise,oppskrift,sjømat,vin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her MÅ du spise i Paris!</div>
+<div type="ingress">Paris er alltid en god idé, sa Audrey Hepburn. Og det hadde hun selvsagt rett i – gitt at du vet hvor du skal gå.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>GRØNT: På restauranten Verjus er det grønnsaker i fokus. Joacim Lund</p></div>
+</body></document>

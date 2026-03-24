@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-drommer-du-om-hytte-.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/1nWxje/Drommer-du-om-hytte-ved-sjoen-I-disse-omradene-er-de-rimeligere" frk="50 0 0 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 08:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Drømmer du om hytte ved sjøen? I disse områdene er de rimeligere.</div>
+<div type="ingress">Sjøhyttene vil bare bli dyrere og mer uoppnåelige, mener ekspert på boligmarkedet.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"><p>De dyreste fritidsboligene finner du i Bærum, Lillesand og Færder. Her fra Langesund i Bamble, der hyttene er rimeligere. FOTO: Vidar Ruud / NTB scanpix</p></div>
+</body></document>

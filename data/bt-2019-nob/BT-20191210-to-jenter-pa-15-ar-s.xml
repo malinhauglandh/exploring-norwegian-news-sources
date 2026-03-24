@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191210-to-jenter-pa-15-ar-s.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qL8jWO/To-jenter-pa-15-ar-skal-ha-blitt-voldtatt" frk="28 42 6 142 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-10 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">To jenter på 15 år skal ha blitt voldtatt</div>
+<div type="ingress">En 32 år gammel mann fra Bergen er tiltalt for å ha voldtatt to jenter på 15 år.</div>
+<div type="author"></div>
+<div type="date">2019-12-10</div>
+<div type="caption"></div>
+</body></document>

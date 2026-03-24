@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191225-politiet-holdt-oppsy.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/MR2aRJ/Politiet-holdt-oppsyn-med-ranetreff-Anmeldt-for-sladding" frk="41 0 0 279 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-25 11:43"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Politiet holdt oppsyn med rånetreff: Anmeldt for sladding</div>
+<div type="ingress">Flere hundre biler deltok på rånetreff i Sørlandsparken og i Lillesand julenatta. Politiet overvåket det hele og slo ned på sladding.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Her er politiet på plass ved Gaupemyr i Lillesand. FOTO: FVN-tipser</p></div>
+</body></document>

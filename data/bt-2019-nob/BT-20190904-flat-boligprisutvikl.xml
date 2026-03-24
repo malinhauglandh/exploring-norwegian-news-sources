@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190904-flat-boligprisutvikl.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/qLbq1O/Flat-boligprisutvikling-i-Bergen" frk="35 0 0 240 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-04 18:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Boligpriser"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Flat boligprisutvikling i Bergen</div>
+<div type="ingress">Prisene pleier normalt å stige i august. Bergen og Vestlandet er de eneste stedene i landet med nedgang.</div>
+<div type="author"></div>
+<div type="date">2019-09-04</div>
+<div type="caption"><p>NEDGANG: Boligprisene i Bergen falt forrige måned. FOTO: Bjørn Erik Larsen (arkiv)</p></div>
+</body></document>

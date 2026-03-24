@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190417-ville-kjore-fra-oslo.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/RR550W/Ville-kjore-fra-Oslo-til-Sandnes-med-1_2-promille" frk="39 38 9 235 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-04-17 18:46"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ville kjøre fra Oslo til Sandnes med 1,2 promille</div>
+<div type="ingress">Kjøreturen endte i Drammen for Flekkefjord-mannen som la ut på langtur i hasjrus. Nå må han betale 21.000 kroner i bot.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Arkivfoto fra E 18. FOTO: Tore André Baardsen</p></div>
+</body></document>

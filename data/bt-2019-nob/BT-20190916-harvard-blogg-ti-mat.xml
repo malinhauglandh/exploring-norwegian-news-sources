@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190916-harvard-blogg-ti-mat.xml"/>
+<attribute name="url" value="https://www.bt.no/sprek/i/GGK0BJ/Harvard-blogg-Ti-matvarer-du-bor-ha-i-kostholdet-ditt" frk="19 0 0 138 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-16 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sprek"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Harvard-blogg: Ti matvarer du bør ha i kostholdet ditt</div>
+<div type="ingress">Her er ti matvarer som inneholder svært viktige næringsstoffer.</div>
+<div type="author"></div>
+<div type="date">2019-09-16</div>
+<div type="caption"></div>
+</body></document>

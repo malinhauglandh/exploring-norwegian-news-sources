@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191014-skrevet-av-en-robot.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/skrevet-av-en-robot/71682418" frk="50 0 0 322 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-10-14 10:30"/>
+<attribute name="author" value="Arne Dvergsdal"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Skrevet av en robot</div>
+<div type="ingress">Kronprinsesse Märtha fungerte som en slags hemmelig agent for Norge under krigen, mener historiker Trond Norén Isaksen i ny bok.</div>
+<div type="author">Arne Dvergsdal</div>
+<div type="date">2019-10-14</div>
+<div type="caption"><p>NÆRT FORHOLD: USAs president Franklin D. Roosevelt og Norges kronprinsesse Märtha fikk et nært forhold da hun bodde i USA under krigen. Foto: NTB SCANPIX</p></div>
+</body></document>

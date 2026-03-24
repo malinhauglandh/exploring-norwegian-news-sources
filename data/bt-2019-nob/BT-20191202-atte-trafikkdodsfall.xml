@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-atte-trafikkdodsfall.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/opylr7/aatte-trafikkdoedsfall-i-november" frk="48 11 4 336 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 08:00"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Åtte trafikkdødsfall i november</div>
+<div type="ingress">Åtte personer omkom i trafikken i november. Totalt 96 har mistet livet i trafikken siden årsskiftet.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 2. desember 2019 08:00</div>
+<div type="caption"><p>DØDSTALL: Åtte personer omkom i trafikkulykker i november. I løpet av årets elleve første måneder har 96 personer mistet livet i trafikken. Vidar Ruud, NTB scanpix (illustrasjonsfoto)</p></div>
+</body></document>

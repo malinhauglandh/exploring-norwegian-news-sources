@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190930-hanna-karoline-var-l.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EW52yo/Hanna-Karoline-var-lei-av-karakterjaget-i-skolen-Hun-begynte-pa-folkehoyskole-for-a-fa-et-pusterom" frk="50 0 0 286 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hanna Karoline var lei av karakterjaget i skolen. Hun begynte på folkehøyskole for å få et pusterom.</div>
+<div type="ingress">– Jeg var lei av å gjøre alt så bra, bare fordi jeg skulle få karakter i det, sier Hanna Karoline Bakken Fossum. Aldri før har så mange elever gått på folkehøyskole.</div>
+<div type="author"></div>
+<div type="date">2019-09-30</div>
+<div type="caption"></div>
+</body></document>

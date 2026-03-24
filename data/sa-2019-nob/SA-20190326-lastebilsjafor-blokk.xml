@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190326-lastebilsjafor-blokk.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/innenriks/i/0nVV76/Lastebilsjafor-blokkerte-GPS-signalene-til-ambulansehelikopter-Det-skjer-stadig-oftere" frk="35 0 0 253 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-26 13:51"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value="luftambulansen,webview,luftfart,nkom,digital,politiet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Lastebilsjåfør blokkerte GPS-signalene til ambulansehelikopter. Det skjer stadig oftere.</div>
+<div type="ingress">En person er fastklemt og alvorlig skadet i en trafikkulykke på Røyken. Legehelikopteret er på vei. Så går kartet på skjermen i cockpit i svart.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

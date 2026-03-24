@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190119-brann-i-firemannsbol.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/ddAQjo/Boligbrann-pa-Mosby" frk="39 0 0 251 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-01-19 15:15"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brann i firemannsbolig - to til legevakt</div>
+<div type="ingress">Lørdag formiddag var det full fyr i en firemannsbolig på Mosby i Kristiansand. To personer er sendt til legevakt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det var full fyr i en firemannsbolig på Mosby lørdag. FOTO: Richard Nodeland</p></div>
+</body></document>

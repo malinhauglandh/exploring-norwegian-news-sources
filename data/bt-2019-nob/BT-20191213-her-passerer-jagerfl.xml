@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-her-passerer-jagerfl.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1nzkRW/Her-passerer-jagerflyene-over-Bergen" frk="41 20 6 294 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 12:46"/>
+
+<attribute name="author" value="Per Lindberg"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her passerer jagerflyene over Bergen</div>
+<div type="ingress">Ved 12.25-tiden fløy Forsvarets F-35-fly over Bergen og videre sørover.</div>
+<div type="author">Per Lindberg</div>
+<div type="date">Publisert 13. desember 2019 12:46</div>
+<div type="caption"><p>OVER BERGEN: Flyene idet de passerer over Bergen sentrum. Foto: Bjørn Erik Larsen</p> <p>TREKKER SØROVER: Nedover Bergensdalen på vei mot Haugesund. Foto: Bjørn Erik Larsen</p></div>
+</body></document>

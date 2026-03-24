@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190930-vindkraft-nei-over-h.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0n0J6E/Vindkraft-nei-over-hele-linjen" frk="23 0 0 165 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-30 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vindkraft-nei over hele linjen</div>
+<div type="ingress">Alle Vestland-kommunene som er utpekt som godt egnet for vindkraftverk, sier nei til å bli vertskap for utbygging.</div>
+<div type="author"></div>
+<div type="date">2019-09-30</div>
+<div type="caption"></div>
+</body></document>

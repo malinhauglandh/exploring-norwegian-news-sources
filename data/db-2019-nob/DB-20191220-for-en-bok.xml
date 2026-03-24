@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191220-for-en-bok.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/for-en-bok/71941167" frk="51 20 7 341 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-12-20 09:29"/>
+<attribute name="author" value="Bernt Hagtvet"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">For en bok!</div>
+<div type="ingress">Å kjenne til Oskar Mendelsohns bok om jødenes historie i Norge, er et dannelseskrav. Nå er verket endelig ute i samlet utgave.</div>
+<div type="author">Bernt Hagtvet</div>
+<div type="date">2019-12-20</div>
+<div type="caption">MØRK HISTORIE: Fangeskipet Donau fotografert i 1942, med 530 norske jøder ombord, på vei til konsentrasjonsleirene. Foto: NTB SCANPIX <p>FORFATTEREN: Oskar Mendelsohn. Foto: NTB SCANPIX</p></div>
+</body></document>

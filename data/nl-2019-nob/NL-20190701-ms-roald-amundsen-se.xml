@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190701-ms-roald-amundsen-se.xml"/>
+<attribute name="url" value="http://www.nordlys.no/bodo/tromso/hurtigruten/ms-roald-amundsen-seilte-forbi-bodo-pa-jomfruturen/s/5-34-1153903" frk="21 0 0 133 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-07-01 13:52"/>
+<attribute name="author" value="Børre Arntzen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">MS Roald Amundsen seilte forbi Bodø på jomfruturen</div>
+<div type="ingress">Seilte forbi Bodø uten å legge til kai. Neste stopp er Tromsø.</div>
+<div type="author">Av Børre Arntzen</div>
+<div type="date">01. juli 2019, kl. 13:52</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190321---boeing-installerer.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/norgeogverden/i/nag2eB/-Boeing-installerer-sikkerhetsalarm-pa-MAX-flyene" frk="178 2 3 1149"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-21 17:01"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,norgeogverden"/>
+<attribute name="class2" value="nyheter,norgeogverden"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">– Boeing installerer sikkerhetsalarm på MAX-flyene</div>
+<div type="ingress">Den amerikanske flyprodusenten Boeing skal ifølge en kilde installere sikkerhetsalarmer i cockpiten på alle 737 MAX-fly etter to flystyrter på fem måneder.</div>
+<div type="author">NTB</div>
+<div type="date">21.mar.2019 17:01</div>
+<div type="caption"><p>Foto: AP / NTB scanpix</p></div>
+<div type="text">
+<p>Alarmen skal installeres både på alle nyproduserte fly av denne typen, og på fly som allerede er levert og i bruk, opplyser en person med kjennskap til detaljene til Financial Times.</p>
+<p>Sikkerhetsalarmen skal gi flygerne varsel dersom to sensorer som registrerer flyets nesevinkel, gir motstridende opplysninger. Det vil i så fall være et tegn på at en av sensorene ikke virker, forteller kilden.</p>
+<p>Boeing har overfor avisen ikke ønsket å kommentere artikkelen.</p>
+<p>Sensorene registrerer dersom flyets vinkel i luften er for steil. De er koblet til en programvare kalt MCAS og som skal motvirke at flyet steiler. Feil ved programvaren mistenkes for å ha bidratt til årsaken bak flystyrten i Indonesia i oktober, ifølge en foreløpig rapport.</p>
+<p>Det mistenkes også at MCAS kan ha bidratt til styrten i Etiopia tidligere denne måneden.</p>
+<p>Boeing har varslet en programvareoppdatering som skal rulles ut i nær framtid.</p></div></body></document>

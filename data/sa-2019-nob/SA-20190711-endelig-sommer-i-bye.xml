@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190711-endelig-sommer-i-bye.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/2GbE1a/Endelig-sommer-i-byen" frk="33 9 2 208 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-11 07:32"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="vær,vågen,lek,stavanger,båt,stavanger sentrum,sommer"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Endelig sommer i byen!</div>
+<div type="ingress">Med strålende sol og 16 grader i skyggen ble det endelig en smakebit på sommer i Stavanger.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Mamma Noelle Dahl-Poppe hjelper datteren Lisa med styltene. Jan Inge Haga</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190404-slik-blir-din-nye-bo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3JpgvX/Slik-blir-din-nye-bompengehverdag" frk="52 0 0 330 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-04 17:17"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Webview"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir din nye bompengehverdag</div>
+<div type="ingress">Er det rushtidsavgift alle steder? Må en nå betale begge veier? Og hva skjer med elbilene? Les ekspertenes svar om de store endringene i det bergenske bompengesystemet.</div>
+<div type="author"></div>
+<div type="date">2019-04-04</div>
+<div type="caption"><p>NY HVERDAG: Lørdag vil en også måtte betale bompenger for å kjøre i Bergen sentrum. FOTO: Bjørn Erik Larsen</p></div>
+</body></document>

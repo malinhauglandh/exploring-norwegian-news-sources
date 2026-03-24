@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-neste-ar-far-matheo-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Op1LRO/Neste-ar-far-Matheo-4-gratis-barnehageplass" frk="15 9 1 111 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Neste år får Matheo (4) gratis barnehageplass</div>
+<div type="ingress">Fedje vil lokke fleire barnefamiliar til øya.</div>
+<div type="author"></div>
+<div type="date">2019-12-13</div>
+<div type="caption"></div>
+</body></document>

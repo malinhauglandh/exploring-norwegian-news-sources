@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190514-whatsapp-advarer-15-.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/whatsapp/whatsapp-advarer-15-millioner-brukere-etter-sikkerhetsbrudd/2-1-603472" frk="333 2 6 2279"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-14 09:38"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,whatsapp"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">WhatsApp advarer 1,5 millioner brukere etter sikkerhetsbrudd</div>
+<div type="ingress">Den store kommunikasjonstjenesten WhatsApp oppfordrer sine 1,5 millioner brukere til å oppdatere appen etter at selskapet oppdaget et stort sikkerhetsbrudd. Den store kommunikasjonstjenesten WhatsApp oppfordrer sine 1,5 millioner brukere til å oppdatere appen etter at selskapet oppdaget et stort sikkerhetsbrudd.</div>
+<div type="author">NTB</div>
+<div type="date">2019-05-14 09:38</div>
+<div type="caption">WhatsApp har oppdaget et stort sikkerhetsbrudd. (Foto: Patrick Sison/AP Photo) </div>
+<div type="text">
+<p>Det skriver Financial Times.</p>
+<p>WhatsApp, som er eid av Facebook, oppdaget i begynnelsen av mai at hackere kunne installere et spionprogram – såkalt spyware – på både iPhone og Android-telefoner ved å ringe til brukere gjennom appen.</p></div>
+<div type="title" level="3">Spionteknologi</div>
+<div type="text">
+<p>Spionprogrammet, som ifølge Financial Times er utviklet av israelske NSO, kan bli overført til telefoner selv om anropet ikke ble besvart.</p>
+<p>NSOs mest kjente produkt kalles Pegasus. Det er et program som kan slå på en telefons kamera, i tillegg til å gjennomgå epost og informasjon om brukerens plassering.</p>
+<p>– Vi er dypt bekymret for misbruk av en slik karakter, sier WhatsApp i en uttalelse.</p>
+<p>Selskapet sendte mandag ut en oppdatering som skal rette feilen.</p>
+<p>– WhatsApp oppfordrer folk til å oppdatere til den siste versjonen av appen og sørge for at telefonen er oppdatert, sier en talsperson for selskapet.</p></div>
+<div type="title" level="3">Leverer spionprogram til regjeringer</div>
+<div type="text">
+<p>NSO tilbyr sine produkter til etterretningstjenester i Midtøsten og Vesten. Selskapet skriver i en uttalelse at teknologien er brukt av politimyndigheter og etterretningstjenester for å bekjempe kriminalitet og terror.</p>
+<p>WhatsApp har ikke direkte bekreftet at angrepet skyldes spyware fra NSO, men sier følgende til Financial Times:</p>
+<p>– Angrepet har kjennetegn fra et privat selskap som er kjent for å samarbeide med regjeringer ved å levere spyware.</p>
+<p>Spionprogrammet har gjentatte ganger blitt anvendt for å hacke journalister, advokater og menneskerettighetsforsvarere, skriver nyhetsbyrået AP. Teknologien skal også ha blitt tilknyttet drapet på journalisten Jamal Khashoggi i det saudiarabiske konsulatet i Istanbul i fjor.</p>
+<p>John Scott-Railton, en forsker ved canadiske Citizen Lab, omtaler hackingen som en veldig skummel sårbarhet.</p>
+<p>– Det er ingenting en bruker kunne gjort her, bortsett fra å ikke ha appen, sier han.</p></div></body></document>

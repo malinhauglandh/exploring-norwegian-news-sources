@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190909-apple-google-sprer-u.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/mobil/apple/sikkerhet/apple-google-sprer-unodig-frykt-om-iphone-hacking/2-1-668538" frk="301 0 0 1999"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-09-09 13:57"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,mobil,apple,sikkerhet"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Apple: Google sprer unødig frykt om Iphone-hacking</div>
+<div type="ingress">Google-ansatte sikkerhetsforskere offentliggjorde nylig en rapport om en alvorlig sikkerhetssvakhet i Iphone. Apple mener Google «overdriver». Google-ansatte sikkerhetsforskere offentliggjorde nylig en rapport om en alvorlig sikkerhetssvakhet i Iphone. Apple mener Google «overdriver».</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-09-09 13:57</div>
+<div type="caption">Apple tar bladet fra munnen og anklager Google for å spre falsk frykt etter at en sikkerhetsrapport nylig spredte tvil om sikkerheten i Iphone og Ipad. (Foto: Bebeto Matthews/AP/NTB Scanpix) </div>
+<div type="text">
+<p>Nylig skrev DN om en rapport fra Googles sikkerhetsforskere som belyste hvordan hackere kunne utnytte en kjede av sikkerhetshull i Apples iOS-system for Iphone og Ipad til å ta full kontroll over telefoner og nettbrett. Google hevdet svakheten hadde eksistert i to år uten Apples kjennskap og at utbredelsen potensielt kunne være enorm.</p>
+<p>I helgen tok Apple til motmæle mot anklagene. Ifølge CNN sier Apple at rapporten fra Google gir et «feil inntrykk» og «skaper frykt» blant Iphone-brukere unødig.</p></div>
+<div type="title" level="3">Lite, rettet angrep</div>
+<div type="text">
+<p>Ifølge en uttalelse fra Apple ble sikkerhetssvakheten brukt i et rettet, sofistikert angrep på uighur-minoriteten i Kina, og ikke et bredt angrep mot en større masse av Iphone-telefoner.</p>
+<p>– Googles blogginnlegg ble publisert seks måneder etter at svakhetene var fjernet og ga et falskt inntrykk av et masseangrep mot hele befolkningsgrupper som lot hackerne følge brukernes aktiviteter direkte. Det var aldri tilfelle, sier Apple i uttalelsen.</p>
+<p>Apple avviser også at svakhetene ble utnyttet i to år slik Googles rapport hevder. Ifølge Apple varte angrepet i rundt to måneder.</p>
+<p>– Da Google varslet oss, var vi allerede i gang med å rette feilene, skriver Google.</p>
+<p>Google sier i et tilsvar til CNN at deres hensikt var å belyse de tekniske sidene ved svakhetene for å bidra til alle brukeres sikkerhet.</p>
+<p>Denne uken skal Apple avduke sine nye Iphone-modeller. Selskapet har opplevd fallende salg og inntekter fra Iphone de siste kvartalene.</p></div></body></document>

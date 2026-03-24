@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190930-corbyn-har-gjort-lab.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/y3XaM2/Corbyn-har-gjort-Labour-historisk-venstreorientert" frk="32 18 4 217 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-30 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Corbyn har gjort Labour historisk venstreorientert</div>
+<div type="ingress">Labour vil ta ti prosent av aksjene i landets 7000 største bedrifter og gi dem til bedriftenes ansatte. Blant velgerne er det et populært forslag.</div>
+<div type="author"></div>
+<div type="date">2019-09-30</div>
+<div type="caption"></div>
+</body></document>

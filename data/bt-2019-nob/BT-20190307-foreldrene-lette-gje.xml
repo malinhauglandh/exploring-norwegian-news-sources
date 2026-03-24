@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190307-foreldrene-lette-gje.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/ddx7Q1/Foreldrene-lette-igjennom-rommet-til-tenaringsdatteren-Da-skjonte-de-at-hun-hadde-blitt-voldtatt" frk="33 9 2 220 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-07 10:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Foreldrene lette gjennom rommet til tenåringsdatteren. Da skjønte de at hun hadde blitt voldtatt.</div>
+<div type="ingress">Mannen er nå dømt til tre års fengsel for voldtekten. Han må også betale kvinnen 2,5 millioner kroner.</div>
+<div type="author"></div>
+<div type="date">2019-03-07</div>
+<div type="caption"></div>
+</body></document>

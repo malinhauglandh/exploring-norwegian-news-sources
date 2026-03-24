@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191128-journalist-drap-sett.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/utenriks/i/XgO4zB/Journalist-drap-setter-Malta-pa-hodet" frk="30 0 0 237 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-28 11:51"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="drap,eu,hvitvasking,korrupsjon,malta"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Journalist-drap setter Malta på hodet</div>
+<div type="ingress">MALTA: Statsministerens nå forhenværende stabssjef er arrestert og en minister har gått av.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Caruana Galizia skrev om hvitvasking og korrupsjon. Darrin Zammit Lupi, Reuters/Scanpix</p></div>
+</body></document>

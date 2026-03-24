@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190501-restaurantanmeldelse.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/sulten/i/oRaG6B/Restaurantanmeldelse-Nesten-storveies-pa-Stortorvet" frk="77 7 4 505 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-01 11:30"/>
+<attribute name="author" value="Dagobert"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="osloby,sulten"/>
+<attribute name="class2" value="restaurant,restaurantanmeldelse,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Restaurantanmeldelse: Nesten storveies på Stortorvet</div>
+<div type="ingress">Etter «syv magre» ser det ut til at Stortorvets Gjæstgiveri har fått skikk på kjøkkenet. Men de har fremdeles noe å gå på.</div>
+<div type="author">Dagobert</div>
+<div type="date">01.mai.2019 13:30</div>
+<div type="caption"><p>FOTO: Monica Strømdahl Stortorvets Gjæstgiveri har vært restaurant siden 1903.</p></div>
+<div type="text">
+<p>– Det har alltid vært noe spesielt med Gjæstgiveriet, sier Spisevennen. – Stedet har alltid hatt sjarm, du merker historien som sitter i veggene.</p>
+<p>Nå har man skiftet kjøkkensjef og konsept i det ærverdige lokalet med historisk sus.</p></div></body></document>

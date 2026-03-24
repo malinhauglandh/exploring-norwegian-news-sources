@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190214-barselkvinner-minst-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/l1PyaA/Barselkvinner-minst-fornoyd-med-Haukeland" frk="42 0 0 313 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-14 19:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Haukeland universitetssykehus,Fødsel,Sykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Barselkvinner minst fornøyd med Haukeland</div>
+<div type="ingress">Haukeland kommer dårligst ut i landet i en undersøkelse om barseltilbudet.</div>
+<div type="author"></div>
+<div type="date">2019-02-14</div>
+<div type="caption"><p>IKKE FORNØYD: Kvinnene som har født på KK er litt mer fornøyd med fødselstilbudet enn med barseltilbudet, viser undersøkelsen fra Folkehelseinstituttet. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

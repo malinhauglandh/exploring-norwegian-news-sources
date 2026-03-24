@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190206-velkommen-til-et-nyt.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kommentar/i/rLx3n8/Velkommen-til-et-nytt-og-forbedret-Aftenposten" frk="1023 0 1 5965"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-06 16:28"/>
+<attribute name="author" value="Eirik H. Winsnes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kommentar"/>
+<attribute name="class2" value="design,aftenposten,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Velkommen til et nytt og forbedret Aftenposten</div>
+<div type="ingress">I dag får alle brukere en ny Aftenposten-opplevelse i alle digitale kanaler. Vi vil høre dine tilbakemeldinger.</div>
+<div type="author">Eirik H. Winsnes</div>
+<div type="date">39 minutter siden</div>
+<div type="caption"><p>FOTO: Aftenposten</p> <p>Artiklene i toppen vil fremdeles være plukket ut av en frontsjef og vises til alle lesere, mens den nederste delen av Aftenpostens forside vil være styrt av en algoritme som er basert på Aftenpostens redaksjonelle profil og redaksjonens prioriteringer.</p></div>
+<div type="text">
+<p>Hver eneste dag stoler hundretusenvis av nordmenn på at Aftenposten gir dem kvalitetssikret informasjon om vesentlige nyheter i Norge og resten av verden. Og hver eneste dag går vi på jobb for å gjøre den jobben så godt vi overhodet kan.</p>
+<p>Vi ser av tallene at vi gjør mye riktig; stadig nye abonnenter kommer til, og bruken av Aftenposten øker. Ingenting gleder oss som jobber i Aftenposten mer!</p>
+<p>3rd-party-bio</p>
+<p>Vi ser samtidig at vi må fornye og utvikle oss for å levere på de behovene og kravene våre abonnenter og lesere - dere - har og vil ha i tiden fremover.</p>
+<p>Vi har testet en ny forside i lang tid, og onsdag rullet vi denne ut til alle digitale brukere. Vi har i hovedsak to mål med denne oppgraderingen:</p>
+<p>Vi vil sørge for at flere av våre lesere får med seg de beste og viktigste sakene vi lager.</p>
+<p>Vi vil gi våre digitale produkter et design og brukeropplevelse som skiller seg mer fra de andre store norske mediene, og med et roligere og mer behagelig uttrykk.</p></div>
+<div type="title" level="3">Ulike brukere</div>
+<div type="text">
+<p>La meg starte med det første punktet. I Aftenposten lager vi hver dag vesentlig og engasjerende journalistikk vi ønsker at alle våre lesere skal få med seg. Brukerne våre er imidlertid veldig ulike; noen besøker oss mange ganger hver eneste dag, mens andre kommer innom oss sjeldnere.</p>
+<p>Dette blir et problem for begge brukerne, fordi Aftenpostens digitale forside frem til nå har vært helt lik for alle brukere til enhver tid. De brukerne som besøker oss ofte har dermed sett de samme sakene igjen og igjen, mens de som besøker oss sjeldnere har gått glipp av gode saker. Med denne endringen ønsker vi å sørge for at vårt beste innhold når flest mulig lesere, uavhengig av når de besøkte oss sist.</p>
+<p>For å få til dette må vi gjøre oss nytte av smart teknologi og data som setter oss i stand til å vise dere de riktige sakene, til riktig tid og på riktig måte.</p>
+<p>Vi har utviklet en algoritme som er basert på Aftenpostens redaksjonelle profil, styrt av redaksjonen og våre prioriteringer. Artiklene i toppen av Aftenposten.no vil fremdeles være manuelt plukket ut og lagt på av en frontsjef, men den redaktørstyrte algoritmen vil sette sammen den nederste delen av forsiden. Algoritmen tar først og fremst hensyn til hvor viktig vi vurderer at artikkelen er, hvor lenge den er aktuell og når den er publisert.</p></div>
+<div type="title" level="3">Personlige tilpasninger</div>
+<div type="text">
+<p>I tillegg vil vi fremover eksperimentere forsiktig med noen personlige tilpasninger. Vi kan for eksempel fjerne enkelte saker du allerede har lest, eller vi kan fjerne saker vi har vist deg svært mange ganger uten at du har ønsket å lese dem. Vi vil også kunne rangere og vise deg noen saker basert på hvor relevant vi tror den er for deg.</p>
+<p>Som Aftenposten-abonnent skal du selvfølgelig ha full kontroll og råderett over dine digitale data. Vi bruker i hovedsak anonyme og aggregerte data i våre analyser, og du kan selv bestemme hvordan vi skal bruke dine data.</p>
+<p>Dersom du ikke ønsker vi skal anvende dine data, kan du gjøre endringer her. Vi gjør oppmerksom på at vi da ikke er i stand til å optimere din individuelle brukeropplevelse. Dine data er sikre hos oss, og vi deler ikke dine data med andre.</p>
+<p>Dan P. Neegaard</p></div>
+<div type="title" level="3">Ingen «filterboble»</div>
+<div type="text">
+<p>I arbeidet med å utvikle vår nye forsidealgoritme har det styrende vært at vi skal anvende denne typen teknologi på en fundamentalt annerledes måte enn Facebook, Twitter og mange av de andre store internett-plattformene.</p>
+<p>Mange av gigantene har bygd algoritmer som først og fremst skal skape mest mulig bruk. Det gjør de ved å bruke data om alt du gjør på plattformen, og sørge for at du får mer av det de vet du allerede liker.</p>
+<p>Det er med slike algoritmer man står i fare for å skape såkalte «filterbobler» eller «digitale ekkokammer», digitale rom hvor du ikke utfordres, bryner deg eller utvider horisonten, men kun samhandler med innhold og mennesker du allerede liker og som bekrefter dine meninger og ditt verdensbilde.</p>
+<p>Et slikt produkt skal Aftenposten aldri bli.</p></div>
+<div type="title" level="3">Endringer i designet</div>
+<div type="text">
+<p>Teknologien i seg selv er imidlertid verken negativ eller positiv, det avgjørende er hvordan den brukes og til hvilket formål. I Aftenposten ønsker vi å bruke denne typen teknologi til å løse samfunnsoppdraget vårt enda bedre; Vi vil også rulle ut noen nye smarte løsninger: Du vil få muligheten til å lagre saker i din egen leseliste, og du vil alltid finne igjen alle saker du har lest i din egen historikk (dersom du er innlogget).</p>
+<p>I tillegg til å justere hvordan vi setter sammen forsiden, har vi nå lansert nytt design på både mobil og pc. Vi har ønsket å skape et roligere uttrykk som skiller seg tydeligere fra andre norske medier.</p>
+<p>Forsiden skal gi bedre oversikt, gjøre det enklere å oppdatere seg og enklere å finne faste elementer som for eksempel favorittpodkasten din. Designelementene settes også til slutt sammen av en algoritme, men også denne er basert på de signalene vi fôrer inn i algoritmen om sakens nyhetsverdi, type sak og levetid. Vi håper dere liker det.</p>
+<p>Vi ser av de analysene vi har gjort at vi nå viser frem en større bredde av vårt innhold på fronten, at de viktigste sakene får mer plass og at forsiden oppleves mer relevant enn tidligere. Jobben med å utvikle forsiden vil fortsette for fullt fremover, og vi vil ha flest mulig tilbakemeldinger fra dere. Gi gjerne tilbakemelding i dette skjemaet, legg igjen en kommentar i kommentarfeltet eller send mail direkte til produktsjef Susanne Klungtveit.</p>
+<p>Takk for at du leser og abonnerer på Aftenposten. Vi lover å gjøre vårt beste for at dette skal bli et best mulig produkt for dere også i fremtiden.</p></div></body></document>

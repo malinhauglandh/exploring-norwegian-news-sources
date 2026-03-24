@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190108-beskyttelse-av-pasie.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/debatt/i/VRnPJ6/Beskyttelse-av-pasientsikkerhet-er-overordnet-andre-hensyn--Anne-Kjersti-Befring" frk="580 0 3 4125"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-08 13:00"/>
+<attribute name="author" value="Anne Kjersti Befring"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="meninger,debatt"/>
+<attribute name="class2" value="personvern,helsetjenesten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Beskyttelse av pasientsikkerhet er overordnet andre hensyn! | Anne Kjersti Befring</div>
+<div type="ingress">Feiltolkninger av reguleringer av medisinsk behandling og data.</div>
+<div type="author">Anne Kjersti Befring</div>
+<div type="date">8. jan. 2019 14:00</div>
+<div type="caption"><p>FOTO: Tor Stenersen 32 forskere ved Oslo universitetssykehus har undertegnet et opprop mot sykehusets personvernombud, som de mener tolker regelverket for strengt. Noen av dem er f.v. førsteamanuensis Shuo-Wang Qiao, professor Marit Inngjerdingen, professor Finn Olav Levy, professor Ludvig Munthe, forsker Fridtjof Lund-Johansen, professor Guttorm Haraldsen og professor og forskningsleder Lars Frode Jahnsen.</p> <p>Anne Kjersti Befring underviser i helserett og forvaltningsrett.</p></div>
+<div type="text">
+<p>Flere leger har stilt spørsmål om de må velge å gi pasienter medisinsk behandling med høy risiko for å overholde kravene til databehandling. Det er selvfølgelig en uriktig fortolkning av reglene.</p>
+<p>Behandling av data er blitt et sentralt element i å kunne gi pasienter forsvarlig behandling og hensynet til pasientens liv og helse går som hovedregel foran hensynet til å beskytte pasientens privatliv når disse hensynene kolliderer. Lovgiver har forutsatt at det kan oppstå slike kollisjoner, og har vedtatt regler som forutsetter helsefaglige vurderinger.</p>
+<p>3rd-party-bio UiO</p></div>
+<div type="title" level="3">Behandlingen av data varierer</div>
+<div type="text">
+<p>Helsepersonell må treffe mange beslutninger som involverer bruk av data. Data innhentes, sammenlignes, deles og lagres. Reglene bygger ikke alltid på samtykke. For eksempel innebærer formuleringen «med mindre pasienten motsetter seg» en presumsjon av samtykke, uten at det skal innhentes.</p>
+<p>Helsepersonellet skal vurdere hva som er «nødvendig», «forsvarlig» og «forholdsmessig» behandling av data på bakgrunn av pasientens helsetilstand og behovet for helsehjelp. Et eksempel er at legen må vurdere om data skal deles for å innhente annenhåndsvurderinger (second opinion) av pasientens tilstand for å kunne stille en diagnose. Unnlatelser av å dele data i denne sammenhengen kan være i strid med forsvarlighetsplikten.</p>
+<p>Lagring av nødvendige data i pasientjournalen baseres på et lovpålegg og skal ivareta forsvarlighetsplikten. Behandlingen av data varierer både med risikoen i helsehjelpen og med dataenes karakter.</p></div>
+<div type="title" level="3">Få forskjeller i nordisk lovgivning</div>
+<div type="text">
+<p>Helsevirksomhetene har et selvstendig ansvar for pasientsikkerheten og for riktig databehandling, og et tilretteleggingsansvar slik at helsepersonellet kan oppfylle sine forpliktelser til forsvarlig helsehjelp og behandling av data. Helsepersonell skal treffe en rekke avgjørelser basert på helsefaglige vurderinger og dialog med pasienten.</p>
+<p>Det er få forskjeller i nordisk lovgivning når det gjelder behandling av data i forbindelse med helsehjelp, men det er forskjeller i hvordan sykehusene innretter seg etter reglene. Helsevirksomheten må sørge for å innhente tilstrekkelig kompetanse til å etablere systemer og rutiner for å oppfylle helsevirksomhetenes forpliktelser og redusere risikoen for feil fortolkning av reglene.</p>
+<p>En forklaring på feil fortolkninger kan skyldes at ledelsen overlater avgjørelser til personer som ikke kjenner helselovene, og at det legges «overdreven» vekt på data på bekostning av pasientsikkerhet i frykt for de høye gebyrene som ligger i GDPR.</p>
+<p>Helseforetakene har ikke lenger samme økonomisk risiko ved feil behandling av pasienten, da denne er overført til den offentlige pasientskadeordningen (NPE).</p></div>
+<div type="title" level="3">Nødvendig med utvikling av reglene </div>
+<div type="text">
+<p>Ansvaret for å korrigere praksis ligger i helsevirksomhetene – og hos eier dersom helsevirksomhetene ikke viser at de har evne og vilje til å korrigere uriktig praksis.</p>
+<p>Med større avhengighet av data er det nødvendig med utvikling av reglene for å ivareta forsvarligheten i pasienttilbudet. Debatten om slik regelutvikling bør ikke baseres på feiltolkninger, selv om det kan begrunne noen presiseringer. Utvikling av gjeldende regler kan være nødvendig for å kunne utnytte potensialet og begrense risiko med data og stordata.</p>
+<p>Det dreier seg både om helsevirksomhetenes bruk av medisinsk teknisk utstyr og IKT, og hvordan data kan benyttes. Formålet er å videreutvikle det medisinske behandlingstilbudet til befolkningen i takt med den medisinske utviklingen.</p></div></body></document>

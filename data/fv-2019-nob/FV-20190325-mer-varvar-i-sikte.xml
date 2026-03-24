@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190325-mer-varvar-i-sikte.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/1nMMPG/Mer-varvar-i-sikte" frk="42 16 4 249 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-25 13:56"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Mer vårvær i sikte</div>
+<div type="ingress">Onsdag og torsdag kan gradestokken igjen stige til 12 – 13 grader. Været blir bedre jo lengre øst en kommer på sørlandskysten.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Onsdag og torsdag ser ut til å bli ukas værvinner på Sørlandet. FOTO: Jacob Buchard</p></div>
+</body></document>

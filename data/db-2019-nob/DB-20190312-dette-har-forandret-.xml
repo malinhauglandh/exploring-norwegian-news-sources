@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190312-dette-har-forandret-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/dette-har-forandret-seg-pa-30-ar-med-world-wide-web/70860206" frk="73 14 6 422 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-12 20:48"/>
+<attribute name="author" value="Nina Sørlie Nilssen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,internett,innenriks,utenriks,world_wide_web,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette har forandret seg på 30 år med World Wide Web</div>
+<div type="ingress">Sir Tim Berners-Lee blir skremt av utviklingen av sin egen oppfinnelse.</div>
+<div type="author">Nina Sørlie Nilssen</div>
+<div type="date">2019-03-12</div>
+<div type="caption"><p>WORLD WIDE WEB: Da Sir Tim Berners-Lee lanserte et av verdens viktigste systemer, hadde han en visjon om at det skulle være åpent og trygt. Men det betyr også at det er åpent for de med ulovlige hensikter. Her på kontoret hans i 1998. Foto: Elise Amendola (AP Photo/NTB scanpix)</p></div>
+</body></document>

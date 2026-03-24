@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190826-kommunen-ma-finne-ny.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/BRqdEe/Kommunen-ma-finne-nye-lokaler-for-rundt-40-Kode-ansatte" frk="30 27 5 183 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-26 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kommunen må finne nye lokaler for rundt 40 Kode-ansatte</div>
+<div type="ingress">Det er funnet asbest på kontorfløyen i Kode 4. Nå må om lag 40 ansatte bytte arbeidslokaler i seks måneder.</div>
+<div type="author"></div>
+<div type="date">2019-08-26</div>
+<div type="caption"></div>
+</body></document>

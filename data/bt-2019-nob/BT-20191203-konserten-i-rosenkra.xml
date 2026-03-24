@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191203-konserten-i-rosenkra.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/narXGm/Konserten-i-Rosenkrantztarnet-ble-stoppet-av-hoppende-ungdommer" frk="30 0 0 236 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-03 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Konserten i Rosenkrantztårnet ble stoppet av hoppende ungdommer</div>
+<div type="ingress">Tidenes første hiphop-konsert i Rosenkrantztårnet ble avbrutt da gulvet begynte å gynge. Bymuseet vil likevel ha liknende arrangementer der i fremtiden.</div>
+<div type="author"></div>
+<div type="date">2019-12-03</div>
+<div type="caption"></div>
+</body></document>

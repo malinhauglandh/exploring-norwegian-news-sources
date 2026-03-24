@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-her-er-politiet-pa-j.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/RRnq35/Her-er-politiet-pa-jakt-etter-kniver-i-utelivskoer" frk="32 0 0 206 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her er politiet på jakt etter kniver i utelivskøene</div>
+<div type="ingress">I helgen gjennomførte politiet knivaksjoner mot køer utenfor utesteder i sentrum for aller første gang. – Vi gjør det for å forebygge.</div>
+<div type="author"></div>
+<div type="date">2019-12-02</div>
+<div type="caption"></div>
+</body></document>

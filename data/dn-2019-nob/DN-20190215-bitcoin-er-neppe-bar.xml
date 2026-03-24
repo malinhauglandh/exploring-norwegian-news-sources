@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190215-bitcoin-er-neppe-bar.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/bitcoin/kryptovaluta/blokkjedeteknologi/bitcoin-er-neppe-barekraftig/2-1-543708" frk="264 29 44 1503"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-15 18:51"/>
+<attribute name="author" value="Kjell Stenstadvold"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="innlegg,bitcoin,kryptovaluta,blokkjedeteknologi"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bitcoin er neppe bærekraftig</div>
+<div type="ingress">To proponenter for kryptovaluta hevder i DN 13. februar at Kai A. Olsen er på villspor når han påstår at bitcoin er et kraftsluk. Men hvis det ikke krever så mye strøm, hvordan kan de da påstå at en økning på 16 øre/kWh er kroken på døren?</div>
+<div type="author">Kjell Stenstadvold</div>
+<div type="date">2019-02-15 18:51</div>
+<div type="caption"></div>
+<div type="text">
+<p>To proponenter for kryptovaluta hevder i DN 13. februar at Kai A. Olsen er på villspor når han påstår at bitcoin er et kraftsluk. Men hvis det ikke krever så mye strøm, hvordan kan de da påstå at en økning på 16 øre/kWh er kroken på døren?</p>
+<p>Dagens kraftpris (uten avgift) til slike datasentre er omkring 50 øre per kilowattime (kWh). Markedspris for en bitcoin er litt over 30.000 kroner for tiden. Det er rimelig å anta at utvinner har en brutto margin (til kapitalkost, lønn og så videre) på rundt 30 prosent, det vil si at det går med rundt 40.000 kWh per bitcoin. En økning på 16 øre per kWh betyr derfor en økning i kraftkost på cirka 5000 kroner per bitcoin, altså en reduksjon av brutto margin fra 10.000 til 5000 kroner per bitcoin.</p>
+<p>Dersom 16 øre mer gir et tap, betyr det at utvinningen krever betydelig mer enn 40.000 kWh per bitcoin. En valuta som krever så store ressurser for å gjøres tilgjengelig virker ikke særlig bærekraftig.</p>
+<p>Argumentet om at kostnadsutpressing fra Norge medfører bruk av mer kullkraft i Mongolia eller andre steder, lyder hult. Hvorfor utvinne kryptovaluta i det hele tatt?</p>
+<p>Hvorfor ikke bruke kraften til elbiler i Norge, eller, for elbilmotstandere, fase ut kullkraft i Tyskland?</p></div></body></document>

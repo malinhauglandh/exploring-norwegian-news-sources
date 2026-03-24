@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191219-de-ansatte-spiste-ju.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wPp3n5/De-ansatte-spiste-julelunsj-da-telefonen-ringte-Fa-minutter-etter-var-hele-sykehjemmet-tomt" frk="30 0 0 199 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-19 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De ansatte spiste julelunsj da telefonen ringte. Få minutter etter var hele sykehjemmet tømt.</div>
+<div type="ingress">Gassen som spredde seg på sykehjemmet hadde en lukt de ansatte aldri hadde kjent før.</div>
+<div type="author"></div>
+<div type="date">2019-12-19</div>
+<div type="caption"></div>
+</body></document>

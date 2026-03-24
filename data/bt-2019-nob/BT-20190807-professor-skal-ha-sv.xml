@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190807-professor-skal-ha-sv.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3Jo83q/Professor-skal-ha-svindlet-universitetet-med-reiseregninger" frk="39 0 0 334 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-07 13:03"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Etterforskning"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Professor skal ha svindlet universitetet med reiseregninger</div>
+<div type="ingress">En tidligere ansatt ved Universitetet i Bergen etterforskes for økonomisk bedrageri mot arbeidsgiveren.</div>
+<div type="author"></div>
+<div type="date">2019-08-07</div>
+<div type="caption"><p>ANMELDT: Universitetsledelsen anmeldte professoren. Bildet er av administrasjonsbygget til UIB, hvor ledelsen holder til. FOTO: Silje Katrine Robinson</p></div>
+</body></document>

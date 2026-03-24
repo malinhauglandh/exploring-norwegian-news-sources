@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191226-kioskran-i-oslo.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/i/Wb2x6r/Kioskran-i-Oslo" frk="65 7 3 391 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-26 18:13"/>
+<attribute name="author" value="Hans O. Torgersen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="osloby"/>
+<attribute name="class2" value="krim,oslo"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kioskran i Oslo</div>
+<div type="ingress">Politiet i Oslo har fått melding om at en kiosk i Toftes gate ble ranet 2. juledag like etter klokken 19.</div>
+<div type="author">Hans O. Torgersen</div>
+<div type="date">en time siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>«Det ble truet med kniv, men ingen er skadet. Vi søker i området etter gjerningsperson», skriver politiets operasjonssentral på Twitter.</p>
+<p>En foreløpig beskrivelse av gjerningspersonen er at han skal ha på seg en hvit lue, sort jakke og svarte bukser.</p></div></body></document>

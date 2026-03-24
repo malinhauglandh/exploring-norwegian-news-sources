@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190519-mann-onanerte-med-kv.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/70BozK/Mann-onanerte-med-kvinne-i-bilen" frk="30 10 2 188 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-19 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="Bergen tingrett,Overgrep,Seksuelt misbruk,Rettssaker,Depresjon,Seksualforbrytelser"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann onanerte med kvinne i bilen</div>
+<div type="ingress">Hun skulle besøke kjæresten og stolte på ham.</div>
+<div type="author"></div>
+<div type="date">2019-05-19</div>
+<div type="caption"><p>DØMT: Mannen i 60-årene er dømt i Bergen tingrett. FOTO: Fred Ivar Utsi Klemetsen (arkiv)</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190205-norske-oda-24-ble-li.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/norske-oda-24-ble-livredd-da-hun-sa-dette-bildet-av-bestevenninna/70691102" frk="55 11 4 356 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-05 20:54"/>
+<attribute name="author" value="Halldor Hustadnes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="utenriks,nyheter,nicaragua,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske Oda (24) ble livredd da hun så dette bildet av bestevenninna</div>
+<div type="ingress">Amaya (24) er fengslet og terror-anklaget etter å ha deltatt i protestene mot Nicaraguas president.</div>
+<div type="author">Halldor Hustadnes</div>
+<div type="date">2019-02-05</div>
+<div type="caption"><p>VIST FRAM AV POLITIET: To dager etter at Amaya Coppens ble tatt til fange, viste politiet henne fram for publikum. Foto: Pressemelding fra Nicaraguas ambassade i Belgia</p></div>
+</body></document>

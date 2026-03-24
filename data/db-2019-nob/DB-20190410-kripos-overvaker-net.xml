@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190410-kripos-overvaker-net.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/kripos-overvaker-nettside-etter-dagbladet-avsloring/70952806" frk="388 0 0 2650"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-10 03:38"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="dataangrepet,nyheter,innenriks,overgrep,kripos"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kripos overvåker nettside etter Dagbladet-avsløring</div>
+<div type="ingress">Dagbladet sporet opp nettsted som lokker med overgrepsmateriale. Nå følges nettstedet av Kripos.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-10</div>
+<div type="caption"><p>OVERVÅKER: Her sitter en av Kripos' etterforskere inne på operasjonsrommet «Ragnarok», der de jakter overgripere på nett. Skjermen hans viser en Stopp-side - siden du får opp om du går inn på en registrert overgrepsside. Foto: Håvard Bjelland / BT / NTB scanpix</p></div>
+<div type="text">
+<p>Dagbladet avslørte i helga et nettsted som fristet med overgrepsmateriale. Funnet kom i jakta på nettpiratene som har angrepet Dagbladet, norske myndigheter og en rekke andre medier.</p>
+<p>Hensikten har vært å misbruke Dagbladet og de andre nettstedene for å trekke trafikk til suspekte annonser - som igjen brukes til å samle inn personopplysninger. Personopplysningene legges ut for salg.</p></div>
+<div type="title" level="3">Varslet</div>
+<div type="text">
+<p>I undersøkelser av de ulike nettjenestene piratene brukte for å skjule seg på nettet, fant Dagbladet også et nettsted som med overveiende sannsynlighet tilbyr overgrepsmateriale der barn blir misbrukt. Overgrepssiden leide servertjenester hos nettselskapet Cloudflare - på lik linje med piratene som har angrepet Dagbladet og de andre norske nettstedene.</p>
+<p>Douglas Kramer, juridisk direktør i Cloudflare, svarte på spørsmål fra Dagbladet at selskapet ville rapportere nettstedet til USAs senter mot misbruk av barn. Etter dette er nettstedet ikke lenger aktivt.</p></div>
+<div type="title" level="3">Overvåkes</div>
+<div type="text">
+<p>Men i Norge bekrefter Kripos nå at de også, likevel, vil overvåke nettstedet.</p>
+<p>Kommunikasjonsrådgiver Axel Due skriver i en e-post:</p>
+<p>- Vi har sjekket nettsiden. Den er ikke aktiv og vi får feilmelding når vi forsøker å gå inn på den. Siden vi ikke vet hva den inneholder kan vi ikke blokkere den, men vi følger med på domenet og vil legge den inn i blokkeringsfilteret hvis den blir aktiv og det viser seg at den inneholder overgrepsmateriale.</p></div>
+<div type="title" level="3">Blokkeringsfilter</div>
+<div type="text">
+<p>Blokkeringsfilteret fungerer slik at hvis du frivillig eller ufrivillig havner på et nettsted som deler filer som viser overgrep mot barn, blir nettleseren din (Chrome, Firefox, Explorer) automatisk videresendt til en server hos nettleverandøren din (Telenor, Get, NextGenTel).</p>
+<p>Når du blir videresendt får du ikke opp nettstedet med overgrepsmateriale - men du får i stedet opp en side fra politiet med tittelen:</p>
+<p>«Stopp!».</p></div>
+<div type="title" level="3">«Stopp-siden»</div>
+<div type="text">
+<p>«Stopp-siden» inneholder følgende, ifølge Kripos:</p>
+<p>Informasjon om hvorfor nettleseren ble sendt videre</p>
+<p>Informasjon om hva overgrepsmateriale er</p>
+<p>Lenke til paragrafen i straffeloven som handler om dette</p>
+<p>Informasjon om hvordan du kan klage på blokkeringen</p>
+<p>Kontaktinformasjon</p>
+<p>Informasjon om hvordan flere land samarbeider i kampen mot overgrep</p>
+<p>Andre nyttige lenker</p></div></body></document>

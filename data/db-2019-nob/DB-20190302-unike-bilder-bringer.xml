@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190302-unike-bilder-bringer.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/unike-bilder-bringer-andre-verdenskrig-til-live/70826845" frk="60 10 4 371 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-02 20:50"/>
+<attribute name="author" value="Nina Sørlie Nilssen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,utenriks,bilder,pluss,andre_verdenskrig"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Unike bilder bringer andre verdenskrig til live</div>
+<div type="ingress">Nesten alle fotografier fra andre verdenskrig er i svarthvitt, disse bildene er svært unike fordi de er blitt lagt farge på for at krigen ikke skal føles så fjern.</div>
+<div type="author">Nina Sørlie Nilssen</div>
+<div type="date">2019-03-02</div>
+<div type="caption"><p>I FARGER: Vise-løytnant Harold Salisbury forbereder seg til å ta av med Seafire MK på flyplassen RNAS Yeavilton i september 1943. Foto: IWM</p></div>
+</body></document>

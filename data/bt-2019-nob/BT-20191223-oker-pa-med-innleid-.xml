@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191223-oker-pa-med-innleid-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dO07yj/Oker-pa-med-innleid-rivehjelp-i-radhuset" frk="34 0 0 209 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-23 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Øker på med innleid rivehjelp i rådhuset</div>
+<div type="ingress">Selskapet som skal rive i rådhuset vil bruke enda flere innleide arbeidere i tiden som kommer. Byrådet vet ennå ikke om de mener innleien er lovlig.</div>
+<div type="author"></div>
+<div type="date">2019-12-23</div>
+<div type="caption"></div>
+</body></document>

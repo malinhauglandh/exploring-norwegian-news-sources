@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190302-oljesol-unnslipper-l.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/yvQzpE/Oljesol-unnslipper-lensene" frk="25 0 0 190 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-02 15:05"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Fugl,Kystverket,Askøy,Bergen kommune,Diesel,Statens naturoppsyn,Bergen,Båt,Natur,KNM «Helge Ingstad»"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Oljesøl unnslipper lensene</div>
+<div type="ingress">Meldinger om skadet fugl etter oljelekkasjer fra KNM «Helge Ingstad».</div>
+<div type="author"></div>
+<div type="date">2019-03-02</div>
+<div type="caption"><p>LEKKER: Diesel fra fregatten slipper unna lensene. FOTO: Paul S. Amundsen</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190906-de-vil-bestemme-stor.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/wPb70n/De-vil-bestemme-stort-og-smatt-i-by-og-bygd-Vi-har-kartlagt-hvem-de-er" frk="34 27 5 180 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-09-06 13:52"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">De vil bestemme stort og smått i by og bygd. Vi har kartlagt hvem de er.</div>
+<div type="ingress">54.245 menn og kvinner står på valglistene på mandag. De ber om vår tillit. Hvem er de?</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

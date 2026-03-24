@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191104-er-du-eldst-i-sosken.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/AdBxO3/Er-du-eldst-i-soskenflokken-Det-kan-vare-grunnen-til-at-du-gjor-det-best" frk="38 0 0 213 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-04 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Er du eldst i søskenflokken? Det kan være grunnen til at du gjør det best.</div>
+<div type="ingress">Om du er eldst, yngst eller godt plassert i midten av søskenflokken kan ha stor betydning for hvem du er.</div>
+<div type="author"></div>
+<div type="date">2019-11-04</div>
+<div type="caption"><p>FOTO: Privat</p></div>
+</body></document>

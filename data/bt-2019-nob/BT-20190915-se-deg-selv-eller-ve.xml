@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190915-se-deg-selv-eller-ve.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/BRd0l7/Se-deg-selv-eller-vennene-dine-ga-i-mal-i-Bergen-City-Milen" frk="30 0 0 169 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-15 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se deg selv eller vennene dine gå i mål i Bergen City Milen</div>
+<div type="ingress">Her kan du se alle deltagerne komme i mål. Finn deltagere ved å benytte søkefeltet under.</div>
+<div type="author"></div>
+<div type="date">2019-09-15</div>
+<div type="caption"></div>
+</body></document>

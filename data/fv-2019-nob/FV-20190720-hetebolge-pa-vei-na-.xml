@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190720-hetebolge-pa-vei-na-.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/LAm3RQ/Hetebolge-pa-vei-Na-blir-det-opp-mot-30-grader" frk="50 25 8 314 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-20 16:03"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hetebølge på vei: Nå blir det opp mot 30 grader</div>
+<div type="ingress">Etter en våt helg på Sørlandet kommer en hetebølge gjennom Europa. Meteorologene forventer at temperaturene vil ligge mellom 26 og 29 grader.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Brødrene Felix (4) og Theo (6) Salazar bader i fontenen på Torvet i Kristiansand. FOTO: Kjartan Bjelland</p></div>
+</body></document>

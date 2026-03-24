@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190703-mangfold-gir-ingen-g.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/pwc/likestilling/lars-erlend-leganger/mangfold-gir-ingen-garanti-for-etisk-ai/2-1-629784" frk="367 0 0 2249"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-03 17:56"/>
+<attribute name="author" value="Inga Strümke,Lars Erlend Leganger"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innlegg,pwc,likestilling,lars-erlend-leganger"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Mangfold gir ingen garanti for etisk AI</div>
+<div type="ingress">Hva AI (kunstig intelligens) gjør, har ikke noe med utviklerens kjønn å gjøre. Det handler om kompetanse og retningslinjer.</div>
+<div type="author">Inga Strümke,Lars Erlend Leganger</div>
+<div type="date">2019-07-03 17:56</div>
+<div type="caption"></div>
+<div type="text">
+<p>Hva AI (kunstig intelligens) gjør, har ikke noe med utviklerens kjønn å gjøre. Det handler om kompetanse og retningslinjer.</p>
+<p>Vi er enige med Tone Marie Wahlström og Dilan Kaya når de i DN i vår argumenterer for at utviklere har et ansvar for å sørge for at AI-løsningene vi utvikler ikke diskriminerer. Men poenget er ikke at det er mannlige utviklere som har skylda.</p>
+<p>Det er vi mennesker som bestemmer hvordan AI-løsninger skal brukes. Vi bestemmer hvilke egenskaper de skal ha, og vi tester og overvåker at de fungerer slik vi ønsker. Mangfold blant AI-utviklere er alene ingen garanti for rettferdig AI. Vi trenger konkrete retningslinjer for når og hvor AI-utvikling kan slippes fri, og når AI må være strengt kontrollert. Det er en krevende balansegang: Strammer vi inn for mye struper vi innovasjon. Slipper vi opp risikerer vi kunstig intelligens som tar urettferdige, diskriminerende og potensielt helseskadelige avgjørelser.</p>
+<p>Det kan godt være det sto en kvinnelig utvikler bak Amazon sitt AI-baserte rekrutteringsverktøy som ble vraket fordi det ville ansette nesten bare hvite menn. En AI-løsning speiler de dataene den er blitt utviklet med. Historisk har samfunnet favorisert menn, så en AI utviklet ukritisk på historiske data vil fortsette med det.</p>
+<p>Det er ikke alltid lett å forutsi oppførselen til en AI du har utviklet. Om du programmerer en vaskerobot til å sørge for at det aldri er skittent i huset ditt, så kunne den finne på å låse deg ute, siden det hindrer deg i å skitne til. Mens vi mennesker har enorme mengder taus kunnskap – som for eksempel at det ikke er en god løsning på husvasken å låse ned hele huset – må maskinene lære alt fra bunnen av.</p>
+<p>Før jul beskrev Anders Løland i DN behovet for «algoritmetilsyn»: Offentlige og kommersielle nøytrale tredjeparter som støtter ansvarlig og etisk utvikling og bruk av AI-algoritmer. Vi er enige med Løland. Algoritmetilsyn som rådgir og kontrollerer AI-løsninger vil være sentrale for å beskytte samfunnet mot urettferdig og diskriminerende AI – uansett om utviklerne bak er menn eller kvinner.</p></div></body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191031-kunstanmeldelse-dett.xml"/>
+<attribute name="url" value="http://www.fvn.no/kultur/i/0nqGL0/kunstanmeldelse-dette-er-toppsjiktet-i-norsk-kunsthaandverk" frk="38 0 0 292 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-10-31 14:47"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="kultur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstanmeldelse: -Dette er toppsjiktet i norsk kunsthåndverk</div>
+<div type="ingress">Utstillingen Krefter på Sørlandets Kunstmuseum viser tre av våre mest anerkjente kunsthåndverkere i kamp med store formater og gjenstridige materialer.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Verk av Torbjørn Kvasbø og Kari Dyrdal. FOTO: Jacob Buchard</p></div>
+</body></document>

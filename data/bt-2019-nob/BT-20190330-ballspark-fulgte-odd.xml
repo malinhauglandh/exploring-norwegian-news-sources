@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190330-ballspark-fulgte-odd.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/RRjlk5/Ballspark-direkte-Folg-Odd--Brann-i-var-studiosending" frk="11 0 0 79 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-30 15:40"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Anders Pamer,Ballspark,SK Brann,Doddo,Erik Huseklepp"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ballspark fulgte Odd – Brann</div>
+<div type="ingress">Se vår studiosending i opptak.</div>
+<div type="author"></div>
+<div type="date">2019-03-30</div>
+<div type="caption"></div>
+</body></document>

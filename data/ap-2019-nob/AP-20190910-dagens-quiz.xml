@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190910-dagens-quiz.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/zGXLL9/Dagens-quiz" frk="24 27 5 179 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-09-10 17:30"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz</div>
+<div type="ingress">Hva slags statsborgerskap har hertuginne Meghan?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">10.sep.2019 19:30</div>
+<div type="caption"><p>FOTO: Frank Augstein / TT NYHETSBYRÅN</p></div>
+<div type="text">
+<p>Spørsmål:</p>
+<p>1. Hvilket navn hadde Senterpartiet frem til 1959?</p></div></body></document>

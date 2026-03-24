@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190419-ny-passordskandale-f.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/ny-passordskandale-for-facebook---uholdbart/70996081" frk="910 3 20 5685"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-19 20:28"/>
+<attribute name="author" value="Mathilde Lea"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="skandale,top1,mathilde lea,facebook,kultur,sosiale medier,instagram"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny passordskandale for Facebook: - Uholdbart</div>
+<div type="ingress">Millioner av Instagram-passord har vært lagret som rein tekst, potensielt tilgjengelig for Facebooks ansatte.</div>
+<div type="author">Mathilde Lea</div>
+<div type="date">2019-04-19</div>
+<div type="caption"><p>PASSORD PÅ AVVEIE: Facebook meldte først at titusener av Instagram-passord var blitt lagret slik at de kunne leses av ansatte. Nå har de oppdaget at problemet omfatter «millioner av Instagram-brukere». Foto: NTB Scanpix</p> <p>- UHOLDBART: Torgeir Waterhouse.</p> <p>FJERNE MELDINGER: Nå får du ti minutter på deg til å trekke tilbake meldinger du har sendt på Facebook Messenger. Video: Ørjan Ryland / Dagbladet</p> <p>BRYTEr ut i latter: Et lite tilbakeblikk til Facebook-høringen: Facebook-gründer Mark Zuckerberg var usikker på hva han skulle svare da han fikk dette spørsmålet av senatoren. Video: CNN</p> <p>BILDEFUSK: Samtidig som debatten går rundt barn og unges mentale helse og påvirkning fra sosiale medier, driver flere Instagram-stjerner med retusjering av egne bilder. Kine og Jonas avslører tre av de verst retusjerte bildene til en av de aller største på Instagram - Kim Kardashian.</p></div>
+<div type="text">
+<p>Midt i pressekaoset som oppsto torsdag, da den mye omtalte Mueller-rapporten ble sluppet, var det en annen nyhet som ble publisert uten like mye oppstyr.</p>
+<p>Facebook har nemlig innrømt at passordet til millioner av Instagram-brukere er på avveie, etter at de har vært lagret som rein tekst på selskapets servere - potensielt tilgjengelig for ansatte, melder The Telegraph.</p>
+<p>Det var sist måned at Facebook avslørte at passordene til 600 millioner Facebook-brukere var på avveie, ettersom de ikke hadde blitt kryptert på selskapets servere. Nyheten ble seinere publisert i en bloggpost på Facebooks nettsider.</p></div>
+<div type="title" level="3">«Millioner av brukere»</div>
+<div type="text">
+<p>Den gangen hevdet Facebook at «titusenvis» av Instagram-brukere var rammet. Torsdag oppdaterte nettsamfunnet den opprinnelige meldingen til «millioner av brukere».</p>
+<p>Torgeir Waterhouse, direktør for internett og nye medier i IKT-Norge, er ikke spesielt overrasket over at problemet nå omfatter flere brukere enn først antatt.</p>
+<p>- Jeg er mer overrasket over at de i det hele tatt har havnet i den situasjonen. Det er uholdbart, og det skal ikke skje. Dette er en nødvendig wake up-call, sier Waterhouse til Dagbladet.</p>
+<p>Samtidig som Facebook oppdaterte blogginnlegget, la de til følgende tekst:</p>
+<p>- Etter at denne posten ble publisert, har vi oppdaget ytterligere logger med Instagram-passord som har vært lagret i et lesbart format. Vi estimerer nå at dette problemet har rammet millioner av Instagram-brukere.</p>
+<p>Facebook skriver videre at de kommer til å varsle de berørte brukerne, akkurat som de gjorde med de andre.</p>
+<p>- Våre undersøkelser har funnet ut at disse lagrede passordene ikke ble misbrukt internt, eller at utenforstående har fått tilgang til dem.</p>
+<p>- Dette er et problem som allerede er blitt grundig rapportert, men vi vil være klare på at vi rett og slett fant ut at det var flere passord som hadde blitt lagret på denne måten, sier en talsperson for Facebook, ifølge The Telegraph.</p></div>
+<div type="title" level="3">- Her har man mislyktes</div>
+<div type="text">
+<p>Dette er bare den siste i ei lengre rekke av problemer knyttet til personvern for Facebook. Torgeir Waterhouse mener dette må ryddes opp i.</p>
+<p>- Denne saken er alene nok til at noen internt i Facebook virkelig må sette trykk på å øke sikkerheten, for her har man mislyktes, sier han.</p>
+<p>Han tror imidlertid ikke Facebook er unike i så måte, men at det ofte er nettopp Facebook og Instagram man hører om.</p>
+<p>- Dette er nok vel så typisk for den totale situasjonen, enn noe som er unikt for Facebook, sier han.</p></div>
+<div type="title" level="3">- Ikke bare Facebook</div>
+<div type="text">
+<p>- Du mener Facebooks problemer bare er toppen av isfjellet?</p>
+<p>- Virkeligheten er at det er vanvittig mange flere som er utsatt. Dette vil kunne ramme alle som leverer tjenester basert på teknologi, uavhengig av aktør. Alle må se på dette som en oppvekker for seg selv. Har vi kontroll?</p>
+<p>Waterhouse er ikke i tvil om at dette er en utfordring for Facebooks omdømme.</p>
+<p>- Dette er en av de store utfordringene Facebook har. Det blir spennende å se hvordan de håndterer dette, og hvordan dette påvirker folks tillit til teknologi.</p>
+<p>Waterhouse tror mange selskaper opplever utfordringer fordi de ikke har hatt fokus på sikkerhet og overordnet kontroll. Han er helt sikker på at det kommer til å skje liknende hendelser framover også.</p>
+<p>- Vi må ha fokus på beredskap, hvordan vi skal håndtere det når noe sånn skjer. Noe som er viktig, er at det må være trygt å komme fram med feilene man har gjort. Det er vi helt avhengige av, sier han.</p></div>
+<div type="title" level="3">200-600 millioner passord</div>
+<div type="text">
+<p>Det var seint i mars at Facebook innrømte at selskapet har lagret ukrypterte passord fra millioner av brukere på sin egen server. Nettstedet KrebsOnSecurity skrev at flere hundre millioner Facebook-brukere har fått sine passord lagret i en server som er søkbar for tusenvis av ansatte hos mediegiganten.</p>
+<p>Facebook sier til nettstedet at en pågående gransking så langt ikke har gitt noen indikasjon på at de ansatte har misbrukt tilgangen til slik informasjon.</p>
+<p>- Bare for å gjøre det helt klart, disse passordene var aldri synlige for noen utenfor Facebook, og vi har ikke funnet beviser for at noen internt hos oss har misbrukt dem eller på feilaktig grunnlag har skaffet seg tilgang til dem, sier Pedro Canahuati i Facebook.</p>
+<p>Kilder hos Facebook opplyser at granskingen så langt tyder på at passordene til mellom 200 og 600 millioner brukere ble lagret på serveren, som over 20.000 ansatte hadde tilgang til. Nå skal det altså være avdekket at problemet også har rammet millioner av Instagram-brukere i tillegg til disse.</p>
+<p>Tidligere denne måneden ble det også avdekket at millioner av Facebook-kontoer var blitt «eksponert for internett», etter at to apper hadde fått tilgang til brukerinformasjon og lagret dette på usikre servere.</p></div></body></document>

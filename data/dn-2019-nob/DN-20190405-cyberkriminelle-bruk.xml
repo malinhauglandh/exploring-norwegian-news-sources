@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190405-cyberkriminelle-bruk.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/cyberkriminalitet/hacking/cisco-thalos/cyberkriminelle-bruker-facebook-som-markedsplass-tilbudet-av-kriminelle-tjenester-foregar-na-temmelig-apenlyst/2-1-581959" frk="833 3 19 5300"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-05 16:06"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,cyberkriminalitet,hacking,cisco-thalos"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Cyberkriminelle bruker Facebook som markedsplass: – Tilbudet av kriminelle tjenester foregår nå temmelig åpenlyst</div>
+<div type="ingress">Cyberkriminelle har flyttet fra internetts skjulte rom og tilbyr nå kjøp og salg av kriminelle tjenester helt åpenlyst. Cyberkriminelle har flyttet fra internetts skjulte rom og tilbyr nå kjøp og salg av kriminelle tjenester helt åpenlyst.</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-04-05 16:06</div>
+<div type="caption">Cyberkriminelle legger åpent ut bevis på sine ferdigheter på Facebook. Falske ID-kort og betalingskort kan skaffes på denne måten. (Foto: Skjermdumper fra Facebook) Leif Sundsbø, leder for cybersikkerhet i Cisco Norge, sier Facebook og andre sosiale medier er blitt en markedsplass for cyberkriminalitet. (Foto: Per Ståle Bugjerde) Mer... </div>
+<div type="text">
+<p>– Jeg er overrasket over hvor utbredt og åpenlyst kjøp og salg av cyberkriminelle tjenester foregår på Facebook, sier Leif Sundsbø, leder for cybersikkerhet i Cisco Norge til DN.</p>
+<p>Cisco Talos, som er Ciscos sikkerhetsvirksomhet, har offentliggjort en rekke funn om cyberkriminalitet på sosiale plattformer.</p>
+<p>– Tilbudet av kriminelle tjenester foregår nå temmelig åpenlyst. Det sier litt om risikoen for å bli tatt, sier Sundsbø.</p>
+<p>Cisco Talos har de siste månedene sporet og avdekket 75 Facebook-grupper med til sammen 385.000 medlemmer som åpenlyst drives som markedsplasser for kriminelle tjenester. Det dreier seg om alt fra kjøp og salg av kredittkortdetaljer, spam og id-tyveri, salg av hackertjenester for å skaffe personlig informasjon eller private bilder og opp til større cyberangrep mot virksomheter.</p>
+<p>– Dette er ikke begrenset til Facebook, det foregår på så å si alle sosiale plattformer, men det er klart at de største er hardest rammet, sier Sundsbø.</p>
+<p>– Er dette reelle cyberkriminelle?</p>
+<p>– Vi har bekreftet at dette er reelle kriminelle aktører. Vi har sett at det som formidles på Facebook blir gjennomført, men vi kan ikke tallfeste hvor mye av cyberkriminaliteten i verden som er resultat av disse Facebook-gruppene, sier Sundsbø.</p>
+<p>Cisco har i god tid før denne offentliggjøringen foretatt en etisk varsling om aktiviteten til Facebook og andre sosiale medier.</p>
+<p>– Vi startet med å bruke «Rapportér»-funksjonen som ligger på alle Facebook-sider. Dette førte ikke frem, så vi tok kontakt med sikkerhetsavdelingen til Facebook og har samarbeidet aktivt med dem og andre sosiale plattformer, sier Sundsbø.</p>
+<p>Han synes ikke Facebook har tatt tilstrekkelig ansvar for problemet.</p>
+<p>– Noen grupper er fjernet, i noen grupper er enkeltinnlegg fjernet. Men noen av de gruppene vi har visst om lenge er fortsatt åpne, og det kommer hele tiden til nye. Jeg er veldig usikker på hvor alvorlig de faktisk tar dette, til tross for at de sier de skal håndtere det. Det kan virke som andre deler av virksomheten er viktigere for dem enn å stoppe kriminalitet, sier Sundsbø.</p></div>
+<div type="title" level="3">Brudd på regelverket</div>
+<div type="text">
+<p>Facebook sier til DN at slike grupper bryter deres regelverk.</p>
+<p>– Disse gruppene brøt våre regler mot spam og finansiell svindel og vi fjernet dem. Vi vet vi må være mer årvåkne og investerer derfor tungt i å bekjempe denne typen aktiviteter, skriver Peter Münster, kommunikasjonssjef for Norden i Facebook til DN.</p>
+<p>Facebook sier de bruker en kombinasjon av maskinell og menneskelig behandling av sikkerhetsrapporter og at de fleste varslinger blir behandlet i løpet av 24 timer.</p>
+<p>– Vi vet at vi fortsatt har mye å gjøre på dette området, og vi ønsker å bli bedre. I 2018 doblet vi antallet ansatte som jobber med trygghet og sikkerhet for brukerne til over 30.000 personer, samtidig som vi investerer mer i den kunstige intelligensen som overvåker rapportene som kommer inn, skriver Facebook.</p>
+<p>Et tredje steg for Facebook er å gjøre det vanskeligere å opprette nye grupper etter at en gruppe er stengt.</p>
+<p>– Brukervilkårene våre er oppdaterte med nye regler for tilbakefall eller gjentatt aktivitet. Dersom en gruppe som bryter reglene våre blir stengt kan vi nå nekte samme person å opprette lignende grupper senere, skriver Facebook.</p></div>
+<div type="title" level="3">Mye id-tyveri</div>
+<div type="text">
+<p>Det er flere forretningsmodeller for cyberkriminalitet på disse markedsplassene. Etablerte kriminelle og hackere kan selge sine tjenester til personer som ønsker tilgang til informasjon de ikke kan få på lovlig vis. Men det er også mulig å selge informasjon til de kriminelle i gruppene, for eksempel hvis man sitter på et stort antall e-postadresser, kredittkortinformasjon, sensitive opplysninger om et antall mennesker eller lignende.</p>
+<p>Det formidles også informasjon om hvor man kan få kjøpt ferdige hackerverktøy om man ønsker å prøve seg om cyberkriminell selv.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p>
+<p>– Det meste handler jo om økonomisk vinning. Løsepengevirus, digital utpressing og såkalt kryptonapping er populære former for cyberkriminalitet, sier Sundsbø.</p>
+<p>Alle disse variantene går ut på å få plassert skadelig programvare på flest mulig pc-er. Til det trengs det fungerende epostadressen man kan sende falske e-poster til for å lure brukerne til å klikke på lenker eller åpne vedlegg.</p>
+<p>– Organiserte cyberkriminelle vet gjerne hvordan de skal lage e-poster som virker troverdige og de har gjerne etablert et mottaksapparat for å følge opp de som lar seg lure og løsepenger som kommer inn. De er nok interesserte i å dele profitt eller kjøpe kundedatabaser eller e-postlister fra dem som har slike og er villige til å tjene penger på dem, sier Sundsbø.</p></div></body></document>

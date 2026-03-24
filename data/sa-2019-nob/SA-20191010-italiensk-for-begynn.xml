@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191010-italiensk-for-begynn.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/J1m1kR/italiensk-for-begynnere" frk="61 0 0 397 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-10 11:41"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="langgata,restaurantanmeldelse,sandnes,spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Italiensk for begynnere</div>
+<div type="ingress">Pastabakeriet i Langgata i Sandnes er småkoselig og byr på helt grei mat uten skyhøye ambisjoner. Med det lille ekstra hadde dette vært riktig bra.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ikke akkurat murkoselig, men varmt og godt og med smilende service. Pastabakeriet i Sandnes serverer streite klassikere, men kan heve seg et hakk og bli mye bedre, mener Aftenbladets anmelder. Anders Minge</p></div>
+</body></document>

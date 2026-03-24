@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190103-ny-vaksine-gir-hap-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/m6bXk1/Ny-vaksine-gir-hap-mot-ebola" frk="76 21 10 465 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-03 16:59"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Afrika,Ebola,Vaksine"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny vaksine gir håp mot ebola</div>
+<div type="ingress">Ebolautbruddet i de østlige delene av DR Kongo fortsetter å vokse og er nå det nest største ebolautbruddet i historien. En ny vaksine holder imidlertid epidemien i sjakk, og gir håp om at sykdommen kan bekjempes.</div>
+<div type="author"></div>
+<div type="date">2019-01-03</div>
+<div type="caption"><p>VAKSINERING: I dag har 49.000 mennesker blitt vaksinert i det rammede området, og enkelte har også fått andre eksperimentelle behandlinger mot ebola som har vist seg å virke. FOTO: Olivia Acland / X06607</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190303-denne-fisken-vil-tro.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/e1V7RM/Denne-fisken-vil-trolig-fa-Parkinson" frk="62 0 0 408 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-03 13:26"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Haukeland,Havforskningsinstituttet,Bioteknologi,Fisk,Viten,Parkinsons,Forskning og vitenskap,Kreftforskning,Genetikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne fisken vil trolig få Parkinson</div>
+<div type="ingress">Sebrafisken er den nye forsøksmusen. - Her har Bergen vært ledende. Nå risikerer vi at Oslo tar innersvingen på oss, sier UiB-professor.</div>
+<div type="author"></div>
+<div type="date">2019-03-03</div>
+<div type="caption"><p>LARVENE: Slik ser fiskelarvene ut etter to dager. Den ene larven er genmodifisert til å være disponert for Parkinson og er utstyrt med grønt fluoriserende protein som lyser opp i nervecellene. FOTO: HELENA HUSHAGEN</p></div>
+</body></document>

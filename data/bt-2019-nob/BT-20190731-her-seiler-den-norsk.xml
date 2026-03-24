@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190731-her-seiler-den-norsk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/pLlmMo/Her-seiler-den-norske-fregatten-ut-i-Nato-oppdrag" frk="50 0 0 322 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-31 23:44"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Beredskap,Nato,Sjøforsvaret,Haakonsvern,Marinen,Forsvaret,Haakon Bruun-Hansen,KNM «Helge Ingstad»"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her seiler den norske fregatten ut i Nato-oppdrag</div>
+<div type="ingress">Sist gang Norge sendte en fregatt til Nato-styrken, var det KNM «Helge Ingstad».</div>
+<div type="author"></div>
+<div type="date">2019-07-31</div>
+<div type="caption"><p>AV GÅRDE: KNM «Thor Heyerdahl» skal de neste fire månedene være i skarp beredskap for Nato. Her er krigsskipet på vei ut Korsfjorden tirsdag ettermiddag. FOTO: Ørjan Deisz</p></div>
+</body></document>

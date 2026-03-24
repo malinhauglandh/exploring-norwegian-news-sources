@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190715-se-overtidsdramaet-s.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/zGVWgK/Se-overtidsdramaet-som-felte-Brann" frk="15 0 0 126 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-15 11:55"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Ballspark,Europa League,SK Brann"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se overtidsdramaet som felte Brann</div>
+<div type="ingress">Her er høydepunktene fra årets kanskje mest underholdende Stadion-kamp.</div>
+<div type="author"></div>
+<div type="date">2019-07-15</div>
+<div type="caption"></div>
+</body></document>

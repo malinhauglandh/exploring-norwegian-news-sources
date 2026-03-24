@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190510-usa-lager-superdatam.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/usa-lager-superdatamaskin-som-vil-fa-dagens-raskeste-til-a-fremsta-som-en-lommekalkulator/2-1-601521" frk="400 31 84 2630"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-10 07:18"/>
+<attribute name="author" value="Jørn Aass"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">USA lager superdatamaskin som vil få dagens raskeste til å fremstå som en lommekalkulator</div>
+<div type="ingress">Det amerikanske energidepartementet har bestilt en ny superdatamaskin som vil bli kraftigere enn de 160 raskeste i dag til sammen, skriver Zdnet.</div>
+<div type="author">Jørn Aass</div>
+<div type="date">2019-05-10 07:18</div>
+<div type="caption">USA skal bygge en ny superdatamaskin som overgår alt verden har sett så langt. Bildet viser det som en gang var en superdatamaskin, nemlig Eurpoas raskeste maskin i 2005 med en kapasitet på 0,04 petaflops. (Foto: Fernando Bague/AP/NTB Scanpix) </div>
+<div type="text">
+<p>Det amerikanske energidepartementet har bestilt en ny superdatamaskin som vil bli kraftigere enn de 160 raskeste i dag til sammen, skriver Zdnet.</p>
+<p>Den nye datamaskinen, som får navnet Frontier, skal blant annet benyttes til miljøforskning.</p>
+<p>Dagens kraftigste datamaskin, IBMs Summit, har en toppytelse på 200 petaflops, det vil si antall flyttallsoperasjoner (flops) per sekund. Summit er installert i et serverrom på over 850 kvadratmeter, tilsvarende mer enn tre tennisbaner, og veier 340 tonn. For å avkjøle serverne pumpes det ifølge NYT 15.000 liter vann i minuttet gjennom maskinens kjølesystem. Når maskinen går for fullt bruker den like energi som 8.100 gjennomsnittshusholdninger i USA.</p></div>
+<div type="title" level="3">1,5 exaflops</div>
+<div type="text">
+<p>Frontier vil med en kapasitet på 1500 petaflops, eller 1,5 exaflops, dermed bli 7,5 ganger så rask som Summit. Størrelsen i kvadratmeter på den nye superdatamaskinen er det ikke uttalt noe om så langt.</p>
+<p>Hvor mye 1500 petaflops i virkeligheten er, kan være vanskelig å fatte. Én petaflops tilsvarer én billiard regneoperasjoner i sekundet, tilsvarende én million milliarder eller 1.000.000.000.000.000. 1,5 exaflops blir dermed 1500 billiarder eller 1,5 trillioner regneoperasjoner per sekund.</p>
+<p>I en mer forståelig term - hvis hvert eneste menneske på jorden utførte en beregning per sekund, ville det ta mer enn seks år å utføre så mange beregninger som Frontier vil klare i løpet av ett sekund, ifølge Zdnet.</p></div>
+<div type="title" level="3">Klar i 2021</div>
+<div type="text">
+<p>Norges kraftigste superdatamaskin Fram har til sammenligning en ytelse på i overkant av 1 petaflop. Maskinen er installert på Universitetet i Tromsø og ble offisielt åpnet 19. mai 2017.</p>
+<p>Byggingen av Frontier skal skje i et samarbeid mellom prosessorselskapet AMD og superdatamaskinprodusenten Cray. Planen er at Frontier skal installeres i 2021 på det nasjonale laboratoriet Oak Ridge i Tennessee, for øvrig samme sted der IBMs Summit er i bruk i dag.</p>
+<p>I en pressemelding sier Oak Ridge-laboratoriets direktør Thomas Zacharia at Frontier vil være den kraftigste AI-maskinen (kunstig intelligens) som noen noensinne har sett, der alle komponenter er bygget med det formål å utføre superdatamaskinyteleser.</p></div></body></document>

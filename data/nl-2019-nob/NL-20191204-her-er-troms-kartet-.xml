@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20191204-her-er-troms-kartet-.xml"/>
+<attribute name="url" value="http://www.nordlys.no/skredfare/stengte-veier/statens-vegvesen/her-er-troms-kartet-onsdag-morgen-stengt-stengt-og-atter-stengt/s/5-34-1233276" frk="19 0 0 125 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-12-04 07:28"/>
+<attribute name="author" value="Torkil Emberland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er Troms-kartet onsdag morgen: Stengt, stengt og atter stengt</div>
+<div type="ingress">Sjekk her før du setter deg bak rattet.</div>
+<div type="author">Av Torkil Emberland</div>
+<div type="date">04. desember 2019, kl. 07:28</div>
+<div type="caption"></div>
+</body></document>

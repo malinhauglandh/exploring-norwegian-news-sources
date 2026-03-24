@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190826-innsatt-ble-funnet-d.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1nXjaQ/Innsatt-ble-funnet-dod-i-bosskur-i-fengselet" frk="44 0 0 262 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-26 08:29"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen fengsel,Selvskading,Islam,Gulating lagmannsrett,Etterforskning,Frode Sulland,Kristendom,Afghanistan"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Innsatt ble funnet død i bosskur i fengselet</div>
+<div type="ingress">Mannen som ble funnet livløs i Bergen fengsel i sommer, skulle sendes ut av Norge.</div>
+<div type="author"></div>
+<div type="date">2019-08-26</div>
+<div type="caption"><p>LIVLØS: Den afghanske mannen var livløs, uten pust og puls da han ble funnet i Bergen fengsel. FOTO: Jannica Luoto</p></div>
+</body></document>

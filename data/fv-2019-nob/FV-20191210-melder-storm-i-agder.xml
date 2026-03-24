@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191210-melder-storm-i-agder.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/1n0KkB/Melder-storm-i-Agder" frk="49 0 0 316 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-12-10 14:55"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Melder storm i Agder</div>
+<div type="ingress">Meteorologisk institutt har for tirsdag kveld og tidlig onsdag sendt ut flere farevarsler for Agder. Bølgehøyden i Skagerrak kan bli opp til sju meter.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kraftig vind fra sør kan tirsdag kveld og natt til onsdag skape store bølger inn mot sørlandskysten. FOTO: Richard Nodeland</p></div>
+</body></document>

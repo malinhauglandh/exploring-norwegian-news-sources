@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191223-to-menn-fengslet-i-v.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50QrEb/To-menn-fengslet-i-voldtektssaker" frk="26 11 2 179 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-23 20:38"/>
+
+<attribute name="author" value="Ørjan Torheim Pål Andreas Mæland"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">To menn fengslet i voldtektssaker</div>
+<div type="ingress">To menn i 30-årene ble i Bergen tingrett lille julaften fengslet i to separate voldtektssaker.</div>
+<div type="author">Ørjan Torheim Pål Andreas Mæland</div>
+<div type="date">Publisert 23. desember 2019 20:38</div>
+<div type="caption"><p>Foto: Paul S. Amundsen (arkiv)</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190805-i-bergen-selges-boli.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/RRE758/I-Bergen-selges-boliger-nesten-20-dager-raskere-enn-i-resten-av-landet" frk="64 21 8 371 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-05 11:02"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value="Eiendom,Boligsalg,Boligpriser,Økonomi,Boligprisstatistikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I Bergen selges boliger nesten 20 dager raskere enn i resten av landet</div>
+<div type="ingress">I Bergen tok det i juli 42 dager i gjennomsnitt å selge en eiendom. Dette er raskest i landet.</div>
+<div type="author"></div>
+<div type="date">2019-08-05</div>
+<div type="caption"><p>VEKST I JULI: Boligprisene steg med 1,3 prosent i Bergen i juli. Korrigert for sesongvariasjoner steg prisene med 0,2 prosent. Dette er høyest vekst av de store byene. FOTO: Ørjan Deisz</p></div>
+</body></document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190618-anniken-25-avdekket-.xml"/>
+<attribute name="url" value="http://www.dn.no/utdannelse/utdannelse/karriere/cybersikkerhet/anniken-25-avdekket-sikkerhetshull-i-veilederens-pacemaker/2-1-622177" frk="253 1 2 1612"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-06-18 17:47"/>
+<attribute name="author" value="Nora Rydne"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="utdannelse,utdannelse,karriere,cybersikkerhet"/>
+<attribute name="class2" value="Talent,Utdannelse"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Anniken (25) avdekket sikkerhetshull i veilederens pacemaker</div>
+<div type="ingress">Resultatene er hemmelige inntil videre: – Vi kan ikke risikere at noen får tak i sikkerhetshullene jeg har avdekket før de blir fikset, sier masterstudent Anniken Wium Lie. Resultatene er hemmelige inntil videre: – Vi kan ikke risikere at noen får tak i sikkerhetshullene jeg har avdekket før de blir fikset, sier masterstudent Anniken Wium Lie.</div>
+<div type="author">Nora Rydne</div>
+<div type="date">2019-06-18 17:47</div>
+<div type="caption">Sintef-forsker og førsteamanuensis Marie Elisabeth Gaup Moe (til venstre) ved NTNU begynte å forske på hacking av medisinsk utstyr da hun selv fikk pacemaker. Masterstudent Anniken Wium Lie skriver oppgaven sin om hvordan pacemakere kan hackes når den kobles på nett. (Foto: Begge foto: Nora Rydne) Masterstudent Anniken Wium Lie har sittet mye på datalab og pirket på forskjellige komponenter i boksen som kommuniserer med pacemakere via internett. En av mange pacemakere på laboratoriet Marie Moe og flere masterstudenter jobber med å finne ut om slikt medisinsk utstyr kan hackes. (Foto: Nora Rydne) </div>
+<div type="text">
+<p>Mangelen på digital sikkerhet i mange produkter fikk Sintef-forsker og førsteamanuensis Marie Elisabeth Gaup Moe ved NTNU til å tenke seg om den dagen hun fikk operert inn en pacemaker. Kunne den hackes?</p>
+<p>Det ville ikke produsenten svare på. Et klart «ja», tolket forskeren det som.</p>
+<p>– Jo mer man oppdager og får fikset, jo bedre blir pasientsikkerheten. Prosjektet er jo ikke for min del, men det vil gagne meg også, sier Moe.</p>
+<p>Resultatet ble til et forskningsprosjekt, og flere masterstudenter prøver nå å hacke nettopp utstyret som hjelper veilederens hjerte å fungere som det skal.</p></div></body></document>

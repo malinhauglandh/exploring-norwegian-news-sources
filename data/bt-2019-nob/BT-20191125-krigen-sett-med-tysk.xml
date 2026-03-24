@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191125-krigen-sett-med-tysk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3Knm6/Krigen-sett-med-tyske-auge" frk="22 29 4 134 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-25 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Krigen sett med tyske auge</div>
+<div type="ingress">Dette er unike bilete frå krigen i Hordaland i 1940. Det er tyske soldatars eigne foto.</div>
+<div type="author"></div>
+<div type="date">2019-11-25</div>
+<div type="caption"></div>
+</body></document>

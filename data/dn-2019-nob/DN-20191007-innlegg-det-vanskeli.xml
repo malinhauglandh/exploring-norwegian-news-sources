@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191007-innlegg-det-vanskeli.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/teknologi/internett/datatilsynet/innlegg-det-vanskelige-samtykket-pa-nett/2-1-683941" frk="182 7 9 1215"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-10-07 17:49"/>
+<attribute name="author" value="Rune Opdahl"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,teknologi,internett,datatilsynet"/>
+<attribute name="class2" value="Etterbørs,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Innlegg: Det vanskelige samtykket på nett</div>
+<div type="ingress">Nylig avsa EU-domstolen en dom om krav til aktivt samtykke for at et nettsted kan benytte cookies. Hvordan skal norske nettsteder og myndigheter forholde seg til det? Nylig avsa EU-domstolen en dom om krav til aktivt samtykke for at et nettsted kan benytte cookies. Hvordan skal norske nettsteder og myndigheter forholde seg til det?</div>
+<div type="author">Rune Opdahl</div>
+<div type="date">2019-10-07 17:49</div>
+<div type="caption">Planet49-dommen kan gjøre at flere nettsteder ønsker å anse analytiske cookies som funksjonelle og nødvendige, for å unngå at et nei fra brukerne forvitrer analysegrunnlaget. (Foto: Fartein Rudjord) </div>
+<div type="text">
+<p>Planet49 arrangerte et lotteri på dein-macbook.de, hvor vinneren fikk en Mac. På siden var det en avkrysningsboks for samtykke til informasjonskapsler (cookies). Planet49 ønsket å bruke cookies til å følge brukerens besøk på andre nettsider og drive målrettet annonsering basert på brukerens adferd. Det som var problemet, var at avkrysningsboksen var forhåndsutfylt.</p>
+<p>Tyske forbrukermyndigheter gikk til sak mot Planet49. Den 1. oktober avsa EU-domstolen sin avgjørelse, som sa at forhåndsutfylte samtykker ikke er gyldige. Det er i og for seg ikke kontroversielt. Men dommen sa ikke noe om når et samtykke må innhentes.</p></div></body></document>

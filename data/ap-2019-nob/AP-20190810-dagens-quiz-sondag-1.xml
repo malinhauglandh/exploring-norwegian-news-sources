@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190810-dagens-quiz-sondag-1.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/Jo3zEJ/Dagens-quiz-sondag-11-august" frk="39 43 10 229 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-10 16:45"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz søndag 11. august</div>
+<div type="ingress">Hva het Henrik Ibsen til mellomnavn?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">10.aug.2019 18:45</div>
+<div type="caption"><p>FOTO: Størmer, Carl</p></div>
+<div type="text">
+<p>1. Hvilken kjent forfatter fikk navnet Berthe Alver da hun ble født 22. august 1846 i Bergen?</p>
+<p>2. Hva slags dyr er en mort?</p></div></body></document>

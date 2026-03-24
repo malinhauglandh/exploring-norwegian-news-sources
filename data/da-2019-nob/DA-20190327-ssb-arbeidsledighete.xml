@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190327-ssb-arbeidsledighete.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/ssb-arbeidsledigheten-er-3-9-prosent-1.1455777" frk="109 43 35 798"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-03-27 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">SSB: Arbeidsledigheten er 3,9 prosent</div>
+<div type="ingress">Det var 108.000 arbeidsledige i januar, justert for sesongvariasjoner. Det tilsvarer 3,9 prosent av arbeidsstyrken og er en nedgang på 0,1 prosentpoeng.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Illustrasjonsfoto.</p></div>
+<div type="text">
+<p>Arbeidskraftundersøkelsen (AKU) fra Statistisk sentralbyrå viser at det i januar (gjennomsnitt desember-februar) var 105.000 arbeidsløse.</p>
+<p>Det er 4.000 færre enn i oktober (gjennomsnitt september-november). Nedgangen er klart innenfor feilmarginen i AKU.</p>
+<p>Talet på sysselsatte personer viste en nedgang på 8.000 fra oktober til januar. Denne nedgangen er også innenfor feilmarginen i AKU. Tallet på sysselsatte har ifølge SSB vært noenlunde det samme siden sommeren 2018.</p>
+<p>67,5 prosent av arbeidsstyrken er sysselsatt, som er en nedgang på 0,3 prosentpoeng siden oktober.</p></div></body></document>

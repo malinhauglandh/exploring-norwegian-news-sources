@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-erlend-o-nodtvedt-le.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/Op0v9l/erlend-o-noedtvedt-leker-muntert-med-vaare-forestillinger-om-slekt" frk="20 26 4 153 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:44"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Erlend O. Nødtvedt leker muntert med våre forestillinger om slekt</div>
+<div type="ingress">Dette minner om poesien fra det glade, eksperimentelle 1960-tallet.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

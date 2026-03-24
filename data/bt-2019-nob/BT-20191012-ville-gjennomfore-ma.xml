@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191012-ville-gjennomfore-ma.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/P9wEK0/Ville-gjennomfore-massakre-i-tysk-synagoge" frk="32 9 2 211 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-12 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ville gjennomføre massakre i tysk synagoge</div>
+<div type="ingress">Stephan Balliet (27) som drepte to personer utenfor en synagoge i den tyske byen Halle onsdag hadde planer om å gjennomføre en massakre i synagogen.</div>
+<div type="author"></div>
+<div type="date">2019-10-12</div>
+<div type="caption"></div>
+</body></document>

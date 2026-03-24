@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190605-nar-slik-musikk-spil.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/op1wB0/Nar-slik-musikk-spilles-i-en-stor-hall_-gar-mye-tapt" frk="21 0 0 137 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-05 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Når slik musikk spilles i en stor hall, går mye tapt</div>
+<div type="ingress">En litt skuffende kveld med Festspillenes superstjerne Yo-Yo Ma.</div>
+<div type="author"></div>
+<div type="date">2019-06-05</div>
+<div type="caption"></div>
+</body></document>

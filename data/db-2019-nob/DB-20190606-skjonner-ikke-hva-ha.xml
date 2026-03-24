@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190606-skjonner-ikke-hva-ha.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/skjonner-ikke-hva-han-selv-snakker-om/71154337" frk="54 0 0 339 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-06-06 19:52"/>
+<attribute name="author" value="Morten Strand"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="trump,intervju,klima,nyheter,utenriks,pluss,storbritannia,prins charles,statsbesøk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">- Skjønner ikke hva han selv snakker om</div>
+<div type="ingress">Dette er et forsøk på en tekstanalyse av Donald Trump når han snakker om klima. Språk-nestor Sylfest Lomheim gir en klar strykkarakter.</div>
+<div type="author">Morten Strand</div>
+<div type="date">2019-06-06</div>
+<div type="caption"><p>SKÅLER: Donald Trump og prins Charles skåler under en middag i forbindelse med statsbesøket til Storbritannia denne uka. Foto: AP / NTB Scanpix</p></div>
+</body></document>

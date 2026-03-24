@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191129-tilkalte-politiet-fo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/701jEB/Tilkalte-politiet-for-a-vekke-kompisen_-endte-i-arresten" frk="22 13 2 150 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-29 07:20"/>
+
+<attribute name="author" value="Ørjan Torheim"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tilkalte politiet for å vekke kompisen, endte i arresten</div>
+<div type="ingress">Mann i 40-årene må svare for seg etter nattlig tulletelefon til politiet.</div>
+<div type="author">Ørjan Torheim</div>
+<div type="date">Publisert 29. november 2019 07:20</div>
+<div type="caption"></div>
+</body></document>

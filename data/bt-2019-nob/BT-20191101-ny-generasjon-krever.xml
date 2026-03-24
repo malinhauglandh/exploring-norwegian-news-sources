@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191101-ny-generasjon-krever.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/b56mO3/Ny-generasjon-krever-ny-regjering-i-Irak" frk="41 0 0 280 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-01 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny generasjon krever ny regjering i Irak</div>
+<div type="ingress">I likhet med libaneserne krever irakiske demonstranter et oppgjør med korrupsjon og krever regjeringens avgang. De får nå støtte fra den tidligere militslederen som sørget for at den sittende regjeringen kom til makten.</div>
+<div type="author"></div>
+<div type="date">2019-11-01</div>
+<div type="caption"></div>
+</body></document>

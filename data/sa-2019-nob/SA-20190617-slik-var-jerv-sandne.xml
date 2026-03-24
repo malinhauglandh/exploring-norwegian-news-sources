@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190617-slik-var-jerv-sandne.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/sport/i/lAQ8LL/Slik-var-Jerv-Sandnes-Ulf-minutt-for-minutt" frk="28 11 2 177 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-17 13:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sandnes ulf,webview,fk jerv"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Slik var Jerv-Sandnes Ulf minutt for minutt</div>
+<div type="ingress">Vi følger kampen minutt for minutt her.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Sandnes Ulf møter Jerv borte søndag kl. 18. Carina Johansen / NTB scanpix</p></div>
+</body></document>

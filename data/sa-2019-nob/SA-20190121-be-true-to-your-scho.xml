@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190121-be-true-to-your-scho.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/ddAPmJ/Be-true-to-your-school" frk="28 0 0 183 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-21 12:30"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="ketil solvik-olsen,usa,skråblikk fra usa"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Be true to your school</div>
+<div type="ingress">«Ballettøvelsen slutter tidlig i dag, slik at ingen mister kveldens football kamp.»</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Ketil Solvik-Olsen har flyttet til USA med kone og barn.</p></div>
+</body></document>

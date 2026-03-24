@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190830-tromso-restaurant-st.xml"/>
+<attribute name="url" value="http://www.nordlys.no/restauranter/storgata/tromso-brann-og-redning/tromso-restaurant-stengt-pa-dagen-etter-branninspeksjon/s/5-96-8214" frk="27 0 0 202 %%"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-08-30 22:29"/>
+<attribute name="author" value="Thor Harald Henriksen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tromsø-restaurant stengt på dagen etter branninspeksjon</div>
+<div type="ingress">Elefant restaurant i Storgata må stenge dørene etter at Tromsø brann og redning gjennomførte en kontroll av bygget på torsdag.</div>
+<div type="author">Av Thor Harald Henriksen</div>
+<div type="date">30. august 2019, kl. 22:29</div>
+<div type="caption"></div>
+</body></document>

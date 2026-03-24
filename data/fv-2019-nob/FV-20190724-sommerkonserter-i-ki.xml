@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190724-sommerkonserter-i-ki.xml"/>
+<attribute name="url" value="http://www.fvn.no/mening/leserinnlegg/i/1nykgG/Sommerkonserter-i-Kilden" frk="45 0 0 269 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-07-24 10:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="mening,leserinnlegg"/>
+<attribute name="class2" value="mening,leserinnlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sommerkonserter i Kilden</div>
+<div type="ingress">Et veldig bra tilbud til alle som befinner seg i Kristiansand om sommeren. Hver dag hele sommeren kan du sette deg ned i foajeen hos Kilden og lytte til musikk i en time og femten minutt, helt gratis!</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>FOTO: Bjelland, Kjartan</p></div>
+</body></document>

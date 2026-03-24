@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190715-eirik-hokstad-tiltal.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/RREx3J/Eirik-Hokstad-tiltalt-for-bankbedrageri-og-dokumentfalsk" frk="41 0 0 283 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-15 10:14"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Eirik Bysheim Hokstad,Etterforskning,Asgeir Steinsland Hansen,Sorbonne-saken"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Eirik Hokstad tiltalt for bankbedrageri og dokumentfalsk</div>
+<div type="ingress">Skal ha brukt falske dokumenter for å få lån. Ifølge politiet dreier det seg om over hundre millioner kroner.</div>
+<div type="author"></div>
+<div type="date">2019-07-15</div>
+<div type="caption"><p>TILTALT: Eirik Bysheim Hokstad er tiltalt for blant annet bankbedrageri. FOTO: Tor Høvik (arkiv)</p></div>
+</body></document>

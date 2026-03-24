@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191004-larer-frifunnet-for-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8mzJ02/Larer-frifunnet-for-a-ha-misbrukt-sin-stilling" frk="23 0 0 168 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-04 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lærer frifunnet for å ha misbrukt sin stilling</div>
+<div type="ingress">Innledet forhold med elev på skolen. Rettens flertall mener det var et alminnelig kjærlighetsforhold.</div>
+<div type="author"></div>
+<div type="date">2019-10-04</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191204-boligprisene-sank-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/qL8x7m/Boligprisene-sank-mest-i-Bergen-i-november" frk="52 5 2 341 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-04 11:09"/>
+
+<attribute name="author" value="Adrian Brudvik Rune Stølås"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Boligprisene sank mest i Bergen i november</div>
+<div type="ingress">– Det er viktigere enn noensinne å prise boliger riktig, mener megler.</div>
+<div type="author">Adrian Brudvik Rune Stølås</div>
+<div type="date">Publisert 4. desember 2019 11:09</div>
+<div type="caption"><p>NEDGANG: Boligprisene i Bergen gikk ned 2,3 prosent forrige måned. Foto: Bjørn Erik Larsen (ARKIV)</p> <p>MEGLER: Tommy Kaland mener det er viktigere enn noensinne å prise boliger riktig. Foto: Elias Dahlen (ARKIV)</p></div>
+</body></document>

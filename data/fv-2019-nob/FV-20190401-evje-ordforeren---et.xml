@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190401-evje-ordforeren---et.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/jd0Mb9/Evje-ordforeren--Et-voldsomt-kart" frk="45 10 3 275 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-04-01 14:39"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Evje-ordføreren: – Et voldsomt kart</div>
+<div type="ingress">I Evje og Hornnes er det kun noen kilometer langs riksvei 9 som ligger utenfor området NVE mener er egnet for vindkraft.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Mandag presenterte NVE 13 områder de mener egner seg for vindkraft. To av områdene ligger i Agder.</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190415-gult-er-ikkje-kult.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/kommentar/i/2GpE0a/Gult-er-ikkje-kult" frk="11 0 0 92 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-15 18:31"/>
+
+<attribute name="author" value="Asbjørn Kristoffersen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,kommentar"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Gult er ikkje kult</div>
+<div type="ingress"></div>
+<div type="author">Asbjørn Kristoffersen</div>
+<div type="date">Publisert 15. april 2019 18:31</div>
+<div type="caption"><p>Foto: Gorm Kallestad, NTB Scanpix (illustrasjonsfoto)</p></div>
+</body></document>

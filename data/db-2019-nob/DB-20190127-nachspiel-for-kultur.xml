@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190127-nachspiel-for-kultur.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/nachspiel-for-kulturmannen-og-alle-hans-kvinner/70702259" frk="51 0 0 341 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-27 11:22"/>
+<attribute name="author" value="Lillian Bikset"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="scene,pluss,petronella barker,nationaltheatret,nader khademi,monika ulrich,mona ulrich,mikael torfason,mattis herman nyquist,marika enstad,mads ousdal,lillian bikset,kultur,kjersti tveterås,john emil jørgensrud,goethe,frøydis armand,daniel angermayr,anmeldelse,thorleifur örn arnarsson,vi må snakke om faust,sceneanmeldelser,sceneanmeldelse,teater"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nachspiel for kulturmannen og alle hans kvinner</div>
+<div type="ingress">Festen er over. Festen ruller videre. Det er det en fest å være med på.</div>
+<div type="author">Lillian Bikset</div>
+<div type="date">2019-01-27</div>
+<div type="caption"><p>KVINNEKORET: Marika Enstad, Petronella Barker og Kjersti Tveterås som trehodet kvinnekor og/eller englekor, vi kan også kalle dem for damer i ubestemt form flertall. Foto: Øyvind Eide, Nationaltheatret</p></div>
+</body></document>

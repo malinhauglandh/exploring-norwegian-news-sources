@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191023-veldedighetskonsert-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/8mzyBd/veldedighetskonsert-i-sandnes-avbrutt-av-beruset-ungdom" frk="27 0 0 197 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-10-23 14:18"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="musikk,sandnes,sandnesposten,veldedighet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Veldedighetskonsert i Sandnes avbrutt av beruset ungdom</div>
+<div type="ingress">Arrangøren måtte gi flere advarsler fra scenen, og artisten Isah måtte avbryte konserten til publikum hadde roet seg ned.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

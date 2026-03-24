@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-finner-ikke-sikker-a.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Vbrp0W/Finner-ikke-sikker-arsak-til-at-folk-pa-Askoy-ble-syke-av-drikkevannet" frk="33 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Finner ikke sikker årsak til at folk på Askøy ble syke av drikkevannet</div>
+<div type="ingress">Folkehelseinstituttet (FHI) peker på høydebassenget på Øvre Kleppe i ny rapport. Avføring fra dyr kan ha gjort folk syke.</div>
+<div type="author"></div>
+<div type="date">2019-12-02</div>
+<div type="caption"></div>
+</body></document>

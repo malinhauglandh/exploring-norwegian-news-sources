@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190320-etterforskere-ser-ti.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/hydro/hacking/politiets-sikkerhetstjeneste/etterforskere-ser-til-utlandet-etter-dataangrepet-mot-hydro/2-1-569493" frk="458 0 0 2932"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-20 04:39"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="marked,hydro,hacking,politiets-sikkerhetstjeneste"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Etterforskere ser til utlandet etter dataangrepet mot Hydro</div>
+<div type="ingress">Etterforskerne som skal finne ut hvem som står bak dataangrepet mot Hydro, ser etter likheter fra tidligere angrep i andre land og områder. Etterforskerne som skal finne ut hvem som står bak dataangrepet mot Hydro, ser etter likheter fra tidligere angrep i andre land og områder.</div>
+<div type="author">NTB</div>
+<div type="date">2019-03-20 04:39</div>
+<div type="caption">Aluminiumsproduksjonen i Hydro går stort sett som normalt til tross for det alvorlige hackerangrepet mot selskapet. Bildet er fra Hydro Husnes, tidligere Sør-Norge Aluminium AS. (Foto: Eivind Senneset) </div>
+<div type="text">
+<p>Sammen med PST, Europol, Kripos og E-tjenesten er Nasjonalt cybersikkerhetsmyndighet (NSM NorCERT) koblet inn i etterforskningen etter at Hydro ble rammet av et krypteringsvirus natt til tirsdag. Det er fremmet løsepengekrav for å låse opp selskapets systemer.</p>
+<p>Så langt er fokuset i etterforskningen å finne ut hva som har skjedd og begrense skadene. Blant annet dreier etterforskningen seg om å finne kjennetegn ved løsepengeviruset og om det finnes noen likheter med tidligere angrep andre steder, skriver NRK.</p>
+<p>– Det for tidlig å si om det er et mønster eller om det ligner på andre angrep, sier Bente Hoff, fungerende avdelingsdirektør i NSM NorCERT, til kanalen.</p></div>
+<div type="title" level="3">Går som normalt</div>
+<div type="text">
+<p>Viruset har slått ut Hydros globale nettverk, og nettsiden deres var nede hele tirsdag. Onsdag morgen er nettsiden fortsatt nede.</p>
+<p>Hydros aluminiumsverk i Norge går foreløpig som normalt, men med høyere grad av manuell drift. Det er ingen indikasjon på påvirkning på aluminiumsverkene utenfor Norge, og angrepet har ikke rammet energivirksomheten.</p>
+<p>– Deler av systemet vårt er deaktivert. Men selve aluminiumsproduksjonen med renseanlegg er i drift, samt tilførsel av strøm, luft og vann virker som det skal. Det blir mer manuelt arbeid, og det blir mer intensivt for enkelte, sier fabrikksjef Roar Ørsund ved Hydro Sunndal til Adresseavisen.</p>
+<p>Ørsund sier støperiet stoppet opp natt til tirsdag som følge av dataangrepet, men er nå tilbake i vanlig drift.</p></div>
+<div type="title" level="3">Rammet USA først</div>
+<div type="text">
+<p>Viruset ser ut til å ha rammet selskapets amerikanske virksomhet først.</p>
+<p>– Dette startet i en av våre fabrikker i USA. Deretter har viruset spredt seg ut i organisasjonen og rammet flere deler av virksomheten både i USA og Europa, sa Hydros finansdirektør Eivind Kallevik til NTB tirsdag.</p>
+<p>Selskapet har brukt tid på å isolere fabrikkene for å hindre ytterligere spredning av viruset.</p>
+<p>Kallevik vil ikke spekulere på hvor mye penger angriperne krever eller kommentere om selskapet vurderer å betale.</p>
+<p>Vis alle stillinger</p>
+<p>Vis alle stillinger</p></div>
+<div type="title" level="3">Advarer ansatte</div>
+<div type="text">
+<p>Ifølge NRK har NSM NorCERT slått fast at angriperne har brukt løsepengeviruset LockerGoga, som gjør alt innhold på datamaskinen utilgjengelig, samtidig som det foregår angrep mot selskapets bruker- og påloggingssystemer.</p>
+<p>Rundt om i Hydros kontorer i Oslo var det tirsdag satt opp lapper der de ansatte bes om å ikke koble PC-er til nettverk før det gis ny beskjed.</p></div></body></document>

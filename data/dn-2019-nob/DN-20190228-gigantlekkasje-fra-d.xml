@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190228-gigantlekkasje-fra-d.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/dow-jones/sikkerhet/personvern/gigantlekkasje-fra-database-med-informasjon-om-24-millioner-personer/2-1-554776" frk="574 2 9 3922"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-28 18:39"/>
+<attribute name="author" value="Osman Kibar"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi,dow-jones,sikkerhet,personvern"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Gigantlekkasje fra database med informasjon om 2,4 millioner personer</div>
+<div type="ingress">En global database som inneholder en oversikt over 2,4 millioner såkalte risikopersoner er berørt av en gigantlekkasje. Databasen brukes av en rekke norske storbanker for å risikovurdere kunder. En global database som inneholder en oversikt over 2,4 millioner såkalte risikopersoner er berørt av en gigantlekkasje. Databasen brukes av en rekke norske storbanker for å risikovurdere kunder.</div>
+<div type="author">Osman Kibar</div>
+<div type="date">2019-02-28 18:39</div>
+<div type="caption">En versjon av databasen «The Dow Jones Watchlist» lå åpent på nett. Databasen med personopplysninger brukes daglig av norske banker for risikovurdering av kunder. (Foto: Illustrasjonsfoto: Vladimir Timofeev/Getty Images/iStockphoto) </div>
+<div type="text">
+<p>Den store databasen, som kalles for «The Dow Jones Watchlist» brukes daglig av norske banker for risikovurdering av både eksisterende og potensielle norske kunder.</p>
+<p>Onsdag ble det kjent at en versjon av databasen lå åpent på nett, tilgjengelig for hvem som helst. Databasen inneholder navnene til norske samfunnstopper og familiene deres, men også kriminelle og terrorister. Til sammen 2,4 millioner mennesker er registrert i den globale «svartelisten».</p></div>
+<div type="title" level="3">Bekrefter lekkasjen</div>
+<div type="text">
+<p>Dow Jones, som eies av mediekjempen News Corp, bekrefter overfor DN at lekkasjen av databasen er et faktum.</p>
+<p>En talsperson hos Dow Jones, Sophie Bent, skriver i en epost at informasjonen som er lekket er en del av selskapets verktøy for risiko- og compliance-vurdering og at informasjonen i sin helhet stammer fra offentlig tilgjengelige kilder.</p>
+<p>– Så langt tyder vår gjennomgåelse på at dette skyldes en autorisert tredjeparts feilkonfigurasjon av en Amazon-server, og at disse dataene ikke er tilgjengelige der lenger, skriver Bent.</p>
+<p>Det var det amerikanske teknologinettstedet Techcrunch som først meldte nyheten onsdag kveld norsk tid. Dow Jones-databasen lå ifølge nettstedet Techcrunch åpent ute på nett helt til den ble funnet av en sikkerhetsekspert.</p></div>
+<div type="title" level="3">Leveres av Evry i Norge</div>
+<div type="text">
+<p>I Norge er det it-selskapet Evry som leverer Dow Jones' databasetjeneste til en rekke norske storbanker som Sbanken, Handelsbanken, Sparebank 1 og Gjensidige.</p>
+<p>Norske finansinstitusjoner er pålagt å risikovurdere kundene sine. For å gjøre dette, bruker de risikovurderingsverktøy som er utformet av store selskaper som Dow Jones og Thomson Reuters.</p>
+<p>– Evry abonnerer på Dow Jones' data i likhet med mange andre tjenesteleverandører til finansinstitusjoner som et ledd i vårt arbeid med antihvitvasktjenester for banker, bekrefter Evrys pressekontakt Geir Remman til DN.</p>
+<p>Han svarer ikke på spørsmål om norske personopplysninger er berørt av lekkasjen, men sier at Evry og dets bankkunder ikke er involvert.</p>
+<p>– Vi registrerer at det skrives om en datalekkasje hvor Dow Jones er involvert, men Evry eller bankene vi betjener er hverken direkte eller indirekte involvert, skriver Remman i en epost til DN.</p>
+<p>Remman sier at Evry ikke har kjennskap til lekkasjen.</p>
+<p>– Av hensyn til kunder kan vi ikke kommentere hvilke banker eller hvor mange som bruker tjenesten, skriver han.</p></div>
+<div type="title" level="3">Sensitive personopplysninger</div>
+<div type="text">
+<p>Databasene som brukes i risikovurderingsøyemed inneholder svært detaljerte og sensitive personopplysninger. I tillegg til navn, stilling og adresse inneholder de ofte fullt fødsels- og personnummer, navn til andre familiemedlemmer inkludert barnas navn og fødselsdato.</p>
+<p>I tillegg til terrorister og kriminelle, inneholder disse databasene også helt vanlige nordmenn, såkalte «politisk eksponerte personer» og deres familiemedlemmer.</p>
+<p>I Norge er det finansinstitusjonene selv som er pålagt å finne løsninger for hvilke nordmenn som skal granskes grundigere til enhver tid. Myndighetene vil ikke strekke seg lenger enn til å lage en oversikt over roller som må listeføres.</p>
+<p>Jobben med å samle inn etterretningsinformasjon om nordmenn, overlates derfor til private aktører som Dow Jones og World-Check, som har vært de to kanskje mest populære tjenestene i en årrekke.</p></div></body></document>

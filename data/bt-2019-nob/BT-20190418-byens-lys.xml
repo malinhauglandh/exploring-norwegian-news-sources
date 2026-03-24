@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190418-byens-lys.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/MRAAwM/Byens-lys" frk="34 17 4 231 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-18 06:58"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Byens lys</div>
+<div type="ingress">Sinatra synger ingen sanger for denne byen. Bergen er ikke New York City, Chicago eller L.A. Bare noen nålestikk i nattens arm.</div>
+<div type="author"></div>
+<div type="date">2019-04-18</div>
+<div type="caption"><p>1001 REMA-NATT. Vindusutstillingene er byens smykker. FOTO: Helge Skodvin</p></div>
+</body></document>

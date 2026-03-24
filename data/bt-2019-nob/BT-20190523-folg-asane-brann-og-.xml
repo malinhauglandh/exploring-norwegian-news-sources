@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190523-folg-asane-brann-og-.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/4qWwlG/Folg-Asane---Brann-og-chat-med-var-reporter" frk="46 17 5 280 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-23 07:49"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="SK Brann,Fotball"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Følg Åsane - Brann og chat med vår reporter</div>
+<div type="ingress">Klokken 18.00 møtes Åsane og Brann på Myrdal i 2. runde av cupen. BT følger kampen direkte.</div>
+<div type="author"></div>
+<div type="date">2019-05-23</div>
+<div type="caption"><p>LOKALOPPGJØR: Gilbert Koomson og Brann møter torsdag kveld lokal motstand i cupen, når de spiller mot Åsane. FOTO: Tor Høvik</p></div>
+</body></document>

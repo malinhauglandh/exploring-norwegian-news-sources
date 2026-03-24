@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190201-kanskje-kommer-koeng.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/leder/i/vmRwy4/Kanskje-kommer-Koengen" frk="44 0 0 281 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-01 20:30"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,leder"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kanskje kommer Koengen</div>
+<div type="ingress">Staten er uenig med staten om hvordan bybaneutbyggingen til Fyllingsdalen kan sikres. Bergen blir taperen.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">2019-02-01</div>
+<div type="caption"><p>KOENGEN PÅ HAUGEN: Her kan det bli godsterminal om ikke staten klarer å bli enig med seg selv om en annen løsning. Foto: Rune Sævig</p></div>
+</body></document>

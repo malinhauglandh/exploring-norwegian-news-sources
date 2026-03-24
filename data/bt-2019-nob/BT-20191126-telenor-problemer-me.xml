@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191126-telenor-problemer-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/jdnQyn/telenor-problemer-med-noedtelefonen-rettet" frk="24 16 3 182 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-26 05:58"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Telenor-problemer med nødtelefonen rettet</div>
+<div type="ingress">Telenor hadde tekniske problemer natt til tirsdag som førte til problemer med nødtelefonen 113, men feilen er nå rettet.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 26. november 2019 05:58</div>
+<div type="caption"></div>
+</body></document>

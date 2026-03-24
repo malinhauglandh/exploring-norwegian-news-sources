@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190227-flere-innstilte-avga.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/yvq8VJ/Flere-innstilte-avganger-fra-Sola-pa-grunn-av-take" frk="32 0 0 198 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-27 15:50"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="stavanger lufthavn, sola,vær,flytrafikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Flere innstilte avganger fra Sola på grunn av tåke</div>
+<div type="ingress">Tett tåke på Sola forhindret flere fly å lande onsdag ettermiddag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Tette tåke på flyplassen på Sola onsdag kveld. Jan Inge Haga</p></div>
+</body></document>

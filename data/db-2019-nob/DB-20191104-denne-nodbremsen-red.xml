@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20191104-denne-nodbremsen-red.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/denne-nodbremsen-redder-liv/71770355" frk="55 5 2 351 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-11-04 21:00"/>
+<attribute name="author" value="Rune Korsvoll"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Denne nødbremsen redder liv</div>
+<div type="ingress">De fleste nye biler har nå automatisk nødbrems som skal hindre at du smeller inn i bilen foran. Vi har testet nødbremsen i 19 biler, og oppdaget store forskjeller.</div>
+<div type="author">Rune Korsvoll</div>
+<div type="date">2019-11-04</div>
+<div type="caption"><p>SVIKTER PÅ VINTERFØRE: I vinter testet vi systemene på glatt vei. Her sviktet de aller fleste bilene katastrofalt. Foto: Markus Pentikainen</p></div>
+</body></document>

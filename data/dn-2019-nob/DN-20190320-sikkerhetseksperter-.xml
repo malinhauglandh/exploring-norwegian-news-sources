@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190320-sikkerhetseksperter-.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/sikkerhetseksperter-slik-angriper-skrekkviruset-som-lammet-hydro-og-slik-kan-du-beskytte-deg/2-1-570181" frk="114 0 0 804"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-03-20 20:51"/>
+<attribute name="author" value="Osman Kibar"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknologi"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sikkerhetseksperter: Slik angriper skrekkviruset som lammet Hydro – og slik kan du beskytte deg</div>
+<div type="ingress">Viruset LockerGoga som har rammet Hydro, krypterer ikke bare filer som er lagret på stasjonære, bærbare datamaskiner og servere. Viruset sletter også sikkerhetskopier, ifølge ledende eksperter. Viruset LockerGoga som har rammet Hydro, krypterer ikke bare filer som er lagret på stasjonære, bærbare datamaskiner og servere. Viruset sletter også sikkerhetskopier, ifølge ledende eksperter.</div>
+<div type="author">Osman Kibar</div>
+<div type="date">2019-03-20 20:51</div>
+<div type="caption">Den verdenskjente sikkerhetseksperten Mikko Hypponen er overbevist om at angrepet mot Hydro var målrettet. -Når de har tilstrekkelig med dekning, slår de til og rammer hele selskapet samtidig, og forsøker å kryptere så mye data som de bare kan, sier han om viruset LockerGoga. (Foto: Fredrik Solstad) </div>
+<div type="text">
+</div></body></document>

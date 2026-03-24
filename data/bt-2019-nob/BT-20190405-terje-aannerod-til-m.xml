@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190405-terje-aannerod-til-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K38Ae6/Terje-Aannerod-til-minne" frk="30 11 2 181 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-05 09:45"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Fjell,Nekrolog,Minneord,Den norske kirke,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Terje Aannerød til minne</div>
+<div type="ingress">Sokneprest Terje Aannerød i Fjell er død, bare 53 år gammel.</div>
+<div type="author"></div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>TIL MINNE: Terje Aannerød har satt dype spor i Fjell på Sotra. FOTO: Privat</p></div>
+</body></document>

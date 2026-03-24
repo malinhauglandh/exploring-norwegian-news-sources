@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191110-stor-personvernbot-i.xml"/>
+<attribute name="url" value="http://www.dn.no/innlegg/gdpr/deutsche-wohnen/personvern/stor-personvernbot-innen-eiendom-i-tyskland/2-1-703233" frk="671 6 31 4811"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-11-10 17:58"/>
+<attribute name="author" value="Eva Jarbekk,Jeppe Songe-Møller"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innlegg,gdpr,deutsche-wohnen,personvern"/>
+<attribute name="class2" value="Meninger,Innlegg"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Stor personvernbot innen eiendom i Tyskland</div>
+<div type="ingress">Det tyske børsnoterte eiendomsselskapet Deutsche Wohnen er ilagt et rekordstort overtredelsesgebyr for ulovlig lagring av personopplysninger om leietagere. Det tyske børsnoterte eiendomsselskapet Deutsche Wohnen er ilagt et rekordstort overtredelsesgebyr for ulovlig lagring av personopplysninger om leietagere.</div>
+<div type="author">Eva Jarbekk,Jeppe Songe-Møller</div>
+<div type="date">2019-11-10 17:58</div>
+<div type="caption">Deutsche Wohnen, som eier cirka 163 000 leiligheter og cirka 2 600 næringseiendommer, lagret personopplysninger om tidligere leietagere uten hjemmel når informasjonen skulle vært slettet. Her fra en tidligere demonstrasjon mot selskapet i Berlin i april. (Foto: Odd Andersen/AFP/NTB Scanpix) Eva Jarbekk Mer... Jeppe Songe-Møller Mer... </div>
+<div type="text">
+<p>Det tyske datatilsynet konkluderte før helgen med brudd på personvernforordningen (GDPR) og ga Deutsche Wohnen et gebyr på hele 14,5 millioner euro, eller omtrent 140 millioner norske kroner, basert på et faktum som kan være relevant for flere norske eiendomsaktører.</p>
+<p>Deutsche Wohnen, som eier cirka 163 000 leiligheter og cirka 2 600 næringseiendommer, lagret personopplysninger om tidligere leietagere uten hjemmel når informasjonen skulle vært slettet. Personopplysningene ble i tillegg lagret i et datasystem som ikke hadde teknisk slettemulighet, noe som er problematisk gitt at de aller færreste opplysninger kan oppbevares uten noen tidsbegrensning. Det hjalp heller ikke at selskapet hadde startet en prosess for å endre situasjonen, men at endringene ikke var implementert.</p>
+<p>De aktuelle opplysningene omfattet vanlige grunndata som navn og adresse, men også mer følsom informasjon som skatt- og lønnsopplysninger og bank- og forsikringsinformasjon.</p>
+<p>Det tyske datatilsynet slo fast at lagringen av personopplysningene var i strid med både grunnprinsippene i personvernforordningen (GDPR) artikkel 5 og med artikkel 25 om innebygget personvern. Det er interessant å merke seg at det ikke spilte noen rolle at datasystemet var anskaffet før reglene trådte i kraft, hvilket betyr at kravene i personvernreglene gjelder også for slike systemer og behandling av personopplysninger i dem. Dette bør være en kraftig vekker og grunn til både å gå gjennom hvordan man forvalter sine personopplysninger og eventuelt til anskaffelse av nye IT-systemer, dersom de ikke oppfyller reglenes minimumskrav.</p>
+<p>I pressemeldingen om saken sa lederen for Datatilsynet i Berlin at de ofte ser slike «datakirkegårder» når de gjør tilsyn. De mener at «eksplosiviteten» i slikt mislighold først blir synlig når dataansamlingene angripes og hackes, men understreket at selv uten at opplysningene spres, så anser de ulovlig lagring av data som åpenbare brudd på lovgivningen.</p>
+<p>Saken er ikke endelig avgjort og det er ventet at selskapet vil klage på vedtaket.</p>
+<p>Alle norske eiendomsselskaper må følge personvernforordningen, ha sletterutiner og gjennomføre jevnlige settinger av personopplysninger, på samme måte som i Tyskland. Erfaringsmessig vil norske eiendomsaktører lagre mange og varierte typer personopplysninger som del av sin løpende forretningsdrift. Dette kan være opplysninger om egne ansatte, jobbsøkere og besøkende på nettsiden, informasjon om kontaktpersoner hos leietagere, driftsleverandører og andre samarbeidspartnere, og opplysninger om private leietagere, informasjon fra adgangskortanlegg, besøksregister, kantinesystem eller kameraovervåkning. Det er også vanlig i eiendomsbransjen med bruk av passkopier og 11-sifret fødselsnummer for identifikasjon eller i kontrakter. Håndtering av disse personopplysningene i samsvar med GDPR-reglene, og løpende sletting, er avgjørende for å unngå klager, negative medieoppslag eller myndighetsoppfølging – i verste fall overtredelsesgebyr.</p>
+<p>I Norge vil Datatilsynet se hen til praksis hos europeiske datatilsyn ved prioritering av saker, håndheving og utmåling av gebyr. Det tyske vedtaket kan derfor indikere hvilke norske saker vi har i vente.</p>
+<p>I praksis ser vi at mange norske eiendomsselskaper har behov for å kartlegge personopplysninger (nemlig hva som er lagret hvor av hvem), oppdatering av rutiner, gjennomgåelse av databehandleravtaler, implementering og opplæring av ansatte. Mange er fremdeles i en tidlig fase der man så vidt har tatt innover seg at personvernforordningen er relevant for dem.</p>
+<p>For eiendomskonserner med flere selskaper og næringseiendommer kan det oppstå vanskelige spørsmål knyttet til rollen som behandlingsansvarlig og forholdet til profesjonelle leietagere. Det er ikke gitt at databehandleravtale alltid er riktig vei å gå. I noen sammenhenger er felles behandlingsansvar å foretrekke. I tillegg bør det vurderes om IT-systemet er GDPR-kompatibelt slik at sletting kan forenkles eller automatiseres. Det kan være lurt å se litt kritisk på sin GDPR-compliance fremover, også for dem som har fått konsulenthjelp til et prosjekt.</p></div></body></document>

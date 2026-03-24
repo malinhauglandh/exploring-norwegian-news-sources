@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190816-aftenpostens-valgoma.xml"/>
+<attribute name="url" value="http://aftenposten.no/norge/politikk/i/b5aGE3/Aftenpostens-valgomat-for-Oslo-valget-2019" frk="55 12 4 322 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-16 10:36"/>
+<attribute name="author" value="Christian Sørgjerd"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge,politikk"/>
+<attribute name="class2" value="webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Aftenpostens valgomat for Oslo-valget 2019</div>
+<div type="ingress">Vi har bedt alle kandidatene på valglistene i Oslo om å ta stilling til påstandene i valgomaten. Nå er det din tur. Du kan sjekke hvilken politiker du er mest enig med. Du kan også få et innblikk i hvor enige eller uenige partiene er internt i ulike spørsmål.</div>
+<div type="author">Christian Sørgjerd</div>
+<div type="date">16.aug.2019 12:36</div>
+<div type="caption"></div>
+</body></document>

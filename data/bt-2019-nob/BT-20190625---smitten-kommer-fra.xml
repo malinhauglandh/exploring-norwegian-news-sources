@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190625---smitten-kommer-fra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P9aj00/-Smitten-kommer-fra-hoydebassenget" frk="42 0 0 269 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-25 21:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Askøy,Vann og avløp"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Smitten kommer fra høydebassenget</div>
+<div type="ingress">Varaordfører Bård Espelid i Askøy kommune er overrasket over forholdene inne i bassenget.</div>
+<div type="author"></div>
+<div type="date">2019-06-25</div>
+<div type="caption"><p>PÅ INNSIDEN: – Man lurer på om dette er egnet for rent vann, sier varaordfører i Askøy kommune Bård Espelid. FOTO: Bård Bøe</p></div>
+</body></document>

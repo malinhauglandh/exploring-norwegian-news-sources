@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190827-carlsen-tilbake-pa-v.xml"/>
+<attribute name="url" value="http://www.fvn.no/sport/i/y3b002/Carlsen-tilbake-pa-vinnersporet-i-USA--Jeg-er-litt-skamfull" frk="50 6 2 308 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-27 23:51"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="sport"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Carlsen tilbake på vinnersporet i USA: – Jeg er litt skamfull</div>
+<div type="ingress">Magnus Carlsen fikk en etterlengtet seier i Sinquefield Cup i sjakk tirsdag. Amerikaneren Wesley So ble beseiret med hvite brikker i 10. runde i St. Louis.</div>
+<div type="author">NTB</div>
+<div type="date">27.aug.2019 23:51</div>
+<div type="caption"><p>Magnus Carlsen vant endelig i USA. FOTO: Carina Johansen / NTB scanpix</p></div>
+</body></document>

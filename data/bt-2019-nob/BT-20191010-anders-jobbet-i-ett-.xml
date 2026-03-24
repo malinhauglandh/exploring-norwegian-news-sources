@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010-anders-jobbet-i-ett-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/wP5doP/Anders-jobbet-i-ett-av-yrkene-som-er-mest-utsatt-for-astma-Derfor-matte-han-skifte-jobb" frk="37 0 0 228 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Anders jobbet i ett av yrkene som er mest utsatt for astma. Derfor måtte han skifte jobb.</div>
+<div type="ingress">På det nasjonale senteret for yrkesastma på Haukeland blir pasienter testet for alt fra mel til fiskeslim og vippelim.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

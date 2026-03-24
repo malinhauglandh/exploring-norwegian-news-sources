@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190309-brann-i-hausmanns-ga.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/i/vm46vj/Brann-i-Hausmanns-gate" frk="73 11 5 435 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-03-09 00:11"/>
+<attribute name="author" value="Hedda Ovidia Stølen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="osloby"/>
+<attribute name="class2" value="oslo,brann"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Brann i Hausmanns gate</div>
+<div type="ingress">Det brant i en brakke i Hausmanns gate natt til lørdag.</div>
+<div type="author">Hedda Ovidia Stølen</div>
+<div type="date">16 timer siden</div>
+<div type="caption"></div>
+<div type="text">
+<p>Det melder politiet i Oslo på Twitter rundt klokken ett natt til lørdag. Noen minutter senere opplyser politiet at brannen er slukket.</p>
+<p>En person skal ha blitt eksponert for røyk, og blir ivaretatt av helsepersonell.</p>
+<p>#Oslo. Hausmanns gate. Vi er på vei til melding om brann i en brakke.</p>
+<p>— OPS Politiet Oslo (@oslopolitiops) March 9, 2019</p></div></body></document>

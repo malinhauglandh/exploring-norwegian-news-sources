@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190425-underleder-noe-storr.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/underleder-noe-storre/2-1-592872" frk="32 0 0 203 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-25 17:54"/>
+<attribute name="author" value="Leder DN"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Underleder: Noe større</div>
+<div type="ingress">Vårt Land forteller at statsminister Erna Solberg i en samtale med biskop Helga Haugland Byfuglien i Den norske kirke denne uken sa at hun «tror på noe større».</div>
+<div type="author">Leder DN</div>
+<div type="date">2019-04-25 17:54</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

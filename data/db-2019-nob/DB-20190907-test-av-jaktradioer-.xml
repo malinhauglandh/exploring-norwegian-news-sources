@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190907-test-av-jaktradioer-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-jaktradioer-suveren-vinner/71575436" frk="57 0 0 361 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-07 19:59"/>
+<attribute name="author" value="Åsgeir Størdal"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av jaktradioer: Suveren vinner</div>
+<div type="ingress">Digitale jaktradioer gjør sitt inntog på samme frekvenser som de analoge. Det kan hende at du må oppgradere eller fortsatt kan bruke gammelradioen, men du bør lære deg å bruke pilottoner.</div>
+<div type="author">Åsgeir Størdal</div>
+<div type="date">2019-09-07</div>
+<div type="caption"><p>TEST: Disse ni jaktradioene har blitt testet, og én av dem står igjen som den suverene vinneren. FOTO: Åsgeir Størdal</p></div>
+</body></document>

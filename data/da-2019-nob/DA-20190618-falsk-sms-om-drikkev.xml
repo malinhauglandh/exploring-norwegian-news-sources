@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190618-falsk-sms-om-drikkev.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/demokraten/nyheter/falsk-sms-om-drikkevannet-i-fredrikstad-1.1432690" frk="85 0 0 556 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-06-18 20:50"/>
+<attribute name="author" value="Tomm Pentz Pedersen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="demokraten,nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Falsk SMS om drikkevannet i Fredrikstad</div>
+<div type="ingress">Fredrikstad kommune har i løpet av dagen blitt kontaktet av flere innbyggere som har mottatt SMS fra avsender «kommunen» om forurenset drikkevann i Fredrikstad.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>I SMS’en oppfordres det også til å koke drikkevann.Dette varslet er ikke riktig.</p></div>
+<div type="text">
+<p>I SMS’en oppfordres det også til å koke drikkevann. Dette varslet er ikke riktig.</p>
+<p>Fagansvarlig for Virksomhet vann og avløp, Terje Johansen, opplyser at det for tiden ikke er problemer drikkevannet i Fredrikstad og at ingen varsler er sendt fra kommunen.</p></div></body></document>

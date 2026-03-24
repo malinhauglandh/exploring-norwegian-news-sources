@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190904-for-har-de-lammet-tr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P9qbW7/For-har-de-lammet-trafikken-I-dag-var-det-knapt-ko" frk="50 13 4 303 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-04 10:26"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen,Bompenger,Trafikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Før har de lammet trafikken. I dag var det knapt kø.</div>
+<div type="ingress">«Nok er nok»-generalen nekter for at aksjonen var mislykket.</div>
+<div type="author"></div>
+<div type="date">2019-09-04</div>
+<div type="caption"><p>BRYGGEN 2019: – Vi ble stoppet av motdemonstranter på Bryggen. Det var de som skapte køene denne dagen, hevder Willy Padøy i aksjonskomiteen «Nok er nok». FOTO: Bård Bøe</p></div>
+</body></document>

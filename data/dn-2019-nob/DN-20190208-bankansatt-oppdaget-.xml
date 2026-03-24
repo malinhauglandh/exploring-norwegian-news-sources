@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190208-bankansatt-oppdaget-.xml"/>
+<attribute name="url" value="http://www.dn.no/utenriks/bankansatt-oppdaget-smutthull-tok-ut-millioner-i-gratis-penger-ved-midnatt/2-1-539105" frk="133 9 8 810"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-02-08 09:07"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="Nyheter,Utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bankansatt oppdaget smutthull – tok ut millioner i «gratis penger» ved midnatt</div>
+<div type="ingress">Men endte i fengsel. Men endte i fengsel.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-02-08 09:07</div>
+<div type="caption">Bankansatt utnyttet en systemfeil til å ta ut penger fra minibanker uten at de ble registrert i systemene. (Foto: Aly Song/Reuters/NTB Scanpix) </div>
+<div type="text">
+<p>En seniorprogrammerer i den kinesiske banken Huaxia fant en finurlig måte å ta ut over én million dollar (over 8,5 millioner kroner) i «gratis penger» fra minibanker.</p>
+<p>Qin Qisheng (43) oppdaget en feil i bankens kjernesystemer som gjorde at han kunne ta ut penger ved midnatt uten at det ble registrert, skriver South China Morning Post.</p></div>
+<div type="title" level="3">Ble ikke utløst varsel</div>
+<div type="text">
+<p>Qin oppdaget systemfeilen i 2016, og i november samme år la han inn noen få skript i banksystemet som gjorde at han kunne teste smutthullet uten å utløse noe varsel.</p></div></body></document>

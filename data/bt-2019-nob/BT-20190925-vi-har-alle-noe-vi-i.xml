@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190925-vi-har-alle-noe-vi-i.xml"/>
+<attribute name="url" value="https://www.bt.no/amagasinet/i/awLerO/Frode-Thuen-Det-vi-ikke-snakker-om" frk="27 0 0 136 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-25 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="amagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vi har alle noe vi ikke vil eller tør å snakke med våre nærmeste om</div>
+<div type="ingress">Hva gjør det med oss at vi holder så mye skjult?</div>
+<div type="author"></div>
+<div type="date">2019-09-25</div>
+<div type="caption"></div>
+</body></document>

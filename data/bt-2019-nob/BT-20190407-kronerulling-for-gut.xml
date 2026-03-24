@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190407-kronerulling-for-gut.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50pK96/Kronerulling-for-gutten-som-avdekket-sikkerhetshull-hos-Bergen-kommune" frk="53 5 2 344 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-07 12:08"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen kommune,Koding,Programmering,Data"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kronerulling for gutten som avdekket sikkerhetshull hos Bergen kommune</div>
+<div type="ingress">– Vi er utrolig takknemlig for all støtten, men vil helst ikke ta imot pengene, sier guttens far.</div>
+<div type="author"></div>
+<div type="date">2019-04-07</div>
+<div type="caption"><p>OVERVELDENDE: Foreldrene til 13-åringen ønsker at pengene som samles inn skal bidra til at flere unge kan lære om data og programmering. FOTO: Eirik Brekke</p></div>
+</body></document>

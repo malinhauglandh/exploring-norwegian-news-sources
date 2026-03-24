@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190307-nordiske-bankskandal.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/WLQ0l2/Nordiske-bankskandaler-vekker-oppsikt-i-utlandet" frk="58 10 4 397 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-07 15:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="Nordea,Bank,Swedbank,DNB,Danske Bank,Hvitvasking"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nordiske bankskandaler vekker oppsikt i utlandet</div>
+<div type="ingress">Tilliten til nordiske storbanker står i fare på grunn av de mange hvitvaskingssakene, fremgår det av flere internasjonale medier.</div>
+<div type="author"></div>
+<div type="date">2019-03-07</div>
+<div type="caption"><p>STENGT: En stor rapport i fjor høst viste at Danske Banks nå stengte filial i Tallinn i Estland gjennom en årrekke hadde hvitvasket omtrent 1970 milliarder norske kroner. FOTO: Ints Kalnins, Reuters</p></div>
+</body></document>

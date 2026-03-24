@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190710-artister-og-publikum.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/awag2A/Artister-og-publikum-badet-seg-i-bergenssol-under-VG-lista" frk="39 0 0 252 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-10 13:09"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Youtube,Stord,Pop (musikk),Adrian Sellevoll,VG-lista,Spotify,Norsk musikk,Konsert,Vær,Snapchat,Hiphop (musikk),Bergen,Sommer"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Artister og publikum badet seg i bergenssol under VG-lista</div>
+<div type="ingress">VG-lista tok med seg solen til Bergen og fylte opp Festplassen onsdag.</div>
+<div type="author"></div>
+<div type="date">2019-07-10</div>
+<div type="caption"><p>FULLT: Det var trangt om plassen under årets VG-lista konsert i Bergen. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

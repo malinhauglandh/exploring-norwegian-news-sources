@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191217-mann-dode-etter-bran.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/oslo/mann-dode-etter-brann-pa-tveita-i-oslo-1.1634630" frk="84 3 2 502 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-12-17 20:47"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="oslo"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Mann døde etter brann på Tveita i Oslo</div>
+<div type="ingress">En mann i 60-årene er bekreftet død etter en brann i en leilighet på Tveita i Oslo mandag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>En mann døde av skadene etter en brann i denne boligblokka på Tveita i Oslo mandag.</p></div>
+<div type="text">
+<p>Politiet opplyser til at mannen ble brakt til sykehus etter brannen. Han ble bekreftet død på sykehuset. Mannens pårørende er varslet.</p>
+<p>Mannen ble hentet ut av leiligheten av brannvesenets røykdykkere.</p>
+<p>Leiligheten der det brant, ligger i en fire etasjer høy boligblokk.</p></div></body></document>

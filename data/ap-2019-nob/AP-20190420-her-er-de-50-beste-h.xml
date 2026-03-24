@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190420-her-er-de-50-beste-h.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/Her-er-de-50-beste-herrespillerne-i-Hordaland-272510b.html" frk="20 14 2 139 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-04-20 07:00"/>
+<attribute name="author" value="Philipp Bock"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="anders pamer,eliteserien,sk brann"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Her er de 50 beste herrespillerne i Hordaland</div>
+<div type="ingress">Fjorårets vinner er skjøvet ned fra tronen.</div>
+<div type="author">Philipp Bock</div>
+<div type="date">20.apr.2019 09:00</div>
+<div type="caption"><p>FOTO: Endre Lilletvedt (ill.)</p></div>
+</body></document>

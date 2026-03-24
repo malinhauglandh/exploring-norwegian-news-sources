@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190111-isolerer-pasienter-v.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/yvo8Pg/Isolerer-pasienter-ved-sykehjem-etter-utbrudd-av-Norovirus" frk="53 0 0 362 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-11 14:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Sykehjem,Bergen kommune,Røde Kors,Sykdom"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Isolerer pasienter ved sykehjem etter utbrudd av Norovirus</div>
+<div type="ingress">Flere avdelinger er stengt og syv pasienter er isolert etter utbrudd av omgangssyke ved Bergen Røde Kors Sykehjem.</div>
+<div type="author"></div>
+<div type="date">2019-01-11</div>
+<div type="caption"><p>SYV ISOLERT: – Vi har iverksatt tiltak for å hindre videre smitte, sier konstituert avdelingsoverlege Thea M. Moell ved Bergen Røde Kors Sykehjem. FOTO: Alice Bratshaug</p></div>
+</body></document>

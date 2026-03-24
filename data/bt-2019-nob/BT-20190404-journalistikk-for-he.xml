@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190404-journalistikk-for-he.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/leder/i/9vpL45/Journalistikk-for-hele-landet" frk="54 0 0 358 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-04 05:42"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,leder"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Journalistikk for hele landet</div>
+<div type="ingress">Samme regel bør gjelde for mediepolitikken som for alt annet: Kartet må stemme med terrenget.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">Publisert 4. april 2019 05:42</div>
+<div type="caption"><p>OMSORG FOR SMÅAVISENE: Kulturminister Trine Skei Grande (V) ønsker å omfordele pressestøtte fra større til mindre lokalaviser, for å dekke de «hvite flekkene på kartet», som hun sier. Foto: Alley, Ned / NTB scanpix</p></div>
+</body></document>

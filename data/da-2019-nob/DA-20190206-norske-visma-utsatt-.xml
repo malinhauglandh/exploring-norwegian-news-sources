@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190206-norske-visma-utsatt-.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/verden/norske-visma-utsatt-for-datainnbrudd-fra-kina-1.1273743" frk="521 3 11 3244"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-02-06 20:48"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske Visma utsatt for datainnbrudd fra Kina</div>
+<div type="ingress">Hackere som jobber på vegne av kinesisk etterretning, skal ha utført et datainnbrudd mot det norske programvareselskapet Visma.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Visma er sikre på at hackerne ikke har fått tilgang til noen av kundenes nettverk.</p></div>
+<div type="text">
+<p>Av Marius Helge Larsen og Helle Høiness</p>
+<p>Ifølge sikkerhetssjef Espen Johansen i Visma ble dataangrepet oppdaget etter kort tid. Angrepet skjedde i fjor høst, men først nå er det blitt kjent hvem som sto bak. Han er sikker på at hackerne ikke har fått tilgang til noen av kundenes nettverk.</p>
+<p>– Men hvis jeg tar på meg «paranoiahatten», kunne dette ha vært katastrofalt. En stor etterretningsorganisasjon et sted i verden som vil samle så mye informasjon som mulig, vil selvsagt gå etter et samlingspunkt. Det sier seg selv, opplyser Johansen til nyhetsbyrået Reuters, som først omtalte saken.</p></div>
+<div type="title" level="3"> – Ikke en 12-åring på gutterommet</div>
+<div type="text">
+<p>Johansen sier til NTB at angrepet ikke har fått noen alvorlige konsekvenser for selskapet, men at de valgte å gå ut med saken for å skape bevissthet.</p>
+<p>– Det som skjedde, var at en trusselaktør brøt seg inn gjennom en citrix-server vi hadde. Det var en avansert aktør, som vi så beveget seg fort og fint. Det var åpenbart ikke en 12-åring på gutterommet, det var flinke folk, sier sikkerhetssjefen.</p>
+<p>Etter at angriperne var «vasket ut» av systemet, ble selskapet Recorded Future hyret inn for å undersøke saken.</p>
+<p>– Vi ønsket å avdekke hvem i all verden dette var. Bevisene de fant, peker i retning av Kina, sier Johansen.</p></div>
+<div type="title" level="3"> – Sjekk om rakkeren har vært hos dere</div>
+<div type="text">
+<p>Selskapet har i dag publisert en detaljert rapport om angrepet.</p>
+<p>– Vi har delt alle data og ønsker å være helt transparente. Jeg håper at folk vil lese rapporten, sier Johansen.</p>
+<p>Han oppfordrer folk på IT-avdelinger rundt om i Norge å sjekke opplysningene i rapporten mot egne systemer.</p>
+<p>– Sjekk den mot interne logger, sjekk om den rakkeren har vært på besøk hos dere også, sier han.</p></div>
+<div type="title" level="3">Kina</div>
+<div type="text">
+<p>Angrepet skal ha vært en del av det vestlige land har beskrevet som et stort dataangrep fra Kinas sikkerhetsdepartement i desember, med mål om å stjele forretningshemmeligheter.</p>
+<p>Kinesiske myndigheter har ikke besvart Reuters' henvendelser om saken, men har gjentatte ganger avvist enhver deltakelse i dataspionasje.</p>
+<p>Ifølge en rapport fra sikkerhetsselskapet Rapid7 fikk hackerne tilgang til Vismas nettverk ved å bruke stjålet påloggingsinformasjon. Hackerne skal ha utført datainnbruddet på oppdrag av en gruppe kjent som APT 10, som vestlige myndigheter mener står bak det såkalte Cloudhopper-angrepet.</p>
+<p>Johansen opplyser til NTB at hackerne fikk tilgang til krypterte brukernavn og passord til de interne systemene, men at de ikke fikk tilgang til kundesystemet.</p>
+<p>Visma har hovedkontor i Oslo og over 8.000 ansatte på verdensbasis.</p></div>
+<div type="title" level="3">Bistand fra NSM</div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) kjenner godt til angrepet mot Visma og har bistått selskapet.</p>
+<p>– Vi har bistått i håndteringen. Vi vil berømme selskapet for å ha håndtert hendelsen godt teknisk og for å ha vist åpenhet, sier kommunikasjonsdirektør Mona Strøm Arnøy i NSM.</p>
+<p>Hun sier det er viktig at selskaper er åpne om hendelser som dette.</p>
+<p>NSM er nasjonal varslings- og koordineringsinstans for alvorlige dataangrep og andre IKT-sikkerhetshendelser.</p></div></body></document>

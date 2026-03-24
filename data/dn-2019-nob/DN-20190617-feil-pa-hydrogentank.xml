@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190617-feil-pa-hydrogentank.xml"/>
+<attribute name="url" value="http://www.dn.no/marked/nel/hydrogen/uno-x/feil-pa-hydrogentank-arsak-til-eksplosjon/2-1-622119" frk="146 2 2 977"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-06-17 09:40"/>
+<attribute name="author" value="Christian Bjerknes"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="marked,nel,hydrogen,uno-x"/>
+<attribute name="class2" value="Nyheter,Finans"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Feil på hydrogentank årsak til eksplosjon</div>
+<div type="ingress">En lekkasje fra en tank som lagret hydrogen under høyt trykk var årsaken til eksplosjonen ved Sandvika forrige uke. En lekkasje fra en tank som lagret hydrogen under høyt trykk var årsaken til eksplosjonen ved Sandvika forrige uke.</div>
+<div type="author">Christian Bjerknes</div>
+<div type="date">2019-06-17 09:40</div>
+<div type="caption">Forrige mandag eksploderte denne hydrogenstasjonen utenfor Sandvika. (Foto: Ole Berg-Rusten) </div>
+<div type="text">
+<p>Det har gått en uke siden en hydrogenstasjon drevet av Uno-X eksploderte i Sandvika andre pinsedag. Hydrogenteknologiselskapet Nel, som har levert det meste av teknologien til stasjonen, sendte mandag formiddag ut sin fjerde oppdatering om etterforskningen av ulykken. Her pekes det for første gang på hva som var årsaken til ulykken.</p>
+<p>En midlertidig rapport fra sikkerhetskonsulentselskapet Gexcon viser at eksplosjonen skyldtes en gasslekkasje fra en «modul» som lagret hydrogen under høyt trykk. Dette var feil nummer 1. Feil nummer 2 var at denne gassen så ble antent av en ukjent kilde.</p></div></body></document>

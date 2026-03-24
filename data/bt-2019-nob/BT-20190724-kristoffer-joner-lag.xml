@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190724-kristoffer-joner-lag.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/yvqOPE/Kristoffer-Joner-lager-film-med-unge-talenter-fra-Bergen" frk="34 0 0 222 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-24 20:35"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kristoffer Joner lager kortfilm med unge talenter fra Bergen</div>
+<div type="ingress">I november i fjor reiste Gine Therese Grønner og Kristoffer Joner rundt for å finne unge filmtalenter. Nå spiller de kortfilmen inn i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-07-24</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191213-klopp-forlenget-med-.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/lAW1eM/Klopp-forlenget-med-Liverpool" frk="35 16 4 238 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-13 13:20"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Klopp forlenget med Liverpool</div>
+<div type="ingress">Jürgen Klopp har signert ny kontrakt med Liverpool. Han blir manager i Premier League-klubben frem til 2024.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 13. desember 2019 13:20</div>
+<div type="caption"><p>Jürgen Klopp forlenget med Liverpool. Foto: Kerstin Joensson / AP / NTB scanpix</p></div>
+</body></document>

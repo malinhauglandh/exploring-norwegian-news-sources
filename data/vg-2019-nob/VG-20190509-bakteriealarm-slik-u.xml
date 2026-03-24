@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190509-bakteriealarm-slik-u.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/utenriks/i/vmKWpl/bakteriealarm" frk="31 0 0 201 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-05-09 08:13"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Bakteriealarm: Slik unngår du farlig Syden-smitte</div>
+<div type="ingress">TROMSØ (VG) Blir du innlagt på et sykehus i Hellas i sommer, er risikoen stor for at du tar med deg multiresistente bakterier hjem.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

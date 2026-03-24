@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190214-kommer-algoritmene-f.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kronikk/i/P3bGdJ/kommer-algoritmene-for-aa-ta-oss-camilla-ac-tepfers-og-haakon-haugli" frk="819 3 21 5476"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-14 17:00"/>
+<attribute name="author" value="Håkon Haugli"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kronikk"/>
+<attribute name="class2" value="abelia,digital,kunstig intelligens,nikolai astrup,næringsliv,teknologi,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kommer algoritmene for å ta oss? | Camilla AC Tepfers og Håkon Haugli</div>
+<div type="ingress">Kombinasjonen av kunstig intelligens og naturlig dumskap er farlig.</div>
+<div type="author">Håkon Haugli</div>
+<div type="date">14. feb. 2019 18:00</div>
+<div type="caption"><p>FOTO: Tegning: Håkon Jøssang</p> <p>Camilla AC Tepfers, medgründer og partner inFuture</p> <p>Håkon Haugli, administrerende direktør Abelia</p> <p>På fornavn med Helge En finansanalytiker oppsøker Nav etter å ha blitt erstattet av en robot. En optimistisk saksbehandler forsøker å hjelpe ved å foreslå en klassereise til bunnen.</p></div>
+<div type="text">
+<p>Det norske samfunnet har kvaliteter som kan hindre misbruk av kunstig intelligens, men vi må satse før andres algoritmer kommer og tar oss.</p>
+<p>Rolf Øhman</p>
+<p>Amazon skrotet nylig sitt verktøy for AI-rekruttering (AI er Artificial Intelligence/kunstig intelligens, red.anm.)</p>
+<p>3rd-party-bio</p>
+<p>Modellen viste seg å være kvinnediskriminerende.</p>
+<p>EVRY har også forsøkt robotrekruttering. Hos dem resulterte det i at kvinneandelen blant nyansatte økte fra 20 til 33 prosent. Hvorfor ble det sånn?</p></div>
+<div type="title" level="3">Fordommer i dataene</div>
+<div type="text">
+<p>Kunstig intelligens burde i utgangspunktet ha en styrke ved at den ikke er beheftet med forutinntatte meninger og fordommer. Til forskjell fra oss mennesker.</p>
+<p>Så viser det seg at fordommer likevel kryper inn i dataene som maskinene lærer av.</p>
+<p>Når dette kombineres med den dramatiske skaleringsevnen til digitale verktøy, og at ytterst få forstår de underliggende algoritmene som styrer AI-modellene, kan vi se omrisset av en uønsket utvikling.</p>
+<p>Esben Johansen</p>
+<p>Det som gikk galt i Amazons tilfelle var at modellen ble fôret med historiske data på vellykkede rekrutteringer. Hos Amazon, som i de fleste teknologitunge miljøer, er menn dominerende. Dette ble raskt gjenkjent av algoritmen. Den konkluderte derfor med at «mann» var et av flere selvstendige suksesskriterier. Eksempelet er ikke enestående, og vi har bare sett begynnelsen.</p>
+<p>Når maskinlæring og forsterkning av etablerte (menneskeskapte) mønstre samspiller negativt, kan konsekvensene bli uheldige.</p></div>
+<div type="title" level="3">«Matteødeleggelsesvåpen»</div>
+<div type="text">
+<p>Forskere ved Universitetet i Washington har studert Googles bildesøk. De søkte på «CEO» (konsernsjef), og Google viste 11 prosent kvinner, til tross for at 27 prosent av amerikanske konsernsjefer faktisk er kvinner. De søkte på «forfattere» og fikk 25 prosent kvinner, mens andelen kvinnelige forfattere er 56 prosent. Så søkte de på «telefonmarkedsfører». Der viste søkemotoren 64 prosent kvinner, selv om kjønnsbalansen i yrket er jevn.</p>
+<p>Boken Weapons of math destruction («matteødeleggelsesvåpen») beskriver en rekke eksempler på hvordan forfeilede algoritmer kan skade samfunnet. Det kan altså være etisk betenkelig å benytte kunstig intelligens til å løse samfunnsmessige problemer. Men det kan også være etisk betenkelig ikke å gjøre det.</p></div>
+<div type="title" level="3">Algoritmen var «rasistisk»</div>
+<div type="text">
+<p>Et beskrivende eksempel er bruk av kunstig intelligens for å forbedre resultatene av prøveløslatelse. Basert på strafferegistrene til 7000 personer skulle fare for gjentatt kriminalitet beregnes. Resultatet var en algoritme hvor svarte i større grad var høyrisikopersoner enn hvite.</p>
+<p>Algoritmen hadde fått med seg rasefordommer basert på et skjevt datasett.</p>
+<p>På den annen side kan samfunnsgevinsten være svært høy. Forskere ved universitetene Stanford, Harvard og Cornell har gjennomført en studie av prøveløslatelser og kunstig intelligens. De har gjort algoritmesimuleringer med meget gode resultater: 25 prosent redusert kriminalitet uten å øke antall arrestasjoner, samtidig som rasemessige skjevheter reduseres.</p></div>
+<div type="title" level="3">Vi kan ikke sette utviklingen på vent</div>
+<div type="text">
+<p>Utviklingen innen kunstig intelligens kan ikke settes på pause. Det er ikke mulig å be om betenkningstid, der vi setter utviklingen på vent mens vi får evaluert farer og muligheter i fred og ro. Selv om vi hypotetisk kunne innføre et forbud mot uvettige AI-algoritmer i Norge, eller Europa for den saks skyld, vil vi ikke kunne hindre virksomheter i andre deler av verden i å jage sine mål om å bli verdensledende. Vår passivitet vil snarere fremskynde andres dominans på feltet.</p>
+<p>Norge har et godt utgangspunkt for å gripe mulighetene i en digital økonomi. Vi har økonomiske ressurser, et omstillingsdyktig næringsliv og en digitalt kyndig befolkning. Men ingenting skjer av seg selv.</p></div>
+<div type="title" level="3">Nei, algoritmene kommer tar oss ikke</div>
+<div type="text">
+<p>En rekke land har utarbeidet nasjonale strategier for kunstig intelligens. Det har digitaliseringsminister Nikolai Astrup nå kunngjort at Norge også skal gjøre. Det sentrale er imidlertid ikke selve strategidokumentet, men om det aktivt legges til rette for at norsk næringsliv og offentlig sektor kan gripe mulighetene og samtidig adressere utfordringene.</p>
+<p>Det handler blant annet om mekanismer for å foreta løpende etiske vurderinger, om å gjøre offentlige data tilgjengelige, sikre tilgang på riktig kompetanse og å bidra til utvikling av testarenaer på tvers av offentlig sektor, næringsliv og læreinstitusjoner. For å nevne noe.</p>
+<p>For algoritmene kommer faktisk ikke for å ta oss.</p>
+<p>Som med all annen teknologi, kan de utnyttes både klokt og uklokt.</p>
+<p>Fremfor å skynde oss langsomt, må vi skynde oss klokt. Mye av det som gjør Norge til et godt samfunn, er også det som gjør oss best rustet til å lykkes. Vår resept mot misbruk er: Små forskjeller, tillit, åpenhet, robuste institusjoner, en felles offentlighet, et utdanningssystem som fremmer nysgjerrighet, selvstendighet og kreativitet. Vi har medisin, men vi er ikke vaksinert. Og det er nå det gjelder.</p>
+<p>Kronikken er den første i en serie om digitale dilemmaer.</p>
+<p>Interessert i å lese mer om kunstig intelligens? Her er noen forslag:</p></div></body></document>

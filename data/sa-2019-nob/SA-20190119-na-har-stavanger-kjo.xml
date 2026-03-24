@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190119-na-har-stavanger-kjo.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/aenergi/i/5VaOyW/Na-har-Stavanger-kjopt-energihovedstaden" frk="44 0 0 365 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-19 14:37"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="stavanger kommune,energi,næringsliv,solamøtet,greater stavanger"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nå har Stavanger «kjøpt» energihovedstaden</div>
+<div type="ingress">Samme dag som Aftenbladet omtalte Oslo-planer om å bli global energihovedstad, sikret Stavanger kommune seg nettadresser til energihovedstaden.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Stavanger kommune har kjøpt domenet energihovedstaden.no. Du sendes til Greater Stavangers nettsider når du skriver inn den nettadressen. Tilpasset skjermdump</p></div>
+</body></document>

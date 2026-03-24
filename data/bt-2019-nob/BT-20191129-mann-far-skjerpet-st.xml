@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191129-mann-far-skjerpet-st.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/e8v64y/Mann-far-skjerpet-straff-for-overgrep-mot-stedatter" frk="35 9 2 221 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-29 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mann får skjerpet straff for overgrep mot stedatter</div>
+<div type="ingress">Mannen i 50-årene anket på stedet da dommen falt i tingretten i vår, men Gulating lagmannsrett har denne uken skjerpet straffen til tre år i fengsel.</div>
+<div type="author"></div>
+<div type="date">2019-11-29</div>
+<div type="caption"></div>
+</body></document>

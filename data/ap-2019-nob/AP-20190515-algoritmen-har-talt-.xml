@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190515-algoritmen-har-talt-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/LAka6P/Algoritmen-har-talt-Norge-vinner-ikke-arets-Eurovision" frk="155 0 0 995"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-05-15 17:20"/>
+<attribute name="author" value="Arve Henriksen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="musikk,eurovision song contest,nederland"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Algoritmen har talt: Norge vinner ikke årets Eurovision</div>
+<div type="ingress">Norge kommer seg til lørdagens Eurovision-finale, men ender til slutt på syvendeplass.</div>
+<div type="author">Arve Henriksen</div>
+<div type="date">15.mai.2019 19:20</div>
+<div type="caption"><p>FOTO: Terje Bendiksby, NTB scanpix KEiiNO – Tom Hugo Hermansen (fra venstre), Alexandra Rotan og Fred René Buljo – er på plass i Tel Aviv. Gruppen skal representere Norge i årets Eurovision Song Contest med låten «Spirit in the Sky».</p></div>
+<div type="text">
+<p>Det er nettstedet Dance Direct som har regnet ut dette. Ved hjelp av en algoritmestyrt modell har nettstedet analysert seg frem til hvilke faktorer som normalt ligger til grunn for å vinne Eurovision Song Contest. Blant annet artistens kjønn, låtens dansbarhet, energinivå, frekvens, lydnivå, valg av kostyme, bruk av dialekt, musikksjanger og språk spiller inn.</p>
+<p>Basert på disse parametrene har algoritmen regnet seg frem til at årets vinner er Nederland, mens Norge ender på en syvendeplass. I kveld skal begge nasjonene i aksjon i den andre semifinalen for å kvalifisere seg til lørdagens finale.</p></div></body></document>

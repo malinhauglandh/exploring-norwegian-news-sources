@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190728-endelig-far-kode-opp.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/MRm7Mm/Endelig-far-Kode-oppfylt-sin-Munch-drom" frk="29 0 0 178 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-28 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Endelig får Kode oppfylt sin Munch-drøm</div>
+<div type="ingress">Aldri før har Kode fått låne så mange Munch-verk fra Oslo. Til høsten stilles de ut på to store utstillinger i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-07-28</div>
+<div type="caption"></div>
+</body></document>

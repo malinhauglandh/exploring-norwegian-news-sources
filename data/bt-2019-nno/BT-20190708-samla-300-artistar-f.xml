@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190708-samla-300-artistar-f.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/6jVGx3/Samla-300-artistar-fra-heile-verda-i-Forde" frk="14 28 3 104 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-08 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Samla 300 artistar frå heile verda i Førde</div>
+<div type="ingress">Sjå bileta frå folkemusikkfestivalen her.</div>
+<div type="author"></div>
+<div type="date">2019-07-08</div>
+<div type="caption"></div>
+</body></document>

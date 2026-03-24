@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190924-minneord-en-av-de-me.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/naXlmB/Minneord-Knut-Helge-Milde" frk="34 26 6 223 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-24 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Minneord: «En av de mest markante stemmene i Sportsklubben Brann er borte»</div>
+<div type="ingress">En av de mest markante stemmene blant medlemmene i Sportsklubben Brann fra tidlig 70-tall til langt inn på 2000-tallet er borte.</div>
+<div type="author"></div>
+<div type="date">2019-09-24</div>
+<div type="caption"></div>
+</body></document>

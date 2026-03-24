@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191116-ny-undersokelse-bedr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/3JenVq/Ny-undersokelse-Bedrifter-mangler-konkrete-barekraftsmal" frk="25 10 2 199 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-16 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny undersøkelse: Bedrifter mangler konkrete bærekraftsmål</div>
+<div type="ingress">Under halvparten av de 50 største bedriftene på Vestlandet har satt seg konkrete bærekraftsmål, og måler egne resultater.</div>
+<div type="author"></div>
+<div type="date">2019-11-16</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190812-vil-ha-oslo-satsing-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1nyl6Q/Vil-ha-Oslo-satsing-pa-sykkel-i-Bergen" frk="46 0 0 319 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-12 17:56"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="MDG,Bergen,Handel,Samferdsel,Trafikk,Sykkelvei,Politikk"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vil ha «Oslo-satsing» på sykkel i Bergen</div>
+<div type="ingress">Nå vil MDG stenge Christies gate for privatbiler.</div>
+<div type="author"></div>
+<div type="date">2019-08-12</div>
+<div type="caption"><p>VALGKAMPÅPNING: Arild Hermstad (til venstre), nasjonal talsperson for De Grønne, deltok på MDG i Bergen sin valgkampåpning lørdag. Thor Haakon Bakke, MDGs førstekandidat i Bergen, til høyre. FOTO: Ørjan Deisz</p></div>
+</body></document>

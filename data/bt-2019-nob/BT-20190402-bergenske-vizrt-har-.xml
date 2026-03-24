@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190402-bergenske-vizrt-har-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/LA4Xaq/Bergenske-Vizrt-har-kjopt-opp-NewTek" frk="37 16 4 241 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-02 09:46"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="CNN,Vizrt,Las Vegas,Næringsliv"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergenske Vizrt har kjøpt opp NewTek</div>
+<div type="ingress">Selskapet har opplevd stor vekst siden oppstarten i Bergen i 1997.</div>
+<div type="author"></div>
+<div type="date">2019-04-02</div>
+<div type="caption"><p>CIO: Petter Ole Jakobsen, CIO i Vizrt, forteller at selskapene har jobbet lenge med avtalen. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

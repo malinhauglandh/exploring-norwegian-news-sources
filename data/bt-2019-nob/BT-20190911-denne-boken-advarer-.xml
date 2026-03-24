@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190911-denne-boken-advarer-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/1ndQEe/Denne-boken-advarer-unge-mot-destruktive-forhold" frk="23 0 0 154 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-11 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Denne boken advarer unge mot destruktive forhold</div>
+<div type="ingress">Forfatteren skriver godt om de små tegnene på at kjæresten kan være en farlig person.</div>
+<div type="author"></div>
+<div type="date">2019-09-11</div>
+<div type="caption"></div>
+</body></document>

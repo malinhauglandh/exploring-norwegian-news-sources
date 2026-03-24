@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190806-ny-metrolinje-og-hyp.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/naBeQQ/Ny-metrolinje-og-hyppigere-avganger" frk="39 7 2 263 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-06 08:26"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ny metrolinje og hyppigere avganger</div>
+<div type="ingress">AKT starter ny metrolinje mellom Hellemyr og Tømmerstø. I tillegg blir det hyppigere bussavganger på flere linjer.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Det blir hyppigere og ny metrolinje i Kristiansand fra og med 19. august. FOTO: Kjetil Reite</p></div>
+</body></document>

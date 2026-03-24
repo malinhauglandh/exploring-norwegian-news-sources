@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190125-test-av-ny-toyota-ra.xml"/>
+<attribute name="url" value="http://www.vg.no/forbruker/bil-baat-og-motor/i/VRAbE1/test-av-ny-toyota-rav4-naa-har-den-nesten-alt" frk="34 9 2 211 %%"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-01-25 11:47"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="forbruker,bil-baat-og-motor"/>
+<attribute name="class2" value="Biltester, Toyota, Forbruker, Bil, båt og motor"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av ny Toyota RAV4: Nå har den (nesten) alt!</div>
+<div type="ingress">BARCELONA (VG) Midt i mankoen på elbiler kommer Toyota med en ny RAV4, en vanlig bensinhybrid som har gjennomgått en helt uvanlig forvandling.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

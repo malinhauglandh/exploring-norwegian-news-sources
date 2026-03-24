@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190529---det-er-vi-som-sorg.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/EWv6GG/-Det-er-vi-som-sorger-for-at-det-gar-rundt-pa-sykehuset" frk="42 0 0 258 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-29 12:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Helse Bergen,Streik,Haukeland,Sykehus"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Det er vi som sørger for at det går rundt på sykehuset</div>
+<div type="ingress">Streiken vil bli krevende for sykehuset hvis den utvides, mener portør Inge Skogheim.</div>
+<div type="author"></div>
+<div type="date">2019-05-29</div>
+<div type="caption"><p>I STREIK: Inge Skogheim er blant portørene som streiker på Haukeland. FOTO: Geir Martin Strande</p></div>
+</body></document>

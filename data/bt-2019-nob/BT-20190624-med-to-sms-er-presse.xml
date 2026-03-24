@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190624-med-to-sms-er-presse.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/70xVBB/Med-to-SMS-er-presset-megleren-opp-prisen-med-100000-kroner-Og-brot-god-meglerskikk" frk="32 28 6 209 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-24 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value="Eiendom,Rettigheter,Boligmarkedet,DNB Eiendom,Bolig,Privatmegleren"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Med to SMS-er presset megleren opp prisen med 100.000 kroner. Og brøt god meglerskikk.</div>
+<div type="ingress">De er Norges største meglerselskaper. Og de er felt for brudd på god meglerskikk i annenhver klagesak.</div>
+<div type="author"></div>
+<div type="date">2019-06-24</div>
+<div type="caption"></div>
+</body></document>

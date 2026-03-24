@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AA-20190321-facebook-lagret-mill.xml"/>
+<attribute name="url" value="http://www.adressa.no/nyheter/utenriks/2019/03/21/Facebook-innr%C3%B8mmer-%C3%A5-ha-lagret-ukrypterte-brukerpassord-18711749.ece" frk="239 10 16 1536"/>
+<attribute name="source" value="AA"/>
+<attribute name="date" value="2019-03-21 17:21"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Facebook lagret millioner av ukrypterte brukerpassord</div>
+<div type="ingress">Facebook innrømmer at selskapet har lagret ukrypterte passord fra millioner av brukere på sin egen server.</div>
+<div type="author"></div>
+<div type="date">21.03.2019 17:21</div>
+<div type="caption"></div>
+<div type="text">
+<p>Nettstedet KrebsOnSecurity skrev torsdag at flere hundre millioner Facebook-brukere har fått sine passord lagret i en server som er søkbar for tusenvis av ansatte hos mediegiganten.</p>
+<p>Facebook sier til nettstedet at en pågående gransking så langt ikke har gitt noen indikasjon på at de ansatte har misbrukt tilgangen til slik informasjon.</p>
+<p>– Bare for å gjøre det helt klart, disse passordene var aldri synlige for noen utenfor Facebook, og vi har ikke funnet beviser for at noen internt hos oss har misbrukt dem eller på feilaktig grunnlag har skaffet seg tilgang til dem, sier Pedro Canahuati i Facebook.</p>
+<p>Kilder hos Facebook opplyser at granskingen så langt tyder på at passordene til mellom 200 og 600 millioner brukere ble lagret på serveren, som over 20.000 ansatte hadde tilgang til.</p>
+<p>Lagringen skal ha funnet sted tilbake til 2012, og ifølge KrebsOnSecurity har Facebooks ingeniører og utviklere siden den gang foretatt rundt 9 millioner søk etter dataelementer som inneholder brukerpassord i ren tekst.</p>
+<p>Facebook vil ikke kommentere disse opplysningene, men sier at det hittil ikke er avdekket at noen har søkt spesifikt etter passord.</p>
+<p>– Vi har heller ikke funnet tegn til misbruk av data, sier utvikleren Scott Renfro til KrebsOnSecurity.</p>
+<p>Ifølge Renfro planlegger Facebook å varsle brukerne, men ifølge ham er det ikke nødvendig å endre passord.</p>
+<p>(©NTB)</p></div></body></document>

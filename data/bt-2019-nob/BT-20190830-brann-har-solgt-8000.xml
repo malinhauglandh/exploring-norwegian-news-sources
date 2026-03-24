@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190830-brann-har-solgt-8000.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/XgpQon/Brann-har-solgt-8000-billetter-til-Norge-England-Kun-noen-hundre-ser-Arna-Bjornar-og-Sandviken" frk="31 19 4 207 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-30 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brann har solgt 8000 billetter til Norge-England. Kun noen hundre ser Arna-Bjørnar og Sandviken.</div>
+<div type="ingress">– Enn så lenge har ikke VM hatt noen stor effekt. Det er realiteten, sier Sandviken-leder.</div>
+<div type="author"></div>
+<div type="date">2019-08-30</div>
+<div type="caption"></div>
+</body></document>

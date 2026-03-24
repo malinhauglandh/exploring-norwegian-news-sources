@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190430-test-av-lopetights-v.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-av-lopetights-vi-digget-a-lope-med-vinneren/71022942" frk="70 0 0 449 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-30 19:58"/>
+<attribute name="author" value="Kristin Roset"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="tema,pluss,løpetights,treningsskolen,test"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av løpetights: Vi digget å løpe med vinneren!</div>
+<div type="ingress">Vi har testet løpetightser som passer til sommerbruk.</div>
+<div type="author">Kristin Roset</div>
+<div type="date">2019-04-30</div>
+<div type="caption"><p>LØPETID: Hanne Mjøen Maridal er en av våre beste langdistanseløpere og blir trent av Ingrid Kristiansen. Hun har sammen med maratonløper Simen Næss Berge testet seks løpetightser for Dagbladet. Begge løper mye, gjerne to ganger for dag, så plaggene har fått kjørt seg både på trening, og i vaskemaskinen. FOTO: Kristin Roset</p></div>
+</body></document>

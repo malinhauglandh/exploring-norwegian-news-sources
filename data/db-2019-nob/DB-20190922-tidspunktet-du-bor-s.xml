@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190922-tidspunktet-du-bor-s.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/tidspunktet-du-bor-sjekke-blodtrykket/71512547" frk="51 5 2 358 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-22 19:55"/>
+<attribute name="author" value="Silje Førsund"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tidspunktet du bør sjekke blodtrykket</div>
+<div type="ingress">Måler du bare blodtrykket hos fastlegen, kan det gi deg en falsk trygget.</div>
+<div type="author">Silje Førsund</div>
+<div type="date">2019-09-22</div>
+<div type="caption"><p>HØYT BLODTRYKK: En stor internasjonal studie viser at 24 timers blodtrykksregistering er mer nøyaktig enn måling bare på legekontoret. Norske hjertespesialister mener flere bør måle blodtrykket mens de sover. Foto: NTB Scanpix</p></div>
+</body></document>

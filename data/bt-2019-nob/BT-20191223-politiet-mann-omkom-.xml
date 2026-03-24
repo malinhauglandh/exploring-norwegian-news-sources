@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191223-politiet-mann-omkom-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K32Gx7/Politiet-Mann-omkom-etter-klemulykke" frk="29 30 6 198 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-23 14:18"/>
+
+<attribute name="author" value="Gerd Tjeldflåt Pål Andreas Mæland"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet: Mann omkom etter klemulykke</div>
+<div type="ingress">Mannen skal ha kommet i klem mellom bil og tilhenger.</div>
+<div type="author">Gerd Tjeldflåt Pål Andreas Mæland</div>
+<div type="date">Publisert 23. desember 2019 14:18</div>
+<div type="caption"><p>DØDSULYKKE: Mannen i 80-årene omkom i ulykken i Angedalen ved Førde. Foto: 2211-tipser</p></div>
+</body></document>

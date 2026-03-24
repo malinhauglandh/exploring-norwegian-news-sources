@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190612-problemer-med-bank-i.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/3JV209/Problemer-med-Bank-ID-pa-mobil-hos-Telia-kunder-skal-vare-lost" frk="114 2 2 737"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-06-12 14:21:31"/>
+<attribute name="author" value="Christine Andersen Johnsen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="bank,teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Problemer med Bank-ID på mobil hos Telia-kunder skal være løst</div>
+<div type="ingress">Telia-kunder har i dag opplevd problemer med tjenesten Bank-ID på mobil. Problemene skal onsdag ettermiddag være løst, ifølge Telia.</div>
+<div type="author">Christine Andersen Johnsen</div>
+<div type="date">2019-06-12 14:21:31</div>
+<div type="caption"><p>Driftsfeilen ved bruk av Bank-ID på mobil hos Telia-kunder skal være løst etter en oppdatering av systemene. Lien, Kyrre / SCANPIX</p></div>
+<div type="text">
+<p>– Problemene skyldtes en oppgradering av systemene til en av våre underleverandører. Dette startet omtrent i formiddag, men Bank-ID på mobil skal nå fungere som normalt igjen for våre kunder, sier informasjonssjef i Telia, Ellen C. Scheen.</p>
+<p>Driftsfeilen ble fikset i 14-tiden, og ble løst ved å oppdatere systemet.</p>
+<p>– Vi beklager ulempene dette har medført for våre kunder i dag, sier Scheen.</p></div></body></document>

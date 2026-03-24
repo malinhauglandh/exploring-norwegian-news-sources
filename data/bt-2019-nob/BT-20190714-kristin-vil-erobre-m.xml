@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190714-kristin-vil-erobre-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/g7RaWq/Kristin-vil-erobre-moteverda-med-Tinder-for-klede" frk="19 0 0 155 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-14 17:37"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value="Klima,London,Bergen,Tinder,Mote,Oppstartsbedrift"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kristin vil erobre moteverda med «Tinder for klede»</div>
+<div type="ingress">Bergensaren Kristin Grostad gjer bedrift ut av moteinteressa og klimaengasjementet.</div>
+<div type="author"></div>
+<div type="date">2019-07-14</div>
+<div type="caption"></div>
+</body></document>

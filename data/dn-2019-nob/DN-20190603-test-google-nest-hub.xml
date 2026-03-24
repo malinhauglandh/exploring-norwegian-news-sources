@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190603-test-google-nest-hub.xml"/>
+<attribute name="url" value="http://www.dn.no/teknotesten/test-google-nest-hub-smartskjerm/2-1-613392" frk="876 1 8 5269"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-06-03 18:40"/>
+<attribute name="author" value="Magnus Eidem"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="teknotesten"/>
+<attribute name="class2" value="Privat,Teknotesten"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test: Google Nest Hub smartskjerm</div>
+<div type="ingress">Googles nyeste smarthøyttaler har også skjerm. Fancy billedramme - eller faktisk nytte? Googles nyeste smarthøyttaler har også skjerm. Fancy billedramme - eller faktisk nytte?</div>
+<div type="author">Magnus Eidem</div>
+<div type="date">2019-06-03 18:40</div>
+<div type="caption">Google Nest Hub er en smarthøyttaler med skjerm som skal hjelpe deg med smarthusfunksjoner, vise gode bilder og løse små problemer i hverdagen – uten at man må ta opp telefonen. (Foto: Magnus Eidem) </div>
+<div type="text">
+<p>Google Nest Hub, Googles nyeste assistent-produkt for hjemmebruk er nettopp lansert i Norge. Nest Hub tar utgangspunkt i smarthøyttalerne Home og Home Mini, men har også fått skjerm og kan vise innhold i tillegg til å snakke til brukeren.</p>
+<p>– Det er mye informasjon det er enklere å se enn å høre opplest, som værmelding og kalender. Derfor er det helt naturlig å utvide porteføljen av smarthøyttalere med modeller som har skjerm også, sier Mark Spates, produktsjef for Googles smarthøyttalere, til DN.</p>
+<p>Ifølge Spates er Nests ambisjon å lage et diskré produkt som kan gi kjapp og nyttig informasjon i løpet av dagen, et sted å vise bilder tatt med telefonen, og ikke minst styre alle de smarte dingsene hjemme. Vi sjekker om det stemmer.</p></div>
+<div type="title" level="3">Design</div>
+<div type="text">
+<p>Ambisjonen om et diskré produkt treffer blink, tatt i betraktning at det faktisk inneholder en skjerm. Skjermen er på syv tommer, det vil si omtrent som de fleste informasjonsskjermer i moderne biler. Man kan sammenligne størrelsen med et vanlig familiebilde man har fremme, bare med en litt større fot. De eneste fysiske kontrollene er volum og mikrofon av/på, og disse sitter på baksiden. Resten foregår med din egen stemme. Nest Hub har ikke batteri, så plasseringen begrenser seg til steder du har strøm.</p>
+<p>Det er to mikrofoner på fronten, men disse kan deaktiveres. I tillegg sitter det en lyssensor over skjermen som justerer bildestyrken og fargetonen på skjermen etter omgivelsene. Det er ikke noe kamera i Nest Hub.</p></div>
+<div type="title" level="3">Stemmestyring</div>
+<div type="text">
+<p>Google Nest Hub er strengt tatt bare en alternativ måte å bruke Google Assistant på. Eneste måte å betjene den på er å snakke til den. Mikrofonene er gode og Hub klarer fint å snappe opp det du sier. Men den lytter ikke til alt. For å aktivere den må man bruke kommandoen «OK, Google». Alt som sies etter kodeordet blir tolket av Google. Rett etter at man har fått svar kan man følge opp med nye instrukser uten å bruke kodeordet på nytt, slik at samtalen skal flyte mest mulig naturlig. Google Assistant klarer å tolke det meste som blir sagt riktig, inkludert en del dialekter, men av og til må man være ekstra tydelig for å bli oppfattet riktig.</p>
+<p>Nest Hub kan skille mellom ulike brukere i en husholdning. Dette kalles Voice Match og består i at en stemme knyttes til en Google-konto. Et typisk eksempel er at Nest Hub viser kalenderen til den som snakker. Hvem som helst kan snakke til Nest Hub, men Voice Match åpner også personlig informasjon lagret hos Google.</p>
+<p>I tillegg til å hjelpe deg direkte kan Google Assistant la deg snakke direkte med bedrifter som har laget en integrasjon mot tjenesten.</p></div>
+<div type="title" level="3">Nytteverdi</div>
+<div type="text">
+<p>En av nøkkelfunksjonene Google ønsker du skal bruke Nest Hub til er som digital billedramme. Har du bilder lagret i Google Bilder kan disse vises på Hub når den er passiv. Man velger selv hvilke personer eller album som skal være med i visningen. Denne enkle funksjonen skal ikke undervurderes. De fleste bilder vi tar av venner og familie får ikke noe særlig liv utenfor telefonene våre og i sosiale medier, og det er faktisk ganske hyggelig å se dem på en skjerm på kjøkkenet eller i stuen også.</p>
+<p>En annen funksjon er at Google ønsker å utnytte potensialet som ligger i den enorme mengden av «Slik gjør du»-videoer som ligger på Youtube. Spør du Hub «hvordan knyter man slips» vil du få se en video som viser deg det. Her kan det lønne seg å stille spørsmålet på engelsk også, dersom de norske resultatene ikke gjør susen.</p>
+<p>Hvor godt disse nyttefunksjonene fungerer er naturligvis individuelt. Det finnes allerede statistikk som viser at funksjonen som billedramme er den som brukes aller mest. Behovet for instruksjonsvideoer og værmelding er for mange ikke noe man trenger så ofte.</p>
+<p>Det området som har størst potensial for folk flest er såkalt hjemmeautomasjon eller smarthusfunksjoner. Google Nest består av en rekke smarthusprodukter som termostater, dørklokker med kamera, røyksensorer og videoovervåkning. Alt dette kan naturligvis styres gjennom Hub. Men Nest støtter ikke bare egne produkter. De har også bred støtte for smarthusprodukter fra andre produsenter, så lenge disse bruker en av de vanlige industristandardene for kommunikasjon. Nest Hub kan dermed bli en rimelig og enkel, men samtidig avansert sentral for styring av et moderne hjem, uten at man er bundet til én enkelt leverandør av utstyr.</p></div>
+<div type="title" level="3">Konklusjon</div>
+<div type="text">
+<p>Til 1290 kroner får man med Google Nest Hub en smartskjerm med stort potensial. Hvor godt man utnytter potensialet avhenger av om man har mange smarthusprodukter eller ikke. For dem som har mange smarte produkter hjemme er Nest Hub en billig og brukervennlig sentral som støtter mange løsninger på tvers av merker og teknologier.</p>
+<p>Dersom smarthusstyring er uinteressant for deg vil nok Nest Hub fungere mest som en digital billedramme du kan snakke med. Men når prislappen er bare 1290 kroner er det kanskje til å leve med.</p></div></body></document>

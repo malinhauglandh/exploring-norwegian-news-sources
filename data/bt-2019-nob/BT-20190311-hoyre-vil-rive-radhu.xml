@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190311-hoyre-vil-rive-radhu.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Mg4EaJ/Hoyre-vil-rive-radhuset" frk="45 0 0 293 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-11 11:45"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Debatt,Bystyret,Arkitektur,Oppussing,Byutvikling,Monica Mæland,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Høyre vil rive rådhuset</div>
+<div type="ingress">Partiet prøver å samle støtte til å rive dagens rådhus og bygge nytt rådhuskvartal.</div>
+<div type="author"></div>
+<div type="date">2019-03-11</div>
+<div type="caption"><p>HAR SNUDD: Høyre og Henning Warloe støttet først en oppussing av dagens rådhus. På onsdagens bystyremøte fremmer de forslag om riving. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

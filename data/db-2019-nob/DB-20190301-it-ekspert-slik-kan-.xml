@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190301-it-ekspert-slik-kan-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/it-ekspert---slik-kan-politiet-bruke-dn-dataene/70823370" frk="984 4 26 5974"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-01 04:09"/>
+<attribute name="author" value="Angelica Hagen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="anne-elisabeth hagen,amund djuve,nyheter,torgeir waterhouse,dagens næringsliv,kidnapping,tom hagen,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">IT-ekspert: - Slik kan politiet bruke DN-dataene</div>
+<div type="ingress">Politiet har hentet ut data fra Dagens Næringsliv etter en artikkel om Tom Hagens formue. Tidligere politietterforsker Leif A. Lier synes det er spesielt at den skal være interessant.</div>
+<div type="author">Angelica Hagen</div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>UTFORDRENDE: Fire måneder etter at Anne-Elisabeth Hagen forsvant, har politiet ennå ikke fått livstegn. Politiinspektør Tommy Brøske beskriver etterforskningen som utfordrende. Video: Madeleine Liereng. Reporter: Trym Mogen</p> <p>- MÅ SE MØNSTERET: Torgeir Waterhouse mener politiet vil bruke dataene til å se etter atferdsmønstre. Foto: IKT-Norge</p> <p>- KAN LØSES: Tidligere politietterforsker Leif A. Lier mener det er stor sjanse for at saken kan oppklares. Foto: Jørn H. Moen / Dagbladet</p></div>
+<div type="text">
+<p>Ifølge Aftenposten har en av politiets teorier i forsvinningssaken vært at de antatte kidnapperne fikk øynene opp for Hagen-familien etter en artikkel i Dagens Næringsliv.</p>
+<p>Det var 31. oktober at Anne-Elisabeth Hagen, som er gift med milliardær Tom Hagen, forsvant fra deres felles hjem på Lørenskog.</p>
+<p>27. juli 2018 publiserte Dagens Næringsliv en artikkel om Tom Hagens rekordomsetning i 2017.</p>
+<p>- Hagen har 871,6 millioner kroner i egenkapital ved utgangen av fjoråret i konsernet, skrev DN i saken.</p>
+<p>19. januar i år fikk sjefredaktør Amund Djuve i DN tilsendt en rettslig kjennelse med krav om å utlevere data som kunne bidra til å identifisere lesere av artikkelen, skriver Aftenposten.</p>
+<p>Djuve bekrefter overfor Dagbladet at han har utlevert datamaterialet.</p></div>
+<div type="title" level="3">- Flere faktorer</div>
+<div type="text">
+<p>Akkurat hva slags informasjon som er utlevert til politiet, kan ikke Djuve si noe om.</p>
+<p>Direktør for internett og nye medier i IKT-Norge, Torgeir Waterhouse, forklarer at hva slags datamateriale etterforskerne har fått, kommer an på hvilke systemer DN bruker.</p>
+<p>- Flere faktorer spiller inn, blant annet cookies og om det er innloggede brukere som har lest artikkelen, sier han.</p>
+<p>Det er dermed ikke kun IP-adressen som vil være interessant for politiet, men også hvor saken er lest fra geografisk, og hvor du kom fra for å lese akkurat den artikkelen.</p>
+<p>- Annonser treffer deg på atferden din, og det bygges opp læring om individet, sier Waterhouse.</p></div>
+<div type="title" level="3">- Det perfekte caset</div>
+<div type="text">
+<p>Selv om den aktuelle DN-saken ikke er en pluss-sak, der du må være innlogget for å lese, kan abonnenter allerede være innlogget da de leste den. Innloggede brukere legger naturlig nok igjen mer informasjon om seg selv, noe som er svært nyttig for politiet.</p>
+<p>- Det perfekte caset for politiet er om du er logget inn, kun leser sakene om Anne-Elisabeth Hagen og sitter på hjemmenettet, sier Waterhouse.</p>
+<p>Dataene fra DN alene, vil trolig ikke kunne lede politiet til spesifikke navn. Waterhouse forklarer imidlertid at om en person bruker bredbåndet hjemme, kan bredbåndsleverandøren viderebringe dette.</p>
+<p>Politiet sier til Aftenposten at de kan bekrefte at de har vært i dialog med DN, men at de ikke kan si noe mer enn det.</p></div>
+<div type="title" level="3">Mønsteret blir viktig</div>
+<div type="text">
+<p>Waterhouse sier at det er særlig atferdsmønsteret som vil være interessant for politiet, og at det er summen av informasjonen som er viktig.</p>
+<p>- Dataene kan bidra til å begrense aktuelle folk. For eksempel kan politiet få informasjon om utstyret som er brukt, som igjen kan hjelpe under et eventuelt beslag, sier han.</p>
+<p>Han understreker at dataene i større grad kan hjelpe med å bekrefte eller avkrefte deler av etterforskningen – at politiet kombinerer eventuelle atferdsmønstre i dataene med etterforskningsmaterialet.</p>
+<p>- Jo mer informasjon politiet har som utgangspunkt, jo enklere er det å få noe ut av sporene som ligger der.</p>
+<p>Waterhouse understreker også at det er en del forutsetninger som må være på plass for at politiet skal få denne informasjonen i det hele tatt.</p>
+<p>- Folk kan skjule seg godt og på mange måter. Det er ikke gitt at politiet får den informasjonen de er ute etter, sier han.</p></div>
+<div type="title" level="3">- Har noe for seg</div>
+<div type="text">
+<p>Tidligere politietterforsker Leif A. Lier sier til Dagbladet at det er forståelig at politiet vil snu hver stein i denne saken.</p>
+<p>- Alt har noe for seg. De må undersøke alle opplysninger, og dette kan også ha noe for seg. Et lite tips kan løse en meget vanskelig sak. Det har vi sett flere ganger. Det er derfor politiet hele tiden ber folk komme med tips, sier han.</p>
+<p>Lier synes imidlertid at det er litt spesielt at en DN-sak skal være interessant, all den tid Kapital hvert år publiserer lista over Norges rikeste personer.</p>
+<p>- Jeg har ikke lest den aktuelle DN-saken, men Tom Hagen topper ikke lista over Norges rikeste. Dersom det står en internasjonal, kriminell organisasjon bak forsvinningen, synes jeg det er spesielt å plukke ut Hagen-familien, sier han, og legger til at det selvsagt bare blir spekulasjoner.</p>
+<p>Han er tydelig på at politiet åpenbart gjør alt de kan for å løse denne saken.</p>
+<p>- Dette er ikke lenger bare Øst politidistrikt, men alt av profesjonelle etterforskere i Norge, sier han.</p>
+<p>Den tidligere politietterforskeren mener det er fullt mulig å løse saken. Han viser til at om det er sikret tekniske spor, som blant annet DNA, i ekteparets hjem, er det ikke mye som skal til for å finne ut hvem som står bak.</p>
+<p>- Mulighetene for å oppklare saken er stor, men om hun er live er mer tvilsomt.</p></div>
+<div type="title" level="3"> Savnet i 120 dager</div>
+<div type="text">
+<p>Torsdag formiddag holdt politiet en pressekonferanse om forsvinningen. Der uttalte politiinspektør Tommy Brøske at det i større grad enn tidligere er grunn til å betvile om Anne-Elisabeth Hagen er i live.</p>
+<p>En av grunnene til at politiet nå begynner å miste troen, er at det ikke har kommet noen ny henvendelse fra antatte kidnappere etter at politiet gikk ut 11. februar og fortalte om en henvendelse fra den antatte motparten.</p>
+<p>De kom da ikke med noen bevis for at Hagen var i live, og det har ikke kommet noen siden.</p>
+<p>- Vi kan ikke utelukke at det er flere plausible forklaringer på at det ikke kommer livsbevis. Det kan være et valg fra motpart. Men det kan også være at noe gikk galt under bortføringen, og at motparten derfor ikke er i stand til å gi livsbevis, sa Brøske.</p>
+<p>Anne-Elisabeth Hagen har nå vært savnet i 120 dager.</p></div></body></document>

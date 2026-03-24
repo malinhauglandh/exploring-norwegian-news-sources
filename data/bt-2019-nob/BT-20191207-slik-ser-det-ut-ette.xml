@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191207-slik-ser-det-ut-ette.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dOQKlw/Slik-ser-det-ut-etter-naustbrannen-i-natt" frk="21 0 0 131 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-07 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik ser det ut etter naustbrannen i natt</div>
+<div type="ingress">En trist skue møtte nausteierne i Arna etter brannen natt til lørdag.</div>
+<div type="author"></div>
+<div type="date">2019-12-07</div>
+<div type="caption"></div>
+</body></document>

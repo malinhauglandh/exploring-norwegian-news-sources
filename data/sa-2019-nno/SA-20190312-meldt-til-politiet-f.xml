@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190312-meldt-til-politiet-f.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/zLd9Ov/Meldt-til-politiet-for-underslag-i-forretning-pa-Jaren" frk="27 0 0 180 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-12 08:39"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="sør-vest politidistrikt,politiet,jærbladet"/>
+<attribute name="language" value="nno"/>
+</header>
+<body>
+<div type="title" level="1">Meldt til politiet for underslag i forretning på Jæren</div>
+<div type="ingress">Ei forretning på Jæren har meldt ein av sine eigne seljarar til politiet for underslag, melder Jærbladet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"></div>
+</body></document>

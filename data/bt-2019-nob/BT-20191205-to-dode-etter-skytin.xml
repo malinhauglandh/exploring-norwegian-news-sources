@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191205-to-dode-etter-skytin.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/701vm3/To-dode-etter-skyting-i-Norrkping" frk="29 0 0 172 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-05 06:57"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">To døde etter skyting i Norrköping</div>
+<div type="ingress">To menn er døde av skadene etter at de ble skutt utenfor en nattklubb i den svenske byen Norrköping natt til torsdag.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 5. desember 2019 06:57</div>
+<div type="caption"></div>
+</body></document>

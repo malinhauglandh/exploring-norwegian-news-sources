@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191023-slik-tapte-hoyre-byr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0nO1jg/Slik-tapte-Hoyre-byradsmakten-i-Bergen" frk="45 0 0 280 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-23 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik tapte Høyre byrådsmakten i Bergen</div>
+<div type="ingress">Onsdag morgen skulle KrF og Høyre møtes på Bryggen for å annonsere hvilke saker de var blitt enige om. Det handlet om bybanetunnel og reduserte bompenger. Men tirsdagskvelden fikk KrF tilbud fra Ap og byttet side – igjen.</div>
+<div type="author"></div>
+<div type="date">2019-10-23</div>
+<div type="caption"></div>
+</body></document>

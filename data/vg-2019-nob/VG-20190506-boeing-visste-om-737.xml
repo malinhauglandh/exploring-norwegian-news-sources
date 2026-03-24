@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190506-boeing-visste-om-737.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/utenriks/i/0n36K0/boeing-visste-om-737-max-problem" frk="187 12 15 1177"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-05-06 12:44"/>
+<attribute name="author" value="Øystein David Johansen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Boeing visste om 737 MAX-problem</div>
+<div type="ingress">Flyprodusenten innrømmer at de kjente til et problem med flytypen ett år før to fly var involvert i ulykker som krevde mange menneskeliv.</div>
+<div type="author">Øystein David Johansen</div>
+<div type="date">Oppdatert 6 may</div>
+<div type="caption"><p>FLYTYPE I TRØBBEL: Et fly av typen Boeing 737 MAX. Foto: Ted S. Warren / TT NYHETSBYRÅN</p></div>
+<div type="text">
+<p>157 mennesker mistet livet da et Boeing MAX 737-fly styrtet i Etiopia i mars. Fem måneder tidligere styrtet et fly av samme type og drepte 189 da et fly fra Lion Air styrtet i Indonesia.</p>
+<p>Nå bekrefter Boeing at de utilsiktet gjorde et alarmsystem valgfri, og ikke standard. Det melder Boeing selv i en pressemelding.</p>
+<p>Alarmsystemet Angle of Attack (AOA) var laget for at piloter skal varsles når to forskjellige sensorer rapporterer om motstridende data.</p>
+<p>Planen var at dette indikator-systemet skulle være standard, men fant ut først etter at levering av fly hadde begynt at det kun var tilgjengelig dersom flyselskapene betalte ekstra for det.</p>
+<p>Amerikanske luftfartsmyndigheter FAA sier dette var en lavrisiko-problemstilling, men at Boeing kunne ha bidratt til å «eliminere mulig forvirring».</p>
+<p>Tidligere har det blitt kjent at minst fem piloter skal ha varslet om autopilottrøbbel med denne flytypen.</p></div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190227-jorda-er-rund.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/leder/i/l1qK07/Jorda-er-rund" frk="42 14 4 280 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-27 20:30"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,leder"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Jorda er rund</div>
+<div type="ingress">Forskarar må gå i rette med konspirasjonsteoriar, men kan ikkje bruke tida på barneskulelærdom.</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">2019-02-27</div>
+<div type="caption"><p>RUND: – Jorda er rund, slår BT fast på leiarplass. Her er orkanen Danny fotografert frå den internasjonale romstasjonen ISS i 2015. Foto: Nasa/Reuters</p></div>
+</body></document>

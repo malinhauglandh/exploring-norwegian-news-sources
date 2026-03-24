@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191129-har-ikke-tatt-refera.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/WbyJyd/har-ikke-tatt-referat-fra-krisemoeter-om-trygdeskandalen" frk="35 0 0 230 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-29 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Har ikke tatt referat fra krisemøter om trygdeskandalen</div>
+<div type="ingress">Det utløste en rad av møter på toppnivå da Nav og Anniken Hauglies departement så trygdeskandalen komme. Men det er ikke skrevet referat fra disse møtene.</div>
+<div type="author"></div>
+<div type="date">2019-11-29</div>
+<div type="caption"></div>
+</body></document>

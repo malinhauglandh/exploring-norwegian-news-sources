@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191128-person-sendt-til-leg.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/JowpO7/Person-sendt-til-legevakt-etter-arbeidsulykke" frk="43 0 0 293 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-28 11:52"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Person sendt til legevakt etter arbeidsulykke</div>
+<div type="ingress">En person falt ned fra en stige på Color Line-terminalen i Kristiansand torsdag ettermiddag. Vedkommende er kjørt til legevakt for sjekk.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Nødetatene er på plass i havna etter melding om en arbeidsulykke. FOTO: Jon Berntsen Kåsa</p></div>
+</body></document>

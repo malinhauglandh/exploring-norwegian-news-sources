@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191108-psst-hemmeleg.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/LAXe5R/Psst-Hemmeleg" frk="41 0 0 241 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-08 14:31"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="bryne,mat og drikke,restaurantanmeldelse,spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Psst. Hemmeleg:</div>
+<div type="ingress">Grisen er lykkelig, men død. Det vokser løgne kål på Orre, og vi får en slags kokain til dessert. Bryne blir aldri det samme etter dette.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Hemmeleg. Ingen grunn til å holde det for seg selv. Pål Christensen</p></div>
+</body></document>

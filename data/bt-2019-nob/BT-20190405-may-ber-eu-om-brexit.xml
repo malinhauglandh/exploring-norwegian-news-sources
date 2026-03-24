@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190405-may-ber-eu-om-brexit.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/9vpAVr/May-ber-EU-om-brexit-utsettelse-til-juni" frk="88 3 2 546 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-05 10:10"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value="EU,Theresa May,Donald Tusk,Storbritannia,Brexit"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">May ber EU om brexit-utsettelse til juni</div>
+<div type="ingress">Britenes statsminister Theresa May ber EU om en utsettelse av brexit til 30. juni.</div>
+<div type="author">NTB</div>
+<div type="date">5. april 2019 10:10</div>
+<div type="caption"><p>NY UTSETTELSE: Statsminister Theresa May har skrevet brev til EU. FOTO: TT NYHETSBYRÅN</p></div>
+<div type="text">
+<p>May ber om utsettelsen i et brev til EU-president Donald Tusk.</p>
+<p>Han har selv foreslått ett års fleksibel utsettelse av brexit, ifølge en rekke medier. Tusks plan åpner for at Storbritannia kan forlate EU tidligere om Parlamentet godtar en avtale med EU.</p>
+<p>Han skal legge fram dette forslaget for EUs medlemsland i dag.</p></div></body></document>

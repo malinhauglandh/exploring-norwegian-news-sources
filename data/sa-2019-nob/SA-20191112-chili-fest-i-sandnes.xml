@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191112-chili-fest-i-sandnes.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/bKPbQk/chili-fest-i-sandnes" frk="33 0 0 205 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-11-12 13:42"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="anmeldelse,restaurantanmeldelse,spise ute"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Chili-fest i Sandnes</div>
+<div type="ingress">Restaurantanmeldelse: Hvis du vil ha thaimat med skikkelig futt i, kan du trygt oppsøke San Sab.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>San Sab i Langgata i Sandnes ga oss en varm velkomst. Jarle Aasland</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191225-en-dyslektiker-tar-s.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/wPp9an/en-dyslektiker-tar-sin-hevn" frk="29 0 0 167 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-25 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En dyslektiker tar sin hevn</div>
+<div type="ingress">Kenneth var en skoletaper. Han fikk aldri taket på lesingen. Han begynte å tro han var dum. Det var før han traff Else.</div>
+<div type="author"></div>
+<div type="date">2019-12-25</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190206-norske-visma-har-bli.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/norske-visma-har-blitt-hacket/70738785" frk="779 3 17 4984"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-06 11:53"/>
+<attribute name="author" value="Angelica Hagen, Amanda Nordhagen Walnum, Nicolai Eriksen"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,visma,kina,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske Visma har blitt hacket</div>
+<div type="ingress">Ifølge Reuters skal Kina stå bak et hackerangrep mot norske Visma.</div>
+<div type="author">Angelica Hagen, Amanda Nordhagen Walnum, Nicolai Eriksen</div>
+<div type="date">2019-02-06</div>
+<div type="caption"><p>HACKET: Visma skal angivelig ha blitt hacket av kinesisk etterretning. Her er Vismas lokaler i Bjørvika i Oslo. Foto: Terje Pedersen / NTB scanpix</p></div>
+<div type="text">
+<p>Det norske selskapet Visma har blitt utsatt for et hackerangrep, skriver Reuters. Ifølge nyhetsbyrået jobber hackerne for kinesisk etterretning.</p>
+<p>En representant for selskapets ledelse beskriver overfor Reuters angrepet som «potensielt katastrofalt».</p>
+<p>Hackerne skal ikke ha fått tilgang til noen av kundenes nettverk. Visma leverer tjenester til mer enn 900 000 selskaper i Skandinavia og deler av Europa.</p></div>
+<div type="title" level="3">Forretningshemmeligheter</div>
+<div type="text">
+<p>Selskapet Recorded Future har publisert en rapport etter å ha undersøkt en angivelig hackerkampanje utført av den kinesiske statsstøttede trusselaktøren APT10.</p>
+<p>Angrepet skal ha vært rettet mot minst tre selskaper i USA og Europa mellom november 2017 og september 2018, har Recorded Future og Rapid7 avdekket.</p>
+<p>Visma Norge være blant selskapene som er omtalt i rapporten.</p>
+<p>Disse hackerne skal ifølge nyhetsbyrået ha jobbet for kinesisk etterretning, og motivet skal ha vært å stjele forretningshemmeligheter fra Vismas kunder. Hackerne fikk tilgang til Vismas nettverk ved å bruke stjålet påloggingsinformasjon.</p></div>
+<div type="title" level="3">- Alvorlig</div>
+<div type="text">
+<p>- Det er snakk om noe vi har sett før, og som Kina har holdt på med i mange år. Industrispionasje.</p>
+<p>Det sier Nupi-forsker Karsten Friis, leder for forskningsgruppen for sikkerhet og forsvar, til Dagbladet. Han skryter av Visma, som har valgt å gå offentlig ut og bekreftet angrepet.</p>
+<p>- Det er veldig bra at de har gått ut med dette. Det er et kjent problem fra tidligere at private selskaper, spesielt aksjenoterte selskaper, ikke går ut med slik informasjon fordi de frykter å bli skadelidende. Men det skaper en ond sirkel. Derfor er det prisverdig at Visma går ut med det, sier Friis.</p>
+<p>- Industrispionasje er noe Kina har drevet med i lang tid. Dette er ikke noe hyggelig, det er alvorlig og det har skjedd i Norge flere ganger, sier Friis videre.</p>
+<p>Han viser til at det ikke sitter noen sentral noe sted i Norge med full oversikt over all datatrafikk som går ut av landet, og at det derfor ofte er snakk om flaks at slike angrep i det hele tatt blir oppdaget.</p></div>
+<div type="title" level="3">Russland og Kina</div>
+<div type="text">
+<p>Friis sier man kan anta at slike angrep forekommer langt oftere enn vi er kjent med.</p>
+<p>- Spionasje har alltid vært der, men ikke i den skalaen man ser nå. Det er ikke tillitsbyggende, sier han.</p>
+<p>Norsk etterretning har gjentatte ganger advart mot den dramatiske veksten i digitale trusler mot politiske, militære og økonomiske mål. Etterretningstjenesten har spesifikt varslet at de mest alvorlige digitale truslene vil komme fra Russland og Kina.</p>
+<p>- Forskjellen mellom Kina og Russland er at hackergruppene i Kina er mye tydeligere koblet til det offisielle Kina. I Russland har man såkalte patriotiske hackergrupper, som skal operere uavhengig av staten. Men det er ingen som kjøper den bløffen, mener Friis.</p></div>
+<div type="title" level="3">Fikk ikke tilgang</div>
+<div type="text">
+<p>Sikkerhetssjef Espen Johansen i Visma sier til nyhetsbyrået at de oppdaget angrepet kort tid etter at hackerne tok seg inn i Vismas systemer.</p>
+<p>- Gjennom eksisterende sikkerhetsprogrammer, respons fra våre sikkerhetsgrupper og gode råd fra våre partnere, var vi i stand til å forhindre at klientdata ble kompromittert, sier Espen Johansen i en pressemelding.</p>
+<p>Han opplyser samtidig på generelt grunnlag at Visma alltid anmelder hackerangrep til politiet, og takker blant annet PST for samarbeidet i denne saken.</p>
+<p>- Men hvis jeg tar på meg «den paranoide hatten», kunne dette ha vært katastrofalt. En stor etterretningsorganisasjon et sted i verden som vil samle så mye informasjon som mulig, kan selvsagt gå etter et samlet sted. Det sier seg selv, sier Johansen til Reuters.</p>
+<p>Det kinesiske utenriksdepartementet har ikke besvart Reuters henvendelser om en kommentar til saken, men de har tidligere nektet for å stå bak hackerangrep.</p></div>
+<div type="title" level="3">PST involvert</div>
+<div type="text">
+<p>- Visma og Politiets sikkerhetstjeneste har hatt en god dialog på dette. Det er viktig i det forebyggende arbeidet at virksomheter varsler norske myndigheter, sier Annett Aamodt, senior kommunikasjonsrådgiver i PST.</p>
+<p>Visma fikk tidlig mistanke om at en statlig aktør kunne stå bak, og varslet derfor PST, forteller hun.</p>
+<p>- Vi vet at nettverksoperasjoner som dette foregår, og derfor er denne åpenheten som Visma nå har vist viktig i det forebyggende arbeidet.</p>
+<p>Hun ønsker ikke å kommentere om denne statlige aktøren er Kina.</p></div>
+<div type="title" level="3">Bistand fra NSM</div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) kjenner godt til angrepet mot Visma og har bistått selskapet.</p>
+<p>- Vi har bistått i håndteringen. Vi vil berømme selskapet for å ha håndtert hendelsen godt teknisk og for å ha vist åpenhet, sier kommunikasjonsdirektør Mona Strøm Arnøy i NSM ifølge NTB.</p>
+<p>Hun sier det er viktig at selskaper er åpne om hendelser som dette.</p>
+<p>NSM er nasjonal varslings- og koordineringsinstans for alvorlige dataangrep og andre IKT-sikkerhetshendelser.</p>
+<p>Dagbladet oppdaterer saken.</p></div></body></document>

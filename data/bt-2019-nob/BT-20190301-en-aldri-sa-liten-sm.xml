@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190301-en-aldri-sa-liten-sm.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/WLVkOQ/En-aldri-sa-liten-smak-av-sommer" frk="31 0 0 221 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-01 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Norsk musikk,Musikk,Pop (musikk),Musikkanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">En aldri så liten smak av sommer</div>
+<div type="ingress">Denne uken satte bergensværet ny varmerekord. Samtidig slapp fire bergensartister hver sine nydelige sommerlåter.</div>
+<div type="author"></div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>MYRA: Landets mest unike, dype røst. FOTO: Ørjan Deisz</p></div>
+</body></document>

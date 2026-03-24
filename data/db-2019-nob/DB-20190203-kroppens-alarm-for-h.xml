@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190203-kroppens-alarm-for-h.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/kroppens-alarm-for-hjerteinfarktet/70716134" frk="65 0 0 384 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-03 20:57"/>
+<attribute name="author" value="Jorun Gaarder"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="helse,tema,symptomer,hjerteinfarkt,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kroppens alarm før hjerteinfarktet</div>
+<div type="ingress">For noen rammer hjerteinfarkt som lyn fra klar himmel. For andre kan kroppen ha gitt et signal i dager, uker, måneder eller til og med år i forveien.</div>
+<div type="author">Jorun Gaarder</div>
+<div type="date">2019-02-03</div>
+<div type="caption"><p>RAMMER: For noen rammer hjerteinfarkt som lyn fra klar himmel. For andre kan kroppen ha gitt et forvarsel i dager, uker, måneder eller til og med år i forveien. Foto: NTB Scanpix.</p></div>
+</body></document>

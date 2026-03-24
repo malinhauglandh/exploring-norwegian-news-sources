@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190128---finner-jeg-riktig-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/21aKBv/-Finner-jeg-riktig-mann_-er-jeg-apen-for-a-fa-barn" frk="25 0 0 127 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-28 14:16"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Finner jeg riktig mann, er jeg åpen for å få barn</div>
+<div type="ingress">Vi har spurt unge kvinner om og når de ønsker seg barn.</div>
+<div type="author"></div>
+<div type="date">2019-01-28</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190422-direkte-folg-sandnes.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/100Sport/fotball/DIREKTE-Folg-Sandnes-Ulf---Start-og-chat-med-var-reporter-272499b.html" frk="26 12 2 164 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-04-22 14:10"/>
+<attribute name="author" value="Egil Ø Nærland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="sandnes ulf,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">DIREKTE: Følg Sandnes Ulf - Start og chat med vår reporter</div>
+<div type="ingress">Vi følger hvert spark på ballen fra kl. 18.</div>
+<div type="author">Egil Ø Nærland</div>
+<div type="date">22.apr.2019 16:10</div>
+<div type="caption"><p>FOTO: Fredrik Varfjell / BILDBYRÅN NORWAY</p></div>
+</body></document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190122-misforstatt-personve.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/debatt/i/qnozam/-Misforstatt-personvern-odelegger-kreftforskningen--Ola-Myklebost" frk="521 6 24 3575"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-01-22 19:00"/>
+<attribute name="author" value="Ola Myklebost"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,debatt"/>
+<attribute name="class2" value="debatt,personvern,medisin"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Misforstått personvern ødelegger kreftforskningen | Ola Myklebost</div>
+<div type="ingress">Database kan bli nesten verdiløs.</div>
+<div type="author">Ola Myklebost</div>
+<div type="date">22. jan. 2019 20:00</div>
+<div type="caption"><p>FOTO: Illustrasjonsfoto: Science photo / Shutterstock / NTB scanpix Jeg forsker på kreft hos barn og unge og bruker genteknologiske metoder for å studere pasientenes og svulstenes arvestoff, skriver innleggsforfatteren.</p> <p>Ola Myklebost</p></div>
+<div type="text">
+<p>Datatilsynets Bjørn Erik Thon påpeker at persontilpasset medisin er skummelt, og Aftenposten har satt søkelys på hvordan misforstått personvern ved Oslo universitetssykehus (OUS) hindrer både trygg pasientbehandling og medisinsk forskning.</p>
+<p>Selv om personvernombudet på OUS er sentral i problemstillingene, er problemet dessverre mer omfattende. Det uklare lovverket åpner for tolkninger som fokuserer mer på mulige problemer enn løsninger.</p>
+<p>3rd-party-bio</p></div>
+<div type="title" level="3">Kreft hos barn og unge</div>
+<div type="text">
+<p>Jeg forsker på kreft hos barn og unge og bruker genteknologiske metoder for å studere pasientenes og svulstenes arvestoff for å identifisere viktige mekanismer.</p>
+<p>Personvernombudet mente denne forskningen var regulert av bioteknologiloven og at slike analyser på barn derfor er forbudt. Helsedirektoratet konkluderte i et firesiders svar med at jeg selv måtte vurdere dette, men heldigvis ble prosjektet ikke stoppet.</p>
+<p>Denne misforståelsen om bioteknologilovens virkeområde dukker stadig opp. Den Nasjonale etiske komité for medisin hevder at all genomsekvensering vil omfattes, fordi den kan gi prediktiv (fremtidsbeskrivende) genetisk informasjon.</p>
+<p>Mange i de juridisk/etiske miljøene synes dette er greit, det er jo tryggest at også forskningen er lovregulert? Men de bekymrer seg ikke over at lovens strenge bestemmelser i praksis vil gjøre slik forskning også på voksne ugjennomførbar.</p></div>
+<div type="title" level="3">Godt beskyttede registre</div>
+<div type="text">
+<p>I vårt nasjonale forskningsprosjekt på persontilpasset kreftbehandling har vi analysert alle genene til ca. 1000 pasienter og deres svulster. Alle disse dataene, fra ni krefttyper, er lagret i ni registre godt beskyttet i et sikkert datasystem på Universitetet i Oslo.</p>
+<p>Bare et fåtall godkjente personer har tilgang, og dataene er avidentifiserte, man kan bare se hvem de kommer fra gjennom en godt voktet kodeliste. Kunnskapen om arvelig variasjon i den norske befolkning er viktig både for forskning og utredning av arvelig sykdom, og vi har offentliggjort hyppigheten av hver variant i en anonym database (se 1000genomes.no).</p></div>
+<div type="title" level="3">Ulovlig register?</div>
+<div type="text">
+<p>Personvernombudet rapporterte forholdet til klinikk- og forskningsledelsen som et antatt brudd på personvernet. Ombudet antok at vi hadde laget et ulovlig ikke-anonymt register og så talt opp variantene.</p>
+<p>Oppsto det noen trussel for personvernet om det forbigående fantes et slikt register med de dataene som allerede fantes i det lukkede systemet? Vi hadde heldigvis tatt ut variantene anonymt og så talt dem opp, så dette var uansett i orden.</p>
+<p>Nå har Helsedirektoratet kommet frem til at dataene ikke er anonyme likevel! Uten nærmere begrunnelse mener de at opplysninger som finnes i mindre enn fem individer i et utvalg ikke er anonyme. Da må vi fjerne ca. 900.000 sjeldne varianter. Men det som finnes fire ganger i 1000 individer, antas å finnes i ca. 20.000 nordmenn. Fjernes disse viktige variantene, blir databasen nesten verdiløs.</p>
+<p>Hvordan og hvorfor skulle noen ha en persons arvelige varianter og bruke disse for å se om vedkommende kan være en av kreftpasientene? Besittelse av slike data for utenforstående er jo etter norsk lov forbudt.</p>
+<p>Vi har mange nok faglige utfordringer med persontilpasset medisin.</p>
+<p>Innleggsforfatteren er leder for Norsk kreftgenomikkonsortium</p></div>
+<div type="title" level="3">Les også: </div></body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190918-tjuvjegere-tatt-pa-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/rAXd9w/Tjuvjegere-tatt-pa-fersken-i-narheten-av-Roldal--Jeg-var-50-meter-unna-da-det-smalt" frk="41 8 2 226 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-18 16:41"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Hjort"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tjuvjegere tatt på fersken i nærheten av Røldal: – Jeg var 50 meter unna da det smalt</div>
+<div type="ingress">En jeger satt på post og så etter hjort da det plutselig skal ha kommet en fremmed bil med flombelysning inn på området.</div>
+<div type="author"></div>
+<div type="date">2019-09-18</div>
+<div type="caption"></div>
+</body></document>

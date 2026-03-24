@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191230-skal-ha-brukt-oks-mo.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Jo2MA4/Skal-ha-brukt-oks_-motorsag-og-gevar-mot-politiet" frk="35 10 2 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-30 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Skal ha brukt øks, motorsag og gevær mot politiet</div>
+<div type="ingress">Lørdag ble en 34 år gammel mann skutt av politiet. Han skal ha truet dem med gevær, øks og motorsag før han selv ble skutt.</div>
+<div type="author"></div>
+<div type="date">2019-12-30</div>
+<div type="caption"></div>
+</body></document>

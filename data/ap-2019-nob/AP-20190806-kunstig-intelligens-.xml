@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190806-kunstig-intelligens-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/Wbx8KQ/Kunstig-intelligens-kan-hjelpe-oss-a-snakke-med-dyr" frk="146 0 0 883"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-06 11:19"/>
+<attribute name="author" value="Thea Storøy Elnan"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="språk,teknologi,kunstig intelligens,dyr,kommunikasjon,data"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstig intelligens kan hjelpe oss å snakke med dyr</div>
+<div type="ingress">Forskere over hele verden er i ferd med å dekode dyrespråk ved hjelp av ny teknologi.</div>
+<div type="author">Thea Storøy Elnan</div>
+<div type="date">06.aug.2019 13:19</div>
+<div type="caption"><p>FOTO: Scanpix / Wikimedia Commons Forskere jobber blant annet med delfiner, præriehunder og katter for at vi skal kunne forstå dem bedre.</p></div>
+<div type="text">
+<p>Du har kanskje hørt at katter lager spesielle lyder for å snakke med mennesker. Forskere tror vi om kort tid kan snakke med en rekke andre dyrearter, fra delfiner til præriehunder. Løsningen ligger i kunstig intelligens og algoritmer: Poenget er ikke å oversette dyrenes språk på samme måte som vi oversetter for eksempel hindu til norsk. Forskere verden over samler nå heller dyrelyder i store mengder, såkalt big data, for å kunne finne mønster i lydene.</p>
+<p>– Vi får forespørsler fra folk som ønsker å bruke teknologien vår til å lese dikt for delfinene, sier datalingvist Jussi Karlgren.</p></div></body></document>

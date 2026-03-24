@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013-ingrid-20-er-pa-tren.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/P9wel6/Ingrid-20-er-pa-treningsleir-i-Tokyo--Vi-har-fatt-beskjed-om-a-bli-pa-hotellet" frk="28 27 4 147 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ingrid (20) er på treningsleir i Tokyo. – Vi har fått beskjed om å bli på hotellet.</div>
+<div type="ingress">Uværet i Japan kan bli det verste på 60 år.</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

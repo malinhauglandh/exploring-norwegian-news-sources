@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190404-nettpiratene-skjulte.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/nettpiratene-skjulte-seg-hos-mangemilliardaer/70793739" frk="1498 4 39 9538"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-04 06:55"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,dataangrepet,innenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nettpiratene skjulte seg hos mangemilliardær</div>
+<div type="ingress">Nettpiratene som har angrepet titusenvis av nettsider for å lure nettbrukere til å gi fra seg personopplysningene sine, skjuler seg i nettløsninger eid av Frankrikes 7. rikeste mann.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-04-04</div>
+<div type="caption"><p>XAVIER NIEL: Nettpiratene som har angrepet titusenvis av nettsider for å lure nettbrukere til å gi fra seg personopplysningene sine, skjuler seg i nettløsninger eid av Frankrikes 7. rikeste mann. Foto: AFP / NTB scanpix</p> <p>SUPERPAR: Xavier Niel er i dag god for over 50 milliarder kroner. Skulle det knipe er han gift med Louis Vuitton-direktør Delphine Arnauld, datteren til Frankrikes rikeste mann. Her fotografert under Paris Fashion Week i fjor. Foto: Kcs Presse / Mega / NTB scanpix</p> <p>Flere spor fra et dataangrep mot Dagbladet, VG, NRK og norske myndigheter leder til Egentic: et selskap som ble startet i stua til en tysk adelsmann. Reporter: Torgeir Krokfjord, Video: Lars Eivind Bones / Dagbladet</p> <p>TOPPLEDELSEN: Dagbladet har søkt både Xavier Niel (t.v.) og Iliad-direktør Thomas Reynaud (i midten) på e-post gjentatte ganger. Verken Niel eller Reynaud har svart. Foto: Reuters / NTB scanpix</p></div>
+<div type="text">
+<p>Dagbladet har avslørt at nettpirater i flere måneder har angrepet og stjålet innhold fra de fleste av Norges største aviser, offentlige nettsteder som Statens Vegvesen og Fylkesmannen.no og utenlandske giganter som BBC.</p>
+<p>Jakta på piratene sendte Dagbladet til servere eid av Xavier Niel - Frankrikes 7. rikeste mann.</p></div>
+<div type="title" level="3">Milliardæren</div>
+<div type="text">
+<p>Xavier Niel gikk inn i nettverdenen som 19-åring, da han tilbød pornotjenester på Minitel - en fransk forgjenger til Internett som vi kjenner det i dag. Han brukte pengene han tjente på sexshow på Minitel til å bygge seg opp i fransk telefoni og Internett. Genistreken: å alltid være billigst.</p>
+<p>I dag er Niels selskapskonglomerat, med Free og Iliad som de største merkevarene, en maktfaktor i Frankrike. Han var i 2010 en av tre superrike franskmenn som tok over kontrollen av storavisa Le Monde - mot president Nicolas Sarkozys vilje og han står bak den sagnomsuste IT-skolen «42»</p>
+<p>Noe mer kuriøst er det at han i 2009 kjøpte deler av opphavsrettighetene til den legendariske sangen «My Way», at han i 2006 ble dømt til betinget fengsel for økonomisk rot knyttet til sexbutikker han var deleier i og at han har som hobby å utforske de mørke, underjordiske katakombene under gateplan i Paris. Xavier Niel er i dag god for over 50 milliarder kroner. Skulle det knipe er han gift med Louis Vuitton-direktør Delphine Arnauld, datteren til Frankrikes rikeste mann.</p>
+<p>Hvordan leder sporene fra det norske nettangrepet til den franske mangemilliardæren? De relevante selskapsnavnene i Niels imperium er:</p>
+<p>Iliad – et av Frankrikes største telekomselskaper. Omsetter for godt over fire milliarder euro i året. Online – et serverleie- og nettskyselskap, som eies av Iliad Group. Scaleway – en nettskyleverandør underlagt Online.</p>
+<p>Men det hele startet i det små:</p></div>
+<div type="title" level="3">80 000 sider</div>
+<div type="text">
+<p>Det hele startet med at Sonja Nordanger, journalist i Aller, fant ut at artikler hun hadde skrevet ble misbrukt på nettet. Innholdet fra artiklene, og Nordangers navn, ble klippet ut fra Aller-sider som KK og Dagbladet, og brukt i suspekte annonser.</p>
+<p>Ved å undersøke annonsesidene der Nordangers navn og innhold var misbrukt, sporet Dagbladet totalt over 80 000 nettsider som var utsatt for tilsvarende spam-angrep. Ved å lage et dataprogram som analyserte spam-nettstedene fant Dagbladet at de aller fleste krysslenket til hverandre og at spam-sidene dermed framsto som et organisert dataangrep. Angriperne brukte innhold fra Dagbladet, VG og NRK – blant andre – til å lure nettbrukere inn på både pornosider og til en rekke annonsenettsteder.</p>
+<p>Piratene klarte å få spam-sidene indeksert, altså gjort søkbare, på Google. Søkte du på «VG Fotballstudio Manchester United» fikk du ikke bare opp VGs fotballstudio – du fikk også opp piratenes stjålne innhold fra VGs fotballstudio. Samtidig lurte piratene Googles datasystemer til å tro at spam-sidene deres faktisk var VGs originale nettsted.</p>
+<p>Klikket du på spam-sidene, i den tro at det var en artikkel fra VG eller Dagbladet, kom du gjerne til spam-sider som fristet nettbrukere med ulike «konkurranser» der du kunne vinne en ny smarttelefon. Derfra kom du deg ikke ut igjen, med mindre du enten lukker hele nettleseren så alt du surfer på blir borte, er nettkyndig nok til å stenge bare den aktuelle fanen - eller gjør det konkurransen ber deg om.</p>
+<p>For å vinne smarttelefonen måtte nettbrukerne gi fra seg navn, mobilnummer og e-postadresse. Dagbladet har avslørt hvordan norske og utenlandske selskap så samlet inn disse personopplysningene – og enten brukte det til egen markedsføring eller solgte dem på nettet.</p></div>
+<div type="title" level="3">Katt og mus</div>
+<div type="text">
+<p>Dagbladet ønsket å finne ut hvordan dataangrepet ble utført, og hvem som sto bak. Ved hjelp av to metoder fant Dagbladet hvilke IP-adresser piratene brukte:</p>
+<p>- Siden piratene hadde samlet inn store mengder innhold fra en rekke nettsteder – DB.no, VG.no, NRK.no, BBC.co.uk, Fylkesmann.no og en rekke andre – antok Dagbladet at piratene hadde brukt en robot som kan klone store mengder nettsteder på kort tid. For å lure nettpiratene til å legge igjen elektroniske spor lagde Dagbladet derfor nye sider på DB.no som ingen andre nettbrukere visste om, for å se om disse nettstedene ble fanget opp av piratene. Et eksempel er nettadressen db.no/lisagikktilskolen. Den inneholder ikke noe ekte innhold, men er en ny side underlagt DB.no, som kunne bli fanget opp av nettpiratene. Eksperimentet skulle vise seg å gi resultater: Etter kort tid registrerte Dagbladet at to IP-adresser hadde besøkt db.no/lisagikktilskolen. Siden ingen andre kjente til den aktuelle nettsida, var det grunn til å anta at disse IP-adressene tilhørte piratene.</p>
+<p>- Dagbladet undersøkte også trafikken inn til spam-sidene med Dagbladets innhold som var indeksert hos Google. I loggen over besøkene ville det stå «Google» når Google hadde vært inne på siden, og det ville stå at en bruker av Chrome, Internet Explorer eller Firefox hadde vært der om en vanlig nettbruker brukte sin nettleser for å se på nettsiden. Men det sto også IP-adresser der – som ikke hadde noen slik informasjon ved seg. Disse var det dermed grunn til å tro at var automatiserte IP-adresser som tilhørte spam-piratene.</p>
+<p>Ved hjelp av disse metodene har Dagbladet funnet fire IP-adresser som piratene har brukt. Samtlige er registrert hos enten Online SAS, Online.net eller Iliad: Samtlige er selskaper eid av Xavier Niel.</p></div>
+<div type="title" level="3">Flere anklager</div>
+<div type="text">
+<p>Dette er ikke første gang uønsket og potensielt kriminell aktivitet forekommer i Xavier Niels systemer. Flere profilerte bloggere har rapportert om nettangrep fra pirater som skjulte seg i nettløsningene til Iliad, Scaleway og Online.</p>
+<p>Den amerikanske bloggeren og sikkerhetseksperten Troy Mursch hevder å ha blitt utsatt for et omfattende dataangrep der han sporet 401 ulike IP-adresser til Iliads nettløsninger.</p>
+<p>Lignende angrep er rapportert hos IT-bloggen Valueweb og flere andre. Den nå nedlagte nettavisa The International har knyttet Xavier Niels selskapsstruktur til en rekke anklager om datakriminalitet og hackerangrep – både fra russiske hackere og andre.</p>
+<p>Men etter at Dagbladet tok kontakt varsler milliardærens øverste sikkerhetssjef at selskapet skal rydde opp.</p></div>
+<div type="title" level="3">Tar affære</div>
+<div type="text">
+<p>Det bekrefter Hedi Serradj, sikkerhetssjef i Scaleway, i en e-post.</p>
+<p>- Vi har undersøkt situasjonen du har meldt fra om. Vi har besluttet å ta ned de aktuelle serverleiene og skaffe mer informasjon om denne aktiviteten – som er forbudt hos oss og i vårt nettverk. På grunn av det strenge personvernlovverket har vi imidlertid ingen mulighet til å besvare ditt spørsmål om hvem som står bak de spesifikke IP-adressene. For å få til det trengs en rettskjennelse, skriver Hedi Serradj.</p>
+<p>Mye av spammingen og potensielt skadelige nettaktiviteten har blitt sporet til «Poney Telecom» - et nettverk underlagt Xavier Niels selskapsstruktur med Online, Iliad og skyselskapet Scaleway. Søker du på «Poney Telecom» på Twitter får du opp en lang remse rasende nettbrukere som lyser selskapets tjenester i bann.</p>
+<p>- Online selger server- og skytjenester til mange selskaper og privatpersoner over hele verden. Poney Telecom er kallenavnet på nettverket vårt.</p></div>
+<div type="title" level="3">- Gjør vårt beste</div>
+<div type="text">
+<p>Dagbladet har forelagt ham informasjon om det omfattende dataangrept mot Dagbladet og andre norske og utenlandske nettsteder – og anklagene fra andre bloggere og nettbrukere om dataangrep fra Onlines systemer. Han svarer:</p>
+<p>- Når du bestiller serverplass hos Online kommer det med en automatisk underlagsinformasjon som oppgir rev.poneytelecom.eu som serveradressen. Du kan velge å endre denne til et servernavn du velger, eller du kan la den bli stående. Hvis du velger å la den bli stående betyr imidlertid ikke det at Online står inne for all aktiviteten du utfører, skriver Hedi Serradj i en e-post.</p>
+<p>- Vi gjør vårt beste for å hindre at folk med dårlige hensikter bruker Onlines tjenester. Vi har blant annet utviklet flere mekanismer som skal unngå at Onlines tjenester brukes til kriminalitet, vi har pekt ut et spesialplukket team som skal forhindre det og selvsagt ført det opp i retningslinjene våre.</p>
+<p>Likevel, både vi og andre store nettilbydere utsettes for folk med dårlige hensikter, som lykkes i å bruke våre tjenester til ulovlig aktivitet. Vi ber alle til å rapportere slike hendelser til oss – slik dere har gjort. Om slikt finner sted er vi tilgjengelige 24/7.</p>
+<p>Dagbladet har søkt både Xavier Niel og Iliad-direktør Thomas Reynaud på e-post gjentatte ganger. Verken Niel eller Reynaud har svart.</p></div></body></document>

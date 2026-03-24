@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191017---vi-sa-det-var-menn.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/QoKAx4/-Vi-sa-det-var-mennesker-i-bilene-Plutselig-lop-de" frk="29 0 0 156 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-17 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Vi så det var mennesker i bilene. Plutselig løp de.</div>
+<div type="ingress">– Vi kjørte litt på måfå, ned en svingete vei, så fanget lysene våre de to bilene.</div>
+<div type="author"></div>
+<div type="date">2019-10-17</div>
+<div type="caption"></div>
+</body></document>

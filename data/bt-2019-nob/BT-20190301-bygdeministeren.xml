@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190301-bygdeministeren.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/kommentar/i/gPqzO5/Bygdeministeren" frk="42 0 0 296 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-01 20:30"/>
+
+<attribute name="author" value="Jens Kihl Kommentator"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,kommentar"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bygdeministeren</div>
+<div type="ingress">Ein Høgre-mann med adresse på Bygdøy kan bli Bygde-Noregs redningsmann. Om han vil.</div>
+<div type="author">Jens Kihl Kommentator</div>
+<div type="date">2019-03-01</div>
+<div type="caption"><p>NØKKELPERSON: I januar blei Nikolai Astrup Noregs fyrste digitaliseringsminister. Her viser han fram nøklane på sin fyrste dag i ny jobb. Foto: Heiko Junge, NTB Scanpix (arkiv)</p></div>
+</body></document>

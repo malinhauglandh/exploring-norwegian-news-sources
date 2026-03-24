@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190609-mye-regn-gir-laveste.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/BR69nv/Laveste-strompris-siden-2015" frk="292 7 13 1725" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-09 07:10"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Vindkraft"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Mye regn gir laveste strømpris på fire år</div>
+<div type="ingress">Lørdag falt strømprisene til det laveste nivået siden 2015. Mye vindkraft i Europa, lav etterspørsel og alt regnet de siste dagene er årsaken.</div>
+<div type="author">NTB</div>
+<div type="date">9. juni 2019 07:10</div>
+<div type="caption"><p>UVÆR: Alt regnværet de siste dagene har vært med på å påvirke strømprisene, som er rekordlave. Foto: Ørn E. Borgen / NTB scanpix</p></div>
+<div type="text">
+<p>Lørdag falt strømprisen til 14,6 øre på Østlandet og til 9,2 i Nord- og Midt-Norge, skriver Dagens Næringsliv. Dette er den laveste prisen som er registrert siden 2015, og et markant fall siden de høye strømprisen i vinter. Lev etterspørsel i helgene er trolig noe av forklaringen for prisfallet.</p>
+<p>– Det har regnet mye den siste tiden, i tillegg er det mye snøsmelting, sørlig i Midt-Norge og Nord-Norge og det har ført til høy produksjon av vannkraft både i Norge og Sverige, sier kraftanalytiker Ole Thom Djupskås i Refinitiv til NRK.</p></div>
+<div type="title" level="3">Regnet betyr mye</div>
+<div type="text">
+<p>Når det blir for mye vann i magasinene må strømprodusentene enten slippe vannet gjennom uten å produsere strøm, eller senke prisene.</p>
+<p>Kraftanalytiker Tor Reier Lilleholt i Wattsight sier til DN at regnet nok har en del å si, fordi det fyller opp vannmagasinene, men legger til at det er mindre snø enn normalt i fjellet og at det ikke har regnet så mye mer enn normalt. Han viser til forhold i Europa, som også har rekordbillig strøm, og derfor påvirker strømprisene i Norge.</p></div>
+<div type="title" level="3">Betaler for å produsere</div>
+<div type="text">
+<p>Høy produksjon av vindkraft, som er vanskelig å regulere, fører til at Norge kan importere billig strøm gjennom kraftkablene som knytter oss til kontinentet.</p>
+<p>– Det som skjer i Tyskland nå er ganske unik. Der er strømprisen positiv kun fem timer i døgnet. I de andre timene må kraftprodusentene betale for å produsere strøm, sier Lilleholt.</p></div></body></document>

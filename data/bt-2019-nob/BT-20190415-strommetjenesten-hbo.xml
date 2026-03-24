@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190415-strommetjenesten-hbo.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/4qOop6/Strommetjenesten-HBO-var-nede-i-Norge" frk="60 10 4 371 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-15 13:14"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Strømmetjenesten HBO var nede i Norge</div>
+<div type="ingress">HBO Nordic hadde mandag morgen tekniske problemer i flere timer, til irritasjon for dem ville se første episode i siste sesong av «Game of Thrones».</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 15. april 2019 13:14</div>
+<div type="caption"><p>SESONGPREMIERE: Den populære fantasyserien «Game of Thrones», som baserer seg på George RR Martins bøker, ble første gang sendt i 2011. Foto: HBO / AP / NTB scanpix</p></div>
+</body></document>

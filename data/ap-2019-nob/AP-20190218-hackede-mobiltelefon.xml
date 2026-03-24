@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190218-hackede-mobiltelefon.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/verden/i/ngE29m/Hackede-mobiltelefoner_-svertekampanjer-og-journalist-drap-Israelsk-datafirma-hevder-de-ikke-kan-klandres" frk="169 1 2 1147"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-02-18 15:40"/>
+<attribute name="author" value="Tor Arne Andreassen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="verden"/>
+<attribute name="class2" value="israel,overvåking,teknologi,datasikkerhet"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hackede mobiltelefoner, svertekampanjer og journalist-drap: Israelsk datafirma hevder de ikke kan klandres.</div>
+<div type="ingress">ISTANBUL (Aftenposten): Israelske NSO solgte spionverktøy til regimer med dårlig rykte. Kritikere er blitt forsøkt svertet med undercover-knep.</div>
+<div type="author">Tor Arne Andreassen</div>
+<div type="date">18.feb.2019 16:40</div>
+<div type="caption"><p>FOTO: DANIELLA CHESLOW / AP/NTB scanpix NSO Group har kontorer i Herzliya i Israel. Firmaet selger programvare som gjør det mulig å overvåke mobiltelefoner.</p></div>
+<div type="text">
+<p>Felles for alle disse hendelsene er at de er blitt knyttet til det israelske selskapet NSO Group. Selskapets programvare Pegasus kan ikke bare brukes til å overvåke all kommunikasjon fra en smarttelefon, slik som tekstmeldinger, e-poster og telefonsamtaler. Den kan også ta kontroll over telefonens mikrofon og kamera, og bruke telefonen til å overvåke brukeren og alle som er rundt ham.</p>
+<p>NSO Group er blant verdens ledende firmaer innenfor datasikkerhet, og Pegasus brukes i minst 45 land, ifølge Citizen Lab, en vaktbikkje for datasikkerhet som er knyttet til Universitetet i Toronto. De har påvist at Pegasus er blitt brukt av minst seks land med en historie for undertrykkelse og overvåking av det sivile samfunnet.</p></div></body></document>

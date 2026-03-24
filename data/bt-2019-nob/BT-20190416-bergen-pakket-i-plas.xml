@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190416-bergen-pakket-i-plas.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/WbvGgk/Bergen-pakket-i-plast" frk="56 0 0 346 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-16 14:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Byutvikling,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergen pakket i plast</div>
+<div type="ingress">I Bergen kan en gå rundt å se alle byggene som er pakket inn i plast. Eller kanskje heller bestille hotellrom med utsikt til en hvit plastduk.</div>
+<div type="author"></div>
+<div type="date">2019-04-16</div>
+<div type="caption"><p>GAMLEHAUGEN: Kong Harald og Dronning Sonja er neppe på Gamlehaugen nå. Eller kanskje dette er en spennende forandring, som en kunstinstallasjon? FOTO: Rune Sævig</p></div>
+</body></document>

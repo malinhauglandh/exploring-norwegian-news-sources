@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190612-her-blir-alle-avfori.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/K3bwWG/Her-blir-alle-avforingsprovene-fra-Askoy-testet--Dette-er-brutal-folkeopplysning" frk="49 5 2 365 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-12 11:13"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Askøy kommune,Askøy,Haukeland,DNA,Antibiotikaresistens,Teknologi,Overvåking,Helse,Sykdom,Epidemien på Askøy"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her blir alle avføringsprøvene fra Askøy testet. – Dette er brutal folkeopplysning</div>
+<div type="ingress">Mikrobiologisk laboratorium ved Haukeland har så langt funnet Campylobacter i 87 prøver.</div>
+<div type="author"></div>
+<div type="date">2019-06-12</div>
+<div type="caption"><p>BAKTERIER: Mikrobiologisk laboratorium har får stadig inn nye positive prøvesvar på Campylobacter. Bioingeniør Bente Bølstad er med på å analysere prøvene. FOTO: Ørjan Deisz</p></div>
+</body></document>

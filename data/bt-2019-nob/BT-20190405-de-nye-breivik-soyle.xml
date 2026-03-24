@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190405-de-nye-breivik-soyle.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/XgM7bB/De-nye-Breivik-soylene-har-ankommet-Bergen" frk="43 0 0 298 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-05 11:19"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Laksevåg,Bergen kommune,Bergen,Gulen,Handel"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">De nye Breivik-søylene har ankommet Bergen</div>
+<div type="ingress">De nyankomne stålsøylene ble pakket ut i Godvik fredag ettermiddag. Til høsten kommer de på plass på Torgallmenningen.</div>
+<div type="author"></div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>NYE SØYLER: Slik ser de nye Breivik-søylene ut. Lene Midling-Jenssen var Bård Breiviks kone. FOTO: Bjorn Erik Larsen</p></div>
+</body></document>

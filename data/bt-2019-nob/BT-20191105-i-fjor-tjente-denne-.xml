@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191105-i-fjor-tjente-denne-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/dOzKRo/I-2018-tjente-denne-tannlegen-65-millioner-kroner" frk="24 27 4 146 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-05 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I fjor tjente denne tannlegen i Bergen 65 millioner (Abo)</div>
+<div type="ingress">Paul-Arne Hordvik (59) har ikke tenkt å slutte å jobbe av den grunn.</div>
+<div type="author"></div>
+<div type="date">2019-11-05</div>
+<div type="caption"></div>
+</body></document>

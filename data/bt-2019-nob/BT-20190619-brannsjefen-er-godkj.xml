@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190619-brannsjefen-er-godkj.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/mRvjVq/Brannsjefen-er-godkjent" frk="39 0 0 288 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-19 12:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen kommune,Sivilombudsmannen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brannsjefen er godkjent</div>
+<div type="ingress">DSB har gitt Bergen kommune dispensasjon fra regelverket i forbindelse med ansettelsen av Leif Linde.</div>
+<div type="author"></div>
+<div type="date">2019-06-19</div>
+<div type="caption"><p>DISPENSASJON: DSB har godkjent søknaden om dispensasjon fra regelverket i forbindelse med ansettelsen av Leif Linde. FOTO: Ørjan Deisz (arkiv)</p></div>
+</body></document>

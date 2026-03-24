@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191125-politiet-rykket-ut-t.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/b5wgkg/Politiet-rykket-ut-til-mystisk-bylt-som-ulte-i-Arna--Litt-snodig" frk="30 20 4 193 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-25 08:28"/>
+
+<attribute name="author" value="Ørjan Torheim"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet rykket ut til mystisk bylt som ulte i Arna: – Litt snodig</div>
+<div type="ingress">Merkelig funn utenfor lavblokk i natt.</div>
+<div type="author">Ørjan Torheim</div>
+<div type="date">Publisert 25. november 2019 08:28</div>
+<div type="caption"><p>HØY LYD: Funnet fremstår som et mysterium for politiet. 2211-tipser</p></div>
+</body></document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190131-du-ser-det-ikke-og-d.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/du-ser-det-ikke-og-du-lukter-det-ikke-men-det-kan-fore-til-lungekreft/70718630" frk="64 7 3 399 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-01-31 20:54"/>
+<attribute name="author" value="Jenny Mina Rødahl"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="nyheter,inneklima,pluss,radonmåling,radon"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Du ser det ikke og du lukter det ikke, men det kan føre til lungekreft</div>
+<div type="ingress">Radon medvirker til at rundt 370 nordmenn får lungekreft hvert år. DSA oppfordrer alle til å måle radonnivået hjemme.</div>
+<div type="author">Jenny Mina Rødahl</div>
+<div type="date">2019-01-31</div>
+<div type="caption"><p>BEKJEMPER RADON: Byggmester Rune Gulliksen kommer ofte over farlig høye radonnivåer i private hjem. Her innstalerer han og Sven Erik Persson en radonsug i et privathjem. Foto: Sigurd Fadango</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190320-han-ble-beskrevet-so.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/jP8lW9/Han-ble-beskrevet-som-stefaren-alle-hadde-dromt-om" frk="36 0 0 220 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-20 15:52"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergen tingrett,Sogn og Fjordane,Overgrep,Bergen"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Han ble beskrevet som «stefaren alle hadde drømt om»</div>
+<div type="ingress">Nå er han dømt for overgrep mot stedatteren og to andre jenter.</div>
+<div type="author"></div>
+<div type="date">2019-03-20</div>
+<div type="caption"><p>DØMT: Bergen tingrett har dømt en mann for overgrep. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

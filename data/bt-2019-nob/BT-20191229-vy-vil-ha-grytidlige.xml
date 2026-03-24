@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191229-vy-vil-ha-grytidlige.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/Ad9QoM/vy-vil-ha-grytidlige-morgentog-paa-bergensbanen" frk="28 42 8 188 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-29 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Vy vil ha grytidlige morgentog på Bergensbanen</div>
+<div type="ingress">Nytt morgentog til Oslo klokken 06.25 og kveldstog klokken 17.50. Det er to av endringene Vy vil innføre på Bergensbanen.</div>
+<div type="author"></div>
+<div type="date">2019-12-29</div>
+<div type="caption"></div>
+</body></document>

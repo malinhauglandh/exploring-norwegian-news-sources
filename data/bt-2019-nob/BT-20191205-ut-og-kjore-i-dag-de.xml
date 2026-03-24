@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191205-ut-og-kjore-i-dag-de.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qL8adg/Ut-og-kjore-i-dag-Dette-bor-du-vite" frk="76 22 12 526 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-05 12:12"/>
+
+<attribute name="author" value="Reidun Drægebø Rune Christophersen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ut og kjøre i dag? Dette bør du vite.</div>
+<div type="ingress">Uvær fører til stengte fjelloverganger, kolonnekjøring og innstilte fergeavganger.</div>
+<div type="author">Reidun Drægebø Rune Christophersen</div>
+<div type="date">Publisert 5. desember 2019 12:12</div>
+<div type="caption"><p>KAPTEIN: Thore Mangersnes, kaptein på MS «Fedjefjord», forteller at været har blitt bedre enn det var i dag tidlig. Foto: Thore Mangersnes</p> <p>BØLJAN BLÅ: Her fra havet utenfor Fedje. Foto: Thore Mangersnes</p> <p>HARDANGERVIDDA: Over Hardangervidda er det kolonnekjøring for kjøretøy over 7,5 tonn. Foto: 2211-tipser</p> <p>UVÆR: Hardangervidda er kun åpen for kjøretøy over 7,5 tonn. Foto: 2211-tipser</p></div>
+</body></document>

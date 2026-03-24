@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190206-test-deg-selv-har-du.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/test-deg-selv-har-du-sosial-angst/70705893" frk="58 11 4 340 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-02-06 20:56"/>
+<attribute name="author" value="Silje Førsund Og Bjørn Langsem (foto)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="helse,tema,sosial angst,psykisk helse,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test deg selv: Har du sosial angst?</div>
+<div type="ingress">Flere hundre tusen nordmenn lever med ubehandlet sosial angst. Slik ble Ingrid Bruun (24) kvitt den.</div>
+<div type="author">Silje Førsund og Bjørn Langsem (foto)</div>
+<div type="date">2019-02-06</div>
+<div type="caption"><p>HADDE SOSIAL ANGST: Ingrid Bruun (24) er i dag foredragsholder. - Jeg har det veldig bra i dag, men mye hadde vært annerledes om jeg hadde turt å kaste maska og be om hjelp tidligere.</p></div>
+</body></document>

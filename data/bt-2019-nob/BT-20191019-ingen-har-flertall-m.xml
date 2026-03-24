@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191019-ingen-har-flertall-m.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/lALyp3/Ingen-har-flertall_-men-Ap-kan-fa-makten" frk="34 0 0 218 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-19 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ingen har flertall, men Ap kan få makten</div>
+<div type="ingress">Usikkerheten er total i bergenspolitikken etter at KrF trakk seg fra byrådsforhandlinger med Ap. Sp avgjør hvem som får flertall, men preges av intern strid.</div>
+<div type="author"></div>
+<div type="date">2019-10-19</div>
+<div type="caption"></div>
+</body></document>

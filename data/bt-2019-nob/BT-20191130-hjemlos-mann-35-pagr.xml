@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191130-hjemlos-mann-35-pagr.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/MRvpoR/Hjemlos-mann-35-pagrepet-etter-knivangrep-i-Nederland" frk="41 14 4 273 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-30 16:37"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hjemløs mann (35) pågrepet etter knivangrep i Nederland</div>
+<div type="ingress">En 35 år gammel hjemløs mann er pågrepet etter at tre ungdommer ble knivstukket i Haag i Nederland.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 30. november 2019 16:37</div>
+<div type="caption"><p>Nederlandsk politi sperret av handlegaten etter knivangrepet fredag kveld. Foto: AP / NTB scanpix</p></div>
+</body></document>

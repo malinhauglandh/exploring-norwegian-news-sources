@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190528-apner-for-nytt-polit.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/na0anJ/Apner-for-nytt-politihus-pa-Minde-og-Kronstad" frk="51 0 0 320 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-28 12:22"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="PST,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Åpner for nytt politihus på Minde og Kronstad</div>
+<div type="ingress">Det er trolig ikke plass til nytt gigantbygg i Bergen sentrum. Tomter helt sør mot Brann Stadion kan derfor bli aktuelt.</div>
+<div type="author"></div>
+<div type="date">2019-05-28</div>
+<div type="caption"><p>AKTUELT: Nå kan politihuset bli bygget sør for Bergen sentrum, som her på Mindemyren eller Kronstad. FOTO: Ciclie S. Andersen (arkiv)</p></div>
+</body></document>

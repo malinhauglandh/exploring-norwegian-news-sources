@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191121-en-av-seks-i-bergen-.xml"/>
+<attribute name="url" value="http://www.dn.no/teknologi/datasikkerhet/bergen-kommune/en-av-seks-i-bergen-kommune-lot-seg-lure-av-falsk-epost/2-1-710471" frk="246 12 20 1549"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-11-21 04:58"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="teknologi,datasikkerhet,bergen-kommune"/>
+<attribute name="class2" value="Nyheter,Teknologi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">En av seks i Bergen kommune lot seg lure av falsk epost</div>
+<div type="ingress">Resultatet ble nedslående da Bergen kommune skulle teste datasikkerheten blant de ansatte. En av seks lot seg lure. Resultatet ble nedslående da Bergen kommune skulle teste datasikkerheten blant de ansatte. En av seks lot seg lure.</div>
+<div type="author">NTB</div>
+<div type="date">2019-11-21 04:58</div>
+<div type="caption">Mange ansatte i Bergen kommune lot seg lure av falsk epost. (Foto: Fredrik Eriksen/NTB Scanpix) </div>
+<div type="text">
+<p>Hver sjette ansatte i Bergen kommune ga fra seg brukernavn og passord da de ble forsøkt lurt under en gransking av datasikkerheten i kommunen, skriver Bergens Tidende.</p>
+<p>– Det er selvsagt for mange. Denne rapporten er et varsku, som viser at vi har opplagte utfordringer når det gjelder kompetanse og kultur om personvern, sier finansbyråd Erlend Horn (V), som er ansvarlig for kommunens datasikkerhet.</p>
+<p>I et arrangert svindelforsøk konsulentselskapet Deloitte utførte 15. mai, mottok 13.365 ansatte i Bergen kommune en epost fra det fiktive selskapet «DcureGlobal». De skulle svare på en undersøkelse og ble bedt om å trykke på en lenke i eposten.</p></div>
+<div type="title" level="3">Alvorlige sikkerhetshull</div>
+<div type="text">
+<p>Over 3.000 av de ansatte trykket på den ukjente lenken. 2.213 av dem oppga også brukernavnet og passordet sitt, noe som utgjør 16,5 prosent av alle ansatte.</p>
+<p>Verst var det i byrådsleders avdeling der hele 31 prosent av de ansatte trykket på den giftige lenken.</p>
+<p>Sikkerhetsanalysen kommer etter at Bergen kommune to ganger fått avdekket alvorlige sikkerhetshull i datasystemene sine.</p>
+<p>Et avvik i fjor førte til at kommunen fikk den største boten Datatilsynet noen gang har gitt.</p></div></body></document>

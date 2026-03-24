@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190326-myndighetene-har-ikk.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/BJABX9/Myndighetene-har-ikke-kontroll-pa-hvor-mye-innsatte-har-vart-isolert-i-fengsel" frk="47 0 0 321 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-26 05:34"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Glattcelle"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Myndighetene har ikke kontroll på hvor mye innsatte har vært isolert i fengsel</div>
+<div type="ingress">Datatrøbbel og manglende registrering får skylden. – Dypt problematisk og helt uholdbart, sier professor.</div>
+<div type="author"></div>
+<div type="date">2019-03-26</div>
+<div type="caption"><p>ISOLERT: I januar besøkte BT innsatte som lever i isolasjon i Bergen fengsel. FOTO: Fred Ivar Utsi Klemetsen (arkiv)</p></div>
+</body></document>

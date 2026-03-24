@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191122-aftenbladet-viking-v.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/VbrqA3/Aftenbladet-Viking-vurderer-Berisha-fremstot" frk="20 12 2 160 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-22 20:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Aftenbladet: Viking vurderer Berisha-fremstøt</div>
+<div type="ingress">25-åringen glapp for Viking i vår. Men interessen i Stavanger er ikke død, ifølge Aftenbladet.</div>
+<div type="author"></div>
+<div type="date">2019-11-22</div>
+<div type="caption"></div>
+</body></document>

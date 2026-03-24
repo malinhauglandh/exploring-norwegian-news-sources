@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191226-alt-gar-i-julegrisen.xml"/>
+<attribute name="url" value="https://www.bt.no/btmagasinet/i/jd1zbb/Alt-gar-i-julegrisen" frk="35 24 5 206 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-26 07:01"/>
+
+<attribute name="author" value="Ingvild Nave"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmagasinet"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Alt går i julegrisen</div>
+<div type="ingress">I dag er det ny sjanse til å dytte i deg 10.000 kaloriar. God jul!</div>
+<div type="author">Ingvild Nave</div>
+<div type="date">Publisert 26. desember 2019 07:01</div>
+<div type="caption"><p>TO JULEGRISAR: Både marsipangris og ekte gris er juledelikatesser. Foto: Rune Sævik og NTB Scanpix</p></div>
+</body></document>

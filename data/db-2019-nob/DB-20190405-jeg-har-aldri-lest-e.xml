@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190405-jeg-har-aldri-lest-e.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/jeg-har-aldri-lest-en-sterkere-bok-om-a-leve-livet/70946719" frk="84 11 6 532 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-05 11:30"/>
+<attribute name="author" value="Marius Wulfsberg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="funksjonshemming,litteratur,anmeldelse,bok,marius wulfsberg,torstein lerhol,kultur"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">- Jeg har aldri lest en sterkere bok om å leve livet</div>
+<div type="ingress">Boka om funksjonshemmede Torstein Lerhol er så sterk, klok og gripende at selv et bilhavari er en gylden anledning til å fortsette lesingen.</div>
+<div type="author">Marius Wulfsberg</div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>ORDFØRERKANDIDAT: SMA-syke Torstein Lerhol ville ifølge legene bare bli to år. Nå er han 32, veier 20 kg og pustekapasiteten er 11 prosent. Han kan bare bevege én finger, ligger i rullestol og behøver assistanse hele døgnet. Likevel er han ordførerkandidat, næringslivsleder og foredragsholder. Foto: Svend Aage Madsen</p></div>
+</body></document>

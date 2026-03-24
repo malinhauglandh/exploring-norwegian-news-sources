@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191212-bergen-frp-kan-vere-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/JowPpm/Bergen-Frp-kan-vere-inne-i-sine-siste-timar" frk="27 0 0 169 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-12 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Bergen Frp kan vere inne i sine siste timar</div>
+<div type="ingress">Fredag vert Bergen Frps framtid avgjort. Eitt av landets største Frp-lag kan bli avvikla på ubestemt tid.</div>
+<div type="author"></div>
+<div type="date">2019-12-12</div>
+<div type="caption"></div>
+</body></document>

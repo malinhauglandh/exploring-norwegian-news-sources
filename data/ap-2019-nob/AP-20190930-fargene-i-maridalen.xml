@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190930-fargene-i-maridalen.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/norge/i/pLX0KG/Fargene-i-Maridalen" frk="41 0 0 267 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-09-30 13:41"/>
+<attribute name="author" value="Olav Olsen (foto)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="norge"/>
+<attribute name="class2" value="høst"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Fargene i Maridalen</div>
+<div type="ingress">Arkitekten Le Corbusier hadde sin fargepalett tilpasset den gangs trykkekunst. I dag kan vi trykke og publisere alle slags farger. I Maridalen finner du mange farger nå - og de vil forandre seg utover høsten.</div>
+<div type="author">Olav Olsen (foto)</div>
+<div type="date">30. sep. 2019 15:41</div>
+<div type="caption"><p>Farger i Maridalen</p></div>
+</body></document>

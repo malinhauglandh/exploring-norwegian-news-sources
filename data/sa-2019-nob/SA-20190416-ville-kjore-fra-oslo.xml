@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190416-ville-kjore-fra-oslo.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/AdbRbM/Ville-kjore-fra-Oslo-til-Sandnes-med-1_2-promille" frk="38 39 9 229 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-16 18:25"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="flekkefjord,lister tingrett,e39,nyhetsdøgnet,e18"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ville kjøre fra Oslo til Sandnes med 1,2 promille</div>
+<div type="ingress">Kjøreturen endte i Drammen for Flekkefjord-mannen som la ut på langtur i hasjrus. Nå må han betale 21.000 kroner i bot.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Arkivfoto fra E 18. Tore André Baardsen</p></div>
+</body></document>

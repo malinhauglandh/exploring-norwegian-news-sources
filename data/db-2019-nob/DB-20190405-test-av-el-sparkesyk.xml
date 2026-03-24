@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190405-test-av-el-sparkesyk.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/test-av-el-sparkesykkel-vinneren-er-billigst-taperen-var-vanskelig-a-finne/70946662" frk="61 0 0 397 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-05 19:49"/>
+<attribute name="author" value="Turid Næss, Jenny Mina Rødahl, Bjørn Langsem (foto)"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="test:,test,nyheter,el-sparkesykkel,pluss"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Test av el-sparkesykkel: Vinneren er billigst, taperen var vanskelig å finne</div>
+<div type="ingress">Vi har testet de elektriske sparkesyklene du kan leie i Oslo.</div>
+<div type="author">Turid Næss, Jenny Mina Rødahl, Bjørn Langsem (FOTO)</div>
+<div type="date">2019-04-05</div>
+<div type="caption"><p>ELEKTRIFISERT: - Å suse rundt på elektrisk sparkesykkel er nok på god vei til å bli årets morsomste transportmiddel - om en finner en ledig sykkel med nok strøm, mener Turid etter første prøvetur på en el-sparkesykkel. Foto: Bjørn Langsem</p></div>
+</body></document>

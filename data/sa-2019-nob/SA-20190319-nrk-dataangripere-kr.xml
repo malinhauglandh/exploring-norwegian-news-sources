@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190319-nrk-dataangripere-kr.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/aenergi/i/bKybzA/NRK-Dataangripere-krevde-losepenger-av-Hydro-for-a-lase-opp-datasystemet-deres" frk="355 0 2 2328"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-03-19 12:31:26"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="datakriminalitet,it-sikkerhet,norsk hydro"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NRK: Dataangripere krevde løsepenger av Hydro for å «låse opp» datasystemet deres</div>
+<div type="ingress">Samtidig som det ble gjennomført et målrettet angrep på brukerdatabasen til Hydro, skal dataangriperne ha krevd løsepenger av Hydro, skriver NRK.</div>
+<div type="author">NTB</div>
+<div type="date">2019-03-19 12:31:26</div>
+<div type="caption"><p>Norsk Hydro varsler alle sine ansatte om ikke å slå på PC fordi de er utsatt for et dataangrep. Foto: Terje Pedersen / NTB scanpix</p> <p>Hilde Merete Aasheim ble mandag ny konsernsjef i Hydro. Styreleder Dag Mejdell t.v. Foto: Terje Pedersen / NTB scanpix</p></div>
+<div type="text">
+<p>Nasjonalt Cybersikkerhetssenter (NorCERT) har sendt ut et varsel til en rekke samarbeidspartnere om dataangrepet på Hydro.</p>
+<p>Ifølge varselet gjengitt av NRK skal dataangriperne ha brukt et såkalt løsepengevirus kalt «LockerGoga», som gjør alt innhold på datamaskinen utilgjengelig, samtidig som det foregår angrep mot selskapets bruker- og påloggingssystemer.</p>
+<p>– Jeg vil ikke bekrefte at det dreier seg om et Active Directory-angrep, sier Håkon Bergsjø, leder for NorCERT til NRK.</p>
+<p>Heller ikke kommunikasjonssjef i Hydro, Erik Brynhildsbakken, er kjent med at hackere skal ha bedt om løsepenger, sier han til DN.</p></div>
+<div type="title" level="3">Angrepet natt til tirsdag</div>
+<div type="text">
+<p>Rundt midnatt ble det oppdaget unormal aktivitet på dataserverne til Norsk Hydro. Hele IT-organisasjonen i selskapet ble satt i beredskap for å iverksette tiltak mot angrepet, men i morgentimene var hele den verdensomspennende virksomheten fremdeles under påvirkning av angrepet.</p>
+<p>Noen av Hydros anlegg har hatt full stans i produksjonen tirsdag som følge av dataangrepet.</p>
+<p>På flere av Hydros anlegg er det hengt opp lapper til ansatte hvor det står at de ikke skal koble PC-er til nettverk, eller logge seg på Hydro sine datasystemer. Nettsidene til Hydro har også vært nede i hele dag.</p></div>
+<div type="title" level="3">Angrep fransk selskap</div>
+<div type="text">
+<p>«LockerGoga» ble første gang oppdaget i januar måned under et dataangrep mot det franske selskapet Altran. Viruset krypterer store mengder data, og kriminelle kan bruke det til å presse eierne av datasystemet for store summer for å igjen dekryptere dataene.</p>
+<p>Ifølge Altran måtte selskapet skreddersy en løsning for motstå angrepet og fjerne viruset, har selskapet tidligere opplyst i en pressemelding.</p>
+<p>Viruset er kjennetegnet ved at alle filene får ordene ". locked!?" eller ". locked» bak det opprinnelige filnavnet.</p>
+<p>Hydro holder pressekonferanse om dataangrepet mot selskapet klokka 15.</p></div></body></document>

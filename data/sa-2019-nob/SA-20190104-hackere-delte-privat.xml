@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190104-hackere-delte-privat.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/utenriks/i/KvJp4o/Hackere-delte-privat-informasjon-om-nesten-1000-tyske-politikere" frk="496 4 16 3316"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-04 20:16:02"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="datakriminalitet,riksdagen,hacking"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hackere delte privat informasjon om nesten 1000 tyske politikere</div>
+<div type="ingress">Angela Merkel og flere hundre andre tyske politikere har fått personlige opplysninger lekket på nett. Mye tyder på at russiske hackere står bak, mener ekspert.</div>
+<div type="author">NTB</div>
+<div type="date">2019-01-04 20:16:02</div>
+<div type="caption"><p>Tysklands statsminister Angela Merkel. Foto: Alastair Grant / AP / NTB scanpix</p></div>
+<div type="text">
+<p>– Personen bak dette angrepet ønsker å skade tilliten til demokratiet og institusjonene våre, sa justisminister Katarina Barley fredag.</p>
+<p>Mye av den lekkede informasjonen består av telefonnumre og adresser. Merkel har fått sin epostadresse, et faksnummer og flere brev offentliggjort via Twitter, ifølge radiostasjonen RBB.</p>
+<p>Deler av dataene stammer fra 2017 eller før, og tyske Bild rapporterer at lekkasjene fortsatte til slutten av oktober 2018.</p>
+<p>Selv om informasjonen også består av blant annet dokumentasjon av intern kommunikasjon i partiene, og i noen tilfeller personlige regninger og kredittkortinformasjon, skal det ikke være lekket dokumenter som er politisk følsomme, ifølge RBB.</p></div>
+<div type="title" level="3">Sikkerhetsekspert peker på Russland</div>
+<div type="text">
+<p>Tom Kellermann i cybersikkerhetsselskapet Carbon Black sier at det siste hackerangrepet har alle kjennetegnene til russiske, statsstøttede hackergrupper.</p>
+<p>Han sier det gir mening at ingen fra Tysklands ytre høyrefløy er rammet, og at det virker som angrepet sikter på å «undergrave den tyske politiske prosessen».</p>
+<p>– Det er i Russlands beste interesse at politikere fra ytre høyre lykkes, legger Kellermann til.</p></div>
+<div type="title" level="3">Lagt ut som adventskalender</div>
+<div type="text">
+<p>Lenker til de rammede personenes opplysninger ble publisert daglig på Twitter i løpet av desember, omtrent som en adventskalender. Gjerningspersonen bruker ord som ironi og satire for å beskrive lekkasjen. Myndighetene skal imidlertid ikke ha blitt klar over saken før nå nylig.</p>
+<p>Etter alt å dømme stammer informasjonen fra datatyverier og hacking, men myndighetene undersøker også om de kan ha blitt lekket av en person som hadde tilgang til dem fra før. I tillegg til de flere hundre politikerne er journalister, musikere og andre kjente personer rammet.</p>
+<p>Innenriksminister Horst Seehofer sier det er gjort en analyse som tyder på at det lekkede materialet har blitt innhentet via skytjenester, epostkontoer eller sosiale medier, og at det ikke ser ut til at datamaskiner som tilhører regjeringen eller Forbundsdagen er blitt hacket.</p></div>
+<div type="title" level="3">AfD ikke er rammet</div>
+<div type="text">
+<p>Politikere fra alle partier i den tyske Forbundsdagen ser ut til å være berørt – med unntak av høyrepopulistiske Alternativ for Tyskland (AfD).</p>
+<p>Det har vekket mistanke hos Patrick Sensburg, som er medlem av Forbundsdagen for Merkels kristendemokratiske parti CDU.</p>
+<p>– Jeg antar at dette var et hackingangrep fra folk nær AfD, sier han til dagsavisen Handelsblatt, gjengitt av nyhetsbyrået AFP.</p></div>
+<div type="title" level="3">Russisk hackergruppe</div>
+<div type="text">
+<p>I fjor sa Tysklands etterretningstjeneste at de hadde oppdaget en rekke cyberangrep mot medlemmer av Forbundsdagen, militæret og flere ambassader. De pekte da på en russisk hackergruppe som går under tilnavnet «Snake».</p>
+<p>Gruppen er også kjent som «Turla» eller «Uruburos» og har angrepet departementer og ambassader verden over. Gruppen skal ha bånd til den russiske etterretningstjenesten.</p>
+<p>I mars 2018 ble datanettverk i den tyske regjeringen angrepet, og data ble stjålet fra ansatte i utenriksdepartementet.</p>
+<p>Russland har nektet for å ha noe med angrepene å gjøre.</p></div></body></document>

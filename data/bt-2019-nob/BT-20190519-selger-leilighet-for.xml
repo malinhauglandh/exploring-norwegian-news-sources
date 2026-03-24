@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190519-selger-leilighet-for.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/kJdxoj/-Selger-leilighet-for-37-millioner-kroner" frk="39 15 4 263 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-19 19:01"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Eiendom,Boligmarkedet,Tjuvholmen,Boligpriser"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Selger leilighet for 37 millioner kroner</div>
+<div type="ingress">Takterrassen på 77 kvadrat ligger ti etasjer over Vågen. Leiligheten kan sette ny prisrekord.</div>
+<div type="author"></div>
+<div type="date">2019-05-19</div>
+<div type="caption"><p>PÅ TAKET: Her er takterrassen på Nordnes brygge med utsikt til Nykirken, Vågen og Ulriken. FOTO: Ørjan Deisz</p></div>
+</body></document>

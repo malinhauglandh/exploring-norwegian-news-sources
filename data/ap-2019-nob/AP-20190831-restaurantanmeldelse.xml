@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190831-restaurantanmeldelse.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/osloby/sulten/i/OpeoB3/Restaurantanmeldelse-Jo_-jo_-Ling-Ling" frk="94 3 2 613 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-31 08:00"/>
+<attribute name="author" value="Dagobert"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="osloby,sulten"/>
+<attribute name="class2" value="restaurant,mat og drikke,restaurantanmeldelse,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Restaurantanmeldelse: Jo, jo, Ling Ling</div>
+<div type="ingress">Det er sjelden du ser så delikate presentasjoner av maten. Men hvordan smaker den?</div>
+<div type="author">Dagobert</div>
+<div type="date">31.aug.2019 10:00</div>
+<div type="caption"><p>FOTO: Signe Dons Ling Ling på Aker brygge ånder av avslappet luksus.</p></div>
+<div type="text">
+<p>Ling Ling ligger så å si midt i smørøyet på Aker brygge, der det karakteristiske bygget stikker ut mot kaikanten med sjøen rett utenfor.</p>
+<p>Aftenpostens har tre faste matanmeldere som anmelder tre restauranter i uken. Alle anmeldelsene kan du lese på restaurantguiden.osloby.no hvor du også finner over 60 matguider til alt fra beste pizza og burgere til thailandske godbiter og søndagsåpne restauranter.</p></div></body></document>

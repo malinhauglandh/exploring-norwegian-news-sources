@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190315-sonjas-52-oppdagelse.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/sonjas-52-oppdagelse-avslorte-det-norske-nettangrepet/70782498" frk="1832 4 49 11831"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-03-15 21:06"/>
+<attribute name="author" value="Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="innenriks,dataangrepet,nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sonjas (52) oppdagelse avslørte det norske nettangrepet</div>
+<div type="ingress">Dagbladet er blant de norske og utenlandske bedriftene som har fått nettsidene sine kapret av pirater. Hensikten er å skape oppmerksomhet rundt porno og suspekte annonser.</div>
+<div type="author">Torgeir P. Krokfjord, Tor Henning Ueland (utvikling)</div>
+<div type="date">2019-03-15</div>
+<div type="caption"><p>NETTANGREP: - Det var ubehagelig, sier Sonja Evelyn Nordanger (52), journalist og tillitsvalgt i Aller-konsernet. Hun oppdaget at artikler hun hadde skrevet ble misbrukt på nettet. Foto: Lars Eivind Bones / Dagbladet</p> <p>NETTVERK: Denne grafikken viser 8000 av spam-sidene - under ti prosent. Men grafikken viser hvordan de lenker til hverandre. Grafikk: Tor-Henning Ueland</p> <p>- INTERESSANTE FUNN: Mona Strøm Arnøy fotografert i Nasjonal sikkerhetsmyndighet (NSM) sine lokaler i Kolsås leir. Hun betegner Dagbladets funn som interessante. Foto: Lars Eivind Bones / Dagbladet</p> <p>EKVATORIAL-GUINEA: En stor del av spam-sidene har domenenavn registrert i Ekvatorial-Guinea - med endelsen .gq. Det er ikke tilfeldig. Foto: AP / NTB scanpix</p> <p>TAR GREP: Jørgen Tistel, avdelingsdirektør i Fylkesmennenes fellesadministrasjon. Foto: Fylkesmennenes fellesadministrasjon</p> <p>- PÅVIRKER TROVERDIGHETEN: Kari Anne Lang-Ree, advokat i juridisk avdeling i NRK, sier kopiering av NRKs innhold påvirker mediehusets troverdighet. Foto: NRK</p> <p>- ALVORLIG: - Vi ser svært alvorlig på et hvert forsøk på misbruk av VG, sier Øyvind Næss, stabssjef i VG, til Dagbladet. Foto: VG</p> <p>KRITISK: Espen Udland, administrerende direktør i ABC Startsiden, som eier ABC Nyheter, sier de ikke var kjent med misbruket av deres innhold. Foto: ABC Startsiden</p> <p>STJÅLET INNHOLD: Disse nettstedene ligner på VG, BBC, NRK, Teknisk Ukeblad og andre etablerte nettsteder. Men innholdet er stjålet, og leder til suspekte annonser.</p></div>
+<div type="text">
+<p>- Det var ubehagelig, sier Sonja Evelyn Nordanger (52), journalist og tillitsvalgt i Aller-konsernet, til Dagbladet.</p>
+<p>Det var høsten 2017 at en slektning av Nordanger søkte på henne på Google, for å finne en bestemt artikkel Nordanger hadde skrevet. Søkeresultatet forbauset dem begge. I tillegg til de forventede treffene, som sosiale medier-profiler og artikler Nordanger hadde skrevet som journalist, dukket det opp en rekke uventede nettsider.</p>
+<p>Disse nettsidene viste innhold fra artikler hun hadde skrevet - hos KK, Dagbladet og Vi.no. Men innholdet var stjålet fra KK og Dagbladet, og flyttet til nye nettsider. Da Nordanger klikket seg videre fra disse nettsidene ble hun videresendt til både pornosider, og til suspekte annonser og «konkurranser» som eksempelvis lovte at du kunne vinne en ny telefon.</p>
+<p>- Når du først hadde åpnet en av sidene, var det umulig å komme seg ut igjen, sier Nordanger.</p>
+<p>- Det var både ubehagelig og fryktelig irriterende. Jeg ønsket ikke å ha pornosider og spam-sider knyttet til mitt navn.</p>
+<p>Sonja Nordanger bestemte seg for å få fjernet navnet sitt fra det hun oppfattet som suspekte nettsteder. Hun tok trappa en etasje ned i Aller-huset, til utviklingsavdelingen i 3. etasje hos Dagbladet.</p>
+<p>Høsten 2018 begynte jakta på nettpiratene.</p></div>
+<div type="title" level="3">Laget dataprogram</div>
+<div type="text">
+<p>For å samle inn informasjon om de aktuelle spam-sidene, og kartlegge hvordan spam-sidene kommuniserte seg imellom og lenket til hverandre, laget Dagbladet et dataprogram som kunne overvåke spam-sidenes oppførsel.</p>
+<p>Programmet tok utgangspunkt i spam-sidene der Nordangers navn var misbrukt, og registrerte hvordan de kommuniserte og linket til hverandre.</p>
+<p>Dataprogrammet registrerte at stadig nye norske nettsteder fikk innhold stjålet på samme måte som Sonja Nordanger. Ved å analysere spam-sidene fant Dagbladet at de aller fleste krysslenket til hverandre, og at virksomheten dermed så ut til å være en større, pågående kampanje:</p>
+<p>I perioden fra september 2018 til februar i år, viser Dagbladets undersøkelser at over 80 000 nettsider er angrepet. Over 4000 av dem er norske.</p>
+<p>Dagbladets dataprogram oppdaget over 1,2 millioner krysskoblinger spam-sidene imellom.</p>
+<p>Mediehus virker å være spesielt utsatt. Blant nettstedene som har fått mest innhold stjålet er både Dagbladet, VG, NRK, Aftenposten, BBC, ABC Nyheter, Drammens Tidende og Teknisk Ukeblad - i tillegg til offentlige nettsteder som Fylkesmannen og Statens Vegvesen.</p></div>
+<div type="title" level="3">NSM: - Interessant</div>
+<div type="text">
+<p>Mona Strøm Arnøy, avdelingsdirektør i Nasjonal sikkerhetsmyndighet (NSM), betegner overfor Dagbladet funnene som interessante.</p>
+<p>- Det er interessante funn dere viser til. Dette er nok automatisk generert i en hensikt som vi bare kan spekulere i. Det er viktig for den som opplever dette å ta kontakt med det selskapet som hoster nettsiden. Dette er en rettighetskrenkelse de må rydde opp i. Det er viktig også å varsle Google om at søket er manipulert, så de kan fjerne det. Det er hostingselskapet som må rydde opp her, sier Arnøy.</p>
+<p>Hun slår fast:</p>
+<p>- Vi vil gjerne ha informasjon om denne type hendelser.</p></div>
+<div type="title" level="3">Lurer Google</div>
+<div type="text">
+<p>Dagbladets undersøkelser viser at forretningsmodellen til spam-piratene er å bruke det stjålne innholdet til å bli «indeksert» hos Google – altså at det dukker opp når nettbrukere søker på noen av ordene i de originale artiklene.</p>
+<p>Eksempelvis har nettpiratene stjålet innholdet i VGs fotball-livestudio – slik at om Manchester United møter Paris St. Germain, og du søker på «Manchester Paris VG live» på Google for å få opp VGs live-dekning av storkampen, risikerer du å havne på en av piratenes spam-sider.</p>
+<p>Samtidig lurer spam-piratene Google. Google tror at de kaprede nettstedene viser det originale innholdet – altså artiklene fra Dagbladet, VG eller NRK. Men i stedet viser spam-sidene annonser som nettbrukerne ikke klarer å komme seg bort fra om de ikke lukker nettleseren. Annonsene kan tilby ulike «konkurranser», som lokker med at du eksempelvis kan vinne en smarttelefon,</p>
+<p>En stor del av spam-sidene har domenenavn registrert i Ekvatorial-Guinea - med endelsen .gq. Andre har domenenavn registrert på den lille stillehavsøya Tokelau - med endelsen .tk.</p>
+<p>Det er ikke tilfeldig.</p></div>
+<div type="title" level="3">Gjemmer seg</div>
+<div type="text">
+<p>Domenenavn fra Ekvatorial-Guinea er utbredt i spamkampanjer og annen nettkriminalitet, fordi de er enkle og svært billige – ofte gratis – å registrere. Ifølge en undersøkelse utført av nettsikkerhetsselskapet Symantec ble 98,9 prosent av de .gq-registrerte nettsidene brukt i skadelig eller ulovlig virksomhet.</p>
+<p>I registreringsinformasjonen til nettsidene som har stjålet Dagbladet og andres innhold, går det fram at de er registrert via nett-tjenesten Freenom - som tilbyr rask og anonym registrering av nettsider. I en pressemelding i 2014 annonserte Freenom at de hadde inngått et samarbeid med selskapet GETESA – den største telekomleverandøren i Ekvatorial-Guina. Sammen skulle de to selskapene gjøre det gratis å registrere .gq-domener, for å gi brukere i utviklingsland muligheten til å lage egne nettsider. Samtidig var dette en gylden muligheten for spam-kriminelle, hackere og andre nettpirater. Med gratis domener fra Ekvatorial-Guinea, og Freenoms anonymitetsgaranti, ble det lett å skaffe et kjapt, gratis og fullstendig anonymt nettsted til bruk i ulovlig eller skadelig virksomhet.</p>
+<p>Det er også Freenom som gjorde stillehavsøya Tokelau til en hit i nettverdenen, etter at Freenom-grunnlegger Joost Zuurbier i 2000 kontaktet myndighetene på den lille øya. Han hadde oppdaget at Tokelau hadde sitt eget toppnivådomene (som .com, .net, .no, .se), men ikke brukte det til noe da knapt noen på øya hadde datamaskin. Han fikk med øyas myndigheter på å tilby gratis nettsteder, som raskt ble populære både blant studenter og IT-folk - og blant kriminelle.</p>
+<p>Dagbladet har søkt Joost Zuurbier - uten hell.</p></div>
+<div type="title" level="3">- Svært alvorlig</div>
+<div type="text">
+<p>Jørgen Tistel, avdelingsdirektør i Fylkesmennenes fellesadministrasjon, sier til Dagbladet at fylkesmannen.no har blitt misbrukt i spam tre ganger bare det siste halve året.</p>
+<p>- Vi har hatt dialog med Nasjonal sikkerhetsmyndighet om saken, sier Tistel.</p>
+<p>- Eksempelet du henviser til er tredje gang siden august 2018 fylkesmannen sine sider blir brukt slik. Vi har tidligere varslet saken via «abuse»-tjenesten til aktuell internettleverandør og lykkes med å få stengt ned sidene. Tilfellet som du henviser til her har vi ikke fått varsel på tidligere. Vi går i gang snarest med å kontakte internettleverandøren.</p>
+<p>Kari Anne Lang-Ree, advokat i juridisk avdeling i NRK, sier til Dagbladet at de ikke var kjent med spam-nettverket Dagbladet har avslørt.</p>
+<p>- Vi var ikke klar over dette nettverket og omfanget av kopiering og indeksering av innhold til Google. NRK opplever jevnlig at artikler, nettsider eller logoen misbrukes av andre. Dette gjelder ofte ulike varianter av kloning av sider eller kopiering av innhold for å få klikk eller reklameinntekter på en annen nettside. De groveste sakene gjelder misbruk av NRKs profiler for å selge produkter i falske artikler, som for eksempel misbruket av Ingunn Solheim som NRK også politianmeldte, sier Lang-Ree.</p>
+<p>- NRKs erfaring så langt er at det er vanskelig å finne frem til bakmennene bak slik ulovlig kopiering. Vi har større suksess med å kontakte kildene hvor innholdet spres fra direkte, og samarbeide med dem. Men NRKs utgangspunkt er at vi alltid forsøker stanse ulovlig kopiering. Ikke minst fordi det går ut over NRKs troverdighet at det finnes store mengder med NRKs innhold med reklame på ulike plattformer, og gjerne også endret på måter som er problematisk for NRK.</p></div>
+<div type="title" level="3">- Ren svindel</div>
+<div type="text">
+<p>- Vi ser svært alvorlig på et hvert forsøk på misbruk av VG, sier Øyvind Næss, stabssjef i VG, til Dagbladet.</p>
+<p>Næss opplyser at driftsavdelingen har blitt tipset om de stjålne VG-sidene av lesere.</p>
+<p>- Falske VG-sider som dette er ren svindel, og vi gjør det som står i vår makt for å komme problemet til livs, få stengt ned sidene og å spore opp de som står bak. Når vi utsettes for misbruk som dette, har vi flere ting vi gjør for å stoppe det og spore de som står bak. Vi har lav terskel for politianmeldelse, vi har en ekstern samarbeidspartner som er ekspert på å stenge ned sider som dette, og vi har egne dataeksperter som også kan hindre misbruk og av og til finne hvor dette lages, sier Næss til Dagbladet.</p>
+<p>Espen Udland, administrerende direktør i ABC Startsiden, som eier ABC Nyheter, sier de ikke var kjent med misbruket av deres innhold.</p>
+<p>- Vi liker svært dårlig slik uautorisert bruk av vår merkevare ABC Nyheter. Vi har så langt ikke konferert juridisk og /eller teknisk kompetanse, men min umiddelbare reaksjon er at dette må være ulovlig bruk av andres eiendom og merkevare, sier Udland til Dagbladet.</p></div>
+<div type="title" level="3">- Svindel</div>
+<div type="text">
+<p>Tone Tveøy Strøm-Gundersen, nyhetsredaktør i Aftenposten, sier til Dagbladet at avisa var klar over at det forekommer misbruk av deres merkevare.</p>
+<p>- Men vi var nødvendigvis ikke klar over denne typen organisert virksomhet, sier hun.</p>
+<p>- Vi er opptatt av å bevare troverdigheten i vår merkevare og ettergår misbruk juridisk. Vi samarbeider tett med resten av Schibsted for å stoppe slik misbruk.</p>
+<p>Ole Myklebust Grundetjern, leder for IKT-sikkerhet i Statens vegvesen, sier til Dagbladet at de i større grad ser at angripere automatiserer kopiering av nettsider.</p>
+<p>- Vi har i tillegg til de sidene Dagbladet varslet oss om, funnet ni domener. Dette er en del av svindelen som finnes på nett og som det er vanskelig å stanse. Vi varsler google for å få sidene fjernet og vi har også tatt kontakt med skyleverandører til nettsiden får å få dem fjernet. Vi får ikke alltid svar på disse meldingene, sier Grundetjern.</p>
+<p>- Vi ser ikke på dette som en stor trussel mot vegvesen.no. Ettersom det ikke det ikke gitt at de vil bli brukt til noe. Disse sidene kommer ikke høyt opp i google-søk fordi vegvesen.no-domenet har høye besøkstall fra norsk publikum. Nettsidene som er kopi av vegvesen.no får en kronglete adresse - ofte ikke et ord. I tillegg er deler av innholdet på utenlandsk språk eller innehar tydelige feil som gjør at man forstår at noe er galt.</p>
+<p>Teknisk Ukeblad opplyser at de undersøker saken. BBC har ikke besvart Dagbladets henvendelse. Det har ikke vært mulig å få en kommentar fra Amedia.</p></div></body></document>

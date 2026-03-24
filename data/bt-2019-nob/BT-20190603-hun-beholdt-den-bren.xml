@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190603-hun-beholdt-den-bren.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/op1WQg/Hun-beholdt-den-brente-veggen" frk="50 0 0 339 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-03 "/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value="Rehabilitering,Brann,Oppussing,Stavanger sentrum"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hun beholdt den brente veggen</div>
+<div type="ingress">Sjokket var stort da det under restaureringsarbeidet åpenbarte seg store brannskader i huset Nina Knudsen nylig hadde kjøpt i Stavanger sentrum.</div>
+<div type="author"></div>
+<div type="date">2019-06-03</div>
+<div type="caption"><p>Sprekkene i tømmeret er fylt med gammel halm. Gamle, nostalgiske krukker for tørrvarer har fått plass på hyllen over benken. FOTO: Lise Bjelland</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191228-amerikaner-drept-i-r.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/qLr7lm/Amerikaner-drept-i-rakettangrep-mot-militarbase-i-Irak" frk="31 0 0 201 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-28 06:38"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Amerikaner drept i rakettangrep mot militærbase i Irak</div>
+<div type="ingress">En sivil amerikaner er drept i et rakettangrep mot en militærbase i Kirkuk nord i Irak. Flere amerikanere og irakere er såret.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 28. desember 2019 06:38</div>
+<div type="caption"></div>
+</body></document>

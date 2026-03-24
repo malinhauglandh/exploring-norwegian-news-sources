@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190513-dette-er-bilene-som-.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/tema/dette-er-bilene-som-er-enklest-a-stjele/71065223" frk="83 34 15 441 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-05-13 19:58"/>
+<attribute name="author" value="Rune Korsvoll"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="tema"/>
+<attribute name="class2" value="biltyveri,bil_tirsdag,vanskeligst å stjele,bil,innbrudd i bil,pluss,lettest bil å stjele,tema,pluss_motor"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dette er bilene som er enklest å stjele</div>
+<div type="ingress">I fjor ble de gjort innbrudd i nesten 5000 biler her i landet med skader for nesten 100 millioner kroner. En ny undersøkelse viser at flere av bilene til kjente merker er enkle å bryte seg inn i.</div>
+<div type="author">Rune Korsvoll</div>
+<div type="date">2019-05-13</div>
+<div type="caption"><p>STOR FORSKJELL: I 2019 ble det gjort innbrudd i nesten 5 000 biler i Norge. Det er stor forskjell på hvor lett de er å bryte seg inn i og stjele de forskjellige bilene. Foto: Colourbox.</p></div>
+</body></document>

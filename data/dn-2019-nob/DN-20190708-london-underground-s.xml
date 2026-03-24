@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190708-london-underground-s.xml"/>
+<attribute name="url" value="http://www.dn.no/utenriks/london-underground-skal-kartlegge-passasjerer-ved-hjelp-av-telefonene-deres/2-1-634996" frk="338 4 11 2321"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-07-08 16:46"/>
+<attribute name="author" value="Ingrid Ekeberg"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="utenriks"/>
+<attribute name="class2" value="Nyheter,Utenriks"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">London Underground skal kartlegge passasjerer ved hjelp av telefonene deres</div>
+<div type="ingress">Den som vil reise usett, må skru av wi-fi-signalet. Den som vil reise usett, må skru av wi-fi-signalet.</div>
+<div type="author">Ingrid Ekeberg</div>
+<div type="date">2019-07-08 16:46</div>
+<div type="caption">Etter et pilotprosjekt i 2016, har transportetaten i London besluttet å innhente informasjon om passasjerenes bruk av undergrunnsbanen i London ved hjelp av telefonene deres. (Foto: ANDREW WINNING / Scanpix) </div>
+<div type="text">
+<p>Etaten for transport i London skal nå begynne å kartlegge passasjerene på undergrunnsbanen «the tube» ved bruk av wi-fi-signaler, og ikke bare det blå reisekortet «Oyster Card».</p>
+<p>Det ble kunngjort mandag 8. juli, ifølge Financial Times.</p>
+<p>Informasjonen vil bli hentet inn hver gang en reisende passerer en wi-fi-sender på en stasjon, noe som skal gi transportetaten et bedre bilde av når folk reiser mest, hvilke stasjoner som er de travleste, og hvor lenge de reisende oppholder seg på stasjonen.</p>
+<p>Opplysningene kan også innebære kommersielle fordeler for transportetaten, skriver avisen.</p>
+<p>Sjefen for datainnsamling, Lauren Sagar, forsikrer om at etaten er «sitt ansvar bevisst», med tanke på problemstillinger knyttet til personvern.</p>
+<p>Dersom man skulle ønske å reise «under radaren», så kan man bare skru av wi-fi-signalet på telefonen, ifølge myndighetene.</p>
+<p>Meglerhus spår oppkjøpsrush for Equinor</p></div>
+<div type="title" level="3">Kan by på GDPR-utfordringer</div>
+<div type="text">
+<p>En forskningsassistent ved universitetet i Oxford sin seksjon for teknologi og globalisering, Lukasz Olejnik, påpeker at de tekniske løsningene bak informasjonsinnhentingen vil være av kritisk betydning.</p>
+<p>– Denne databasen vil inneholde veldig mye informasjon om enkeltpersoner. Å sikre det, er derfor, av overordnet betydning, sier Olejnik ifølge Financial Times.</p>
+<p>Sagar fra transportetaten forsikrer om at systemet vil ha teknologiske løsninger som møter kravene til EUs personverndirektiv, også kjent som GDPR.</p>
+<p>Hun er likevel usikker på hvorvidt man som privatperson kan søke innsyn i informasjonen som hentes inn, da det er utfordringer knyttet til identifikasjon av en person gjennom telefonsignalet deres.</p>
+<p>De siste årene har Londons transportetat hatt økonomiske problemer som følge av store kutt i offentlig driftsstøtte, men også færre passasjerer. Ifølge vurderingsbyrået Moody gikk etaten på et underskudd for fjoråret på mellom 300 til 400 millioner britiske pund mer enn forventet.</p></div></body></document>

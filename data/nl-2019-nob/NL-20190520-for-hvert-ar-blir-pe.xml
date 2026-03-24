@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190520-for-hvert-ar-blir-pe.xml"/>
+<attribute name="url" value="http://www.nordlys.no/personlig-okonomi/okonomi/penger/for-hvert-ar-blir-pengene-dine-mindre-verdt/s/5-34-1125955" frk="345 27 58 2129"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-05-20 06:16"/>
+<attribute name="author" value="Rune Pedersen, Nettavisen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">For hvert år blir pengene dine mindre verdt</div>
+<div type="ingress">Bruk inflasjonskalkulatoren for å sammenligne pengeverdier i dag med tidligere år.</div>
+<div type="author">Av Rune Pedersen, Nettavisen</div>
+<div type="date">20. mai 2019, kl. 06:16</div>
+<div type="caption"><p>MINDRE VERDT: Hvert år blir pengene dine mindre verdt. En hundrelapp mister kjøpekraften i takt med inflasjonen. Neste år vil du ikke få like mange varer og tjenester for hundrelappen som du får i år. Foto: Kim Gaare</p></div>
+<div type="text">
+<p>Hvert år blir pengene dine mindre verdt. En hundrelapp mister kjøpekraften i takt med inflasjonen. Neste år vil du ikke få like mange varer og tjenester for hundrelappen som du får i år. Men det har (for lenge siden) vært perioder der prisene har falt (deflasjon).</p></div>
+<div type="title" level="3">Inflasjonen de siste årene</div>
+<div type="text">
+<p>Inflasjonen økte noe i 2018. Mest på grunn av økt strømpris, men også noe hjulpet av høyere drivstoffpriser.</p>
+<p>Dette er den årlige inflasjonen de siste 10 årene.</p>
+<p>I 2019 har inflasjonen stedet med 1,6 prosent hittil i år.</p>
+<p>SSB har laget inflasjonsstatistikk tilbake ti 1865.</p>
+<p>Her finner du tall og historikk for konsumprisindeksen tilbake til 1865.</p></div>
+<div type="title" level="3">Inflasjonskalkulator</div>
+<div type="text">
+<p>For å beregne hva tidligere pengeverdier tilsvarer i dag kan du bruke inflasjonskalkulatoren. Der kan du omregne verdier tilbake til 1865.</p>
+<p>Omregningene er basert på konsumprisindeksen fra SSB. Det er gjennomsnittlig prisnivå i hvert av årene som ligger til grunn for endringene. Dette kan gi et noe annet resultat enn om du for eksempel regner mellom månedene desember til desember</p>
+<p>Her finner du inflasjonskalkulatoren.</p>
+<p>For å inflasjonsjustere et beløp kan du bruke Inflasjonsjusteringskalkulatoren.</p></div>
+<div type="title" level="3">Dette tilsvarer tidligere års penger i dag</div>
+<div type="text">
+<p>I tabellen under har vi satt opp hva enkelte års pengeverdier tilsvarer i dag. Tabellen tar utgangspunkt i hva 1000 kroner i det aktuelle året er verdt i dag.</p>
+<p>For eksempel i 1970 kan du gange verdien med 8,6. Det vil si at 1000 kroner i dagens pengeverdi tilsvarer 8.600 kroner i dag.</p></div>
+<div type="title" level="3">Beregn hva dagens penger tilsvarer tidligere</div>
+<div type="text">
+<p>Når du regner om fra dagens pengeverdi til et tidligere år er dette det motsatte regnestykket. 1000 kroner i dag tilsvarer 696 kroner i 2000-pengeverdi.</p>
+<p>Eller sagt på en annen måte: Pengeverdien i 1960 tilsvarer 8 prosent av den i dag.</p></div></body></document>

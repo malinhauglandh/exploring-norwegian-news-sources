@@ -1,0 +1,45 @@
+<!ELEMENT document (#PCDATA | header | body)*>
+<!ENTITY amp "&#38;">
+<!ENTITY ndash "&#150;">
+<!ENTITY lsaquo "&#8249;">
+<!ENTITY rsaquo "&#8250;">
+<!ENTITY ldquo "&#8220;">
+<!ENTITY rdquo "&#8221;">
+<!ENTITY Scaron "&#352;">
+<!ENTITY scaron "&#352;">
+<!ENTITY hellip "&#8230;">
+<!ENTITY euro "&#8364;">
+<!ENTITY permil "&#8240;">
+<!ENTITY pi "&#960;">
+<!ELEMENT header (#PCDATA | attribute)*>
+<!ELEMENT attribute (#PCDATA)>
+<!ATTLIST attribute name CDATA #IMPLIED>
+<!ATTLIST attribute value CDATA #IMPLIED>
+<!ATTLIST attribute frk CDATA #IMPLIED>
+<!ATTLIST attribute ab CDATA #IMPLIED>
+<!ELEMENT body (#PCDATA | div)*>
+<!ELEMENT div (#PCDATA | p | P | mt)*>
+<!ATTLIST div type CDATA #IMPLIED>
+<!ATTLIST div level CDATA #IMPLIED>
+<!ELEMENT p (#PCDATA | s | word | mt | b | B | i | I | em | strong | EM | STRONG | quote)*>
+<!ATTLIST p id CDATA #IMPLIED>
+<!ELEMENT P (#PCDATA | s | word | mt | b | B | i | I | em | strong | EM | STRONG | quote)*>
+<!ATTLIST P id CDATA #IMPLIED>
+<!ELEMENT b (#PCDATA | word)*>
+<!ATTLIST b class CDATA #IMPLIED>
+<!ELEMENT B (#PCDATA | word)*>
+<!ELEMENT mt (#PCDATA | word)*>
+<!ELEMENT i (#PCDATA | word)*>
+<!ELEMENT I (#PCDATA | word)*>
+<!ELEMENT em (#PCDATA | word)*>
+<!ELEMENT EM (#PCDATA | word)*>
+<!ELEMENT strong (#PCDATA | word)*>
+<!ELEMENT STRONG (#PCDATA | word)*>
+<!ELEMENT quote (#PCDATA | word)*>
+
+<!-- Elements for grammatically tagged xml files -->
+<!ATTLIST s admin CDATA #IMPLIED>
+<!ELEMENT word (#PCDATA)>
+<!ATTLIST word lemma CDATA #IMPLIED>
+<!ATTLIST word features CDATA #IMPLIED>
+<!ATTLIST word norm CDATA #IMPLIED>

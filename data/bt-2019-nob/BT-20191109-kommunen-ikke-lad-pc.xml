@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191109-kommunen-ikke-lad-pc.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/RRX2ed/Kommunen-Ikke-lad-PC-en-ved-bruk-Produsenten-Ikke-lad-PC-en-nar-den-ikke-er-i-bruk" frk="30 0 0 190 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-09 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Kommunen: Ikke lad PC-en ved bruk. Produsenten: Ikke lad PC-en når den ikke er i bruk.</div>
+<div type="ingress">Sprikende informasjon til skoleelever som nå får ta Chromebook med hjem fra skolen.</div>
+<div type="author"></div>
+<div type="date">2019-11-09</div>
+<div type="caption"></div>
+</body></document>

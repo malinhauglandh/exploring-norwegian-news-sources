@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190807-tygger-i-stykker-den.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/LAmroP/Tygger-i-stykker-den-gamle-rutebilstasjonen" frk="35 0 0 255 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-08-07 08:55"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tygger i stykker den gamle rutebilstasjonen</div>
+<div type="ingress">Onsdag startet arbeidet med å rive betongkonstruksjonen til den gamle rutebilstasjonen i Kristiansand.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Den gamle rutebilstasjonen i Kristiansand er i ferd med å rives. FOTO: Tormod Flem Vegge</p></div>
+</body></document>

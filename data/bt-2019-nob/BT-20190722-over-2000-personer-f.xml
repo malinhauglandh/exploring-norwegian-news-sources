@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190722-over-2000-personer-f.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1nyjmX/Over-2000-personer-fra-hele-verden-i-parade-over-Bryggen-i-Bergen" frk="35 16 4 242 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-22 13:04"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Tall Ships Races,Bryggen (Bergen)"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Over 2000 personer fra hele verden i parade over Bryggen i Bergen</div>
+<div type="ingress">Se bildene fra den maritime folkefesten i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-07-22</div>
+<div type="caption"><p>MANNSKAPSPARADE: Den lange paraden gikk fra Nykirkekaien til Koengen mandag ettermiddag. FOTO: Hedvig Idås</p></div>
+</body></document>

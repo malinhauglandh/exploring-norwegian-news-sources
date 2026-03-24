@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190623-ove-christian-fredri.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/dOrJdB/Ove-Christian-Fredriksen-slutter-som-sjef-i-Akasia-konsernet" frk="32 0 0 261 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-23 14:13"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Bergens Tidende,Bergen,Etterforskning,Konflikt"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ove-Christian Fredriksen slutter som sjef i Akasia-konsernet</div>
+<div type="ingress">Den administrerende direktøren har sagt opp stillingen etter uenigheter med styret.</div>
+<div type="author"></div>
+<div type="date">2019-06-23</div>
+<div type="caption"><p>GIR SEG: Ove-Christian Fredriksen gir seg som administrerende direktør. FOTO: Rune Sævig (arkiv)</p></div>
+</body></document>

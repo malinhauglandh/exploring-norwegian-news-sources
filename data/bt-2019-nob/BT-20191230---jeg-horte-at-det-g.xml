@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191230---jeg-horte-at-det-g.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/4qKv59/-Jeg-horte-at-det-gikk-skred_-sa-ble-det-helt-svart" frk="26 0 0 153 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-30 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Jeg hørte at det gikk skred, så ble det helt svart</div>
+<div type="ingress">Innbyggerne i Fresvik er fremdeles isolert. Veien vil ikke bli åpnet før nyttår.</div>
+<div type="author"></div>
+<div type="date">2019-12-30</div>
+<div type="caption"></div>
+</body></document>

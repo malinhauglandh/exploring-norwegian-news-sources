@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190524-heidis-bier-bar-vurd.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/70BO1B/Heidis-Bier-Bar-vurderer-kaivakt" frk="37 7 2 255 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-05-24 09:17"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="utelivsbransjen,vågen,stavanger"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Heidi’s Bier Bar vurderer kaivakt</div>
+<div type="ingress">Etter dødsulykken natt til 17. mai vurderer utestedet i den gamle tollboden å gå patrulje langs kaien.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Heidi’s Bier Bar Norge opplyser at konsernet vurderer nye sikkerhetstiltak i Stavanger Jone Østebø</p></div>
+</body></document>

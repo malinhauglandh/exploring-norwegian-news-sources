@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190902-brann-borsen-duellko.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/mRpl71/Brann-borsen-Duellkonge-mot-duellaget-Vant-og-vant-i-luften" frk="22 0 0 170 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-02 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brann-børsen: «Duellkonge mot duellaget. Vant og vant i luften.»</div>
+<div type="ingress">Se BT-sportens spillerbørs etter seieren mot Lillestrøm og sett dine egne karakterer.</div>
+<div type="author"></div>
+<div type="date">2019-09-02</div>
+<div type="caption"></div>
+</body></document>

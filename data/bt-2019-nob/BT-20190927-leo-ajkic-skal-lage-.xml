@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190927-leo-ajkic-skal-lage-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/OpPv1q/Leo-Ajkic-skal-lage-ny-narkotikaserie" frk="22 28 4 139 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-27 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Leo Ajkic skal lage ny narkotikaserie</div>
+<div type="ingress">Leo Ajkic skal vandre blant narkomane i Bergen i 2020. Det blir det NRK-serie av.</div>
+<div type="author"></div>
+<div type="date">2019-09-27</div>
+<div type="caption"></div>
+</body></document>

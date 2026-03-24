@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191124-redningsarbeidere-mi.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/K3Kz67/Redningsarbeidere-Minst-23-omkomne-hentet-ut-av-styrtet-fly-i-Kongo" frk="37 16 4 245 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-24 11:59"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Redningsarbeidere: Minst 23 omkomne hentet ut av styrtet fly i Kongo</div>
+<div type="ingress">Det er funnet minst 23 omkomne etter at et passasjerfly styrtet i et tett befolket område i millionbyen Goma øst i Kongo søndag, opplyser redningsarbeidere.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 24. november 2019 11:59</div>
+<div type="caption"></div>
+</body></document>

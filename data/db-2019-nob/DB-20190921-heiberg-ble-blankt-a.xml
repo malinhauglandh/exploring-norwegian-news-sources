@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190921-heiberg-ble-blankt-a.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/nyheter/heiberg-ble-blankt-avvist-av-russlands-mektigste/71622081" frk="54 0 0 323 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-09-21 19:49"/>
+<attribute name="author" value="Per Lars Tonstad"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Heiberg ble blankt avvist av Russlands mektigste</div>
+<div type="ingress">Gerhard Heiberg har møtt Russlands president Vladimir Putin flere ganger. Men da han ba om et nytt møte, fikk han tvert nei.</div>
+<div type="author">Per Lars Tonstad</div>
+<div type="date">2019-09-21</div>
+<div type="caption"><p>LEI SEG: Gerhard Heiberg sier han ble lei seg da han ble avvist av president Vladimir Putin. Foto: Jon Olav Nesvold / NTB scanpix</p></div>
+</body></document>

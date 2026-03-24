@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191012-robot-oversetter-bok.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/K3kvyy/Robot-oversetter-bokmal-til-nynorsk" frk="151 10 10 998"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-10-12 07:00"/>
+<attribute name="author" value="Per Kristian Bjørkeng"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="ai,bokmål,nynorsk,robot,språkrådet,teknologi,robot"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Robot oversetter bokmål til nynorsk</div>
+<div type="ingress">På under et år har de skapt en maskin som kan forvandle nyheter på bokmål til nynorske nyhende. Dermed melder spørsmålet seg: Kan flertallet droppe nynorskundervisning i fremtiden?</div>
+<div type="author">Per Kristian Bjørkeng</div>
+<div type="date">12.okt.2019 09:00</div>
+<div type="caption"><p>FOTO: Olav Olsen Dataanalytiker Jo Christian Oterhals i NTB og sjefredaktør Karoline Riise Kristiansen i Nynorsk pressekontor.</p></div>
+<div type="text">
+<p>Nynorsk. Elsket av kreative skribenter for det store ordforrådet og de rike klangene. Hatet av majoritetselever som må bruke timevis på et språk de kanskje aldri vil uttrykke seg på. Kan en datamaskin løse floken? Og vil det i så fall føre til forflating av det mangfoldige målet?</p>
+<p>Nynorsk pressekontor (NPK) fikk i fjor 800.000 kroner i støtte fra Kulturdepartementet til «robotstøtta omsetting». Hensikten var å utvikle et system som automatisk oversetter NTB-artikler fra bokmål til nynorsk. NPK har samarbeidet med NTB om utviklingen. Resultatene er så gode at prosjektet har fått en million kroner til på statsbudsjettet for 2020.</p></div></body></document>

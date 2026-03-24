@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190216-ariana-grande-levere.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/kultur/i/a2zRxA/Ariana-Grande-leverer-et-nar-perfekt-popalbum" frk="34 10 2 192 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-16 11:08"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="anmeldelse,plateanmeldelse,ariana grande"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ariana Grande leverer et nær perfekt popalbum</div>
+<div type="ingress">Her og nå er hun størst.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>25 år gamle Ariana Grande ble født i Boca Raton i Florida. Hun er bosatt i New York. Andrew Harnik/AP</p></div>
+</body></document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20191211-norske-foreldre-er-m.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/nyheter/innenriks/norske-foreldre-er-mindre-fornoyde-med-skolene-1.1631516" frk="81 53 25 467 ## %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-12-11 20:46"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Norske foreldre er mindre fornøyde med skolene</div>
+<div type="ingress">Norske foreldre er mindre fornøyde med både grunnskolen og videregående skole enn i fjor, ifølge en ny undersøkelse.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Foreldre med barn i grunnskolen er mindre fornøyde med skolene i år enn i fjor.</p></div>
+<div type="text">
+<p>Det viser en måling Norstat har utført for .</p>
+<p>Barneskolen får en score på 65,8 av 100 i år, mot 70,1 i 2018. Ungdomsskoler scorer 70,3 i 2019, mot 73,5 i fjor.</p>
+<p>En score over 75 tilsier en høy tilfredshet.</p></div></body></document>

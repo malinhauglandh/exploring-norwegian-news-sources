@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="VG-20190413-hacket-foderale-nett.xml"/>
+<attribute name="url" value="http://www.vg.no/nyheter/utenriks/i/Opg3jV/hacket-foederale-nettsider-publiserte-personlig-informasjon-om-agenter" frk="100 11 8 676"/>
+<attribute name="source" value="VG"/>
+<attribute name="date" value="2019-04-13 01:18"/>
+<attribute name="author" value="Øystein David Johansen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hacket føderale nettsider - publiserte personlig informasjon om agenter</div>
+<div type="ingress">Hackere har angrepet flere FBI-relaterte nettsider i USA.</div>
+<div type="author">Øystein David Johansen</div>
+<div type="date"></div>
+<div type="caption"></div>
+<div type="text">
+<p>Hackergruppen har ifølge teknologinettsiden Techrunch hacket tre nettsider som er tilknyttet FBI.</p>
+<p>Herfra har de lastet ned en lang rekke filer og lastet opp innhold på sine egne sider.</p>
+<p>Filene, 4000 i tallet, skal ifølge nettsiden blant annet inneholde e-post adresser, telefonnummer og adressen til mange føderale ansatte.</p>
+<p>Nettsiden har chattet med hackerne som sier de har hacket mer enn 1000 sider, og at dataene som er samlet inn vil bli solgt.</p>
+<p>Hackeren sier informasjonen antakelig vil sette flere føderale agenter i fare.</p></div></body></document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190425-tekniske-problemer-p.xml"/>
+<attribute name="url" value="http://www.dn.no/medier/tekniske-problemer-pa-dnno/2-1-592510" frk="50 0 0 381 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-04-25 07:49"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="medier"/>
+<attribute name="class2" value="Etterbørs,Medier"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tekniske problemer på DN.no</div>
+<div type="ingress">Strømbrudd hos serverleverandør årsaken til nedetid. Strømbrudd hos serverleverandør årsaken til nedetid.</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-04-25 07:49</div>
+<div type="caption"></div>
+<div type="text">
+<p>DN.no har dessverre vært utilgjengelig siden rundt klokken halv syv torsdag morgen. Problemene skyldes et strømbrudd hos vår serverleverandør.</p>
+<p>Alt skal nå fungere som normalt igjen. Vi beklager ulempen overfor alle våre lesere.</p></div></body></document>

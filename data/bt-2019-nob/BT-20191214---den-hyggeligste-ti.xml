@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191214---den-hyggeligste-ti.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/rAyAV8/den-hyggeligste-tiden-paa-aaret" frk="29 0 0 200 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-14 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">– Den hyggeligste tiden på året</div>
+<div type="ingress">I desember gjør naturen sitt inntog i Ragnhild og Øyvind Iversens rekkehus. Gran og lerk, kongler og eukalyptus forvandles til velduftende julepynt.</div>
+<div type="author"></div>
+<div type="date">2019-12-14</div>
+<div type="caption"></div>
+</body></document>

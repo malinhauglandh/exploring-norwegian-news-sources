@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190715-sorlandsbanen-er-apn.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/zGk595/Sorlandsbanen-er-apnet-igjen" frk="50 12 4 324 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-15 08:36"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="tog,kollektivtransport,jernbane"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Sørlandsbanen er åpnet igjen</div>
+<div type="ingress">Sørlandsbanen mellom Gjerstad og Vegårshei ble søndag ettermiddag åpnet igjen etter å ha vært stengt i nesten ett døgn.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vy fikk problemer med toget som gikk fra Oslo klokka 11.05 lørdag formiddag. Det ble stående mellom Gjerstad og Vegårshei i fire timer. NTB Scanpix (arkiv)</p></div>
+</body></document>

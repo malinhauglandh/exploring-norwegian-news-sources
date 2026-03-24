@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190111-gjensyn-med-en-gutte.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/oRop7j/-Gjensyn-med-en-guttedrom" frk="39 30 8 264 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-11 14:50"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Arkitektur,Lokalhistorie,Bergen,Barn"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Gjensyn med en guttedrøm</div>
+<div type="ingress">Nattlandsveien og Strimmelen! Birkeveien og Hagerups vei! Lægdene og Mannsverk! Mer Landås kan det ikke bli.</div>
+<div type="author"></div>
+<div type="date">2019-01-11</div>
+<div type="caption"><p>DUGNAD: Stor oppslutning om dugnaden i Fiolveien i 1956. Husene males for første gang siden 1948. FOTO: Privat</p></div>
+</body></document>

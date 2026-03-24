@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190113-tore-borhaug-til-min.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/4dabGe/-Tore-Borhaug-til-minne" frk="26 64 10 156 ## %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-13 11:05"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Musikk,Skien,Psykologi,Bergen,Nekrolog,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tore Børhaug til minne</div>
+<div type="ingress">Tore Børhaug er død, 64 år gammel.</div>
+<div type="author"></div>
+<div type="date">2019-01-13</div>
+<div type="caption"><p>VED VEIS ENDE: Tore Børhaug døde 15. desember 2018, 64 år gammel. FOTO: Privat</p></div>
+</body></document>

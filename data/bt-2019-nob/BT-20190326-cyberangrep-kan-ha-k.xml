@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190326-cyberangrep-kan-ha-k.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/pLPBBG/Cyberangrep-kan-ha-kostet-Hydro-opptil-350-millioner-kroner" frk="421 6 19 2748" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-26 13:19"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Cyberangrep kan ha kostet Hydro 350 millioner kroner</div>
+<div type="ingress">Den foreløpige evalueringen fra Hydro viser at det økonomiske tapet etter den første hele uken etter cyberangrepet er på rundt 300 – 350 millioner kroner.</div>
+<div type="author">NTB</div>
+<div type="date">26. mars 2019 13:19</div>
+<div type="caption"><p>Norsk Hydro har tapt opptil 350 millioner kroner den første uken etter cyberangrepet. Summen kan bli større, opplyste finansdirektør Eivind Kallevik (i midten) i Hydro tirsdag. Til venstre kommunikasjonsdirektør Inger Sethov og til høyre Egil Hogna, konserndirektør for ekstruderte produkter i Hydro. Foto: Vidar Ruud / NTB scanpix</p></div>
+<div type="text">
+<p>Det meste av dette kommer fra tapte marginer og volumer i forretningsområdet Extruded Solutions, skriver Hydro i en pressemelding. Det dreier seg da om utvikling og produksjon av aluminiumsprofiler, profilbaserte byggesystemer og aluminiumsrør hvor Hydro har markedsandeler i Europa, Nord-Amerika, Sør-Amerika og Asia.</p>
+<p>Samtidig understreker selskapet at det er for tidlig å kunne gi en detaljert oversikt over de finansielle effektene av angrepet. Hydro er forsikret mot cyberangrep hos flere anerkjente forsikringsselskaper, men forsikringen har et tak, opplyste Hydros finansdirektør Eivind Kallevik på en pressekonferanse tirsdag ettermiddag.</p></div>
+<div type="title" level="3">Blir et større tap</div>
+<div type="text">
+<p>– Vi har en forsikring med et tak, men vi ønsker ikke å gå nærmere inn på detaljer om dette, sa finansdirektøren.</p>
+<p>Han understreket også at anslaget på 350 millioner kroner inkluderer økte utgifter på grunn av ressursene som måtte settes inn for å stoppe cyberangrepet.</p>
+<p>– Det er også klart at det vil komme et ytterligere tap og økte utgifter også i ukene som kommer, men disse vil bli redusert gradvis ettersom vi får produksjonen tilbake til vanlig kapasitet, sa Kallevik.</p>
+<p>Hydro er nå over i en gjenopprettingsfase etter angrepet og tilbakefører gradvis selskapets IT-systemer på en trygg og sikker måte, heter det i pressemeldingen. Cyberangrepet er rapportert til Kripos, og Hydro samarbeider også med relevante myndigheter, blant annet Nasjonal sikkerhetsmyndighet (NSM).</p>
+<p>– Vi har konsentrert oss om å få stoppet viruset og angrepet og har derfor ikke lagt særlig vekt på fra hvem og hvor dette angrepet kom fra, sa Kallevik.</p></div>
+<div type="title" level="3">Tar flere uker</div>
+<div type="text">
+<p>En uke etter angrepet går det meste av produksjonen i Hydro med normal kapasitet. Innen forretningsområdene Energy og Bauxite &amp; Alumina er produksjonen normal. Også innen Primary Metal og Rolled Products går produksjonen som normalt, men med høyere grad av manuell drift enn vanlig.</p>
+<p>Innen forretningsområdet Extruded Solutions produseres det nå med 70 – 80 prosent av kapasiteten, mens det i enheten Building Systems står helt stille. Hydro håper å kunne øke produksjonen i løpet av denne uken, men tror det kan ta flere uker før produksjonen er gjenopprettet på fullt nivå.</p></div></body></document>

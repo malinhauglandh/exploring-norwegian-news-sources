@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190909-veterinarklinikk-bli.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/VbpO4V/Veterinarklinikk-blir-nedringt-av-bekymrede-eiere" frk="39 0 0 275 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-09 07:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Veterinær,Dyrehelse,Dyr,Hund"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Veterinærklinikk blir nedringt av bekymrede eiere</div>
+<div type="ingress">Eiere ringer klinikken før timen for å forsikre seg om at det er trygt.</div>
+<div type="author"></div>
+<div type="date">2019-09-09</div>
+<div type="caption"><p>RYKTET GÅR: Veterinær Kristine Skogseth-Jacobsen forteller at det går mye rykter rundt den mystiske hundesykdommen. FOTO: Tuva Åserud</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191030-ledelsen-i-akasia-in.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/lAa1Py/ledelsen-i-akasia-innfoerer-loennsfrys-ansettelses-og-innkjoepsstopp" frk="21 12 2 159 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-30 20:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ledelsen i Akasia innfører lønnsfrys, ansettelses- og innkjøpsstopp</div>
+<div type="ingress">Onsdag må selskapet svare på kravet på 28 millioner fra Bergen kommune.</div>
+<div type="author"></div>
+<div type="date">2019-10-30</div>
+<div type="caption"></div>
+</body></document>

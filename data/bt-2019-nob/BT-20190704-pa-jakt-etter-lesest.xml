@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190704-pa-jakt-etter-lesest.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/qLVgaE/Pa-jakt-etter-lesestoff-Her-er-ukens-anbefalinger" frk="16 0 0 109 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-04 14:34"/>
+
+<attribute name="author" value="Bergens Tidende"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">På jakt etter lesestoff? Her er ukens anbefalinger.</div>
+<div type="ingress">Vi har håndplukket fem saker til deg,</div>
+<div type="author">Bergens Tidende</div>
+<div type="date">04.jul.2019 14:34</div>
+<div type="caption"></div>
+</body></document>

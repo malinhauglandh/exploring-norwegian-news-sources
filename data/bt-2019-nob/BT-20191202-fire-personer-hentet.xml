@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191202-fire-personer-hentet.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/narnW5/fire-personer-hentet-livloese-opp-av-sjoeen-i-tromsoe" frk="58 0 0 335 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-02 19:59"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fire personer hentet livløse opp av sjøen i Tromsø</div>
+<div type="ingress">De fire personene som ble funnet i sjøen i Tromsø mandag kveld, var livløse da de ble hentet opp på land. De er brakt til sykehus. Tilstanden er ukjent.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 2. desember 2019 19:59</div>
+<div type="caption"><p>Fire personer er hentet opp av sjøen ved sørlige delen av Tromsøya. Foto: Rune Stoltz Bertinussen / NTB scanpix</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190312-tre-av-syv-drap-har-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/8wrXRE/Tre-av-syv-drap-har-skjedd-i-Bergen" frk="21 36 4 111 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-12 10:18"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Tre av syv drap har skjedd i Bergen</div>
+<div type="ingress">Seks kvinner og én mann er drept i Norge hittil i 2019.</div>
+<div type="author"></div>
+<div type="date">2019-03-12</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191013-slik-blir-norsk-skol.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/wP5boM/Etter-7000-innspill-er-anbefalingen-klar-Mer-tid-i-naturen-er-en-av-endringene-i-skolefagene-fra-neste-ar" frk="40 16 4 248 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-13 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Slik blir norsk skole endret – de nye læreplanene fag for fag</div>
+<div type="ingress">Fra neste år vil elevene merke endringer i de aller fleste fag. Etter å ha fått 7000 innspill, anbefaler Utdanningsdirektoratet blant annet mer praksis ute i naturen.</div>
+<div type="author"></div>
+<div type="date">2019-10-13</div>
+<div type="caption"></div>
+</body></document>

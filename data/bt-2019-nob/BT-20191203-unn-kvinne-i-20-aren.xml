@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191203-unn-kvinne-i-20-aren.xml"/>
+<attribute name="url" value="https://www.bt.no/innenriks/i/vQdyjL/unn-kvinne-i-20-aarene-i-tromsoe-doede-mandag-kveld" frk="26 11 2 168 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-03 08:20"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">UNN: Kvinne i 20-årene i Tromsø døde mandag kveld</div>
+<div type="ingress">En kvinne og en jente i barneskolealder er døde. To jenter kritisk skadet.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 3. desember 2019 08:20</div>
+<div type="caption"><p>Rune Stoltz Bertinussen</p></div>
+</body></document>

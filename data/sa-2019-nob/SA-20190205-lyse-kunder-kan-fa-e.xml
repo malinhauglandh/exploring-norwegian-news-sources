@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190205-lyse-kunder-kan-fa-e.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/zLpk4v/Lyse-kunder-kan-fa-enda-en-ny-strommaler" frk="745 11 51 4412"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-02-05 19:45:03"/>
+<attribute name="author" value="Ola Fintland"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="lyse,forbruker,økonomi"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Lyse-kunder kan få enda en ny strømmåler</div>
+<div type="ingress">50.000 Lyse-kunder må ha ny strømmåler hvis de ønsker en mer detaljert informasjon om eget strømforbruk. Dersom 1 av 10 krever dette, slik Lyse antar, må 5000 målere byttes.</div>
+<div type="author">Ola Fintland</div>
+<div type="date">2019-02-05 19:45:03</div>
+<div type="caption"><p>Lyse har monterte rundt nye 50.000 strømmålere uten HAN-port, mens 80.000 Lyse-kunder har strømmåler med HAN-port. For å åpne disse, kreves det bare at man melder fra til Lyse. Kleiven, Paul / NTB scanpix</p></div>
+<div type="text">
+<p>Fra. 1. januar i år skal alle strømkunder ha automatisk strømmåler (AMS). Alle som ønsker det, kan også be om at nettselskaper som Lyse åpner den såkalte HAN-porten (Home Area Network). Av personvernhensyn er denne automatisk lukket. Derfor må du selv aktivt velge å åpne den.</p>
+<p>– Vi er opptatt av at alle skal ha tilgang til HAN-porten, og det viktigste er at de som ønsker å bruke den får tilgang, sier Guro Grøtterud, som er seksjonssjef for sluttbrukermarked i Norges vassdrag- og energidirektorat (NVE).</p></div>
+<div type="title" level="3">Forbruk på sekundnivå</div>
+<div type="text">
+<p>Hun har foreløpig ikke oversikt over hvor mange strømkunder i Norge som mangler denne porten, men regner med å få det i løpet av måneden.</p>
+<p>Gjennom HAN-porten vil du kunne få detaljert informasjon om:</p>
+<p>strømforbruk i øyeblikket (effektuttak)</p>
+<p>strømforbruket siste time</p>
+<p>spenningsnivå</p>
+<p>overskuddskraft (fra f.eks solcelleanlegg) som mates inn i nettet (plusskunder).</p>
+<p>– Denne informasjonen er mye mer detaljert enn den grovere inndelingen som nettselskapene og strømleverandørene har tilgang til. I stedet for å måle forbruket time for time, måler du forbruket helt ned i annen hvert sekund, sier Grøtterud.</p>
+<p>Gjennom ulike apper og styringstjenester kan disse opplysningene brukes til å tilpasse forbruket til vekslende strømpriser. For eksempel når du skal lade elbilen, eller når du skal varme opp bolig og varmtvann for å få billigst mulig strøm.</p>
+<p>Men det er opp til hver enkelt kunde om de vil åpne opp for dette eller ikke, og du bestemmer selv hvem du ønsker å gi disse opplysningene til. Verken nettselskap, kraftleverandører eller tjenesteleverandører har leseadgang til HAN-porten med mindre du som kunde gir en slik tilgang.</p></div>
+<div type="title" level="3">Lyse: – Beklagelig</div>
+<div type="text">
+<p>Problemet er at Lyse har monterte rundt nye 50.000 strømmålere uten HAN-port i 2015 og 2016. Disse var basert på en annen løsning og må byttes dersom kundene ønsker å åpne porten for å koble til utstyr, som gir tilgang til de detaljerte opplysningene som kan brukes til å styre forbruket.</p>
+<p>- Det er vanskelig å si hvor mange som vil be om dette, men vi antar at det kan være inntil 10 prosent de neste fem årene, sier kommunikasjonssjef Ingvild Ween i Lyse Elnett.</p>
+<p>Det betyr i så fall at Lyse må skifte inntil 5000 strømmålere.</p>
+<p>– Det er billigere å bytte enn å bygge om, og mesteparten av kostnadene er knyttet til arbeidet, ikke selve målerne, sier Ween.</p>
+<p>– Hvordan ser Lyse på at dere må bytte ut strømmålere som er nesten nye?</p>
+<p>– Det er svært beklagelig at vi må bytte strømmålere, og vi skulle helst sett at dette var unngått, sier Ween.</p></div>
+<div type="title" level="3">Liten pågang</div>
+<div type="text">
+<p>Så langt i januar er det bare 20 – 25 kunder som har bedt om å åpne HAN-porten, så foreløpig er det ikke noen stor pågang. 80.000 Lyse-kunder har også strømmåler med HAN-port. For å åpne disse, kreves det bare at man melder fra til Lyse. I øyeblikket tar det rundt én uke å få dette på plass, men det jobbes med en softwareoppdatering som gjør det mulig for kunder å ordne dette på nett.</p>
+<p>– Hva betyr det for nettleien at Lyse risikerer å bytte mange tusen målere?</p>
+<p>– Det koster ikke noe for kundene, og det påvirker heller ikke nettleien, sier Ween</p>
+<p>– Hvem tar regningen for dette da?</p>
+<p>– Det er vanskelig å si hvor stor regningen blir. Det er mange forhold som påvirker dette. Teknologien utvikler seg raskt, og det vanskelig å si hvor mange som vil bruke HAN-porten. Vi kan ikke gå nærmere inn på kostnader på grunn av kontraktsforhold med tidligere leverandør, sier Ween.</p>
+<p>Det er NVE som fastsetter hvor mye nettselskapene kan tjene.</p>
+<p>– Alle investeringer som nettselskapene gjør dekkes gjennom nettleien. Men det er NVE som fastsetter hvor mye de totalt kan hente inn i nettleie fra kundene, og de som driver kostnadseffektivt, vil ha høyest overskudd. Dermed vil det gå ut over overskuddet hvis selskapene gjør feilinvesteringer i utstyr, sier Grøtterud.</p>
+<p>De automatiske strømmålerne vil gi nettselskapene mer kunnskap om forbruket og gjør det lettere å investere der det trengs. Det skal også komme kundene til gode på sikt gjennom lavere nettleie.</p></div></body></document>

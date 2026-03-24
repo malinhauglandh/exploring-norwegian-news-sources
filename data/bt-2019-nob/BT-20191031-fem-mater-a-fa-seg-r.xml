@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191031-fem-mater-a-fa-seg-r.xml"/>
+<attribute name="url" value="https://www.bt.no/bolig/i/g7B8VB/fem-maater-aa-faa-seg-rimeligere-bolig-dette-maa-du-gi-avkall-paa" frk="26 0 0 154 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-31 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="bolig"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fem måter å få seg rimeligere bolig. Dette må du gi avkall på.</div>
+<div type="ingress">– Det lønner seg å eie. Historien beviser det, sier Eiendom Norge-sjef.</div>
+<div type="author"></div>
+<div type="date">2019-10-31</div>
+<div type="caption"></div>
+</body></document>

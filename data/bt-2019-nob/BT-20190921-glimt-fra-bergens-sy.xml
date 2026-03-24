@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190921-glimt-fra-bergens-sy.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/vQXxvw/Glimt-fra-Bergens-sykkelhistorie" frk="28 23 4 171 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-21 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Glimt fra Bergens sykkelhistorie</div>
+<div type="ingress">CK Henie er i dag navnet på en sykkelklubb i Os, men klubbens historie startet på et gutterom i Bergen sentrum i 1928.</div>
+<div type="author"></div>
+<div type="date">2019-09-21</div>
+<div type="caption"></div>
+</body></document>

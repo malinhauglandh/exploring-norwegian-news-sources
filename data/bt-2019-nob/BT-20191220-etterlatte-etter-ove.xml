@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191220-etterlatte-etter-ove.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/3Jw460/Etterlatte-etter-overdoser-skal-fa-krisehjelp" frk="22 0 0 145 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-20 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Etterlatte etter overdoser skal få krisehjelp</div>
+<div type="ingress">– Vi har vel satt fingeren på et tema som har gitt enkelte dårlig samvittighet.</div>
+<div type="author"></div>
+<div type="date">2019-12-20</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191001-olav-berg-domt-til-e.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/Vbk2Xd/Olav-Berg-domt-til-et-halvt-ars-fengsel-for-underslaget-i-Matsentralen" frk="22 20 3 146 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-01 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Olav Berg dømt til et halvt års fengsel for underslaget i Matsentralen</div>
+<div type="ingress">Han må også gjennomføre en samfunnsstraff på 100 timer.</div>
+<div type="author"></div>
+<div type="date">2019-10-01</div>
+<div type="caption"></div>
+</body></document>

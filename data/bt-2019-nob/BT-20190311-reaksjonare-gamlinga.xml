@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190311-reaksjonare-gamlinga.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/kommentar/i/Eo3lO3/Reaksjonare-gamlingar" frk="10 0 0 97 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-11 20:30"/>
+
+<attribute name="author" value="Asbjørn Kristoffersen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,kommentar"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Reaksjonære gamlingar</div>
+<div type="ingress"></div>
+<div type="author">Asbjørn Kristoffersen</div>
+<div type="date">2019-03-11</div>
+<div type="caption"><p>Foto: Jon Olav Nesvold, NTB scanpix (illustrasjonsfoto)</p></div>
+</body></document>

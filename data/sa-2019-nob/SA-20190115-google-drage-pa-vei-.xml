@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190115-google-drage-pa-vei-.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/aenergi/i/a2n5XM/Google-drage-pa-vei-til-Rogalands-kysten" frk="50 25 8 311 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-15 08:31"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="aenergi"/>
+<attribute name="class2" value="hywind,google,teknologi,avinor,karmøy"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Google-drage på vei til Rogalands-kysten</div>
+<div type="ingress">Snart svever en strømproduserende drage med et vingespenn på 28 meter over havet rett vest av Karmøy. Helikoptre må fly høyere eller ta en omvei til Nordsjøen.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Dragen kan produsere 600 kW strøm. Det er i følge Google nok strøm til 300 boliger. Makani</p></div>
+</body></document>

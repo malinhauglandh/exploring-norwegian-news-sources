@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190319-hydro-utsatt-for-sto.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/innenriks/hydro-utsatt-for-stort-cyberangrep-1.1450590" frk="410 4 11 2619"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-03-19 20:45"/>
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Hydro utsatt for stort cyberangrep</div>
+<div type="ingress">Hydro globale virksomhet er utsatt for et omfattende cyberangrep som påvirker driften. Selskapet skifter til manuell drift så langt det er mulig.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Hydro er utsatt for et stort cyberangrep.</p></div>
+<div type="text">
+<p>Av Oda Ertesvåg og Peter Tálos</p>
+<p>Rundt midnatt ble det oppdaget unormal aktivitet på dataserverne til Norsk Hydro. Hele IT-organisasjonen i selskapet ble satt i beredskap for å iverksette tiltak mot angrepet, men i morgentimene var hele den verdensomspennende virksomheten fremdeles under påvirkning av angrepet.</p>
+<p>– Hydro arbeider for å nøytralisere angrepet, men kjenner hittil ikke det fulle omfanget av situasjonen, skrev selskapet i en børsmelding en halv time før handelen startet klokken 9.</p>
+<p>Da aksjehandelen startet, falt verdien på Hydro-aksjen med 3 prosent, men steg noe etter en halv times handel. Ved 9.40-tiden hadde aksjen falt med 2 prosent fra sluttnoteringen mandag.</p>
+<p>– Vår industri er stadig mer blitt digitalisert og avhengig av computersystemer. Vi går tilbake til mer manuell drift der det er mulig, sier informasjonssjef Erik Brynhildsbakken i Hydro til NTB.</p>
+<p>– Noen av Hydros anlegg har full stans i produksjonen, opplyser kommunikasjonsdirektør Halvor Molland i Hydro til .</p></div>
+<div type="title" level="3">Sikrer driften</div>
+<div type="text">
+<p>Nettsidene til Hydro har i morgentimene tirsdag vært nede. Informasjonssjefen sier at han på nåværende tidspunkt ikke ønsker å uttale seg spesifikt om det har noen sammenheng med dataangrepet, eller hvordan angrepet har rammet.</p>
+<p>Brynhildsbakken sier han ikke kjenner til hvilke instanser som er varslet i forbindelse med dataangrepet.</p>
+<p>Norsk Hydro er et globalt selskap med 35.000 ansatte på alle kontinenter. Hele virksomheten var i ulik grad påvirket av cyberangrepet tirsdag, men ikke alle deler av driften var rammet.</p>
+<p>– Vi ønsker ikke å være spesifikke på hva som er rammet. Det er viktig for oss nå å beskytte de delene som ikke er påvirket, sier Brynhildsbakken.</p></div>
+<div type="title" level="3">NSM bistår</div>
+<div type="text">
+<p>Nasjonal sikkerhetsmyndighet (NSM) er varslet og bistår Norsk Hydro etter angrepet.</p>
+<p>– Vi er i dialog med selskapet og bistår dem med hendelseshåndtering og analyse. Vi kan ikke kommentere innholdet i angrepet for dette en hendelse som eies av Hydro, og da må selskapet kommentere det selv, sier kommunikasjonsdirektør Mona Strøm Arnøy til NTB.</p>
+<p>Kommunikasjonsdirektøren sier det er for tidlig å si om det bare er Norsk Hydro som er rammet, eller om også andre norske interesser har vært utsatt for angrep i løpet av natten.</p>
+<p>Også Politiets sikkerhetstjeneste var orientert om angrepet tirsdag morgen, men opplyser at det foreløpig er en oppgave for NSM å hjelpe selskapet med å håndtere saken.</p></div></body></document>

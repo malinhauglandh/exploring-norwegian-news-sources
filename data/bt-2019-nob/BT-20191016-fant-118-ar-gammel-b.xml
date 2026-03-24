@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191016-fant-118-ar-gammel-b.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/QoKOwR/Fant-118-ar-gammel-buekorpsmedalje-fra-sitt-eget-korps" frk="21 23 3 126 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-16 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fant 118 år gammel buekorpsmedalje fra sitt eget korps</div>
+<div type="ingress">Det er mye rart som kan dukke opp på en bruktmesse.</div>
+<div type="author"></div>
+<div type="date">2019-10-16</div>
+<div type="caption"></div>
+</body></document>

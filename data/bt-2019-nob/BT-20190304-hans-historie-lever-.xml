@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190304-hans-historie-lever-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/qn2A0E/Hans-historie-lever-videre" frk="34 41 9 219 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-04 09:10"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Tyskland,Krig,Andre verdenskrig,Nekrolog,Minneord,Minneord"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hans historie lever videre</div>
+<div type="ingress">Morten Telle er død, 91 år gammel.</div>
+<div type="author"></div>
+<div type="date">2019-03-04</div>
+<div type="caption"><p>TIL MINNE: Morten Telle fra Telavåg døde 25. fenruar. Han gravlegges fra Kausland kyrkje, tirsdag 5. mars kl. 12.30. FOTO: TRYGVE SØRVAAG</p></div>
+</body></document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="NL-20190610-finner-alt-for-a-svi.xml"/>
+<attribute name="url" value="http://www.nordlys.no/datakriminalitet/it-bransjen/personvern/finner-alt-for-a-svindle-deg-pa-6-minutter-skremmende-lett/s/5-34-1137909" frk="1063 1 10 6737"/>
+<attribute name="source" value="NL"/>
+<attribute name="date" value="2019-06-10 21:57"/>
+<attribute name="author" value="Kjetil Bortelid Mæland, Nettavisen"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Finner alt for å svindle deg på 6 minutter: - Skremmende lett</div>
+<div type="ingress">På seks minutter, og med bruk av åpne kilder på nett, samlet sikkerhetseksperten nok informasjon til å svindle nordmenn.</div>
+<div type="author">Av Kjetil Bortelid Mæland, Nettavisen</div>
+<div type="date">10. juni 2019, kl. 21:57</div>
+<div type="caption"><p>FINNER INFORMASJON: Flere nettsider gir informasjon som kan brukes til å svindle deg. En av dem, genererer mulige fødselsnumre. Posten Norge sier de vil fjerne funksjoner etter at Nettavisen ba om kommentar på denne saken. Foto: Jørgen Berge (Nettavisen)</p></div>
+<div type="text">
+<p>- Det er skremmende lett å skaffe seg personinformasjon på nett. Tidligere måtte man stjele post eller skaffe seg ulovlig digital tilgang for å få tilgang til informasjon, slik som fødselsnummer, sier juridisk seniorrådgiver Thomas Iversen i Forbrukerrådet, etter å ha lest oppskriften omtalt i denne artikkelen, skrevet av Nettavisen.</p>
+<p>- Når det er mulig å hente ut all informasjon om personer med noen tastetrykk på nett, så skaper det en helt annen problematikk, sier Ole Anders Ulsrud i NorSIS (Norsk senter for informasjonssikring).</p></div>
+<div type="title" level="3">6 minutter</div>
+<div type="text">
+<p>Tidligere i år ble han og andre deltakere på NorSIS sitt forum «Stopp nettsvindel» presentert for en oppskrift for hvordan man kan finne «all» nødvendig informasjon for å svindle nordmenn. Med oppskriften tok det 6 minutter å koble fødselsnummer til en person. Dette ble gjort ved hjelp av åpne kilder på internett.</p>
+<p>Informasjonen kan blant annet brukes til å ta opp kredittlån og kjøpe varer og tjenester i andres navn.</p>
+<p>- Fødselsnummer brukes ennå som autentisering i noen nettbutikker og banker. Man kan blant annet printe ut et lånedokument, skrive under og sende det i posten tilbake til banken. Dermed unngår man elektronisk signatur, sier Ulsrud.</p>
+<p>Nettavisen har fått tilgang til oppskriften på hvordan man finner fødselsnummeret og annen informasjon om privatpersoner.</p></div>
+<div type="title" level="3">Søke på fødselsnummer</div>
+<div type="text">
+<p>Sentralt i oppskriften er generatorer på nett som regner ut ekte fødselsnummer.</p>
+<p>- Vi fikk en liste med gyldige fødselsnummer (SSN) fra den kalkulatoren. Den lager bare gyldige SSN, men sier ingen ting om numrene er i bruk eller ikke. For å vaske fødselsnumrene, testet vi i nettbutikken for å se om vi fant noen personer. Vi brukte en stor og kjent norsk nettbutikk for å ha størst sjanse for å finne noen. Vi fikk treff etter cirka 30 forsøk, sier sikkerhetsansvarlig i bedriften som lagde den aktuelle oppskriften.</p>
+<p>- Her er første problem. Det var ingen grense på antall forsøk å taste inn SSN. Vi kunne holde på i det uendelige. Vi gjorde det manuelt, men det tar maksimalt 30 minutter å lage et lite program som konstant mater inn SSN i det skjermbildet og tar vare på den maskerte informasjon. Da kan vi vaske flere SSN i sekundet, sier han.</p></div>
+<div type="title" level="3">Søke med maskert informasjon</div>
+<div type="text">
+<p>Når de traff riktig med fødselsnummeret, fikk de opp en profil med maskert informasjon, der navn, adresse, e-post og telefonnummer knyttes til fødselsnummeret. Denne informasjonen er altså maskert. Denne journalistens navn vil skrives som K*** M*** i maskert form.</p>
+<p>Noen søkesider lar deg søke med maskert informasjon. De søkte med adresse, postnummer og sted, og begrenset for alternative eiere av fødselsnummeret. Avansert adressesøk på Posten Norge var blant søkestedene som tillot maskert informasjon. Posten vil nå fjerne denne muligheten. Les mer lenger nede i saken.</p>
+<p>Deretter begrenset de antallet enda mer, ved å søke opp aktuelle adresser fra adressesøket, og sammenlignet telefonnumre med det maskerte nummeret i profilen.</p></div>
+<div type="title" level="3">Ville sjekke sikkerhet</div>
+<div type="text">
+<p>Sikkerhetssjefen forteller Nettavisen at de lagde oppskriften for å undersøke hvor balansen mellom sikkerhet og brukervennlighet skulle gå i deres egne tjenester.</p>
+<p>- Vi gjorde dette fordi vi hadde en diskusjon internt om maskering (av personinformasjon), med referanse til hva en av våre konkurrenter gjorde. Vi ville se hva andre i markedet gjorde for å få en pekepinn på «hvor landet ligger», sier den sikkerhetsansvarlige.</p>
+<p>Han forteller at de ble overrasket over at man fikk treff på profiler med tilfeldig genererte fødselsnumre.</p>
+<p>- Vi ble overrasket over å få treff etter 30 forsøk, var det virkelig så lett? Så brukte vi samme verktøy, NN og YY (anonymiserte søkesteder som f.eks Postens adressesøk) og etter 6 min visste vi hvem som var maskert, sier han.</p></div>
+<div type="title" level="3">Posten fjerner muligheten</div>
+<div type="text">
+<p>Posten har fjernet muligheten for denne typen søk, og Nettavisen kan derfor navngi et av søkestedene som ble brukt. Vi gjør dette for å vise at svært mye brukte søkesteder også kan brukes av svindlere.</p>
+<p>- Vårt adressesøk er bygget for å bedre adressekvaliteten i både Postens egne systemer og ikke minst hos våre kunder. Avansert søk er en viktig del av adressesøket. Vi ser allikevel, som Nettavisen påpeker, at når man kan utføre så avanserte søk så kan dette også benyttes i andre og ikke hederlige hensikter, sier kommunikasjonsdirektør Elisabeth H. Gjølme til Nettavisen.</p>
+<p>- Posten ønsker ikke å bidra til dette og vil derfor inntil videre ta bort mulighet for avansert adressesøk for å gjøre nødvendige tilpasninger i dette søket, sier</p></div>
+<div type="title" level="3">Problemet med fødselsnummeret</div>
+<div type="text">
+<p>Norske fødselsnumre er utregnet ved hjelp av en algoritme. Nettavisen har forsøkt å komme i kontakt med driverne av en slik, uten å lykkes. «Ditt fødselsnummer er egentlig ikke en hemmelighet» står det blant annet på hjemmesiden.</p>
+<p>- Vi er klar over at algoritmen for å bygge opp et lovlig fødselsnummer er kjent og tilgjengelig på nett. Vi er også kjent med at det finnes fødselsnummergeneratorer som programmere dette, sier Skatteetatens sikkerhetssjef Svein Mobakken.</p>
+<p>- Det er viktig at tjenester settes opp til å være motstandsdyktige mot dette, sier Mobakken.</p>
+<p>Han påpeker at tjenester ikke må bruke fødselsnummer alene som nøkkel ved pålogging til tjenester eller ved automatisk uthenting av informasjon fra tjenester, men at det må være krav til tilleggsinformasjon eller flerfasepålogging.</p>
+<p>Mobakken understreker også viktigheten av at tjenester ikke gir feilmelding hvis et mulig fødselsnummer ikke er i bruk, slik at man ikke hjelper potensielle svindlere å skille brukte fra ubrukte fødselsnumre.</p></div>
+<div type="title" level="3">Diskutert tilfeldig fødselsnummer</div>
+<div type="text">
+<p>Ulsrud i NorSIS sier at dette ikke hadde vært et stort problem hvis fødselsnummeret bare var ditt navn i tall. Problemet er at fødselsnummeret ikke bare brukes til identifisering men også til autentisering.</p>
+<p>- Enda flere virksomheter må bruke pålogging eller signeringsløsning med flere trinn, altså hvor man både identifiserer seg og autentiserer seg slik du må gjøre et hvert sted hvor du eksempelvis logger deg inn med BankID, sier han.</p>
+<p>Ulsrud sier at ulike offentlige instanser også har diskutert en helt ny fødselsnummer-rekke som ikke er knyttet til person på samme måte som i dag (i dag kan fødselsdato, kjønn og fødested leses i nummeret), men at hver person ville fått utdelt et helt vilkårlig nummer.</p></div></body></document>

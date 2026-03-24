@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190926-fem-eu-land-er-villi.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/wPXWRL/Fem-EU-land-er-villige-til-a-ta-imot-migranter" frk="34 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-26 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fem EU-land er villige til å ta imot migranter</div>
+<div type="ingress">Finland og fire andre EU-land erklærer seg villige til å ta imot flyktninger og migranter som er blitt reddet i Middelhavet. Men kun midlertidig.</div>
+<div type="author"></div>
+<div type="date">2019-09-26</div>
+<div type="caption"></div>
+</body></document>

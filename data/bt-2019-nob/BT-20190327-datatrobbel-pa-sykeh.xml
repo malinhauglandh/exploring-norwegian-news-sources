@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190327-datatrobbel-pa-sykeh.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/P9pVB6/Datatrobbel-pa-sykehusene" frk="352 7 16 2220" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-27 10:16"/>
+
+<attribute name="author" value="Kari Pedersen"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Beredskap,Helse Bergen,Helse Vest"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Datatrøbbel på sykehusene</div>
+<div type="ingress">I litt over en time ble operasjoner stanset på Haukeland.</div>
+<div type="author">Kari Pedersen</div>
+<div type="date">27. mars 2019 10:16</div>
+<div type="caption"><p>GÅR TREGT: Helse Vest hadde trøbbel med datasystemene onsdag. FOTO: Eirik Brekke (arkiv)</p></div>
+<div type="text">
+<p>Helsepersonell fikk ikke tilgang til pasientjournaler. Operasjoner ble utsatt og ledelsen satte beredskapsledelse.</p>
+<p>Onsdag formiddag ble preget av dataproblemer ved alle sykehusene i Helse Vest. Først like før klokken 15 ble beredskapsituasjonen avsluttet.</p></div>
+<div type="title" level="3">Måtte restarte</div>
+<div type="text">
+<p>I en pressemelding gir ledelsen i Helse Vest IKT denne forklaringen på IT-sammenbruddet:</p>
+<p>Det ble oppdaget en feil i en lagringsløsning kl. 09.15. Feilen ble raskt rettet, men førte til at flere system måtte restartes.</p>
+<p>– Når vi foretar en slik restart tar det dessverre tid for å få systemene opp igjen, i riktig rekkefølge, sier Erik M. Hansen i Helse Vest IKT.</p>
+<p>– I tillegg måtte noen servere restartes manuelt, og dette har gjort at det har tatt enda lengre tid for å få alt til å fungere som normalt og som det skal.</p>
+<p>Klokken 10.40 meldte Erik Vigander, kommunikasjonsdirektør i Helse Bergen, at operasjonssystemet Orbit var oppe igjen og at det dermed kunne opereres som normalt.</p>
+<p>Problemene rammet flere viktige systemer. BT snakket om formiddagen med en lege som sa at han ikke fikk tilgang til pasientjournaler.</p>
+<p>– Jeg kan snakke med pasienten, men får ikke lest meg opp eller ført noe inn i journal, sa han.</p></div>
+<div type="title" level="3"> – Møt som normalt</div>
+<div type="text">
+<p>Etter en ny samling i beredskapsledelsen meldte Vigander klokken 11.30 at det fortsatt var driftsproblemer, men at viktige systemer var oppe igjen.</p>
+<p>– De store og viktige systemene som medisinkurve og operasjonssystemer er nå rettet opp. En del mindre systemer arbeides det med, sa han.</p>
+<p>For pasientene betyr dataproblemene først og fremst forsinkelser og utsettelser. Sykehusledelsen ba likevel pasienter møte til oppsatt tid.</p></div>
+<div type="title" level="3">Ingen hacking</div>
+<div type="text">
+<p>– Det var ingen hacking i dette tilfellet, sier Vigander.</p>
+<p>Han understreker at sykehuset øver på IT-sammenbrudd og har manuelle rutiner i reserve.</p>
+<p>– Vi kjenner ikke til at problemene i dag har gitt uønskede hendelser, sier Vigander.</p></div>
+<div type="title" level="3">Clement og den amerikanske fotballdraumen</div>
+<div type="text">
+<p>På berre 20 minutt oppdaterer Ingvild Nave deg på dei viktigaste sakene for oss på Vestlandet.</p>
+<p>Høyr episoden her</p></div></body></document>

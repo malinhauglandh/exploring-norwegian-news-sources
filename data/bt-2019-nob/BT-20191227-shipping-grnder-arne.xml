@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191227-shipping-grnder-arne.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/9vLGdr/Shipping-grnder-Arne-Jakobsen-er-dod" frk="24 5 1 190 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-27 22:36"/>
+
+<attribute name="author" value="NTB"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Shipping-gründer Arne Jakobsen er død</div>
+<div type="ingress">Grunnleggeren av og direktør i Haugesund-rederiet North Sea Container Line, Arne Jakobsen, døde 1. juledag, skriver Haugesunds Avis.</div>
+<div type="author">NTB</div>
+<div type="date">Publisert 27. desember 2019 22:36</div>
+<div type="caption"></div>
+</body></document>

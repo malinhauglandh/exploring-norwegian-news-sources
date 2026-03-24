@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190908-bronnbat-pa-grunn-i-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/50wAQ6/Bronnbat-pa-grunn-i-Solund" frk="35 14 3 211 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-09-08 14:20"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="Solund,Fisk,Båt,Shipping"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Brønnbåt på grunn i Solund</div>
+<div type="ingress">Skader i skroget.</div>
+<div type="author"></div>
+<div type="date">2019-09-08</div>
+<div type="caption"><p>PÅ GRUNN: MS «Aqua Kvaløy» gikk søndag ettermiddag på grunn sør for Indrøyna i Solund. Båten hadde ikke fisk om bord. FOTO: RS 136 «Halfdan Grieg»</p></div>
+</body></document>

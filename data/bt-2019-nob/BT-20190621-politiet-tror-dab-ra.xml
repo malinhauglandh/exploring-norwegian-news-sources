@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190621-politiet-tror-dab-ra.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/i/qLVPbo/Politiet-tror-DAB-radio-forarsaket-brannen-pa-gamle-Kaland-skole" frk="56 29 10 343 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-21 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter"/>
+<attribute name="class2" value="DAB,Brann,Politiet"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet tror dab-radio forårsaket brannen på gamle Kaland skole</div>
+<div type="ingress">En avskrudd radio kan ha forårsaket brannen i den gamle skolebygningen natt til nyttårsaften i 2018.</div>
+<div type="author"></div>
+<div type="date">2019-06-21</div>
+<div type="caption"><p>FULL FYR: Det var store mannskaper på plass for å få kontroll på flammene som sto ut av taket på gamle Kaland skole 30. desember 2018. FOTO: Paul S. Amundsen</p></div>
+</body></document>

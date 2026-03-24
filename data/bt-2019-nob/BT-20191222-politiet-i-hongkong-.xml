@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191222-politiet-i-hongkong-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/MR2jG0/Politiet-i-Hongkong-fryser-80-millioner-kroner-pa-demonstranters-bankkonto" frk="35 8 2 248 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-22 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet i Hongkong fryser 80 millioner kroner på demonstranters bankkonto</div>
+<div type="ingress">Politiet anklager aktivister for hvitvasking av penger, mens andre ser politiets aksjon som nok et forsøk på å kvele demonstrantenes kamp for økt frihet.</div>
+<div type="author"></div>
+<div type="date">2019-12-22</div>
+<div type="caption"></div>
+</body></document>

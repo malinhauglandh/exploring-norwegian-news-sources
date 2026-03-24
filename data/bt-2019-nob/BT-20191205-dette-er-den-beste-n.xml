@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191205-dette-er-den-beste-n.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/6jMQRQ/Dette-er-den-beste-nye-julemusikken" frk="33 0 0 190 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-05 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Dette er den beste nye julemusikken</div>
+<div type="ingress">Vestlandet byr i år blant annet på julefryd fra Naboen Min, julepunk fra Goldenboy og en jul med et hint av country fra Vilde og Anna.</div>
+<div type="author"></div>
+<div type="date">2019-12-05</div>
+<div type="caption"></div>
+</body></document>

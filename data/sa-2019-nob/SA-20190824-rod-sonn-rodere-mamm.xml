@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190824-rod-sonn-rodere-mamm.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/magasin/i/Jo3eOP/Rod-sonn_-rodere-mamma" frk="27 0 0 176 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-08-24 07:51"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="rødt (r),stavanger,trygd,mímir kristjánsson,politikk"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Rød sønn, rødere mamma</div>
+<div type="ingress">Røde Mímir Kristjánsson har skrevet bok om sin uføretrygdede mor. Som han politisk står et godt stykke til høyre for.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Pål Christensen</p></div>
+</body></document>

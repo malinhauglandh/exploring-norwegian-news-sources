@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191026-ut-med-dommeren-inn-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/meninger/kronikk/i/0nO5x0/ut-med-dommeren-inn-med-roboten-camilla-ac-tepfers-og-haakon-haugli" frk="1024 0 6 6704"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-10-26 18:00"/>
+<attribute name="author" value="Håkon Haugli"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="meninger,kronikk"/>
+<attribute name="class2" value="ai,digitalisering,rettssikkerhet,roboter,teknologi,maskinlæring"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Ut med dommeren, inn med roboten? | Camilla AC Tepfers og Håkon Haugli</div>
+<div type="ingress">Fremtidens dommere har antagelig maskinen som kollega.</div>
+<div type="author">Håkon Haugli</div>
+<div type="date">en dag siden</div>
+<div type="caption"><p>FOTO: REUTERS/Vincent Kessler Det er gjort studier ved Den europeiske menneskerettsdomstolen som viser at maskiner kan forutsi domsavgjørelsene korrekt i 79 prosent av sakene, skriver kronikkforfatterne.</p> <p>Kronikkforfatterne Camilla AC Tepfers og Håkon Haugli.</p> <p>Bindet over øynene på fru Justitia, symbolet på lov og rett, symboliserer upartiskhet. Når maskiner nå trer inn i rettssalene, er hensikten å sikre rettferdighet og likebehandling, skriver kronikkforfatterne.</p></div>
+<div type="text">
+<p>Bindet over øynene på fru Justitia, symbolet på lov og rett, symboliserer upartiskhet. Når maskiner nå trer inn i rettssalene, er hensikten å sikre rettferdighet og likebehandling.</p>
+<p>Roboter er faktabaserte og nøytrale, men de er ikke upartiske. Forskning viser at menneskelige dommere lar seg påvirke av irrelevante faktorer, men det gjelder også maskiner – som hverken er bedre eller verre enn (den menneskelige) programmeringen som ligger bak.</p>
+<p>3rd-party-bio</p>
+<p>Det er et digitalt dilemma.</p></div>
+<div type="title" level="3">Vil la roboter avgjøre</div>
+<div type="text">
+<p>Etter at Domstolskommisjonen la frem sin rapport i forrige uke, har diskusjonen gått høyt. Primært om forslaget om å legge ned tingretter. Mindre om et av de viktigste premissene bak forslaget, nemlig at kompleksiteten i sakene øker. Mer sammensatte og innviklede saker kan bane veien for maskiner inn i rettspleien.</p>
+<p>Justis- og beredskapsdepartementet annonserte nylig at de ønsker å la roboter ta avgjørelser i UDI-saker. Hvor forsvarlig er det, når vi ikke kan etterprøve hvordan maskinene har «tenkt»?</p>
+<p>På den annen side, menneskedommere lar seg påvirke av mye som ikke vedkommer saken, og som heller ikke lar seg etterprøve – og iblant er minst like vanskelig å forstå.</p></div>
+<div type="title" level="3">Uvedkommende momenter</div>
+<div type="text">
+<p>Studier viser hvordan dommere av kjøtt og blod blir influert. For eksempel er det uflaks å få asylsaken sin tatt opp rett etter en serie med berettigede søkere. Alle de forutgående innvilgningene får dommeren til å frykte at hen er for snill, og at tiden er inne for å stramme inn.</p>
+<p>Det er også uflaks å få saken sin tatt opp rett før lunsj. Da går sannsynligheten for positivt utfall betydelig ned. Temperaturen i rettssalen, eller hvorvidt du har fødselsdag akkurat når du skal for retten, er andre eksempler på faktorer som kan spille inn.</p>
+<p>Ambisjonen med maskinenes inntreden i rettssalene er å korrigere for dette og gjøre Justitia blind for slike uvedkommende momenter. Maskiner ser ikke kjønn, rase og sosioøkonomisk bakgrunn, og de blir ikke sinte av å være kalde, varme eller sultne.</p>
+<p>Dessverre viser tidlige tester med maskiner som dommere at vi er langt fra det målet. De «dømmer» (heller ikke) rettferdig.</p>
+<p>Shutterstock</p></div>
+<div type="title" level="3">Maskiner kan være til nytte</div>
+<div type="text">
+<p>I første omgang vil dermed maskinene ta over enklere rettsoppgaver. For eksempel vurderer EU å benytte roboter i gruppesøksmål, hvor flere krav springer ut fra samme faktagrunnlag. Da klipper og limer dommere gjerne fra tidligere dokumenter, og maskiner kan gjøre den jobben langt mer effektivt.</p>
+<p>Det er imidlertid lite som tilsier at maskinene stopper der. Tvert imot tyder mye på at maskiner snart kan analysere rettsdokumenter like godt som eller bedre enn mennesker. For eksempel er det gjort studier ved Den europeiske menneskerettsdomstolen som viser at maskiner kan forutsi domsavgjørelsene korrekt i 79 prosent av sakene.</p>
+<p>Maskiner skal nok ikke dømme på egen hånd ennå, men de kan være til nytte. Dommerne i Borgarting lagmannsrett slo nylig alarm om rettssikkerheten etter reformen hvor juryordningen er erstattet av fem meddommere og to fagdommere. Dommerne bekymrer seg blant annet for å måtte grave frem relevante rettskilder i pausene og for arbeidet med å ta notater og føre rettsbok underveis i forhandlingene.</p></div>
+<div type="title" level="3">Ikke våre likemenn</div>
+<div type="text">
+<p>Kinesiske domstoler kjører piloter hvor roboter tar notater fra rettergangene i sanntid, ved hjelp av språkgjenkjenning, og så finner frem og setter sammen relevante rettskilder for dommerne.</p>
+<p>Universitetet i Maryland har utviklet løgndetektoren DARE. Ved hjelp av maskinlæring tolkes mikrouttrykk og stemmebruk. Resultatet er at maskinen avdekker løgn bedre enn mennesker. Det kan være nyttig ved vitneforklaringer.</p>
+<p>Forskere ved Universitetet i Toulouse ser på hvordan store datasett og maskinlæring kan anvendes for å guide menneskelige dommere til en mer rettferdig domsavsigelse.</p>
+<p>Dilemmaet med å slippe maskiner inn på denne måten er at det kan bryte med vårt grunnleggende prinsipp om at vi skal dømmes av likemenn.</p>
+<p>En fremtid der maskiner bestemmer over mennesker fremstår skremmende for mange av oss. Maskinene er ikke våre likemenn.</p>
+<p>Selve hovedgrunnen til å avvikle juryordningen var at juryene ikke begrunner sine avgjørelser. Er det ikke da etisk betenkelig å bruke maskiner, basert på algoritmer de fleste av oss ikke kan forstå?</p></div>
+<div type="title" level="3">Kan avlaste og analysere</div>
+<div type="text">
+<p>På den annen side, er det mindre etisk betenkelig ikke å anvende maskinene? For eksempel har Den britiske advokatforeningen nedsatt en egen kommisjon for å se på maskinenes inntreden i rettsbehandlingen. De peker på hvordan maskiner kan omdanne store datamengder til kunnskap og innsikt som ikke ville vært mulig å gjøre på noen annen måte.</p>
+<p>Det blir bare viktigere etter hvert som kompleksiteten i sakene blir større. Maskiner kan støtte advokater, fagdommere og meddommere. De kan for eksempel avlaste i saksforberedelser og analysere tidligere dommer. Og de kan kanskje gjøre forsvareren bedre til å argumentere. For eksempel konkurrerte IBMs Debater tidligere i år med den menneskelige verdensmesteren i debatt. Mesteren vant debatten, men publikum mente de lærte mer av Debaters argumenter.</p></div>
+<div type="title" level="3">Maskinen som kollega</div>
+<div type="text">
+<p>Hvis maskiner kan bidra til økt rettferdighet, må forutsetningen være at de ikke blir den nye juryordningen, hvor dommer avsies uten begrunnelse. Transparens må derfor være et bærende prinsipp i fremtidens rettssaler, hvor også maskinene deltar.</p>
+<p>Det amerikanske forskningsinstituttet DARPA har etablert prosjektet Explainable AI, nettopp for det formål. I EU forsøker man å gjøre noe av det samme med prosjektet AI4People.</p>
+<p>Fremtidens dommere har antagelig maskinen som kollega. Den vil samle alle relevante rettskilder, sammenstille disse med sakens øvrige dokumenter, komme med forslag til dom og begrunne forslaget. De menneskelige dommerne kan så evaluere, gjøre sine endringer og fatte den endelige beslutningen. Det vil sannsynligvis gjøre det mindre risikabelt å være i retten rett før lunsj for den tiltalte.</p>
+<p>Maskinen kan korrigere for dommerens manglende blodsukker, men ikke erstatte det gode skjønnet.</p>
+<p>Denne kronikken inngår i en serie om digitale dilemmaer. De øvrige kronikkene finner du her:</p></div></body></document>

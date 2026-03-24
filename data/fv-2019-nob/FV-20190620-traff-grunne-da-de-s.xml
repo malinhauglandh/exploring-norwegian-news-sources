@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190620-traff-grunne-da-de-s.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/AdJrw3/Traff-grunne-da-de-skulle-sette-ut-sjomerke" frk="49 7 2 277 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-06-20 21:09"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Traff grunne da de skulle sette ut sjømerke</div>
+<div type="ingress">Kystverkets skip var inne i farlig farvann for å sette ut sjømerke. Så gikk det galt.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Kystverkets skip Oljevern 02 lå fredag kveld ved kai i Mandal. Det må opp på land for å få reparert propellen. FOTO: Espen Sand</p></div>
+</body></document>

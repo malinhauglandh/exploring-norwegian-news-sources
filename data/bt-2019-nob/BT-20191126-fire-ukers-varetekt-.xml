@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191126-fire-ukers-varetekt-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/1n069Q/Fire-ukers-varetekt-for-mann-som-ble-kjort-253-kilometer-til-arresten" frk="42 23 6 253 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-26 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fire ukers varetekt for mann som ble kjørt 253 kilometer til arresten</div>
+<div type="ingress">Først krasjet mannen en bil han skal ha stjålet i Årdal. Så skal han ha angrepet og spyttet på politibetjentene som kjørte han 253 kilometer til arresten i Bergen.</div>
+<div type="author"></div>
+<div type="date">2019-11-26</div>
+<div type="caption"></div>
+</body></document>

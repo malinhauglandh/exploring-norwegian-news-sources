@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191113-ny-trolleybusslinje-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/OpXAKl/Ny-trolleybusslinje-til-Laksevag" frk="26 0 0 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-11-13 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ny trolleybusslinje til Laksevåg</div>
+<div type="ingress">Nye trolleybatteribusser skal gå fra sentrum til Laksevåg. Nå starter en arbeidet med å bygge nye kjøreledninger fra Gyldenpris til Lyngbø.</div>
+<div type="author"></div>
+<div type="date">2019-11-13</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191026-her-leter-reidun-ett.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/jdM88q/Her-leter-Reidun-etter-sin-tipp-tipp-oldefar" frk="21 0 0 131 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-26 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Her leter Reidun etter sin tipp-tipp-oldefar</div>
+<div type="ingress">– Det er nesten gøyere å lete enn å finne noe, sier Reidun Svigum.</div>
+<div type="author"></div>
+<div type="date">2019-10-26</div>
+<div type="caption"></div>
+</body></document>

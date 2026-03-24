@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191011-lothepus-motte-dobbe.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/nanVzd/Lothepus-motte-dobbeltgjengeren-Men-det-var-noe-han-stusset-over" frk="32 0 0 212 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-11 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Lothepus møtte dobbeltgjengeren. Men det var noe han stusset over.</div>
+<div type="ingress">Bjarte Hjelmeland skal parodiere Lothepus i sitt nye show. Men originalen var ikke helt fornøyd da de møttes for første gang.</div>
+<div type="author"></div>
+<div type="date">2019-10-11</div>
+<div type="caption"></div>
+</body></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190528-feil-temperatur-i-so.xml"/>
+<attribute name="url" value="https://www.bt.no/btmeninger/debatt/i/LAkReq/Feil-temperatur-i-Sogndal" frk="224 5 8 1338" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-05-28 05:00"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="btmeninger,debatt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Feil temperatur i Sogndal</div>
+<div type="ingress"></div>
+<div type="author"></div>
+<div type="date">2019-05-28</div>
+<div type="caption"><p>OBSERVANT: Innsendaren oppdaga at noko var feil med BTs vêrmelding for Sogndal. Rune Sævig (arkiv)</p></div>
+<div type="text">
+<p>I dag 07:00</p>
+<p>Jon Farestveit Temperaturinteressert</p>
+<p>Som lesar av avisene Sogn Avis og Bergens Tidende har eg funne ut at det konsekvent er store skilnader i temperaturprognosar i vêrmeldinga til dei to avisene.</p>
+<p>Det har såleis hendt at det har vore opp til ti grader skilnad i prognosane for Sogndal, sjølv om dei to avisene får dine data frå hovudsakleg Meteorologisk institutt. Det ser også ut til at prognosane til «Frivind» i Sogn Avis er dei mest korrekte prognosane, og at BT bommar mest på dei reelle temperaturane.</p>
+<p>Eg trur svaret er enkelt nok, og at BT eller dei som leverer data til avisa, har sine målingar frå Selseng i Sogndalsdalen, medan målingane til Sogn Avis er frå Sogndal sentrum. Dette kan gje ganske store utslag på temperaturane.</p></div>
+<div type="title" level="3">Svar frå BT</div>
+<div type="text">
+<p>Jon Farestveit har heilt rett, og vi takkar for innspelet. Vi har fått stadfesta frå firmaet som leverer vêrsida i BT, Nyhetsgrafikk, at dei diverre har vist feil temperaturdata for Sogndal sentrum. Denne feilen er no retta, takka vere tipset frå Farestveit. I BT set vi stor pris på innspel om avisa, og vi tek gjerne imot fleire tips og råd på adressa 2211@bt.no. Dersom tipset ditt gjeld debattinnlegg, kan du nytte debatt@bt.no.</p></div></body></document>

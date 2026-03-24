@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191010-fjordkraft-flyr-hoyt.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/okonomi/i/AdWGMz/Fjordkraft-flyr-hoyt-pa-borsen" frk="35 8 2 223 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-10 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,okonomi"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Fjordkraft flyr høyt på børsen</div>
+<div type="ingress">Fjordkraft flyr høyt på Oslo Børs, og har det siste året hatt en verdistigning på 60 prosent. Kraftselskapet i Fyllingsdalen anbefales av flere som en av de grønne aksjene.</div>
+<div type="author"></div>
+<div type="date">2019-10-10</div>
+<div type="caption"></div>
+</body></document>

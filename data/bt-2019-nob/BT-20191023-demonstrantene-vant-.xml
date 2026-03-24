@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191023-demonstrantene-vant-.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/8mz4p2/Demonstrantene-vant-frem" frk="15 0 0 117 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-23 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Demonstrantene vant frem</div>
+<div type="ingress">Libanons regjering bøyer seg for protester ved å halvere egne lønninger.</div>
+<div type="author"></div>
+<div type="date">2019-10-23</div>
+<div type="caption"></div>
+</body></document>

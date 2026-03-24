@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190812-politiet-kjorte-stem.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/kJeAxa/Politiet-Kjorte-stemorens-bil-til-moskeen" frk="49 17 6 336 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-12 15:42"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Politiet: Kjørte stemorens bil til moskeen</div>
+<div type="ingress">Politiets teori: Først drepte Philip Manshaus (21) stesøsteren sin (17) på Eiksmarka. Så tok han stemorens bil og kjørte til moskeen på Skui.</div>
+<div type="author"></div>
+<div type="date">2019-08-12</div>
+<div type="caption"><p>TEORI: Gjerningsmannen kom sannsynligvis kjørende i denne bilen fra Eiksmarka til Skui ved 16-tiden lørdag. FOTO: Hans O. Torgersen</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190212-hordaland-har-nesten.xml"/>
+<attribute name="url" value="https://www.bt.no/100Sport/fotball/Hordaland-har-nesten-doblet-antallet-utdannede-trenere-pa-fem-ar-268591b.html" frk="40 0 0 303 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-12 13:56"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport,fotball"/>
+<attribute name="class2" value="Barnefotball,Frivillige,Norges Fotballforbund (NFF),Fotball"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Hordaland har nesten doblet antallet utdannede trenere på fem år</div>
+<div type="ingress">Fotballforbundet mener det er en myte at foreldretrenere truer kvaliteten i barnefotballen.</div>
+<div type="author"></div>
+<div type="date">2019-02-12</div>
+<div type="caption"><p>INSPIRERENDE: Hege Kathrine Skjelbred sier grasrottrenerkurset gir nyttig input å ta med på treningsfeltet. FOTO: Eirik Brekke</p></div>
+</body></document>

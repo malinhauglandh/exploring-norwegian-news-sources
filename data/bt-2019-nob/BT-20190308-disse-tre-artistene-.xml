@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190308-disse-tre-artistene-.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/WLQ0Jd/Disse-tre-artistene-ma-du-folge-med-pa" frk="25 0 0 167 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-08 14:59"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Musikk,Musikkanmeldelse"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Disse tre artistene må du følge med på</div>
+<div type="ingress">Solå, Moyka og Shikoswe vil være med å prege den bergenske popvåren.</div>
+<div type="author"></div>
+<div type="date">2019-03-08</div>
+<div type="caption"><p>FOTO: Isak Okkenahug (pressefoto)bilde.</p></div>
+</body></document>

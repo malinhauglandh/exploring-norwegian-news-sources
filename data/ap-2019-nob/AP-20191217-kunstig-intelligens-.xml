@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20191217-kunstig-intelligens-.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/viten/i/kJPkeB/Kunstig-intelligens-finner-skjulte-kulturminner" frk="1298 11 98 8398"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-12-17 08:00"/>
+<attribute name="author" value="Arnt-Børre Salberg"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="viten"/>
+<attribute name="class2" value="kulturminner,kunstig intelligens,viten,webview"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Kunstig intelligens finner skjulte kulturminner</div>
+<div type="ingress">Nå finner kunstig intelligens spor fra historien som ellers kunne forblitt uoppdaget. Den norske metoden har vakt internasjonal oppmerksomhet og er på vei ut i Europa.</div>
+<div type="author">Arnt-Børre Salberg</div>
+<div type="date">17. des. 2019 09:00</div>
+<div type="caption"><p>Fem fangstgroper i Nord-Fron kommune, Oppland. Fangstgropene er vist i en fargelagt terrengmodell.</p> <p>Ser du de små prikkene? Det er fangstanlegg som ble brukt til jakt på hjortevilt for 500-2000 år siden. Fangstgropene ble lagt i trekkruter og dekket med stokker, løv og lignende. I tillegg ble det bygget tregjerder for å lede dyrene mot gropene.</p> <p>Dette er gravhauger fra vikingtiden ved Gammelsykehjemmet i Oppdal.</p> <p>Vest for gården og nord for Kjoseveien finnes over 15 jernaldergravhauger. Rundt 10 prosent av gravhaugene er avlange. Utgravninger av slike har påvist at de som regel er kvinnegraver.</p> <p>Noen av gravhaugene i Norges største gravfelt fra vikingtiden ved Oppdal i Trøndelag.</p> <p>Funn av jernmalm i Lesjadalen førte til at danskekongen i 1660 befalte byggingen av et jernverk. Dette medførte sterke restriksjoner på bruken av vann og tømmer i hele Lesjadalen. Tømmeret ble brukt til å bygge jernverket og til produksjon av trekull til oppvarming av smelteovnene.</p> <p>Mange andre steder i Norge ville slike pålegg ført til konflikter, men i Lesja var jordbruket såpass marginalt at ekstrainntekter fra jernverket var kjærkomment for bøndene.</p> <p>En kullmile er et sted der man laget trekull. Treet ble varmet opp og forkullet, men måtte ikke ta fyr. Ved hjelp av luftekanaler var det bare en liten del av veden i midten av kullmilen som brant. Ved å legge veden tett og dekke hele vedhaugen med torv og jord, ble lufttilgangen stoppet.</p></div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere og fagfolk fra hele landet bidrar med artikler.</p>
+<p>Norsk Regnesentral har i samarbeid med Riksantikvaren og Oppland, Vestfold og Trøndelag fylkeskommuner utviklet en metode som hjelper arkeologer med å finne kulturminner ved hjelp av kunstig intelligens.</p>
+<p>Kunstige nevrale nettverk etterligner hvordan hjernen tolker det vi ser med øynene. Nettverket trenes først opp på over en million fotografier. På den måten lærer den seg til å se enkeltdeler som ringer, linjer, farger, kontraster og teksturer, og sette disse sammen til objekter vi ønsker å finne. Nå er nettverket i stand til å finne skjulte kulturminner.</p>
+<p>Dette har vakt internasjonal oppsikt innenfor arkeologimiljøet, og Historic Environment Scotland ønsker at Norsk Regnesentral skal videreutvikle metodene for å finne gravrøyser og rester av rundhus på øya Arran. Dersom dette er vellykket, ønsker de å bruke metodene i hele Skottland.</p></div>
+<div type="title" level="3">Laserskanning fra fly</div>
+<div type="text">
+<p>Historisk har kartleggingen i Norge stort sett vært basert på flybilder, der alle offentlige veier og de aller fleste hus og bygninger er synlige. Men mange kulturminner er skjult av skog og er dermed ikke blitt kartlagt.</p>
+<p>Så, for 20 år siden, skjedde det en liten revolusjon. Laserskanning fra fly ble introdusert i skogkartlegging, og det gjorde oss i stand til å lese høyden på bakkenivået. Slik kan vi søke gjennom gigantiske arealer på kort tid. Hvis folk ute i felt skulle gjort samme jobben, ville det blitt usannsynlig dyrt og dermed urealistisk.</p>
+<p>Nå bruker den kunstige intelligensen dataene fra flyskanningene for å finne skjulte kulturskatter. Metoden innebærer noen av de nyeste teknikkene innen kunstig intelligens. Nevrale nettverk er dataprogrammer som etterligner hvordan menneskehjernen tolker sanseinntrykk.</p>
+<p>Et nevralt nettverk som skal finne objekter i et bilde, vil som regel starte med å finne linjer, kanter, mørke områder og lyse områder i små deler av bildet. Disse settes så sammen til større og større objekter, helt til man har noe som ligner i størrelse og fasong på de objektene som nettverket er trent opp til å kjenne igjen. Til slutt finner nettverket ut hvilken type hvert enkelt objekt ligner mest på, og hvor sikkert det er på en skala fra 0,0 til 1,0. Hvert av objektenes posisjon i bildet markeres med en firkant.</p></div>
+<div type="title" level="3">Hvordan arbeider det nevrale nettverket?</div>
+<div type="text">
+<p>Et nevralt nettverk med navnet «faster R-CNN» brukes i denne metoden. «Faster R-CNN» er utviklet for å kjenne igjen objekter i vanlige bilder, som mennesker, hunder, katter, sykler, biler og så videre. Nettverket er trent opp på over en million slike bilder. Så brukes en teknikk som kalles overføringslæring, hvor vi foretar en ny runde med opptrening på den typen bilder vi er interessert i.</p>
+<p>I dette tilfellet har vi laget bilder basert på laserskanningens meget detaljerte digitale modell av terrengoverflaten. Fra modellen har vi laget en visualisering som fremhever lokale høydeforskjeller, mens de store terrengformasjonene ikke vises. Dette gjør at kulturminner som gravhauger, fangstgroper og kullmiler blir tydelige i bildene.</p>
+<p>Ved å trene opp «faster R-CNN» på bildeutsnitt som inneholder kjente forekomster av disse kulturminnene, kan vi bruke det for å finne hittil ukjente forekomster andre steder. I sommer ble over 1000 kullmiler funnet på denne måten i Øvre Eiker kommune.</p>
+<p>En utfordring i opptreningen av nevrale nettverk er at vi gjerne skulle hatt flere eksempelbilder med kjente forekomster av objekter. En enkel måte å øke antallet på er å benytte roterte og speilvendte versjoner av de samme bildene. Ved å rotere 0, 90, 180 og 270 grader og speilvende får vi enkelt åtte ganger så mange eksempelbilder. En annen teknikk er å forskyve bildeutsnittet tilfeldig, slik at det merkede objektet ikke lenger er i midten av bildet.</p></div>
+<div type="title" level="3">Viktige funn i hele Norge</div>
+<div type="text">
+<p>Tusenvis av kullmiler er blitt funnet siden metoden ble innført. Oppland fylkeskommune har kartlagt Lesjadalen, der flere jernverk ble anlagt i Norge på 1600-tallet for å dekke danskekongens behov for jern til skip, armeringer og andre militære formål. Metoden er også brukt for å kartlegge fangstgroper. I dag er de delvis sammenrast slik at det ikke er vanskelig for hjortedyr å komme opp fra dem, men de er fortsatt meget tydelige i terrenget.</p>
+<p>Ved Vang i Oppdal har kartlegging av gravhauger fra vikingtiden blitt kvalitetssikret med kunstig intelligens. Den opprinnelige kartleggingen av de mer enn 800 gravhaugene ble gjort i 1936 og revidert i 1967, men var unøyaktig. Sør-Trøndelag fylkeskommune ønsket derfor å kvalitetssikre ved å kartlegge Norges største jernaldergravfelt detaljert. De fleste gravhaugene her er fra vikingtiden, mens noen er eldre. Det finnes også enkelte gravrøyser fra folkevandringstiden.</p>
+<p>Ved Kjoseveien i Larvik kommune fant metodene et gravfelt med 15 gravhauger skjult i tett granskog. Vestfold fylkeskommune har brukt metodene for å kartlegge gravhauger i flere kommuner, men også til å påvise at kjente gravhauger har ligget med feil posisjon i kartet.</p></div>
+<div type="title" level="3">Nå skal alt under tregrensen laserskannes</div>
+<div type="text">
+<p>Nå er det bestemt at hele Norges areal under tregrensen skal laserskannes med fly, for å kunne lage en nøyaktig tredimensjonal terrengmodell. Dermed vil det kunne være mulig å gjøre en detaljert kulturminnekartlegging i hele Norge ved bruk av kunstig intelligens.</p>
+<p>Riksantikvaren ønsker å bruke metodene til systematisk kartlegging av gravhauger og fangstanlegg i mange kommuner, og Norsk Regnesentral jobber med å tilpasse og forbedre metodene for forskjellige behov.</p></div>
+<div type="title" level="3">Se funnene selv</div>
+<div type="text">
+<p>Høydedata er åpent for alle. Du kan selv se noen av strukturene som metoden har påvist på hoydedata.no. I den hvite boksen øverst kan du skrive inn søkeordet, og til høyre velger du data fra «Prosjekter innenfor kartutsnitt».</p>
+<p>Olavskjelda, Lesja, «Nord-Gudbrandsdalen 2013»: De sirkulære strukturene er kullmiler fra Lesja jernverk (1660-1812).</p>
+<p>Snubbuin, «Olstappen 2010»: Gropene er fra fangstanlegg som ble brukt til jakt på hjortevilt for 500-2000 år siden.</p>
+<p>Gammelsykehjemmet, «Oppdal 12pkt 2011»: Haugene er gravhauger fra vikingtiden.</p>
+<p>Kjoseveien 934, «NDM Larvik 5 pkt 2017»: Vest for gården og nord for Kjoseveien finnes over 15 jernaldergravhauger.</p></div>
+<div type="title" level="3">Fakta: Dette er et Viten-innlegg</div>
+<div type="text">
+<p>Viten er Aftenpostens satsing på forskning og vitenskap, der forskere fra hele landet bidrar med artikler.</p>
+<p>Viten-artikler publiseres i Aftenpostens papirutgave tirsdager og torsdager, i tillegg til nettartikler på ap.no/viten.</p>
+<p>Vi søker forskere eller akademikere innen alle fagfelt som vil skrive om egen forskning eller formidle aktuelt vitenskapsstoff.</p>
+<p>Tekstlengder: 4000 og 6000 tegn inkludert mellomrom.</p>
+<p>Vil du skrive for Viten, send e-post til jeanette.sjoberg@aftenposten.no</p></div></body></document>

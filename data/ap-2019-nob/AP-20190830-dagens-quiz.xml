@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="AP-20190830-dagens-quiz.xml"/>
+<attribute name="url" value="http://www.aftenposten.no/kultur/i/K3qApM/Dagens-quiz" frk="22 19 3 152 %%"/>
+<attribute name="source" value="AP"/>
+<attribute name="date" value="2019-08-30 16:30"/>
+<attribute name="author" value="Lars Unar Larsen Vegstein"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagens quiz</div>
+<div type="ingress">Hva heter Brasils president?</div>
+<div type="author">Lars Unar Larsen Vegstein</div>
+<div type="date">30.aug.2019 18:30</div>
+<div type="caption"><p>FOTO: Eraldo Peres / AP</p></div>
+<div type="text">
+<p>Spørsmål:</p>
+<p>1. Hvilket norsk parti feiret 30-årsjubileum i fjor høst?</p></div></body></document>

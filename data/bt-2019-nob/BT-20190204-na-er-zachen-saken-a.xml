@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190204-na-er-zachen-saken-a.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/0ERX4o/Na-er-Zachen-saken-avsluttet" frk="31 0 0 207 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-02-04 10:51"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nå er Zachen-saken avsluttet</div>
+<div type="ingress">Etter seks rettsrunder er punktum satt for Zachen-saken.</div>
+<div type="author"></div>
+<div type="date">2019-02-04</div>
+<div type="caption"><p>OMSTRIDT: Knut Jørgen Hauge og Geir Hove ble ikke enige om prisen for Zachen. FOTO: Bjørn Erik Larsen</p></div>
+</body></document>

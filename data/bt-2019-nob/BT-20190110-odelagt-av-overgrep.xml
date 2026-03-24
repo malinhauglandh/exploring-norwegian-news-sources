@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190110-odelagt-av-overgrep.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/innenriks/i/zLBmWr/Odelagt-av-overgrep" frk="49 0 0 303 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-01-10 20:25"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,innenriks"/>
+<attribute name="class2" value="Uføretrygd,Psykiatri,Nav,Rettssaker,Seksualforbrytelser,Gulating lagmannsrett,Straffeloven,Incest,Barn,Stavanger tingrett,Bergen tingrett,Overgrep,Seksuelt misbruk,Selvskading,Webview,Gulating,Voldtekt,De ødelagte"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ødelagt av overgrep</div>
+<div type="ingress">BT har kartlagt hvordan det har gått med barn på Vestlandet som er ofre for seksuelle overgrep. Noen er invalidisert for livet.</div>
+<div type="author"></div>
+<div type="date">2019-01-10</div>
+<div type="caption"><p>OFRENE: BT har møtt ofrene i flere av de mest alvorlige overgrepssakene på Vestlandet. De forteller sine historier i BT de neste ukene.</p></div>
+</body></document>

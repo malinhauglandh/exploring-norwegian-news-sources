@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191203-ildsjelene-pa-ladega.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/lokalt/i/Vbr5wd/Ildsjelene-pa-Ladegarden-hedret-med-pris" frk="30 10 2 192 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-03 20:32"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Ildsjelene på Ladegården hedret med pris</div>
+<div type="ingress">I over 20 år har Liv Hjorth ledet Ladegårdens Venner. Nå har hun og resten av vennelaget fått den nye Ildsjelprisen fra Eldrerådet.</div>
+<div type="author"></div>
+<div type="date">2019-12-03</div>
+<div type="caption"></div>
+</body></document>

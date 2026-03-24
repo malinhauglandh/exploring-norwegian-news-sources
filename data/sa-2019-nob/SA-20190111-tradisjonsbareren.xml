@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190111-tradisjonsbareren.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/kultur/i/bK1grk/Tradisjonsbareren" frk="48 23 8 336 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-01-11 12:33"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="restaurant,kjøtt,trend,råvarer,stavanger,pinnekjøtt,yrkesfag,klokker,dyr,arv"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Tradisjonsbæreren</div>
+<div type="ingress">Albert Idsøe synes maten er for billig i Norge, liker late sauer og leder Stavangers eldste bedrift. Fredag mottok han Aftenbladets statuett for 2018.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Albert Idsøe jr. driver Stavangers eldste bedrift og er en viktig representant for matbyen. Han får Aftenbladets statuett for 2018. Pål Christensen</p></div>
+</body></document>

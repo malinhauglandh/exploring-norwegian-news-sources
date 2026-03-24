@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190708-flere-skadet-i-bussu.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/Opaxx1/Flere-skadet-i-bussulykke-i-Sogne" frk="32 0 0 193 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-07-08 12:28"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="nyhetsdøgnet,søgne,trafikkulykker"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Flere skadet i bussulykke i Søgne</div>
+<div type="ingress">Flere personer ble skadet da en buss mandag kjørte av veien i Søgne.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Bussen har kjørt inn i en gressvoll i rundkjøringen. Jon Berntsen Kåsa</p></div>
+</body></document>

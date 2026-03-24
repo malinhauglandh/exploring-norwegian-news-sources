@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DA-20190916-nrk-avviser-fake-new.xml"/>
+<attribute name="url" value="http://www.dagsavisen.no/kultur/nrk-avviser-fake-news-1.1585585" frk="54 0 0 363 %%"/>
+<attribute name="source" value="DA"/>
+<attribute name="date" value="2019-09-16 20:46"/>
+<attribute name="author" value="Hanne Mauno"/>
+<attribute name="gender" value="K"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NRK: Avviser «fake news»</div>
+<div type="ingress">NRKs program «Folkeopplysningen» har fått mye kjeft for sitt valgeksperiment ved Lillestrøm vgs. Nå avviser prosjektets redaktør at de har drevet med fake news. I dag skal saken diskuteres i Kringkastingsrådet.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Folkeopplysningen ledes av Andreas Wahl (foran på bildet). Her fra da programmet vant Gullruten i mai i år.</p></div>
+<div type="text">
+</div></body></document>

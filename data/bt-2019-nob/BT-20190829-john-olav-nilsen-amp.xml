@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190829-john-olav-nilsen-amp.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/kJbzvv/John-Olav-Nilsen--Nordsjoen-trakk-seg-fra-Forum-apning" frk="29 0 0 203 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-29 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">John Olav Nilsen &amp; Nordsjøen trakk seg fra Forum-åpning</div>
+<div type="ingress">Torsdag kveld åpner Forum scene dørene for konsertpublikum for første gang. En av kveldens største artister vil ikke delta.</div>
+<div type="author"></div>
+<div type="date">2019-08-29</div>
+<div type="caption"></div>
+</body></document>

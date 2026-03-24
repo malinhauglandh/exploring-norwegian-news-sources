@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20191216-notiser.xml"/>
+<attribute name="url" value="http://www.dn.no/notiser/2-1-725226" frk="21 24 4 162 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-12-16 18:44"/>
+<attribute name="author" value="Dagens Næringsliv"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value=""/>
+<attribute name="class2" value="Nyheter"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">NOTISER</div>
+<div type="ingress">Disneys sjette «milliardfilm» i 2019</div>
+<div type="author">Dagens Næringsliv</div>
+<div type="date">2019-12-16 18:44</div>
+<div type="caption">Elsa og hennes venner har ikke mistet tiltrekningskraften i oppfølgeren av «Frost» (Foto: Disney) </div>
+<div type="text">
+</div></body></document>

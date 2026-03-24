@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DB-20190415-dagbladet-quiz-hva-k.xml"/>
+<attribute name="url" value="http://www.dagbladet.no/kultur/dagbladet-quiz-hva-kan-du-om-grunnstoffene/70985080" frk="59 13 5 377 %%"/>
+<attribute name="source" value="DB"/>
+<attribute name="date" value="2019-04-15 14:05"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="kultur,quiz"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Dagbladet quiz: Hva kan du om grunnstoffene?</div>
+<div type="ingress">At H2O er vått og at C dannet under ekstremt trykk ikke varer for evig, er kjente vendinger for de aller fleste. Men hva kan du egentlig om grunnstoffene? Ta Dagbladets 15 kjappe spørsmål om universets kjente og ukjente byggeklosser. Ta Dagbladets 15 kjappe spørsmål om universets kjente og ukjente byggeklosser.</div>
+<div type="author"></div>
+<div type="date">2019-04-15</div>
+<div type="caption"></div>
+</body></document>

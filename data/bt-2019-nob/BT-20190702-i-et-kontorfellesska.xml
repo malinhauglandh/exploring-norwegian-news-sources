@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190702-i-et-kontorfellesska.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/rAVG83/I-et-kontorfellesskap-i-Nygardsgaten-sitter-to-bergensere-og-haper-de-har-laget-en-app-som-vil-forandre-musikkbransjen" frk="42 0 0 281 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-07-02 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">I et kontorfellesskap i Nygårdsgaten sitter to bergensere og håper de har laget en app som vil forandre musikkbransjen</div>
+<div type="ingress">Den bergensutviklede appen Voisey skal snart lanseres i USA. Med på laget har de en av tidligere Apple-sjef Steve Jobs’ betrodde medarbeidere.</div>
+<div type="author"></div>
+<div type="date">2019-07-02</div>
+<div type="caption"></div>
+</body></document>

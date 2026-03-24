@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20191103-store-skader-etter-b.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/zGzxwK/Store-skader-etter-brann-Skole-holder-stengt-mandag" frk="51 2 1 353 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-11-03 11:12"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Store skader etter brann: Skole holder stengt mandag</div>
+<div type="ingress">Store deler av Vigvoll skole på Hånes i Kristiansand ble totalskadet i brann natt til fredag. Skolen åpnes først tirsdag.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Vigvoll skole på Hånes holder stengt fram til tirsdag 5. november etter brannen på fredag. Skolens administrasjonsfløy ble totalskadet. FOTO: Anders Martinsen</p></div>
+</body></document>

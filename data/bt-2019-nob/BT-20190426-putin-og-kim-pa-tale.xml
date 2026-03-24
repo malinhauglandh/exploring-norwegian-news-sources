@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190426-putin-og-kim-pa-tale.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/4qO839/Putin-og-Kim-pa-talefot" frk="53 0 0 355 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-04-26 17:33"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Putin og Kim på talefot</div>
+<div type="ingress">Russlands president Vladimir Putin og Nord-Koreas leder Kim Jong-un var godt fornøyde etter sitt nærmere to timer lange møte i Vladivostok torsdag.</div>
+<div type="author"></div>
+<div type="date">2019-04-26</div>
+<div type="caption"><p>VLADIVOSTOK-VISITT: Kim kom i sitt panserede tog til Vladivostok, der Putin mottok ham til et to timers langt møte. FOTO: Alexander Zemlianichenko / TT NYHETSBYRÅN</p></div>
+</body></document>

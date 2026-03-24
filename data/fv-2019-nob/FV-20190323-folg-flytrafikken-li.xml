@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="FV-20190323-folg-flytrafikken-li.xml"/>
+<attribute name="url" value="http://www.fvn.no/nyheter/lokalt/i/3QWG0/Folg-flytrafikken-live" frk="61 9 4 439 %%"/>
+<attribute name="source" value="FV"/>
+<attribute name="date" value="2019-03-23 17:17"/>
+<attribute name="author" value="Sondre Zachariassen,Atle Brandt"/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="nyheter,lokalt"/>
+<attribute name="class2" value="nyheter,lokalt"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Følg flytrafikken live</div>
+<div type="ingress">Sjekk flytrafikken over Sørlandet.</div>
+<div type="author">Sondre Zachariassen,Atle Brandt</div>
+<div type="date">23.mar.2019 17:17</div>
+<div type="caption"></div>
+<div type="text">
+<p>Tjenesten er utviklet og levert av Flightradar24.com. Systemet er basert på ADS-B (Automatic dependent surveillance-broadcast). Omtrent 60% av alle passasjerfly er utstyrt med dette systemet.</p>
+<p>Du kan trykke på de forskjellige flyene for å se hastighet, høyde, kurs, flytype og annen informasjon.</p>
+<p>Flightradar har også en tjeneste der du kan finne historiske data.</p></div></body></document>

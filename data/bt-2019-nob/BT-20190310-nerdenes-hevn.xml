@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190310-nerdenes-hevn.xml"/>
+<attribute name="url" value="https://www.bt.no/kultur/i/KvOP4e/Nerdenes-hevn" frk="63 0 0 361 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-03-10 20:30"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="kultur"/>
+<attribute name="class2" value="Litteratur,Musikk,Miljø,Haugesund,Teateranmeldelse,Det Norske Teatret,Teater"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Nerdenes hevn</div>
+<div type="ingress">Dette er en forestilling man gjerne må være en korpsfar eller mor for å elske skikkelig høyt. Dem er til gjengjeld salen full av.</div>
+<div type="author"></div>
+<div type="date">2019-03-10</div>
+<div type="caption"><p>TREFFSIKKER: Har du et hjerte som allerede banker for frivillig arbeid og marsjering i takt, så har du altså en hel del å glede deg til i Korps, skriver BTs anmelder. FOTO: Fred Ivar Utsi Klemetsen</p></div>
+</body></document>

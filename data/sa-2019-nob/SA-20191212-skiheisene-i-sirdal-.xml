@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20191212-skiheisene-i-sirdal-.xml"/>
+<attribute name="url" value="http://www.aftenbladet.no/lokalt/i/0nJjB0/Skiheisene-i-Sirdal-apner-i-helga-Se_-sa-flotte-snoforhold-det-er" frk="41 0 0 291 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-12-12 16:07"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="lokalt"/>
+<attribute name="class2" value="sirdal,snø,tjørhom,yr,ålsheia"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Skiheisene i Sirdal åpner i helga. Se, så flotte snøforhold det er!</div>
+<div type="ingress">Denne helge åpner stolheisen i Tjørhomfjellet og det ene dobbelttrekket i Ålsheia. Fidjeland skitrekk og Ådneram skitrekk har også sesongåpning.</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Skisesongen åpner på Fidjeland denne helgen. Vegard Rusnes</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191215-premier-league-direk.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/RR29na/Premier-League-direkte-Uavgjort-for-Solskjars-United" frk="20 47 7 146 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-12-15 14:28"/>
+
+<attribute name="author" value="100% Sport"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Premier League direkte: Uavgjort for Solskjærs United</div>
+<div type="ingress">Følg Manchester United - Everton fra kl. 15.</div>
+<div type="author">100% Sport</div>
+<div type="date">Publisert 15. desember 2019 14:28</div>
+<div type="caption"><p>Foto: ANDREW YATES / X03469</p></div>
+</body></document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="DN-20190521-nytt-skip.xml"/>
+<attribute name="url" value="http://www.dn.no/underleder/nytt-skip/2-1-607622" frk="24 0 0 160 %%"/>
+<attribute name="source" value="DN"/>
+<attribute name="date" value="2019-05-21 17:53"/>
+<attribute name="author" value="Bård Bjerkholt"/>
+<attribute name="gender" value="M"/>
+<attribute name="class1" value="underleder"/>
+<attribute name="class2" value="Meninger,Underleder"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Nytt skip</div>
+<div type="ingress">Sjøforsvarets nye logistikkskip KNM «Maud» som ble døpt tirsdag i Bergen, skal være operativt fra og med neste sommer, melder NRK.</div>
+<div type="author">Bård Bjerkholt</div>
+<div type="date">2019-05-21 17:53</div>
+<div type="caption"></div>
+<div type="text">
+</div></body></document>

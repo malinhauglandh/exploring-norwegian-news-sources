@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="SA-20190407-parlez-vous-brexit.xml"/>
+<attribute name="url" value="https://www.aftenbladet.no/magasin/i/gqkPJ/-Parlez-vous-Brexit" frk="29 0 0 215 %%"/>
+<attribute name="source" value="SA"/>
+<attribute name="date" value="2019-04-07 11:44"/>
+<attribute name="author" value=""/>
+<attribute name="gender" value="U"/>
+<attribute name="class1" value="magasin"/>
+<attribute name="class2" value="eu,jean-claude juncker,brexit"/>
+<attribute name="language" value="nob"/>
+</header>
+<body>
+<div type="title" level="1">Parlez-vous Brexit?</div>
+<div type="ingress">Brexit betyr også at engelsk mister sin betydning i Europa, sier EU-kommisjonens president. C’est bon, n’est-ce pas?</div>
+<div type="author"></div>
+<div type="date"></div>
+<div type="caption"><p>Jean-Claude Juncker. Maurizio Gambarini / AP / NTB Scanpix</p></div>
+</body></document>

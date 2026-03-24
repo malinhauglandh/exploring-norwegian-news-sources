@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190607-se-malgangen-til-del.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/EWBABG/Se-malgangen-til-deltagerne-i-Bergen-Fjellmaraton-2019" frk="26 23 4 168 %%" ab="Ja"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-06-07 16:34"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value="Webview,Målkamera"/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Se målgangen til deltagerne i Bergen Fjellmaraton 2019</div>
+<div type="ingress">Her kan du se alle deltagerne slite seg i mål. Finn deltagere ved å benytte søkefeltet under.</div>
+<div type="author"></div>
+<div type="date">2019-06-07</div>
+<div type="caption"></div>
+</body></document>

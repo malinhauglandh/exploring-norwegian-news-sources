@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20191005-republikaner-om-trum.xml"/>
+<attribute name="url" value="https://www.bt.no/nyheter/utenriks/i/50k07e/Trump-sammenliknet-eventuell-avsettelse-med-borgerkrig" frk="27 0 0 221 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-10-05 20:31"/>
+
+<attribute name="author" value=""/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="nyheter,utenriks"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">Republikaner om Trump-tweet: «Langt forbi motbydelig»</div>
+<div type="ingress">President Donald Trumps deling av sitatet om borgerkrig har fått offentlig kritikk fra Adam Kinzinger, republikansk medlem av Representantenes hus.</div>
+<div type="author"></div>
+<div type="date">2019-10-05</div>
+<div type="caption"></div>
+</body></document>

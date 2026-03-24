@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "avis2.dtd" [<!ENTITY % HTMLsymbol SYSTEM "xhtml-symbol.ent"> %HTMLsymbol; ]>
+<document>
+<header>
+<attribute name="file" value="BT-20190820-bt-sporten-direkte.xml"/>
+<attribute name="url" value="https://www.bt.no/sport/i/EWLRml/BT-sporten-direkte" frk="39 3 1 252 %%" ab="Nei"/>
+<attribute name="source" value="BT"/>
+<attribute name="date" value="2019-08-20 10:24"/>
+
+<attribute name="author" value="BT-Sporten"/>
+<attribute name="gender" value="m"/>
+<attribute name="class1" value="sport"/>
+<attribute name="class2" value=""/>
+<attribute name="language" value="nbo"/>
+</header>
+<body>
+<div type="title" level="1">BT-sporten direkte</div>
+<div type="ingress">Bli oppdatert på det som skjer i hordalandsidretten.</div>
+<div type="author">BT-sporten</div>
+<div type="date">20. aug. 2019 10:24</div>
+<div type="caption"><p>SISTE SESONG? Dersom nye Øygarden FK blir en realitet fra og med neste sesong blir det slutt på Nest-Sotras grønne drakter i 1. divisjon. FOTO: Paul S. Amundsen</p></div>
+</body></document>
