@@ -1,0 +1,5 @@
+Number of documents in sample: 4587
+Number of documents classified as noise: 1712
+Percentage of documents classified as noise: 37.32%
+Number of topics (excluding noise): 19
+Average number of documents per topic (excluding noise): 151.32

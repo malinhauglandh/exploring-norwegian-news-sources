@@ -1,0 +1,13 @@
+{
+    "model_name": "NbAiLab/nb-sbert-base",
+    "nr_topics": 20,
+    "min_topic_size": 10,
+    "ngram_range": [
+        1,
+        1
+    ],
+    "min_df": "none",
+    "sample_size": 50000,
+    "representation_model": "none",
+    "vectorizer_model": "none"
+}

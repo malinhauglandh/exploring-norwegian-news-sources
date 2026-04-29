@@ -1,0 +1,3 @@
+Number of topics (excluding noise): 98
+Number of documents classified as noise: 2293
+Average number of documents per topic (excluding noise): 37.83
