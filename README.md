@@ -30,11 +30,3 @@ git lfs pull
    ```bash
    pip install -r requirements.txt
    ```
-
-## Project Structure
-
-```
-├── notebooks/        # Analysis notebooks
-├── analysis/         # Output data and model files
-└── requirements.txt
-```
