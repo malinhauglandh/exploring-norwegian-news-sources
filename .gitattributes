@@ -1,2 +1,3 @@
-*.parquet filter=lfs diff=lfs merge=lfs -text
-analysis/bertopic_models/**/*.html filter=lfs diff=lfs merge=lfs -text
+analysis/combined-2019.parquet filter=lfs diff=lfs merge=lfs -text
+analysis/topic_modeling_bert_sample.parquet filter=lfs diff=lfs merge=lfs -text
+analysis/bertopic_models/NbAiLab_nb-sbert-base/NbAiLab_nb-sbert-base_ngram1-3_n50000_min_df10_20260409_201329/document_visualization.html filter=lfs diff=lfs merge=lfs -text
