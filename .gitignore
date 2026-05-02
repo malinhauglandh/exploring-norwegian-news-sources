@@ -1,3 +1,3 @@
 .venv
-analysis/*.parquet
-analysis/bertopic_models/**/*.html
+data/
+processed/
