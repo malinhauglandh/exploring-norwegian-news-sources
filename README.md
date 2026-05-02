@@ -31,14 +31,6 @@ git lfs pull
    pip install -r requirements.txt
    ```
 
-2. **Open the notebooks**
-
-   ```bash
-   jupyter notebook
-   ```
-
-   All analysis notebooks are in the `notebooks/` folder.
-
 ## Project Structure
 
 ```
