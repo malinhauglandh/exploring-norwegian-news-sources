@@ -1,0 +1,2 @@
+*.parquet filter=lfs diff=lfs merge=lfs -text
+analysis/bertopic_models/**/*.html filter=lfs diff=lfs merge=lfs -text
