@@ -1,6 +1,6 @@
 # Exploring Norwegian News Sources
 
-A text data analysis project examining Norwegian news sources, using NLP techniques including topic modeling (BERTopic), embeddings, and more.
+A text data analysis project examining Norwegian news sources, using NLP techniques including topic modeling (BERTopic), sentiment classification and POS/Dependency tagging.
 
 ## ⚠️ Large Files (Git LFS)
 
@@ -14,7 +14,7 @@ git lfs install
 Then clone as normal:
 
 ```bash
-git clone git@github.com:malinhauglandh/exploring-norwegian-news-sources.git
+git clone https://github.com/malinhauglandh/exploring-norwegian-news-sources.git
 ```
 
 If you already cloned without LFS, run:
@@ -30,11 +30,3 @@ git lfs pull
    ```bash
    pip install -r requirements.txt
    ```
-
-## Project Structure
-
-```
-├── notebooks/        # Analysis notebooks
-├── analysis/         # Output data and model files
-└── requirements.txt
-```
